@@ -1,0 +1,18 @@
+﻿<music 13>
+<background "ev051a01.agf" 10>
+<name "Darx">
+"Every time we throw a festival, Paniverna
+ shows up."
+#
+<name "Company Maid" "!PC0535">
+"She's popular, so isn't it okay?"
+#
+<name "Darx">
+"I'm more wondering about her work."
+#
+<name "Company Maid" "!PC0536">
+"Hahaha..."
+#
+The festival was lively.
+#
+\x78\x78

@@ -1,0 +1,27 @@
+﻿<music 11>
+<background "bg013a0.agf" 10>
+<name "Knick Knack Merchant" "!MB0158">
+"They're holding a bazaar."
+#
+<name "Snack Merchant" "!CB0187">
+"Oh?
+ But there's nothing from my place I can put
+ out..."
+#
+<name "Knick Knack Merchant" "!MB0159">
+"I try not to sell anything useless either.
+ But that's fine."
+#
+<name "Knick Knack Merchant" "!MB0160">
+"They said we could open a stall anyway."
+#
+<name "Snack Merchant" "!CB0188">
+"Oh?
+ Then you've got an opening."
+#
+<name "Knick Knack Merchant" "!MB0161">
+"Yeah."
+#
+The bazaar was a success.
+#
+\x78\x78

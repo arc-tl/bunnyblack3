@@ -1,0 +1,60 @@
+﻿<music 11>
+<background "bg008a0.agf" 10>
+<sprite "ta34a004.agf" 4 4 11>
+<name "Company Maid" "!DC0493">
+"Thank you all for volunteering today."
+#
+<sprite "ta34a000.agf" 4 4 12>
+<name "Company Maid" "!DC0494">
+"Today's activity is cleaning up the city.
+ Picking up all the garbage."
+#
+<name "Company Maid" "!DC0495">
+"Please bring all the garbage you collect to
+ the designated area.
+ Thank you very much."
+#
+<name "Participating Citizen" "!ZD0168">
+"Got it."
+#
+<sprite "ta34a004.agf" 4 4 12>
+<name "Company Maid" "!DC0496">
+"Also, please remember that we have received
+ a party budget for afterward from the 
+ Overlord."
+#
+<name "Company Maid" "!DC0497">
+"Let us all be grateful to him."
+#
+<name "Goal-Driven Citizen" "!UA0185">
+"Thank you, Overlord."
+#
+<sprite "ta34a001.agf" 4 4 12>
+<name "Company Maid" "!DC0498">
+"The party will be at the Overlord's Retreat.
+ Okay, let's get to work!"
+#
+<name "Serious Citizen" "!ZE0250">
+"Yeah!"
+#
+<removesprite -1 11>
+...
+#
+<name "Darx">
+"Party budget?
+ I feel like I was robbed..."
+#
+<sprite "ta01a004.agf" 4 4 11>
+<name "Sofia" "!ZB0992">
+"Now, now."
+#
+<name "Darx">
+"I'm not sure we should be rewarding
+ volunteers either..."
+#
+<sprite "ta01a033.agf" 4 4 12>
+<name "Sofia" "!ZB0993">
+"Now, now."
+#
+<removesprite -1 11>
+\x2B\x78\x78

@@ -1,0 +1,41 @@
+﻿<music 3>
+<background "bg010a0.agf" 10>
+<name "Darx">
+"That reminds me, didn't your group have almost
+ no men?"
+#
+<name "Yahnu" "!NB0027" "ka24a000.agf">
+"The men were wiped out.
+ We have to borrow from other angolamay."
+#
+<name "Darx">
+"...I see.
+ Well, don't sweat it."
+#
+<name "Darx">
+"We'll keep bring in more citizens."
+#
+<name "Darx">
+"Sooner or later, there should be some
+ angolamay men too."
+#
+<name "Yahnu" "!NB0028" "ka24a001.agf">
+"Please and thank you."
+#
+<name "Darx">
+"But you're just for me.
+ No other man gets to have you."
+#
+<name "Yahnu" "!NB0029" "ka24a002.agf">
+"...Then please brand my body to show that I
+ am only yours."
+#
+Her eyes are on my dick.
+#
+<name "Darx">
+"Leave it to me."
+#
+<name "Yahnu" "!NB0030" "ka24a003.agf">
+"Yes."
+#
+\x78\x78

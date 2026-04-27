@@ -1,0 +1,81 @@
+﻿<music 3>
+<background "bg010a0.agf" 10>
+<name "Mirre" "!HC0101">
+"Um, Overlord."
+#
+<name "Darx">
+"Hm?"
+#
+<name "Mirre" "!HC0102">
+"H-How were my breasts?"
+#
+<name "Darx">
+"Your breasts?"
+#
+<background "ev083b00.agf" 10>
+<name "Darx">
+"Oh, they were okay."
+#
+<name "Mirre" "!HC0103">
+"Okay?"
+#
+She lifts her staff.
+#
+<name "Darx">
+"Excuse me.
+ They were good."
+#
+<name "Mirre" "!HC0104">
+"I know, right?"
+#
+<name "Darx">
+"Hahahaha..."
+#
+<name "Darx">
+"Oh, that's right.
+ It's a little late, but sorry about what
+ happened back then."
+#
+<name "Mirre" "!HC0105">
+"S-Seriously."
+#
+<name "Mirre" "!HC0106">
+"I was so embarrassed, and because I was 
+ totally naked, I couldn't call for help.
+ I was practically in tears the whole time
+ that was happening."
+#
+<name "Darx">
+"Sorry."
+#
+<name "Mirre" "!HC0107">
+"Speaking of which, what did you do to me
+ back then?"
+#
+<name "Darx">
+"Oh, I used something called darn dopper."
+#
+<name "Mirre" "!HC0108">
+"As a wizard, I'd love to know more about it."
+#
+<name "Darx">
+"Unfortunately, its production was delayed."
+#
+<name "Mirre" "!HC0109">
+"Even if you just have the data, I could make
+ it."
+#
+<name "Darx">
+"You can reproduce it?"
+#
+<name "Mirre" "!HC0110">
+"I'll show you how it's done."
+#
+<name "Darx">
+"You're a good minion."
+#
+Darn dopper is a man's dream.
+#
+But recreating it was a long and arduous road.
+#
+\x78\x78

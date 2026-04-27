@@ -1,0 +1,40 @@
+﻿<music 17>
+<background "ev052a00.agf" 10>
+<name "Ultinia" "!EA0035">
+"Actually, I heard something."
+#
+<name "Darx">
+"Hm?"
+#
+<name "Ultinia" "!EA0036">
+"That Miartei is one of us now."
+#
+<name "Darx">
+"Yeah."
+#
+<name "Ultinia" "!EA0037">
+"That's incredible."
+#
+<name "Darx">
+"It is?"
+#
+<name "Ultinia" "!EA0038">
+"Yes.
+ Her hatred for the Netherworld was known far
+ and wide."
+#
+<name "Darx">
+"Where there's a will, there's a way."
+#
+<name "Ultinia" "!EA0039">
+"Then can you show that will to me next?"
+#
+<name "Izana" "!AA0024">
+"Me too, please."
+#
+<name "Darx">
+"...I'll do my best."
+#
+I enjoy my time in bed with the three of them.
+#
+\x78\x78

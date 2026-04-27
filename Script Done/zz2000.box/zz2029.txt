@@ -1,0 +1,55 @@
+﻿<music 4>
+<background "bg009a0.agf" 10>
+<name "Eating Citizen" "!SB0258">
+"Notification of an art exhibition..."
+#
+<name "Drinking Citizen" "!ZE0251">
+"Participation is free.
+ Models are free, art supplies are free...
+ So you can just do anything?"
+#
+<name "Interested Citizen" "!MB0165">
+"Are there some kind of prizes?"
+#
+<name "Drinking Citizen" "!ZE0252">
+"If you win a top prize, you get a gift
+ certificate for the Overlord's Retreat...
+ Ooh, that's a lot of money."
+#
+<name "Eating Citizen" "!SB0259">
+"Is there just one of prize?"
+#
+<name "Drinking Citizen" "!ZE0253">
+"No, it looks like there'll be several."
+#
+<name "Interested Citizen" "!MB0166">
+"I'll have to get serious then."
+#
+<name "Eating Citizen" "!SB0260">
+"Me too."
+#
+<name "Drinking Citizen" "!ZE0254">
+"Then I guess I'll do it too."
+#
+<music 3>
+<background "bg010a0.agf" 10>
+<name "Darx">
+"It seems fun, but are you sure about this?
+ Those prizes are a lot of money."
+#
+<sprite "ta01a027.agf" 4 4 11>
+<name "Sofia" "!ZB0994">
+"Heheheh...
+ The value of art is at the whim and caprice
+ of the judge."
+#
+<name "Darx">
+"I-I don't care how you narrow it down, but
+ do it right."
+#
+<sprite "ta01a034.agf" 4 4 12>
+<name "Sofia" "!ZB0995">
+"Yes, siiir."
+#
+<removesprite -1 11>
+\x2B\x78\x78

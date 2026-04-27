@@ -1,0 +1,33 @@
+﻿<music 62>
+<background "bg021a0.agf" 10>
+<name "Neymal" "!UA0023" "ka39a000.agf">
+"You got me!"
+#
+<name "Neymal" "!UA0024" "ka39a000.agf">
+"Ooh! 
+ What strength!"
+#
+<name "Neymal" "!UA0025" "ka39a000.agf">
+"It was foolish to oppose you!"
+#
+<name "Neymal" "!UA0026" "ka39a000.agf">
+"I surrender.
+ Just spare my life."
+#
+<name "Darx">
+"...You really don't half-ass anything, do
+ you?"
+#
+<name "Neymal" "!UA0027" "ka39a000.agf">
+"I'm giving it my all.
+ Should I talk to the maids over there about
+ moving to the city?"
+#
+<name "Darx">
+"Yeah."
+#
+<name "Neymal" "!UA0028" "ka39a000.agf">
+"Okay, I owe you one.
+ Thanks."
+#
+\x78\x78

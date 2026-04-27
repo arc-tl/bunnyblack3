@@ -1,0 +1,37 @@
+﻿<music 4>
+<background "bg009a0.agf" 10>
+<sprite "ta34c005.agf" 4 4 11>
+<name "Spirited Maid" "!AC0302">
+"The pests are back!"
+#
+<name "Spirited Maid" "!AC0303">
+"If we allow this, the world  we know will
+ come to an end!"
+#
+<name "Spirited Maid" "!AC0304">
+"We are already at war!"
+#
+<name "Spirited Maid" "!AC0305">
+"Take up your arms!
+ And fight!"
+#
+<removesprite -1 11>
+<name "Participating Citizen" "!UA0186">
+"Yeeeaaaah!"
+#
+...
+#
+<name "Darx">
+"D-Don't go overboard."
+#
+<sprite "ta34b006.agf" 4 4 11>
+<name "Upset Maid" "!PC0542">
+"Overlord, that kind of comment is dangerous!
+ You will be seen as a dark pest apologist!"
+#
+<name "Darx">
+"I-I just misspoke.
+ I'll be more careful."
+#
+<removesprite -1 11>
+\x2B\x78\x78

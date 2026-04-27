@@ -1,0 +1,46 @@
+﻿<music 14>
+<background "ev028a01.agf" 10>
+<name "Kyuriha" "!FA0366">
+"Having tea with you like this..."
+#
+<name "Kyuriha" "!FA0367">
+"It brings back memories of before being with
+ you."
+#
+<name "Darx">
+"Before...
+ I had thought that for an angel, you were
+ one I could actually talk to."
+#
+<name "Kyuriha" "!FA0368">
+"Thank you very much."
+#
+<name "Kyuriha" "!FA0369">
+"However...
+ Facing you like this aftering having laid
+ together, I'm reminded once again that it was
+ all superficial."
+#
+<name "Darx">
+"Oh?"
+#
+<name "Kyuriha" "!FA0370">
+"Yes.
+ ...I had not truly opened my heart at all.
+ The thought makes me blush."
+#
+<name "Darx">
+"Is there anything I can do for you to help?"
+#
+<name "Kyuriha" "!FA0371">
+"Here?
+ T-There are people watching."
+#
+<name "Darx">
+"Then later.
+ For now, let's enjoy our tea."
+#
+<name "Kyuriha" "!FA0372">
+"Yes."
+#
+\x78\x78

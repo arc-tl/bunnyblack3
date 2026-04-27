@@ -1,0 +1,96 @@
+﻿<music 11>
+<background "bg008a0.agf" 10>
+<sprite "ta10a001.agf" 4 4 11>
+<name "Forzelotte" "!XA0124">
+"A word, Ekate."
+#
+<removesprite -1 11>
+<sprite "ta13a000.agf" 2 4 11>
+<sprite "ta10a001.agf" 6 5 11>
+<name "Ekate" "!TA0016">
+"What is it?"
+#
+<sprite "ta10a010.agf" 6 5 12>
+<name "Forzelotte" "!XA0125">
+"I hear you have been telling humans that you
+ are the wife of the Overlord."
+#
+<name "Ekate" "!TA0017">
+"Huh? Oh, um..."
+#
+<sprite "ta10a009.agf" 6 5 12>
+<name "Forzelotte" "!XA0126">
+"Isn't lying against the rules?
+ That is a lie."
+#
+<name "Ekate" "!TA0018">
+"Y-You're right."
+#
+<sprite "ta10a008.agf" 6 5 12>
+<name "Forzelotte" "!XA0127">
+"I am magnanimous, but my patience does have
+ its limits.
+ Do not test it."
+#
+<name "Ekate" "!TA0019">
+"Yes, ma'am."
+#
+<removesprite -1 11>
+<music 3>
+<background "bg010a0.agf" 10>
+<name "Darx">
+"You've got quite the presence."
+#
+<sprite "ta10a001.agf" 4 4 11>
+<name "Forzelotte" "!XA0128">
+"Hm?"
+#
+<name "Darx">
+"You've got Ekate cowed."
+#
+<sprite "ta10a005.agf" 4 4 12>
+<name "Forzelotte" "!XA0129">
+"Ah...
+ That's because she's served me since she was
+ a little girl."
+#
+<name "Darx">
+"Really?"
+#
+<sprite "ta10a006.agf" 4 4 12>
+<name "Forzelotte" "!XA0130">
+"Mmhmm.
+ She was a delicate girl who struggled to
+ achieve the strength she has now.
+ I do admit that."
+#
+<sprite "ta10a012.agf" 4 4 12>
+<name "Forzelotte" "!XA0131">
+"But the childish side of her still remains."
+#
+<sprite "ta10a020.agf" 4 4 12>
+<name "Forzelotte" "!XA0132">
+"Even moreso since she met you."
+#
+<name "Darx">
+"Hahaha..."
+#
+<sprite "ta10a005.agf" 4 4 12>
+<name "Forzelotte" "!XA0133">
+"Well, I want her to help you when I am unable
+ to."
+#
+<name "Darx">
+"Your former subordinates have helped me a lot
+ over the years."
+#
+<sprite "ta10a024.agf" 4 4 12>
+<name "Forzelotte" "!XA0134">
+"Yes. Well, they did the work that I could not.
+ Take good care of them."
+#
+<name "Darx">
+"Yeah, I know."
+#
+<removesprite -1 11>
+\x2B\x78\x78

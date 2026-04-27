@@ -1,0 +1,40 @@
+//entry 0 -----------------------
+Arboreal Garden
+The Overlord's Forest.|An uncontrolled area.
+Demons are resisting here.
+//entry 1 -----------------------
+Volcano Caverns
+The Overlord's Forest.|An uncontrolled area.
+Demons are resisting here.
+//entry 2 -----------------------
+Shrine of Death
+Edge of the Overlord's Forest.|An uncontrolled area.
+There's significant resistance here.
+//entry 3 -----------------------
+Royal Web
+Edge of the Overlord's Forest.|An uncontrolled area.
+There's significant resistance here.
+//entry 4 -----------------------
+Thunder Nimbus
+A fallen Celestial Castle.|Angels are fighting demons here.
+Full of angels.
+//entry 5 -----------------------
+Lucent Crown Wall
+A fallen Celestial Castle.|Angels are fighting demons here.
+Full of angels.
+//entry 6 -----------------------
+Stoneleaf Vein
+Edge of the Overlord's Forest.|An uncontrolled area.
+There's significant resistance here.
+//entry 7 -----------------------
+Frostgrip Dome
+Edge of the Overlord's Forest.|An uncontrolled area.
+There's significant resistance here.
+//entry 8 -----------------------
+Lucent Crown Tentacles
+The Lucent Crown has changed from the mass of mana now here.
+Be very careful.
+//entry 9 -----------------------
+Skyfall Prison
+A place full of angels who reject Celestian law.|Countless angelic monstrosities exist here.
+Do not be careless.

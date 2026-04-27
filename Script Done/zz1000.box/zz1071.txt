@@ -1,0 +1,89 @@
+﻿<music 16>
+<background "ev049a00.agf" 10>
+<name "Ekate" "!TA0065">
+"Heheheh.
+ You've done well to make it this far."
+#
+<name "Veteran Adventurer" "!ZG0035">
+"Oh?
+ So it seems to be true that you've moved
+ here."
+#
+<name "Veteran Adventurer" "!ZG0036">
+"Today I will have your head!"
+#
+<name "Ekate" "!TA0066">
+"Let's see how long that spirit lasts."
+#
+<name "Office Demon" "!QB0163">
+"Um, Miss Ekate.
+ Excuse me, could you please sign this
+ document?"
+#
+<name "Ekate" "!TA0067">
+"...I'm busy right now.
+ Can't you see that?"
+#
+<name "Office Demon" "!QB0164">
+"I know, but this is very important too.
+ Please."
+#
+<name "Ekate" "!TA0068">
+"G-Geez..."
+#
+<music 43>
+<name "Ekate" "!TA0069">
+"Oh, sorry.
+ Wait a second.
+ Um... here, right?"
+#
+<name "Office Demon" "!QB0165">
+"And these documents too."
+#
+<name "Ekate" "!TA0070">
+"T-There's so many."
+#
+<name "Office Demon" "!QB0166">
+"Please."
+#
+<name "Ekate" "!TA0071">
+"All right already.
+ Just cause you're getting in the way.
+ I'll do what I have to."
+#
+<name "Office Demon" "!QB0167">
+"T-Then, once every three days, if you could
+ do your work back there..."
+#
+<name "Ekate" "!TA0072">
+"That's not happening."
+#
+<name "Veteran Adventurer" "!ZG0037">
+"Uh...
+ Um, you seem busy, so maybe another time..."
+#
+<name "Ekate" "!TA0073">
+"Huh? Ooh, wait.
+ Just five minutes.
+ I'll be done in five minutes."
+#
+<name "Veteran Adventurer" "!ZG0038">
+"No, I'm leaving.
+ It's not the atmosphere for a fight to the
+ death anymore.
+ I'll come back another time."
+#
+<name "Ekate" "!TA0074">
+"I-I'm sorry.
+ I'm really sorry."
+#
+<name "Office Demon" "!QB0168">
+"Sorry, but I was in trouble too.
+ It's really not good to wait until the very,
+ very last minute."
+#
+<name "Ekate" "!TA0075">
+"I-I know, I said.
+ I'll finish right away, so stop crying."
+#
+\x78\x78

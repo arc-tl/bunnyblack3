@@ -1,0 +1,82 @@
+﻿<music 18>
+<background "ev086a00.agf" 10>
+<name "Sofia" "!ZB0495">
+"Overlord."
+#
+<name "Darx">
+"Hm?"
+#
+<name "Sofia" "!ZB0496">
+"You said you saw me as a daughter until we
+ made love..."
+#
+<name "Darx">
+"Yeah."
+#
+<name "Sofia" "!ZB0497">
+"Is that because I wasn't adult enough?"
+#
+<name "Darx">
+"Not at all."
+#
+<name "Darx">
+"It was my own line of defense."
+#
+<name "Sofia" "!ZB0498">
+"Huh?"
+#
+<name "Darx">
+"If I messed with you, this would probably
+ happen, right?"
+#
+<name "Sofia" "!ZB0499">
+"Yeah."
+#
+<name "Darx">
+"So I thought it'd get in the way of work."
+#
+<name "Sofia" "!ZB0501">
+"...It has made me fall behind in work."
+#
+<name "Darx">
+"See?"
+#
+<name "Sofia" "!ZB0502">
+"But keeping away from me because of that...
+ Do you know how much that upset me?"
+#
+<name "Darx">
+"It upset you?"
+#
+<name "Sofia" "!ZB0503">
+"You never hit on me.
+ I worried I was unattractive as a woman."
+#
+<name "Darx">
+"You're plenty attractive."
+#
+<name "Sofia" "!ZB0504">
+"Well, even that little Forzelotte is good
+ enough for you."
+#
+<name "Darx">
+"Hahaha.
+ Don't bring up other women when you're having
+ sex."
+#
+<name "Sofia" "!ZB0505">
+"Mm... S-Sorry...
+ I shouldn't have said it, okay.
+ Please stop tugging on my butt."
+#
+<name "Darx">
+"Then move faster.
+ Or do you want me to?"
+#
+<name "Sofia" "!ZB0506">
+"I'll do it.
+ Leave it to me."
+#
+We're getting along well.
+#
+\x78\x78

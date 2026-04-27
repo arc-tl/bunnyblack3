@@ -1,0 +1,71 @@
+﻿<music 17>
+<background "ev052a01.agf" 10>
+<name "Ultinia" "!EA0040">
+"Overlord."
+#
+<name "Darx">
+"Hm?"
+#
+<name "Ultinia" "!EA0041">
+"Lately, it's been peaceful around Castle
+ Baldaquin.
+ There's been fewer battles as well."
+#
+<name "Darx">
+"Isn't that a good thing?"
+#
+<name "Ultinia" "!EA0042">
+"Yes, but it's also unsettling..."
+#
+<name "Darx">
+"It's a bad saying, but they do say there's a
+ calm before a storm.
+ Stay on guard.
+ Paniverna."
+#
+<name "Paniverna" "!DA0059">
+"Aah...
+ Y-Yes?"
+#
+<name "Darx">
+"Until Ekate's back, keep especially careful
+ watch on the Hall of Doors."
+#
+<name "Paniverna" "!DA0060">
+"Understood."
+#
+<name "Darx">
+"Izana, focus on keeping the students safe.
+ Don't let them go too far afield.
+ I'll tell Forzelotte too."
+#
+<name "Izana" "!AA0025">
+"Okay."
+#
+<name "Darx">
+"Ultinia, make sure you stay on guard."
+#
+<name "Ultinia" "!EA0043">
+"I understand."
+#
+<name "Darx">
+"Okay, dismissed."
+#
+<name "Ultinia" "!EA0044">
+"Eeh?"
+#
+<name "Izana" "!AA0026">
+"Eeeeh?"
+#
+<name "Paniverna" "!DA0061">
+"I-I could stand one more time."
+#
+<name "Darx">
+"...If you insist.
+ I'll do it, but don't forget the orders I
+ gave you."
+#
+<background "ev052a03.agf" 10>
+I did my best.
+#
+\x78\x78

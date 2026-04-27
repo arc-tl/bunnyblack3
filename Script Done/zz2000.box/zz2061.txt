@@ -1,0 +1,28 @@
+﻿<music 3>
+<background "bg010a0.agf" 10>
+<name "Darx">
+"Hibi?
+ I hear you have quite the reputation."
+#
+<name "Hibi" "!DB0034" "ka23a011.agf">
+"Huh?"
+#
+<name "Darx">
+"You're good at cooling, so a lot of people
+ are singing your praises for keeping food
+ fresh."
+#
+<name "Hibi" "!DB0035" "ka23a003.agf">
+"...We just like cold food."
+#
+<name "Darx">
+"You're blushing."
+#
+<name "Hibi" "!DB0036" "ka23a104.agf">
+"I-I am not.
+ ...But tell me if something needs cooling."
+#
+<name "Darx">
+"Yeah, I'm counting on you."
+#
+\x78\x78

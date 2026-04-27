@@ -1,0 +1,58 @@
+﻿<music 11>
+<background "bg013a0.agf" 10>
+<name "Motherly Citizen" "!GB0265">
+"Come on, I'm always having to tell you to
+ clean up your room."
+#
+<name "Childish Citizen" "!BC0176">
+"Shut up.
+ I'll do it later."
+#
+<name "Motherly Citizen" "!GB0266">
+"When's later?
+ Don't tell me you won't do it except during
+ cleaning festivals."
+#
+<name "Childish Citizen" "!BC0177">
+"Yeah, that's right.
+ I'll clean it up when it's cleaning festival
+ time."
+#
+<name "Motherly Citizen" "!GB0267">
+"...So you'll do it if it's a cleaning
+ festival?"
+#
+<name "Childish Citizen" "!BC0178">
+"Yeah. I'll do it.
+ Good enough then?"
+#
+<name "Motherly Citizen" "!GB0268">
+"If you don't, that'd be bad, right?"
+#
+<name "Childish Citizen" "!BC0179">
+"I said I'd do it already.
+ ...Hm?
+ Why do you have all those cleaning supplies?"
+#
+<name "Motherly Citizen" "!GB0270">
+"Because today is a cleaning festival."
+#
+<name "Childish Citizen" "!BC0180">
+"Y-You set me up!"
+#
+<name "Motherly Citizen" "!GB0271">
+"If the Overlord saw this, you know you'd be
+ in trouble."
+#
+<name "Childish Citizen" "!BC0181">
+"U-Urgh...
+ Fine, whatever."
+#
+The city was cleaned up, and the citizens
+were motivated.
+#
+<name "Motherly Citizen" "!GB0272">
+"Every week, if we can!
+ Please, every single week!"
+#
+\x78\x78

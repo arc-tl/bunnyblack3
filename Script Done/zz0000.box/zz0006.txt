@@ -1,0 +1,193 @@
+﻿<music 40>
+<background "bg004a0.agf" 10>
+<name "Talking Citizen" "!UA0195">
+"Okay, complaining time."
+#
+<name "Listening Citizen" "!ZE0273">
+"That's out of nowhere."
+#
+<name "Talking Citizen" "!UA0196">
+"Well, just listen."
+#
+<name "Listening Citizen" "!ZE0274">
+"What?"
+#
+<name "Talking Citizen" "!UA0197">
+"Let's sleep together.
+ What would you think about a big or little 
+ sister who said that to you?"
+#
+<name "Listening Citizen" "!ZE0275">
+"Hahahahaha.
+ Complete fantasy."
+#
+<name "Talking Citizen" "!UA0198">
+"That's what I'd expect of someone who actually
+ has a sister."
+#
+<name "Listening Citizen" "!ZE0276">
+"To sisters, brothers are just errand boys."
+#
+<name "Talking Citizen" "!UA0199">
+"That's depressing."
+#
+<name "Listening Citizen" "!ZE0277">
+"So, where'd this come from?
+ Just want to tease me over my trauma?"
+#
+<name "Talking Citizen" "!UA0200">
+"No, no, that's not it.
+ Actually, there's a harem novel with lines
+ just like that."
+#
+<name "Listening Citizen" "!ZE0278">
+"Oh, like being seduced by a sister?"
+#
+<name "Talking Citizen" "!UA0201">
+"That's right.
+ I read it, and it made me angry."
+#
+<name "Listening Citizen" "!ZE0281">
+"Angry? It's just a book.
+ Reality is real life.
+ Shouldn't we keep them separated?"
+#
+<name "Listening Citizen" "!ZE0282">
+"I wouldn't mind having a nice older or younger
+ sister."
+#
+<name "Talking Citizen" "!UA0202">
+"That's true.
+ That's not what I'm mad about."
+#
+<name "Listening Citizen" "!ZE0283">
+"Uh...
+ Then what got you mad?"
+#
+<name "Talking Citizen" "!UA0203">
+"That they'd go after him so much, and the
+ protagonist wouldn't touch them!"
+#
+<name "Listening Citizen" "!ZE0284">
+".........I see.
+ I understand that."
+#
+<name "Listening Citizen" "!ZE0285">
+"So that's what you're trying to say."
+#
+<name "Listening Citizen" "!ZE0286">
+"That kind of gentle sister doesn't exist...
+ Basically, you're mad at the protagonist who
+ had an angel throwing herself at him, but 
+ didn't notice or care."
+#
+<name "Talking Citizen" "!UA0204">
+"Yes!
+ If it were me, I would've been on them in two
+ seconds!"
+#
+<name "Listening Citizen" "!ZE0287">
+"I-It's good to make quick decisions, but think
+ about it.
+ No matter how nice they are, that'd be your
+ sister."
+#
+<name "Listening Citizen" "!ZE0288">
+"Your family."
+#
+<name "Talking Citizen" "!UA0205">
+"Don't worry.
+ After you've gone all the way with her, you'll
+ find out she was a stepsister."
+#
+<name "Listening Citizen" "!ZE0289">
+"This is getting dangerous...
+ Okay, I'll go see your sister later.
+ Oh, the real one of course."
+#
+<name "Talking Citizen" "!UA0206">
+"Stop that!
+ Please no!"
+#
+<name "Listening Citizen" "!ZE0290">
+"Okay, snapped out of it now?"
+#
+<name "Talking Citizen" "!UA0207">
+"I-I'm back.
+ I'm okay now."
+#
+<name "Listening Citizen" "!ZE0291">
+"There, there.
+ Have a drink and calm down."
+#
+<name "Talking Citizen" "!UA0208">
+"Y-Yeah."
+#
+<name "Talking Citizen" "!UA0209">
+"Whew... Sorry."
+#
+<name "Listening Citizen" "!ZE0292">
+"Don't run away to novels just because reality
+ is painful."
+#
+<name "Talking Citizen" "!UA0210">
+"Yeah, I know that."
+#
+<name "Listening Citizen" "!ZE0293">
+"By the way..."
+#
+<name "Talking Citizen" "!UA0211">
+"What?"
+#
+<name "Listening Citizen" "!ZE0294">
+"Aren't you getting married?"
+ I've heard rumors."
+#
+<name "Talking Citizen" "!UA0212">
+"Yeah.
+ Luckily."
+#
+<name "Listening Citizen" "!ZE0295">
+"So that got me thinking."
+#
+<name "Talking Citizen" "!UA0213">
+"About what?"
+#
+<name "Listening Citizen" "!ZE0296">
+"Your spouse.
+ To you, she's just a woman, but to their
+ siblings, that's their sister."
+#
+<name "Talking Citizen" "!UA0214">
+"........."
+#
+<name "Listening Citizen" "!ZE0297">
+"She's their sister, right?"
+#
+<name "Talking Citizen" "!UA0215">
+"Are you trying to sabotage my wedding?
+ I bet you are!
+ That must be it!"
+#
+<name "Listening Citizen" "!ZE0298">
+"Hahahaha.
+ Of course not.
+ Invite me, and I'll be there to celebrate it."
+#
+<name "Listening Citizen" "!ZE0299">
+"A long and happy life for you with someone
+ else's sister."
+#
+<name "Talking Citizen" "!UA0216">
+"Y-You bastard!"
+#
+Such was a scene at the bar.
+#
+<name "Tojo" "!KA0104" "ka33a000.agf">
+"Um, I think there really are genuinely nice
+ sisters in real life."
+#
+<name "Golan" "!CA0065" "ka32a000.agf">
+"I-I'm in the group that can't believe that."
+#
+\x78\x78

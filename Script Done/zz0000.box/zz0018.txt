@@ -1,0 +1,155 @@
+﻿<music 3>
+<background "bg010a0.agf" 10>
+<name "Darx">
+"A haunted house?"
+#
+<name "Host" "!ZD0193">
+"Yes."
+#
+<name "Darx">
+"I'm going to ask again.
+ A haunted house?"
+#
+<name "Host" "!ZD0194">
+"Yes."
+#
+<name "Darx">
+"...You built a haunted house, and are telling
+ people to come see it."
+#
+<name "Host" "!ZD0195">
+"Yes.
+ Is that bad?"
+#
+<name "Darx">
+"No, I'm pretty interesting.
+ Let's see it."
+#
+<music 11>
+<background "bg013b0.agf" 10>
+<name "Greeter" "!BC0228">
+"Welcome!"
+#
+<name "Darx">
+"It's supposed to be a haunted house, but it's
+ so bright."
+#
+<name "Greeter" "!BC0229">
+"Go on, please enjoy yourself."
+#
+<name "Darx">
+"Scary, huh?"
+#
+<name "Greeter" "!BC0230">
+"It'll make you pale."
+#
+<name "Darx">
+"Okay, let's go."
+#
+<name "Greeter" "!BC0231">
+"Ah, Overlord.
+ Pardon me.
+ Please go in by yourself."
+#
+<name "Darx">
+"...I can't take my subordinates with me?"
+#
+<name "Greeter" "!BC0232">
+"No."
+#
+<background "bg016a0.agf" 10>
+It took me a little bit to get ready, but I
+managed to enter the haunted house, and come 
+out the other end.
+#
+<background "bg013b0.agf" 10>
+<name "Darx">
+"..."
+#
+<name "Greeter" "!BC0233">
+"How was it?"
+#
+<name "Darx">
+"So that's a haunted house?"
+#
+<name "Greeter" "!BC0234">
+"Yes, a lot of people faint.
+ But you remain unfazed!
+ Just as we'd expect of our Overlord!"
+#
+<name "Darx">
+"Hahaha!"
+#
+Most of the ghosts were human adventurers who
+had attacked me, then a dragon in the middle,
+and at the end, a mannequin of me.
+#
+<name "Darx">
+"I was scared though."
+#
+Though more than scared, I was ready to fight.
+#
+That me at the end was quite prettied up
+though, if I do say so myself.
+#
+It did work at sending chills down my spine,
+but is anybody really scared of that?
+#
+<name "Crying Guard" "!QB0213">
+"Aieee..."
+#
+<name "Scared Guard" "!WB0225">
+"So scary..."
+#
+I really want to believe it wasn't the doll of
+me that scared them.
+#
+And then there's another loud scream.
+#
+Sounded like the middle...
+Around the dragon?
+#
+<sprite "ta06a015.agf" 4 4 11>
+<name "Suisen" "!YA0327">
+"Are you okay, Kyuriha?
+ Still alive?
+ It's just a fake!
+ A fake!"
+#
+<removesprite -1 11>
+<sprite "ta03a016.agf" 4 4 11>
+<name "Miartei" "!SA0285">
+"It was a surprise. She can't help it.
+ I was surprised too."
+#
+<removesprite -1 11>
+...
+#
+<sprite "ta11a001.agf" 4 4 11>
+<name "Kozelotte" "!NA0179">
+"Please call whoever made that doll at the
+ end.
+ Yes, I want to talk to them personally."
+#
+<sprite "ta11a007.agf" 4 4 12>
+<name "Kozelotte" "!NA0180">
+"Huh?
+ There's already a backlog of orders?
+ Grrr... I'm too late."
+#
+<removesprite -1 11>
+...
+#
+<name "Spooked Citizen" "!CB0197">
+"Adventurers are scary."
+#
+<name "Scared Citizen" "!KB0311">
+"Yeah, after that sudden surprise attack right
+ when I went in, I thought I'd piss myself."
+#
+<name "Darx">
+"..."
+#
+W-Well, as long as they enjoy themselves.
+#
+\x78\x78

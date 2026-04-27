@@ -1,0 +1,65 @@
+﻿<music 11>
+<background "bg008a0.agf" 10>
+<sprite "ta34b004.agf" 4 4 11>
+<name "Host Maid" "!DC0504">
+"It's time for the second quiz tournament!"
+#
+<sprite "ta34b000.agf" 4 4 12>
+<name "Host Maid" "!DC0505">
+"This time, there will be several qualifying
+ rounds before the main competition.
+ Good luck, everyone."
+#
+<removesprite -1 11>
+<name "Former Participant" "!ZE0264">
+"Ooh! I've been studying!"
+#
+<name "Nervous Citizen" "!JA0169">
+"The last one took five days to finish."
+#
+<name "Former Participant" "!ZE0265">
+"In the end, it felt like the host and the
+ contestants were all working together to
+ end it."
+#
+<name "Unaware Citizen" "!LB0187">
+"What do you mean?"
+#
+<name "Former Participant" "!ZE0266">
+"The host kept giving only questions where
+ the answer was true, and the contestants
+ sent someone one by one to the false side."
+#
+<name "Former Participant" "!ZE0267">
+"And then, the host gave a question where the
+ answer was false, and that settled it.
+ The sense of unity when it was over was
+ incredible."
+#
+<name "Unaware Citizen" "!LB0188">
+"O-Oh."
+#
+<name "Former Participant" "!ZE0268">
+"Anyway, time for the qualifying round.
+ Good luck!"
+#
+<name "Unaware Citizen" "!LB0189">
+"Y-Yeah."
+#
+<background "bg015a0.agf" 10>
+It was short, and popular.
+#
+<music 4>
+<background "bg009a0.agf" 10>
+<sprite "ta34b000.agf" 4 4 11>
+<name "Host Maid" "!DC0506">
+"W-We managed to finish in a single day."
+#
+<removesprite -1 11>
+<sprite "ta34a000.agf" 2 4 11>
+<sprite "ta34b000.agf" 6 5 11>
+<name "Company Maid" "!PC0541">
+"Good work."
+#
+<removesprite -1 11>
+\x2B\x78\x78

@@ -1,0 +1,92 @@
+﻿<music 53>
+<background "ev081d01.agf" 10>
+"So, you knew it'd end up like this and you
+ came back anyway?
+ You can't possibly have thought you were
+ going to beat me."
+#
+<name "Berserker Adventurer" "!LB0133">
+"Hmph."
+#
+<name "Darx">
+"..."
+#
+<name "Berserker Adventurer" "!LB0134">
+"W-What?"
+#
+<name "Darx">
+"What's your name?"
+#
+<name "Berserker Adventurer" "!LB0135">
+"Frei."
+#
+<name "Darx">
+"Join me."
+#
+<name "Frei" "!LB0136">
+"Huh?"
+#
+<name "Darx">
+"Oh, I'll just keep fucking you until you say
+ okay, so just say if that's what you want."
+#
+<name "Frei" "!LB0137">
+"Huh? Ah, huh? H-Hold on...
+ Ah! Aaah!"
+#
+After coming in her six more times, Frei
+joined me.
+#
+\xBC 0  "味方戦士"  -1 \x00\x00\x8A 1  0  0  0  "Frei has joined." 
+<music 11>
+<background "bg008a0.agf" 10>
+<sprite "ta34c001.agf" 4 4 11>
+<name "Company Maid" "!AC0236">
+"Are you sure about this?"
+#
+<name "Darx">
+"Yeah, I'm fine with it, and she'll get used
+ to things here."
+#
+<name "Darx">
+"Well, I'm sure she'll be a handful for you
+ guys to start out."
+#
+<name "Company Maid" "!AC0237">
+"It's nothing."
+#
+<name "Darx">
+"...You demons do the same things over and
+ over. You're very good at mastering a known
+ thing."
+#
+<name "Darx">
+"But you're bad at creating something out of
+ nothing."
+#
+<name "Company Maid" "!AC0238">
+"You think humans will help develop the city?"
+#
+<name "Darx">
+"It's best to have people with different ways
+ of thinking."
+#
+<name "Darx">
+"Well, that's my inexperienced assumption.
+ Convincing enough?"
+#
+<sprite "ta34c000.agf" 4 4 12>
+<name "Company Maid" "!AC0239">
+"Yes.
+ Thank you for your concern."
+#
+<name "Darx">
+"I know humans have their bad side too.
+ Don't worry, there won't be too many of
+ them."
+#
+<name "Company Maid" "!AC0240">
+"Okay."
+#
+<removesprite -1 11>
+\x2B\x78\x78

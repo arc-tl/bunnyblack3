@@ -1,0 +1,530 @@
+//entry 0 -----------------------
+なし
+なし
+*
+No notable ability.
+//entry 1 -----------------------
+Overlord
+Overlord
+Overlord
+Able to form a party depending on |rank.
+//entry 2 -----------------------
+Overlord's Bloodline
+Overlord's Bloodline
+Overlord's Bloodline
+Able to form a party depending on |rank.
+//entry 3 -----------------------
+Merciless
+Merciless
+Merciless
+Automatically win easy battles.
+//entry 4 -----------------------
+Preemptive
+Preemptive
+Preemptive
+Perform an attack at the start of |battle.
+//entry 5 -----------------------
+Assassin
+Assassin
+Assassin
+Perform a powerful attack at the |start of battle.
+//entry 6 -----------------------
+Blitzkrieger
+Blitzkrieger
+Blitzkrieger
+Perform an area attack at the start|of battle.
+//entry 7 -----------------------
+Paranoid
+Paranoid
+Paranoid
+Chance to prevent enemy ambushes.
+//entry 8 -----------------------
+Vigilant
+Vigilant
+Vigilant
+Prevents all enemy ambushes.
+//entry 9 -----------------------
+Tenacious
+Tenacious
+Tenacious
+Chance to survive a deadly blow |with 1 HP.
+//entry 10 -----------------------
+Snacker
+Snacker
+Snacker
+Recover HP while moving.
+//entry 11 -----------------------
+Channeler
+Channeler
+Channeler
+Recover SP while moving.
+//entry 12 -----------------------
+Resistant
+Resistant
+Resistant
+Magic damage taken reduced by 50%.
+//entry 13 -----------------------
+Canceller
+Canceller
+Canceller
+Magic damage blocked 30% of the |time.
+//entry 14 -----------------------
+Dampener
+Dampener
+Dampener
+Party's magic damage taken reduced|by 25%.
+//entry 15 -----------------------
+Medic
+Medic
+Medic
+Recover party HP during battle.
+//entry 16 -----------------------
+Regenerator
+Regenerator
+Regenerator
+Recover own HP during battle.
+//entry 17 -----------------------
+Sickening
+Sickening
+Sickening
+30% chance to prevent enemy healing|magic.
+//entry 18 -----------------------
+Soothing
+Soothing
+Soothing
+Slightly recover party SP during|battle.
+//entry 19 -----------------------
+Energetic
+Energetic
+Energetic
+Slightly recover own SP during|battle.
+//entry 20 -----------------------
+Evasive Leader
+Evasive Leader
+Evasive Leader
+Increase party's Evade.
+//entry 21 -----------------------
+Evasive Wall
+Evasive Wall
+Evasive Wall
+Increase front row's Evade.
+//entry 22 -----------------------
+Evasive Escort
+Evasive Escort
+Evasive Escort
+Increase back row's Evade.
+//entry 23 -----------------------
+Evasive Support
+Evasive Support
+Evasive Support
+Increase own column's Evade.
+//entry 24 -----------------------
+Evasive Ally
+Evasive Ally
+Evasive Ally
+Increase own row's Evade.
+//entry 25 -----------------------
+Swift Leader
+Swift Leader
+Swift Leader
+Increase party's Speed.
+//entry 26 -----------------------
+Swift Wall
+Swift Wall
+Swift Wall
+Increase front row's Speed.
+//entry 27 -----------------------
+Swift Escort
+Swift Escort
+Swift Escort
+Increase back row's Speed.
+//entry 28 -----------------------
+Swift Support
+Swift Support
+Swift Support
+Increase own column's Speed.
+//entry 29 -----------------------
+Swift Ally
+Swift Ally
+Swift Ally
+Increase own row's Speed.
+//entry 30 -----------------------
+Aggressive Leader
+Aggressive Leader
+Aggressive Leader
+Increase party's Attack.
+//entry 31 -----------------------
+Aggressive Wall
+Aggressive Wall
+Aggressive Wall
+Increase front row's Attack.
+//entry 32 -----------------------
+Aggressive Escort
+Aggressive Escort
+Aggressive Escort
+Increase back row's Attack.
+//entry 33 -----------------------
+Aggressive Support
+Aggressive Support
+Aggressive Support
+Increase own column's Attack.
+//entry 34 -----------------------
+Aggressive Ally
+Aggressive Ally
+Aggressive Ally
+Increase own row's Attack.
+//entry 35 -----------------------
+Iron Leader
+Iron Leader
+Iron Leader
+Increase party's Defense.
+//entry 36 -----------------------
+Iron Wall
+Iron Wall
+Iron Wall
+Increase front row's Defense.
+//entry 37 -----------------------
+Iron Escort
+Iron Escort
+Iron Escort
+Increase back row's Defense.
+//entry 38 -----------------------
+Iron Support
+Iron Support
+Iron Support
+Increase own column's Defense.
+//entry 39 -----------------------
+Iron Ally
+Iron Ally
+Iron Ally
+Increase own row's Defense.
+//entry 40 -----------------------
+Rugged Leader
+Rugged Leader
+Rugged Leader
+Reduce slashing damage taken by|party by 20%.
+//entry 41 -----------------------
+Rugged Wall
+Rugged Wall
+Rugged Wall
+Reduce slashing damage taken by|front row by 20%.
+//entry 42 -----------------------
+Rugged Escort
+Rugged Escort
+Rugged Escort
+Reduce slashing damage taken by|back row by 20%.
+//entry 43 -----------------------
+Rugged Support
+Rugged Support
+Rugged Support
+Reduce slashing damage taken by|own column by 20%.
+//entry 44 -----------------------
+Rugged Ally
+Rugged Ally
+Rugged Ally
+Reduce slashing damage taken by|own row by 20%.
+//entry 45 -----------------------
+Sturdy Leader
+Sturdy Leader
+Sturdy Leader
+Reduce crushing damage taken by|party by 20%.
+//entry 46 -----------------------
+Sturdy Wall
+Sturdy Wall
+Sturdy Wall
+Reduce crushing damage taken by|front row by 20%.
+//entry 47 -----------------------
+Sturdy Escort
+Sturdy Escort
+Sturdy Escort
+Reduce crushing damage taken by|back row by 20%.
+//entry 48 -----------------------
+Sturdy Support
+Sturdy Support
+Sturdy Support
+Reduce crushing damage taken by|own column by 20%.
+//entry 49 -----------------------
+Sturdy Ally
+Sturdy Ally
+Sturdy Ally
+Reduce crushing damage taken by|own row by 20%.
+//entry 50 -----------------------
+Covering Leader
+Covering Leader
+Covering Leader
+Reduce ranged damage taken by partyby 20%.
+//entry 51 -----------------------
+Covering Wall
+Covering Wall
+Covering Wall
+Reduce ranged damage taken by frontrow by 20%.
+//entry 52 -----------------------
+Covering Escort
+Covering Escort
+Covering Escort
+Reduce ranged damage taken by back|row by 20%.
+//entry 53 -----------------------
+Covering Support
+Covering Support
+Covering Support
+Reduce ranged damage taken by own|column by 20%.
+//entry 54 -----------------------
+Covering Ally
+Covering Ally
+Covering Ally
+Reduce ranged damage taken by own|row by 20%.
+//entry 55 -----------------------
+Intimidating
+Intimidating
+Intimidating
+Reduce all enemies Attack.
+//entry 56 -----------------------
+Bully
+Bully
+Bully
+Reduce all enemies Evade.
+//entry 57 -----------------------
+Calculating
+Calculating
+Calculating
+Reduce all enemies Defense.
+//entry 58 -----------------------
+Spook
+Spook
+Spook
+Reduce all enemies Speed.
+//entry 59 -----------------------
+Selfless
+Selfless
+Selfless
+Chance to take half the damage for|an ally with lower HP.
+//entry 60 -----------------------
+Scapegoat
+Scapegoat
+Scapegoat
+Chance to take all damage for an|ally with lower HP.
+//entry 61 -----------------------
+Punchable
+Punchable
+Punchable
+Higher chance to be targeted by|enemies.
+//entry 62 -----------------------
+Anticipation
+Anticipation
+Anticipation
+Chance to reduce all damage taken|by half.
+//entry 63 -----------------------
+Ferocious
+Ferocious
+Ferocious
+When under 20% HP, Attack and Evade|increased.
+//entry 64 -----------------------
+Explosive
+Explosive
+Explosive
+When reduced to under 10% HP, 40%|chance to self-destruct and damage|the entire enemy party.
+//entry 65 -----------------------
+Tutor
+Tutor
+Tutor
+Increase experience earned by 10%.
+//entry 66 -----------------------
+Diligent
+Diligent
+Diligent
+Increase experience earned by 20%.
+//entry 67 -----------------------
+Alert
+Alert
+Alert
+Higher chance to detect traps.
+//entry 68 -----------------------
+Blessing
+Blessing
+Blessing
+Reduce trap damage and status|effect duration.
+//entry 69 -----------------------
+Lucky
+Lucky
+Lucky
+50% chance to evade triggered|traps.
+//entry 70 -----------------------
+Perceptive
+Perceptive
+Perceptive
+Detect secret doors in dungeons.
+//entry 71 -----------------------
+Hawkeye
+Hawkeye
+Hawkeye
+See further in dungeons.
+//entry 72 -----------------------
+Orienteering
+Orienteering
+Orienteering
+Wider view on the minimap in|dungeons.
+//entry 73 -----------------------
+Wary
+Wary
+Wary
+Encounter rate with enemies is|reduced.
+//entry 74 -----------------------
+Reservist
+Reservist
+Reservist
+Reserve units recover HP and SP|while moving.
+//entry 75 -----------------------
+Onslaught
+Onslaught
+Onslaught
+Perform an attack at the start of|battle.
+//entry 76 -----------------------
+Inspiring
+Inspiring
+Inspiring
+Slightly increase party's Attack.
+//entry 77 -----------------------
+Reassuring
+Reassuring
+Reassuring
+Slightly increase party's Defense.
+//entry 78 -----------------------
+Nurse
+Nurse
+Nurse
+15% chance to recover a small|amount of one party member's HP|during battle.
+//entry 79 -----------------------
+Cheer
+Cheer
+Cheer
+10% chance to increase Attack when|a party member attacks.
+//entry 80 -----------------------
+Guardian
+Guardian
+Guardian
+15% chance to take half the damage|for an ally.
+//entry 81 -----------------------
+Imposing
+Imposing
+Imposing
+Performs well in leadership|positions where Charisma is needed.
+//entry 82 -----------------------
+Politician
+Politician
+Politician
+Performs exceptionally in|leadership positions.
+//entry 83 -----------------------
+Accountant
+Accountant
+Accountant
+While in a civic position, increase|city income by 10%.
+//entry 84 -----------------------
+Logistician
+Logistician
+Logistician
+While in a civic position, increase|resource income by 10%.
+//entry 85 -----------------------
+Gourmand
+Gourmand
+Gourmand
+While in a civic position, increase|food income by 10%.
+//entry 86 -----------------------
+Charismatic
+Charismatic
+Charismatic
+As Mayor or Deputy Mayor, slightly|increase residents recruited each|turn.
+//entry 87 -----------------------
+Bureaucrat
+Bureaucrat
+Bureaucrat
+Performs well in lesser city|positions.
+//entry 88 -----------------------
+Farmer
+Farmer
+Farmer
+Performs well as Farm Manager.
+//entry 89 -----------------------
+Merchant
+Merchant
+Merchant
+Performs well as Trade Captain.
+//entry 90 -----------------------
+Industrious
+Industrious
+Industrious
+Performs well as Forge Overseer.
+//entry 91 -----------------------
+Straightlaced
+Straightlaced
+Straightlaced
+Performs well as Security Chief.
+//entry 92 -----------------------
+Professor
+Professor
+Professor
+Performs well as School Dean.
+//entry 93 -----------------------
+Festive
+Festive
+Festive
+Performs well as Morale Officer.
+//entry 94 -----------------------
+Germaphobe
+Germaphobe
+Germaphobe
+Performs well as Health Captain.
+//entry 95 -----------------------
+Commander
+Commander
+Commander
+Performs well when placed in charge|of a dungeon.
+//entry 96 -----------------------
+Subcommander
+Subcommander
+Subcommander
+Performs well as a dungeon floor|boss.
+//entry 97 -----------------------
+Independent
+Independent
+Independent
+Performs well in all lesser dungeon|combat positions.
+//entry 98 -----------------------
+Genius
+Genius
+Genius
+Performs well in all civic and|dungeon positions.
+//entry 99 -----------------------
+Inept
+Inept
+Inept
+Performs terribly in all government|positions.
+//entry 100 -----------------------
+Foreman
+Foreman
+Foreman
+Performs well in all civic|positions.
+//entry 101 -----------------------
+General
+General
+General
+Performs well in all dungeon|positions.
+//entry 102 -----------------------
+Aide
+Aide
+Aide
+Performs well as Deputy Mayor or|Dungeon Keeper.
+//entry 103 -----------------------
+Fierce Love
+Fierce Love
+Aggressive Love
+Greatly increase Darx's Attack.
+//entry 104 -----------------------
+Protective Love
+Protective Love
+Iron Love
+Greatly increase Darx's Defense.
+//entry 105 -----------------------
+Hasty Love
+Hasty Love
+Swift Love
+Greatly increase Darx's Speed.

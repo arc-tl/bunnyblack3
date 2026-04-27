@@ -1,0 +1,161 @@
+﻿<music 17>
+<background "ev059a00.agf" 10>
+I go back to my room to get some rest, but
+there are a bunch of naked women waiting for
+me there.
+#
+<name "Naked Girl" "!HC0079">
+"Welcome home."
+#
+<name "Spread Legged Girl" "!SB0158">
+"Overlord.♪"
+#
+<name "Seductive Girl" "!RB0142">
+"Haha, Overlord."
+#
+<name "Underwear Girl" "!LB0108">
+"Aaah, you're late."
+#
+<name "Masturbating Girl" "!GB0107">
+"Ahhh...
+ My pussy's ready for you."
+#
+<name "Inviting Girl" "!QB0158">
+"Mine too..."
+#
+<name "Big Breasted Girl" "!WB0149">
+"Mm... Overlord.
+ Do you like my breasts?"
+#
+<name "Darx">
+"This is great, but hold on."
+#
+<name "Darx">
+"So, who's going to explain what's going on
+ here?"
+#
+<name "Company Maid" "!PC0268">
+"If you'll allow me."
+#
+There's a maid standing behind me.
+#
+Considering that she's dressed, there's a 
+clear line differentiating her from the rest
+of them.
+#
+<name "Darx">
+"Please."
+#
+<name "Company Maid" "!PC0269">
+"The city had grown, yes?"
+#
+<name "Darx">
+"Yeah."
+#
+<name "Company Maid" "!PC0270">
+"And you are fond of women, yes?"
+#
+<name "Darx">
+"Yeah."
+#
+<name "Company Maid" "!PC0271">
+"The women who are grateful for the 
+ development of the city are eager to have
+ sex with you. It seemed like it would soon
+ lead to a riot, hence this situation."
+#
+<name "Company Maid" "!PC0272">
+"I have faith that you can take over from
+ here."
+#
+<name "Company Maid" "!PC0273">
+"The end."
+#
+<name "Darx">
+"Uh, so have sex with them?"
+#
+<name "Company Maid" "!PC0274">
+"Yes. By the way, they have been frisked and
+ inspected for diseases.
+ Their background checks were clear as well."
+#
+<name "Company Maid" "!PC0275">
+"Sofia conducted the final interview, and
+ those who passed are here."
+#
+<name "Darx">
+"Meaning that these are all people of some
+ influence within the city?"
+#
+<name "Company Maid" "!PC0276">
+"Indeed."
+#
+<name "Darx">
+"Okay. Got it.
+ You can leave now."
+#
+<name "Darx">
+"Oh, and send food for everybody in about
+ three hours."
+#
+<name "Company Maid" "!PC0277">
+"As you wish."
+#
+She leaves, closing the door behind her.
+#
+<name "Darx">
+"You're not getting away, even if you don't
+ like it."
+#
+<name "Naked Girl" "!HC0080">
+"Okay.♪"
+#
+<name "Spread Legged Girl" "!SB0159">
+"I look forward to it."
+#
+<name "Seductive Girl" "!RB0143">
+"Ah, I-I..."
+#
+...
+#
+Three hours later...
+#
+<background "ev059a01.agf" 10>
+<name "Exhausted Girl" "!HC0081">
+"Ah...ah...ahh..."
+#
+<name "Fainted Girl" "!SB0160">
+"Ahhh..."
+#
+<name "Basking Girl" "!RB0144">
+"Aaahhh..."
+#
+<name "Company Maid" "!PC0278">
+"W-Well done."
+#
+<name "Darx">
+"Hm?
+ Three hours already?"
+#
+<name "Company Maid" "!PC0279">
+"Y-Yes."
+#
+<name "Darx">
+"Ah, just leave it there."
+#
+I speak to all the women I've come inside.
+#
+<name "Darx">
+"Whoever can should eat.
+ We're just getting started."
+#
+<name "Enduring Girl" "!LB0109">
+"O-Okay..."
+#
+<name "Perservering Girl" "!GB0108">
+"A-Ah...
+ M-More...?"
+#
+I enjoy the gratitude of my citizens.
+#
+\x78\x78

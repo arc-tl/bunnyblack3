@@ -1,0 +1,82 @@
+﻿<music 3>
+<background "bg010a0.agf" 10>
+<sprite "ta16a000.agf" 4 4 11>
+<name "Farren" "!FB0106">
+"Overlord."
+#
+<name "Darx">
+"Have the people you brought settled in?"
+#
+<sprite "ta16a001.agf" 4 4 12>
+<name "Farren" "!FB0107">
+"Y-Yes, sir."
+#
+<name "Darx">
+"Okay.
+ Well, if there are any problems, let me know."
+#
+<sprite "ta16a000.agf" 4 4 12>
+<name "Farren" "!FB0108">
+"Yes, sir."
+#
+<name "Darx">
+"And you work for me now.
+ Work hard."
+#
+<name "Farren" "!FB0109">
+"Understood."
+#
+<name "Darx">
+"...You're very well behaved."
+#
+<sprite "ta16a001.agf" 4 4 12>
+<name "Farren" "!FB0110">
+"I... suppose so."
+#
+<name "Darx">
+"I don't mind that.
+ Just say when you want to be with me."
+#
+<sprite "ta16a013.agf" 4 4 12>
+<name "Farren" "!FB0111">
+"Yes, sir.
+ Then, um... now..."
+#
+<name "Darx">
+"...It's also a problem if you're always horny.
+ Well, it's fine."
+#
+<removesprite -1 11>
+I pull her close and kiss her.
+#
+<sprite "ta16a114.agf" 4 4 11>
+<name "Farren" "!FB0112">
+"Ah...
+ Overlord..."
+#
+<name "Darx">
+"Hm?"
+#
+<sprite "ta16a115.agf" 4 4 12>
+<name "Farren" "!FB0114">
+"Um... The first time, you said I was pretty.
+ Did you really mean it?"
+#
+<name "Darx">
+"I don't lie."
+#
+<sprite "ta16a116.agf" 4 4 12>
+<name "Farren" "!FB0115">
+"Ah!"
+#
+<removesprite -1 11>
+She pushes me down.
+#
+<sprite "ta16a119.agf" 4 4 11>
+<name "Farren" "!FB0116">
+"All of me is yours."
+#
+<removesprite -1 11>
+I enjoy myself with her.
+#
+\x78\x78

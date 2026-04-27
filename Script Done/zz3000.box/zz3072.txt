@@ -1,0 +1,142 @@
+﻿<music 50>
+<background "ev045a05.agf" 10>
+<name "Forzelotte" "!XA0187">
+"Mm...ahh...ahh...ah...mm...mmm..."
+#
+I've done it several times with her now.
+#
+<name "Forzelotte" "!XA0188">
+"Mm...mmm...mm...ah...mmm...
+ D-Darx...
+ Mmm...mmm...aah...aah!"
+#
+I'm getting tired, but I'm not recovering
+with magic.
+#
+Exhaustion is part of the act.
+#
+I'm completely fine with exhausting myself
+for Forzelotte.
+#
+<name "Forzelotte" "!XA0189">
+"Mm...mmm...aaah...aah...ah!"
+#
+She pesters me for a kiss.
+#
+I tease her for just a moment, and then kiss
+her.
+#
+<name "Forzelotte" "!XA0190">
+"Mmm...mmm...ahh...mmm...mmmmm!"
+#
+That was probably the tipping point.
+#
+<name "Forzelotte" "!XA0191">
+"Mm! Mm! Mmm! Ah! Mmmm!"
+#
+She's on the edge of orgasm.
+#
+I move my hips to help her and stir up her
+insides.
+#
+I'm almost there too.
+#
+<background "ev045a06.agf" 10>
+<name "Forzelotte" "!XA0192">
+"Ah...mmmmmaaaaaahhhhhh!!!"
+#
+She comes loudly.
+#
+As I listen to her voice, I start to come too.
+#
+<name "Forzelotte" "!XA0193">
+"Ah...aah...ah...ah...aah..."
+#
+<name "Forzelotte" "!XA0194">
+"...Darx..."
+#
+<name "Darx">
+"Hm?"
+#
+<name "Forzelotte" "!XA0195">
+"You may continue, but a short break.
+ Hold me close."
+#
+<name "Darx">
+"Yeah."
+#
+I hug her obediently.
+#
+<name "Forzelotte" "!XA0196">
+"I can touch others like this.
+ Because I met you."
+#
+<name "Forzelotte" "!XA0197">
+"That alone was enough for me, but I also had
+ a child."
+#
+<name "Forzelotte" "!XA0198">
+"Darx."
+#
+<name "Darx">
+"Hm?"
+#
+<name "Forzelotte" "!XA0199">
+"I truly am thankful."
+#
+<name "Darx">
+"Me too."
+#
+<name "Forzelotte" "!XA0200">
+"...Darx."
+#
+<name "Darx">
+"Hm?"
+#
+<name "Forzelotte" "!XA0201">
+"I would like to be like this a little
+ longer... but I also want to end this break."
+#
+<name "Darx">
+"All right."
+#
+I enjoy an intense session with her.
+#
+<background "bg017a0.agf" 10>
+<music 41>
+<background "ev043a00.agf" 10>
+<name "Horned Girl" "!HC0051">
+"Mommy's feeling better now."
+#
+<name "Pretty Winged Girl" "!SB0132">
+"Yep. She's better."
+#
+<name "Forzelotte" "!XA0202">
+"Haha...
+ I have been well for a long time."
+#
+<name "Forzelotte" "!XA0203">
+"Because you're all here."
+#
+<name "Horned Girl" "!HC0052">
+"Hahaha...
+ Mommy, let's throw the ball instead of
+ reading."
+#
+<name "Pretty Winged Girl" "!SB0133">
+"Ah, me too."
+#
+<name "Forzelotte" "!XA0204">
+"Oh, I can't move.
+ Please go easy on me today."
+#
+<name "Horned Girl" "!HC0053">
+"Eeeh?"
+#
+<name "Pretty Winged Girl" "!SB0134">
+"Why?"
+#
+<name "Forzelotte" "!XA0205">
+"L-Let's leave it at the price of love."
+#
+\x78\x78

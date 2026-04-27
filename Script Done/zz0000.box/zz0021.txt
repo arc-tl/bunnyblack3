@@ -1,0 +1,78 @@
+﻿<music 15>
+<background "bg008a0.agf" 10>
+<name "Angry Woman" "!QB0214">
+"You slut lord!
+ How dare you defile me!?"
+#
+<name "Angry Woman" "!QB0215">
+"I'll kill you!
+ I'll kill you and then kill myself!"
+#
+<name "Darx">
+"Wait! Hold on!
+ Isn't this all a misunderstanding!?"
+#
+<name "Angry Woman" "!QB0216">
+"What is a misunderstanding!?
+ You forced me to...
+ Ooh..."
+#
+<name "Darx">
+"Don't cry.
+ You shouldn't cry."
+#
+<name "Darx">
+"Tears don't suit your beauty."
+#
+<name "Angry Woman" "!QB0217">
+"Die!"
+#
+<name "Darx">
+"Aaaaah!"
+#
+<music 3>
+<background "bg010a0.agf" 10>
+<name "Darx">
+"And that's what happened."
+#
+<removesprite -1 11>
+<name "Sofia" "!ZB1049">
+"And yet you survived."
+#
+<name "Darx">
+"I'm used to it."
+#
+<name "Sofia" "!ZB1050">
+"Hmm..."
+#
+<name "Darx">
+"The problem is that while I was fighting for
+ my life, Golan, Tojo, and a bunch of my other
+ subordinates walked right past me."
+#
+<name "Darx">
+"They didn't even try to protect me!"
+#
+<name "Sofia" "!ZB1051">
+"Because they're used to it."
+#
+<name "Darx">
+"Oooh, I see."
+#
+<name "Sofia" "!ZB1052">
+"More importantly, please be a little more
+ respectful so these things don't keep 
+ happening."
+#
+<name "Darx">
+"Yeah, I was thinking the same thing, Sofia.
+ So I want you to be with me."
+#
+<name "Sofia" "!ZB1053">
+"I have work to do, so no."
+#
+<name "Darx">
+"...I'm not used to rejection."
+#
+<removesprite -1 11>
+\x2B\x78\x78

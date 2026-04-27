@@ -1,0 +1,108 @@
+﻿<music 29>
+<background "ev078a00.agf" 10>
+<name "Company Maid" "!PC0091">
+"We did it."
+#
+<name "Darx">
+"No, not yet."
+#
+<name "Company Maid" "!PC0092">
+"Huh?"
+#
+<name "Darx">
+"They're not done."
+#
+<name "Company Maid" "!PC0093">
+"What do you mean?"
+#
+<name "Darx">
+"They regenerate."
+#
+Just like I said, the tentacles start 
+regrowing.
+#
+<name "Company Maid" "!PC0094">
+"No way!"
+#
+<name "Darx">
+"Don't be so surprised.
+ More importantly, there's a snake over there.
+ Can you grab it?"
+#
+<name "Company Maid" "!PC0095">
+"Huh?
+ Oh, yes, sir."
+#
+<name "Darx">
+"That's the price for Suisen's intelligence.
+ Take good care of it."
+#
+<name "Company Maid" "!PC0096">
+"As long as it doesn't bite."
+#
+<name "Darx">
+"You should be okay... probably.
+ Maybe."
+#
+<name "Company Maid" "!PC0097">
+"That's no convincing."
+#
+<name "Darx">
+"Well, please do it."
+#
+<name "Darx">
+"I've got one more battle to fight."
+#
+The tentacles continue to regrow.
+#
+But not quite the same as before.
+#
+They lump together, wriggle, and grow to
+human size.
+#
+<background "ev078b00.agf" 10>
+To me.
+#
+<background "ev078c00.agf" 10>
+Dozens of me.
+#
+<name "Darx">
+"I thought so...
+ But isn't this many cheating?"
+#
+<name "Darx" "!BA0001">
+"Grrraaaaaggggh!"
+#
+I stand right before me.
+#
+Suisen's snake took control of my other body.
+#
+But my body didn't succumb to it.
+#
+That's what made it feel so wrong.
+#
+It grabbed Forzelotte, but didn't do anything
+to her, then it killed Wadatsumi.
+#
+All of it was my will.
+#
+Same as it going to the city and Forzelotte's
+Shrine.
+#
+It wasn't an attack.
+#
+It just wanted to go home.
+#
+Without any thought to the damage it would
+cause.
+#
+<name "Darx">
+"Well, I'm still to blame."
+#
+<name "Darx" "!BA0002">
+"Grraaaghhhhh!"
+#
+<name "Darx">
+"Let's do this."
+#
+\x78\x78

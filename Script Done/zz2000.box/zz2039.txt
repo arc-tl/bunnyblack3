@@ -1,0 +1,54 @@
+﻿<music 11>
+<background "bg008a0.agf" 10>
+<name "Announcer Maid" "!PC0437" "ka34d000.agf">
+"It's the first ever tournament for Dragon
+ Slayer, the sport of hitting a ball with
+ sticks."
+#
+<name "Announcer Maid" "!PC0438" "ka34d000.agf">
+"The first match is Diamond Punch versus
+ The Overlords."
+#
+<name "Announcer Maid" "!PC0439" "ka34d000.agf">
+"Diamond Punch's top four batters are master
+ class. We can expect high scoring from them."
+#
+<name "Commenting Maid" "!DC0318" "ka34e000.agf">
+"On the other side, The Overlords are a team
+ based around the Overlord.
+ Most of its members are dirty players.
+ The only wild card is the Overlord himself."
+#
+<name "Commenting Maid" "!DC0319" "ka34e000.agf">
+"I hear that he's developed a new trick
+ pitch."
+#
+<name "Commenting Maid" "!DC0320" "ka34e000.agf">
+"Will that trick pitch be able to hold back
+ Diamond Punch?
+ Look forward to the big game."
+#
+<background "bg015a0.agf" 10>
+...
+#
+<background "bg008a0.agf" 10>
+<name "Announcer Maid" "!PC0440" "ka34d000.agf">
+"The Overlord couldn't do it.
+ I didn't expect him to be pulled in the
+ second inning."
+#
+<name "Announcer Maid" "!PC0441" "ka34d000.agf">
+"After that, Tojo held off Diamond Punch with
+ an impressive pitching performance, but the
+ deficit the Overlord left was too much to
+ overcome."
+#
+<name "Commenting Maid" "!DC0321" "ka34e000.agf">
+"Yes. The final results were 18-12 for
+ Diamond Punch.
+ Well played, both teams."
+#
+<name "Announcer Maid" "!PC0442" "ka34d000.agf">
+"Now, on to the next game."
+#
+\x78\x78

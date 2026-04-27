@@ -1,0 +1,83 @@
+﻿<music 11>
+<background "bg008a0.agf" 10>
+<sprite "ta05a000.agf" 4 4 11>
+<name "Kyuriha" "!FA0186">
+"Darx, I heard you captured Miartei."
+#
+<name "Darx">
+"News gets around fast."
+#
+<name "Darx">
+"I expected you'd try to stop me, so I haven't
+ laid a finger on her yet."
+#
+<sprite "ta05a014.agf" 4 4 12>
+<name "Kyuriha" "!FA0187">
+"That's quite cruel of you."
+#
+<name "Darx">
+"Is it?"
+#
+<removesprite -1 11>
+Wouldn't it be crueler to not wait?
+#
+<sprite "ta05a016.agf" 4 4 11>
+<name "Kyuriha" "!FA0188">
+"Not to her.
+ To me."
+#
+<sprite "ta05a015.agf" 4 4 12>
+<name "Kyuriha" "!FA0189">
+"If I stop you, I will once again be a woman
+ who goes back on her word."
+#
+<sprite "ta05a014.agf" 4 4 12>
+<name "Kyuriha" "!FA0190">
+"But if I don't stop you, it would be turning
+ my back on a friend."
+#
+<sprite "ta05a016.agf" 4 4 12>
+<name "Kyuriha" "!FA0191">
+"Could it be you're still mad that I stepped
+ in with Rualtei?"
+#
+<name "Darx">
+"Not at all.
+ I'm sure you were just concerned for her."
+#
+<sprite "ta05a015.agf" 4 4 12>
+<name "Kyuriha" "!FA0192">
+"Then my concern went unheeded.
+ You are the victor.
+ She is the vanquished.
+ You may do with her as you please."
+#
+<name "Darx">
+"If I offended you, I apologize."
+#
+<sprite "ta05a016.agf" 4 4 12>
+<name "Kyuriha" "!FA0193">
+"There's no need for that.
+ But please let me be present for her
+ execution."
+#
+<name "Darx">
+"I'm not going to kill her.
+ Well, she might wish I did."
+#
+<sprite "ta05a015.agf" 4 4 12>
+<name "Kyuriha" "!FA0194">
+"...That is a relief, though as a woman, I do
+ feel conflicted."
+#
+<name "Darx">
+"Sorry about that."
+#
+<sprite "ta05a019.agf" 4 4 12>
+<name "Kyuriha" "!FA0195">
+"No.
+ The blame lies solely on her for ignoring my
+ warnings."
+#
+<removesprite -1 11>
+\x2B\x78\x78

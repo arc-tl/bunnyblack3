@@ -1,0 +1,82 @@
+﻿<music 8>
+<background "ev047a00.agf" 10>
+<name "Logius" "!PA0017">
+"You don't know who Aly and Fran are?"
+#
+<background "ev047c00.agf" 10>
+<name "Logius" "!PA0018">
+"Look, the girls hard at work over there."
+#
+<name "Logius" "!PA0019">
+"Aren't they cute?"
+#
+<name "Logius" "!PA0020">
+"Oh, I'll kill you if you lay a finger on
+ them."
+#
+<name "Logius" "!PA0021">
+"Just look from a distance.
+ Oh, it's about time to stop looking."
+#
+<name "Logius" "!PA0022">
+"You can go ahead and look at someone else...
+ Any minute now.
+ Yes.
+ Move your eyes..."
+#
+<name "Logius" "!PA0023">
+"You're quite persistent."
+#
+<name "Logius" "!PA0024">
+"I'll have to kill you."
+#
+<name "Logius" "!PA0025">
+"This isn't a joke.
+ I'm serious."
+#
+<name "Logius" "!PA0026">
+"I am, so move those eyes..."
+#
+<name "Logius" "!PA0027">
+"Yes, I'm telling you not to look."
+#
+<name "Logius" "!PA0028">
+"This isn't a joke, I've said that multiple
+ times now."
+#
+<name "Logius" "!PA0029">
+"This is your last warning.
+ Do not look at them."
+#
+<name "Logius" "!PA0030">
+"Yes, don't look."
+#
+<name "Logius" "!PA0031">
+"Don't look."
+#
+<name "Logius" "!PA0032">
+"Don't look!!!!!!!!"
+#
+<name "Logius" "!PA0033">
+"That loveliness belongs only to me!"
+#
+...
+#
+<name "Calm Maid" "!SB0003">
+"Excuse me.
+ Logius is having some kind of seizure."
+#
+<name "Calm Maid" "!SB0004">
+"Yes, a seizure.
+ I certainly did not strike her."
+#
+<name "Calm Maid" "!SB0005">
+"I must tell you that I do think that it's
+ better for you to leave before she wakes up."
+#
+<name "Calm Maid" "!SB0006">
+"Yes.
+ I'm sorry we're unable to show you our
+ hospitality."
+#
+\x78\x78

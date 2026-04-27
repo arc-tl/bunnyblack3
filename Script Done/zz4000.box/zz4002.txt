@@ -1,0 +1,135 @@
+﻿<music 10>
+<background "ev008a00.agf" 10>
+<name "Sofia" "!ZB1005">
+"Honestly."
+#
+<name "Sofia" "!ZB1006">
+"Please make sure you do your job."
+#
+<name "Darx">
+"Yeah, yeah."
+#
+<name "Sofia" "!ZB1007">
+"Also, these documents."
+#
+<name "Darx">
+"Roger."
+#
+<name "Sofia" "!ZB1008">
+"Meryl is here to report."
+#
+<name "Meryl" "!HA0080">
+"Two forces in the independent area have made
+ new offers to become vassals, which we 
+ accepted as per your orders."
+#
+<name "Meryl" "!HA0081">
+"Also, the repairs around the royal palace in
+ Forzelotte's Shrine have finished.
+ That's all I have to report."
+#
+<name "Darx">
+"Didn't you say before that we were putting off
+ that area?"
+#
+<name "Meryl" "!HA0082">
+"That was the plan, but volunteers insisted
+ that it was important."
+#
+<name "Sofia" "!ZB1009">
+"Overlord, you are very revered."
+#
+<name "Meryl" "!HA0083">
+"No. Forzelotte wanted it fixed right away 
+ because it's a path that Kozelotte uses..."
+#
+<name "Meryl" "!HA0084">
+"Sorry.
+ I should've held my tongue."
+#
+<name "Darx">
+"Definitely.
+ Good work."
+#
+<name "Meryl" "!HA0085">
+"Please come visit us in Forzelotte's Shrine
+ once in a while."
+#
+<name "Darx">
+"Yeah."
+#
+<name "Sofia" "!ZB1010">
+"Rakia will report next."
+#
+<name "Rakia" "!ZC0472">
+"I have to report that there's been a change in
+ the budget in the reconstruction plans.
+ Please see here."
+#
+<name "Darx">
+"It's cheaper?"
+#
+<name "Rakia" "!ZC0473">
+"We can't let Anselm outdo us."
+#
+<name "Darx">
+"Sorry."
+#
+<name "Rakia" "!ZC0474">
+"It's fine.
+ Gunguskar looks forward to your continued
+ business."
+#
+<name "Darx">
+"Yeah."
+#
+<name "Rakia" "!ZC0475">
+"Sofia, you keep working hard too, okay?"
+#
+<name "Sofia" "!ZB1011">
+"Yes, ma'am."
+#
+<name "Rakia" "!ZC0476">
+"And... I hear that Suisen of Anselm is now
+ offering herself to him?"
+#
+<name "Sofia" "!ZB1012">
+"Huh?
+ Oh..."
+#
+<name "Rakia" "!ZC0477">
+"Don't let her outdo you."
+#
+<name "Sofia" "!ZB1013">
+"Hahaha...
+ I'll try."
+#
+<name "Rakia" "!ZC0478">
+"Then, excuse me."
+#
+She leaves the room.
+#
+<name "Darx">
+"You're not being outdone, you know?"
+#
+<name "Sofia" "!ZB1014">
+"Yes.
+ I have her beat, in both times and affection."
+#
+<name "Darx">
+"...I'm counting on you."
+#
+<name "Sofia" "!ZB1015">
+"Leave it to me."
+#
+I nod in satisfaction at her reply.
+#
+<name "Sofia" "!ZB1016">
+"And please look at this document.
+ It needs two signatures."
+#
+<name "Darx">
+"Yeah, yeah.
+ I'll do my best too."
+#
+\x78\x78

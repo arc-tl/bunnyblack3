@@ -1,0 +1,128 @@
+﻿<music 4>
+<background "bg009a0.agf" 10>
+I heard Macdo and Suisen talking and went to
+check on them.
+#
+<music 16>
+<background "ev036a00.agf" 10>
+<background "ev036b00.agf" 10>
+<name "Macdo" "!ZA0094">
+"What are you, a swindler?
+ Don't we have some brass."
+#
+<background "ev036b01.agf" 10>
+<name "Suisen" "!YA0023">
+"Eeeh?
+ A swindler?
+ What're you bitching about?"
+#
+<name "Suisen" "!YA0024">
+"You're just running your shop like a junk
+ heap, so I had come all this way to bring
+ quality products."
+#
+<name "Suisen" "!YA0025">
+"So what? Your sales gonna hurt? Oh no, there
+ goes your business. That's what happens when
+ a real store opens next door and people can
+ see what quality products are."
+#
+<name "Suisen" "!YA0026">
+"I am so sorry about that.
+ So very damn sorry."
+#
+<name "Macdo" "!ZA0095">
+"You little...
+ Keep talking like that and I'll kick your
+ ass."
+#
+<name "Suisen" "!YA0027">
+"Ooh, so scary.
+ Such a thug."
+#
+<name "Suisen" "!YA0028">
+"I thought a merchant was supposed to win with
+ prices and products."
+#
+<name "Macdo" "!ZA0096">
+"Now you've said it.
+ If you're so confident, then let's fight with
+ prices and products."
+#
+<name "Macdo" "!ZA0097">
+"I'll crush your shitty angel company into 
+ dust.
+ Bring it on!"
+#
+<name "Suisen" "!YA0029">
+"Fine. I'll play with your company all you 
+ want. Don't come crying to me when it's too
+ much for you."
+#
+<name "Suisen" "!YA0030">
+"Oh, but I do have a kind soul."
+#
+<name "Suisen" "!YA0032">
+"Strip and beg for forgiveness and I'll go
+ easy. And then roll on your back for me like 
+ a dog. I'll pet you and scratch you until you
+ piss yourself with glee."
+#
+<name "Macdo" "!ZA0098">
+"That's a pretty amusing thing to say.
+ I could say it all right back to you."
+#
+...
+#
+<name "Sofia" "!ZB0180">
+"They're talking like two completely different
+ people."
+#
+<name "Rakia" "!ZC0154">
+"It's high level merchant language.
+ Even I haven't mastered it yet."
+#
+<name "Sofia" "!ZB0181">
+"T-That's... high level merchant language?"
+#
+Sounded more like a pissing match between two
+geezers.
+#
+<name "Rakia" "!ZC0155">
+"By the way, Suisen has the advantage right
+ now... Ah!"
+#
+<name "Sofia" "!ZB0182">
+"Did Macdo just hit Suisen?"
+#
+<name "Rakia" "!ZC0156">
+"T-That was a punch beyond time.
+ A chrono blow."
+#
+<name "Rakia" "!ZC0157">
+"I can't believe she can use that
+ technique..."
+#
+<name "Sofia" "!ZB0183">
+"H-Hitting's allowed?
+ I thought it was supposed to be all about
+ prices and products..."
+#
+<name "Rakia" "!ZC0158">
+"It's about timing, and that was immaculate
+ timing. Suisen can't even say that she was
+ attacked.
+ Even I can't believe the punch line."
+#
+<name "Sofia" "!ZB0184">
+"I-I don't get it."
+#
+<name "Rakia" "!ZC0159">
+"Anyway, that one thrust took her from a
+ disadvantage back to an even playing field.
+ Well done, Macdo!"
+#
+I feel like I'm watching a sport with rules I
+can't even begin to understand.
+#
+\x78\x78

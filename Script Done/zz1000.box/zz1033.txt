@@ -1,0 +1,135 @@
+﻿<music 11>
+<background "bg008a0.agf" 10>
+<sprite "ta06a001.agf" 4 4 11>
+<name "Suisen" "!YA0297">
+"How are Anselm's sales?"
+#
+<name "Angel Soldier" "!TC0062">
+"Mostly good, but Gunguskar is still..."
+#
+<sprite "ta06a003.agf" 4 4 12>
+<name "Suisen" "!YA0298">
+"Heheh.
+ I've already got it well in hand."
+#
+<name "Angel Soldier" "!TC0063">
+"As I'd expect of you."
+#
+<name "Suisen" "!YA0299">
+"..."
+#
+<name "Angel Soldier" "!TC0064">
+"..."
+#
+<sprite "ta06a005.agf" 4 4 12>
+<name "Suisen" "!YA0300">
+"Thank you.
+ That made me feel a little better.
+ Here, your reward."
+#
+<name "Angel Soldier" "!TC0065">
+"It was nothing.
+ Call me again any time."
+#
+<removesprite -1 11>
+<sprite "ta05a014.agf" 4 4 11>
+<name "Kyuriha" "!FA0521">
+"...What was that?"
+#
+<removesprite -1 11>
+<sprite "ta05a014.agf" 2 4 11>
+<sprite "ta06a003.agf" 6 5 11>
+<name "Suisen" "!YA0301">
+"Just setting the mood because I'm lonely."
+#
+<sprite "ta05a015.agf" 2 4 12>
+<name "Kyuriha" "!FA0522">
+"...You can just ask me for help."
+#
+<sprite "ta06a004.agf" 6 5 12>
+<name "Suisen" "!YA0302">
+"Really?"
+#
+<sprite "ta05a017.agf" 2 4 12>
+<name "Kyuriha" "!FA0523">
+"Yes."
+#
+<sprite "ta06a005.agf" 6 5 12>
+<name "Suisen" "!YA0303">
+"Then here."
+#
+<sprite "ta05a010.agf" 2 4 12>
+<name "Kyuriha" "!FA0524">
+"What's this?"
+#
+<name "Suisen" "!YA0304">
+"Your script."
+#
+<sprite "ta05a009.agf" 2 4 12>
+<name "Kyuriha" "!FA0525">
+"Um..."
+#
+<removesprite -1 11>
+<sprite "ta06a004.agf" 4 4 11>
+<name "Suisen" "!YA0305">
+"I'm sorry about her.
+ Can you do a little more?"
+#
+<name "Angel Soldier" "!TC0066">
+"That's fine."
+#
+<sprite "ta06a003.agf" 4 4 12>
+<name "Suisen" "!YA0306">
+"Thank you.
+ Okay, here's your script.
+ Can you do it?"
+#
+<name "Angel Soldier" "!TC0067">
+"...What's the mood here?"
+#
+<sprite "ta06a004.agf" 4 4 12>
+<name "Suisen" "!YA0307">
+"A feeling of despair."
+#
+<name "Angel Soldier" "!TC0068">
+"All right.
+ So... just go with it."
+#
+<sprite "ta06a005.agf" 4 4 12>
+<name "Suisen" "!YA0308">
+"Yeah."
+#
+<sprite "ta06a003.agf" 4 4 12>
+<name "Suisen" "!YA0309">
+"Okay, let's begin!"
+#
+<removesprite -1 11>
+<sprite "ta05a016.agf" 4 4 11>
+<name "Kyuriha" "!FA0526">
+"Huh? Um... huh?"
+#
+<removesprite -1 11>
+<background "bg015a0.agf" 10>
+...
+#
+<music 3>
+<background "bg010a0.agf" 10>
+<name "Darx">
+"I hear you were in a play?"
+#
+<sprite "ta05a015.agf" 4 4 11>
+<name "Kyuriha" "!FA0527">
+"Yes, well..."
+#
+<removesprite -1 11>
+<sprite "ta05a015.agf" 2 4 11>
+<sprite "ta01a005.agf" 6 5 11>
+<name "Sofia" "!ZB0631">
+"People keep asking me over and over when
+ they're going to do it again."
+#
+<name "Kyuriha" "!FA0528">
+"Hahaha..."
+#
+<removesprite -1 11>
+\x2B\x78\x78

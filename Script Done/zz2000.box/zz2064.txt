@@ -1,0 +1,85 @@
+﻿<music 3>
+<background "bg010a0.agf" 10>
+<name "Darx">
+"Raffino."
+#
+<sprite "ta20a000.agf" 4 4 11>
+<name "Raffino" "!EB0035">
+"Yes?
+ What is it?"
+#
+<name "Darx">
+"Will you be with me tonight?"
+#
+<sprite "ta20a001.agf" 4 4 12>
+<name "Raffino" "!EB0036">
+"Overlord, my body and soul belong to you.
+ If it is your command, I will strip naked and
+ spread my legs, no matter the time or place."
+#
+<sprite "ta20a000.agf" 4 4 12>
+<name "Raffino" "!EB0037">
+"Please use me however you wish."
+#
+<name "Darx">
+"...I do like submissive women, but I'm kind
+ to those on my side."
+#
+<name "Darx">
+"And I don't force allies to give themselves
+ to me."
+#
+<name "Darx">
+"You can say no.
+ I won't hold it against you.
+ Wasn't that told to you when you registered
+ as a citizen?"
+#
+<sprite "ta20a017.agf" 4 4 12>
+<name "Raffino" "!EB0038">
+"I-I was told that, but...
+ Your invitation is an order.
+ I cannot say no."
+#
+<name "Darx">
+"It was the truth."
+#
+<sprite "ta20a018.agf" 4 4 12>
+<name "Raffino" "!EB0039">
+"T-That's how everybody feels, and I understand
+ that, but..."
+#
+<name "Darx">
+"It'll take some time to get used to it?"
+#
+<sprite "ta20a017.agf" 4 4 12>
+<name "Raffino" "!EB0040">
+"I'll try to adapt."
+#
+<name "Darx">
+"Good answer."
+#
+<name "Darx">
+"Okay, then we'll do what you suggested today.
+ Wait naked in my bed.
+ When I come, tempt me with your sweetest
+ plea."
+#
+<sprite "ta20a001.agf" 4 4 12>
+<name "Raffino" "!EB0041">
+"Y-Yes, sir!"
+#
+<name "Darx">
+"And then, we won't stop until morning.
+ I'll give you all kinds of orders...
+ Do your best."
+#
+<sprite "ta20a003.agf" 4 4 12>
+<name "Raffino" "!EB0042">
+"I-I'll try."
+#
+<removesprite -1 11>
+I enjoyed myself until around noon the next
+day.
+#
+\x78\x78

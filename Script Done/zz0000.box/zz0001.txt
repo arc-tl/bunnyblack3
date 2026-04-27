@@ -1,0 +1,105 @@
+﻿<music 4>
+<background "bg009a0.agf" 10>
+<sprite "ta01a004.agf" 4 4 11>
+<name "Sofia" "!ZB1020">
+"Hello.
+ I'm Sofia, a little different from the maids
+ who just work part time."
+#
+<name "Darx">
+"She's sure fired up."
+#
+<removesprite -1 11>
+<sprite "ta08a004.agf" 4 4 11>
+<name "Rakia" "!ZC0479">
+"She's been promoted to a full fledged 
+ employee, so I know the feeling."
+#
+<sprite "ta08a005.agf" 4 4 12>
+<name "Rakia" "!ZC0480">
+"By the way, just being part time doesn't mean
+ they can quit whenever they feel like it.
+ It might be more accurate to call them 
+ contract employees and sort of part time."
+#
+<name "Darx">
+"Sofia did say she was a part timer a while
+ ago."
+#
+<sprite "ta08a004.agf" 4 4 12>
+<name "Rakia" "!ZC0481">
+"Indeed.
+ Most people in Gunguskar below the rank of
+ sergeant are part timers."
+#
+<name "Darx">
+"Sergeant?"
+#
+<sprite "ta08a023.agf" 4 4 12>
+<name "Rakia" "!ZC0482">
+"Under the rank of general, colonel and
+ lieutenant are, from top to bottom, sergeant,
+ corporal, private first class, and private
+ second class."
+#
+<sprite "ta08a004.agf" 4 4 12>
+<name "Rakia" "!ZC0483">
+"Also, generals are split by general, lt.
+ general, and major general. Colonels are
+ colonel, lt. colonel, and major. Captains are
+ captain, lieutenant, and ensign."
+#
+<name "Darx">
+"What exactly does a sergeant do?"
+#
+<sprite "ta08a005.agf" 4 4 12>
+<name "Rakia" "!ZC0484">
+"Lead the part timers."
+#
+<name "Darx">
+"...So you're saying Sofia lead the part timers
+ until recently, but got a big promotion?"
+#
+<sprite "ta08a004.agf" 4 4 12>
+<name "Rakia" "!ZC0485">
+"That's correct.
+　She's an ensign, so it's like she's become a
+ cashier."
+#
+<name "Darx">
+"I genuinely don't understand Gunguskar's
+ ranks.
+ By the way, what are you?"
+#
+<sprite "ta08a023.agf" 4 4 12>
+<name "Rakia" "!ZC0486">
+"I became a colonel a little while ago."
+#
+<name "Darx">
+"...I don't know if that's impressive or not."
+#
+<sprite "ta08a004.agf" 4 4 12>
+<name "Rakia" "!ZC0487">
+"Right?
+ Well, it's fine if you don't understand that
+ very well."
+#
+<sprite "ta08a022.agf" 4 4 12>
+<name "Rakia" "!ZC0488">
+"Just remember that Macdo is a major general,
+ which is far above me.
+ What you do can reflect badly on my chances
+ for a promotion."
+#
+<name "Darx">
+"I'll keep that in mind.
+ ...Hm?"
+#
+<removesprite -1 11>
+<sprite "ta01a028.agf" 4 4 11>
+<name "Sofia" "!ZB1021">
+"Awww...
+ I thought this was part of the main story!"
+#
+<removesprite -1 11>
+\x2B\x78\x78

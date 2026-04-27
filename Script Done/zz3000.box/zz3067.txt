@@ -1,0 +1,43 @@
+﻿<music 49>
+<background "ev042a00.agf" 10>
+<name "Rakia" "!ZC0420">
+"D-Doing it without warning is quite
+ bothersome..."
+#
+<name "Darx">
+"Rakia."
+#
+<name "Rakia" "!ZC0421">
+"W-What?"
+#
+<name "Darx">
+"You're pretty when you're bothered."
+#
+<name "Rakia" "!ZC0422">
+"Honestly...
+ You're..."
+#
+<background "ev042a01.agf" 10>
+<name "Rakia" "!ZC0423">
+"Very well.
+ Do as you wish."
+#
+<name "Darx">
+"Then..."
+#
+<name "Rakia" "!ZC0424">
+"Ah, but first..."
+#
+<name "Darx">
+"Hm?"
+#
+<name "Rakia" "!ZC0425">
+"Kiss me."
+#
+<name "Darx">
+"Yeah."
+#
+I share a passionate kiss with her, and then
+enjoy myself many times.
+#
+\x78\x78

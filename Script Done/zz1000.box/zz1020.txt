@@ -1,0 +1,331 @@
+﻿<music 3>
+<background "bg010a0.agf" 10>
+<sprite "ta05a003.agf" 4 4 11>
+<name "Kyuriha" "!FA0061">
+"Darx, may I have a moment?"
+#
+<name "Darx">
+"Hm?"
+#
+<sprite "ta05a004.agf" 4 4 12>
+<name "Kyuriha" "!FA0062">
+"There's somebody who'd like to meet you.
+ May I introduce her to you?"
+#
+<name "Darx">
+"Fine.
+ Who is it?"
+#
+<sprite "ta05a003.agf" 4 4 12>
+<name "Kyuriha" "!FA0063">
+"A merchant from Celestia."
+#
+<removesprite -1 11>
+The next day...
+#
+<sprite "ta06a003.agf" 4 4 11>
+<name "Suisen" "!YA0001">
+"It's a pleasure to meet you."
+#
+<sprite "ta06a004.agf" 4 4 12>
+<name "Suisen" "!YA0002">
+"I am Suisen from the Anselm Company.
+ The snake is Sue.
+ I look forward to doing business with you."
+#
+<name "Darx">
+"Anselm Company?"
+#
+<sprite "ta06a005.agf" 4 4 12>
+<name "Suisen" "!YA0003">
+"Think of us as the Celestia version of
+ Gunguskar."
+#
+<sprite "ta06a003.agf" 4 4 12>
+<name "Suisen" "!YA0004">
+"Well, we don't have quite the same reach as
+ Gunguskar though."
+#
+<name "Darx">
+"I see."
+#
+<sprite "ta06a004.agf" 4 4 12>
+<name "Suisen" "!YA0005">
+"I wanted to meet you and would like your
+ permission to do business here."
+#
+<name "Darx">
+"Business?"
+#
+<sprite "ta06a003.agf" 4 4 12>
+<name "Suisen" "!YA0006">
+"Yes. I believe there are a number of people
+ here from Celestia."
+#
+<sprite "ta06a004.agf" 4 4 12>
+<name "Suisen" "!YA0007">
+"While I'm sure their lives here are
+ comfortable, they are no doubt missing some
+ of Celestia's wares, and I would like to
+ provide them."
+#
+<name "Darx">
+"I see."
+#
+<name "Darx">
+"Um, I'd say that I don't mind personally,
+ but I think I'd ruffle somebody's feathers if
+ I did that."
+#
+<sprite "ta06a003.agf" 4 4 12>
+<name "Suisen" "!YA0008">
+"Whose?"
+#
+<name "Darx">
+"Gunguskar's."
+#
+<sprite "ta06a005.agf" 4 4 12>
+<name "Suisen" "!YA0009">
+"I accept that they were here before us, but
+ what kind of merchant stops other merchants
+ from opening their own business in the same
+ place?"
+#
+<sprite "ta06a003.agf" 4 4 12>
+<name "Suisen" "!YA0010">
+"Or did you have an exclusive contract with
+ them? According to our information, no such
+ thing exists."
+#
+<name "Darx">
+"I certainly don't have a contract like that,
+ but fair's fair, right?"
+#
+<name "Darx">
+"They've done a lot for me, and if I were to
+ turn my back on them now...
+ Don't you think that'd cause some problems?"
+#
+<sprite "ta06a004.agf" 4 4 12>
+<name "Suisen" "!YA0011">
+"You are quite correct, but we are not asking
+ you to turn your back on them.
+ Just that we be allowed to sell commodities
+ that cannot be found here."
+#
+<name "Darx">
+"I see. Then it'll be okay with you if we have
+ someone from Gunguskar join this
+ conversation.
+ One moment."
+#
+<sprite "ta06a005.agf" 4 4 12>
+<name "Suisen" "!YA0012">
+"Heheh.
+ Of course."
+#
+<sprite "ta06a003.agf" 4 4 12>
+<name "Suisen" "!YA0013">
+"I look forward to Gunguskar's involvement."
+#
+<removesprite -1 11>
+<music 16>
+<background "ev036a00.agf" 10>
+<name "Macdo" "!ZA0085">
+"Hmph."
+#
+<name "Suisen" "!YA0014">
+"Heheheh."
+#
+<name "Darx">
+"Huh?
+ What's this atmosphere?"
+#
+<name "Sofia" "!ZB0177">
+"I-I don't know."
+#
+The two have been staring at each other since
+they met.
+#
+<name "Rakia" "!ZC0146">
+"Darx, this is bad.
+ This combination is really bad."
+#
+<name "Darx">
+"What? Do they know each other?"
+#
+<name "Rakia" "!ZC0147">
+"They have a rivalry that goes back years."
+#
+<name "Rakia" "!ZC0148">
+"They've both destroyed the other's business
+ a dozen times over."
+#
+<name "Darx">
+"I-I see."
+#
+<name "Rakia" "!ZC0149">
+"For now, let's just watch and wait."
+#
+<name "Suisen" "!YA0015">
+"I am starting a business here.
+ I am Suisen from the Anselm Company. 
+ It's my honor to greet our predecessors."
+#
+<name "Macdo" "!ZA0086">
+"How very kind of you."
+#
+<name "Suisen" "!YA0016">
+"I look forward to our business together.
+ Why don't we discuss the details downstairs
+ over a cup of tea?"
+#
+<name "Macdo" "!ZA0087">
+"Fine."
+#
+<music 3>
+<background "bg010a0.agf" 10>
+<sprite "ta06a003.agf" 4 4 11>
+<name "Suisen" "!YA0017">
+"Well then, Darx.
+ I look forward to doing business with you."
+#
+<removesprite -1 11>
+She bows and leaves.
+#
+<name "Darx">
+"Huh?
+ Is all good?
+ I thought you were going to discuss
+ business."
+#
+Macdo bows her head to me in my confusion,
+more politely than she's ever acted before.
+#
+<sprite "ta02a004.agf" 4 4 11>
+<name "Macdo" "!ZA0088">
+"Darx."
+#
+<name "Darx">
+"Y-Yes?"
+#
+<sprite "ta02a005.agf" 4 4 12>
+<name "Macdo" "!ZA0089">
+"I believe I never formally spoke a promise
+ to you on behalf of our company since my
+ arrival."
+#
+<sprite "ta02a026.agf" 4 4 12>
+<name "Macdo" "!ZA0091">
+"Thank you for everything you've done.
+ Our company will continue supporting you in
+ your endeavors, now more than ever.
+ Thank you for your continued patronage."
+#
+<name "Darx">
+"H-Hey."
+#
+<sprite "ta02a028.agf" 4 4 12>
+<name "Macdo" "!ZA0092">
+"Of course, if you were to kick that garbage
+ angel business out on their asses, I would
+ be even more appreciative."
+#
+<name "Darx">
+"T-There's um, lots of, um... sorry."
+#
+<removesprite -1 11>
+<sprite "ta08a012.agf" 2 5 11>
+<sprite "ta02a028.agf" 6 4 11>
+<name "Rakia" "!ZC0150">
+"Macdo, Macdo.
+ Even the Great Lord can't turn away Anselm.
+ Please do not be unreasonable..."
+#
+<sprite "ta02a029.agf" 6 4 12>
+<name "Macdo" "!ZA0093">
+"Rrrrrr..."
+#
+<removesprite -1 11>
+<sprite "ta08a023.agf" 4 4 11>
+<name "Rakia" "!ZC0151">
+"Darx, thank you so much for not agreeing to
+ anything without consulting with us first.
+ We truly appreciate it."
+#
+<sprite "ta08a004.agf" 4 4 12>
+<name "Rakia" "!ZC0152">
+"And, Sofia."
+#
+<removesprite -1 11>
+<sprite "ta01a023.agf" 4 4 11>
+<name "Sofia" "!ZB0178">
+"Y-Yes?"
+#
+<removesprite -1 11>
+<sprite "ta08a016.agf" 4 4 11>
+<name "Rakia" "!ZC0153">
+"A lesson.
+ Come."
+#
+<removesprite -1 11>
+<sprite "ta08a016.agf" 2 4 11>
+<sprite "ta01a028.agf" 6 5 11>
+<name "Sofia" "!ZB0179">
+"Oohh..."
+#
+<removesprite -1 11>
+The three leave.
+#
+I flag a nearby Gunguskar maid over.
+#
+<name "Darx">
+"Why is Sofia getting a lesson?"
+#
+<sprite "ta34a002.agf" 4 4 11>
+<name "Company Maid" "!AC0042">
+"Umm... because they were caught completely by
+ surprise. It's a very big deal that they
+ didn't know someone was coming, especially
+ when it's Anselm."
+#
+<name "Company Maid" "!AC0043">
+"With one word from you, you could completely
+ shut Gunguskar out from the city."
+#
+<name "Darx">
+"...If they're that worried about it, why not
+ make an exclusive contract?"
+#
+<sprite "ta34a000.agf" 4 4 12>
+<name "Company Maid" "!AC0044">
+"It's company policy to not make such
+ agreements. Even if other businesses come,
+ we succeed by quality."
+#
+<name "Darx">
+"I see."
+#
+<removesprite -1 11>
+As I hear Sofia scream in the distance, I'm
+glad I didn't rush to make a decision.
+#
+<name "Darx">
+"So, why was it just accepted that Suisen
+ would be doing business here then?"
+#
+<sprite "ta34a000.agf" 4 4 11>
+<name "Company Maid" "!AC0045">
+"Don't you know there are some things that
+ it's pointless to resist?"
+#
+<name "Darx">
+"I see."
+#
+<removesprite -1 11>
+So what does it matter if Sofia warned them
+about it or not?
+#
+Well, I better just stay out of it.
+#
+\x78\x78

@@ -1,0 +1,213 @@
+﻿<music 11>
+<background "bg013a0.agf" 10>
+<sprite "ta05a003.agf" 4 4 11>
+<name "Kyuriha" "!FA0560">
+"Okay, let's go."
+#
+<removesprite -1 11>
+<sprite "ta05a003.agf" 2 4 11>
+<sprite "ta06a003.agf" 6 5 11>
+<name "Suisen" "!YA0321">
+"Yes."
+#
+<removesprite -1 11>
+<sprite "ta03a004.agf" 4 4 11>
+<name "Miartei" "!SA0280">
+"Let's do our best."
+#
+<removesprite -1 11>
+<name "Darx">
+"You three sure are fired up.
+ Where are you going?"
+#
+<removesprite -1 11>
+<sprite "ta04a005.agf" 4 4 11>
+<name "Rualtei" "!RA0250">
+"To a mixer."
+#
+<name "Darx">
+"Oh?"
+#
+<sprite "ta04a006.agf" 4 4 12>
+<name "Rualtei" "!RA0251">
+"Ah, but please remember that you're not part
+ of this particular setting."
+#
+<name "Darx">
+"I see.
+ Then should I participate on the men's side?"
+#
+<removesprite -1 11>
+<sprite "ta10a009.agf" 4 4 11>
+<name "Forzelotte" "!XA0307">
+"No you will not!"
+#
+<name "Darx">
+"Aah! Ah!
+ Hey! Ah!"
+#
+<removesprite -1 11>
+<sprite "ta11a009.agf" 4 4 11>
+<name "Kozelotte" "!NA0177">
+"Hya!"
+#
+<removesprite -1 11>
+<name "Darx">
+"Ugwa!"
+#
+<sprite "ta10a007.agf" 4 4 11>
+<name "Forzelotte" "!XA0308">
+"Okay, that calmed him down.
+ Let's take him home."
+#
+<removesprite -1 11>
+<sprite "ta11a012.agf" 2 4 11>
+<sprite "ta10a007.agf" 6 5 11>
+<name "Kozelotte" "!NA0178">
+"Yes, Mother."
+#
+<removesprite -1 11>
+<sprite "ta04a011.agf" 4 4 11>
+<name "Rualtei" "!RA0252">
+"...Those two are strong."
+#
+<sprite "ta04a002.agf" 4 4 12>
+<name "Rualtei" "!RA0253">
+"Um, let's get back on track."
+#
+<sprite "ta04a005.agf" 4 4 12>
+<name "Rualtei" "!RA0254">
+"Mr. Cameraman, follow those three."
+#
+<music 40>
+<background "bg004a0.agf" 10>
+<sprite "ta05a008.agf" 4 4 11>
+<name "Kyuriha" "!FA0561">
+"We're here."
+#
+<removesprite -1 11>
+<sprite "ta06a000.agf" 4 4 11>
+<name "Suisen" "!YA0322">
+"But it looks like they're not here yet."
+#
+<removesprite -1 11>
+<sprite "ta03a011.agf" 4 4 11>
+<name "Miartei" "!SA0281">
+"Making women wait loses you points."
+#
+<removesprite -1 11>
+<sprite "ta05a010.agf" 4 4 11>
+<name "Kyuriha" "!FA0562">
+"Seriously.
+ Anyway, now what?"
+#
+<removesprite -1 11>
+<sprite "ta06a005.agf" 4 4 11>
+<name "Suisen" "!YA0323">
+"Let's order drinks and wait."
+#
+<removesprite -1 11>
+<sprite "ta03a022.agf" 4 4 11>
+<name "Miartei" "!SA0282">
+"We can eat later."
+#
+<removesprite -1 11>
+Fifteen minutes later...
+#
+<sprite "ta05a014.agf" 4 4 11>
+<name "Kyuriha" "!FA0563">
+"Could they be late?"
+#
+<removesprite -1 11>
+<sprite "ta06a010.agf" 4 4 11>
+<name "Suisen" "!YA0324">
+"Well, let's wait patiently."
+#
+<removesprite -1 11>
+<sprite "ta03a005.agf" 2 4 11>
+<sprite "ta06a010.agf" 6 5 11>
+<name "Miartei" "!SA0283">
+"Could we order some food?"
+#
+<sprite "ta06a011.agf" 6 5 12>
+<name "Suisen" "!YA0325">
+"Keep it light."
+#
+<removesprite -1 11>
+Four hours later...
+#
+<removesprite -1 11>
+<sprite "ta05a016.agf" 4 4 11>
+<name "Kyuriha" "!FA0564">
+"They're not coming, are they?"
+#
+<removesprite -1 11>
+<sprite "ta06a012.agf" 4 4 11>
+<name "Suisen" "!YA0326">
+"They're not coming."
+#
+<removesprite -1 11>
+<sprite "ta03a024.agf" 4 4 11>
+<name "Miartei" "!SA0284">
+"Excuse me! More beef sashimi and beer!"
+#
+<removesprite -1 11>
+<background "bg016a0.agf" 10>
+\x2B\x2A 30 
+<background "bg015a0.agf" 10>
+The next morning...
+#
+<music 11>
+<background "bg013a0.agf" 10>
+<sprite "ta04a012.agf" 4 4 11>
+<name "Rualtei" "!RA0255">
+"They came home completely wasted."
+#
+<sprite "ta04a013.agf" 4 4 12>
+<name "Rualtei" "!RA0256">
+"I can't believe it wasn't even a one-night
+ stand, but they didn't show up at all..."
+#
+<sprite "ta04a017.agf" 4 4 12>
+<name "Rualtei" "!RA0257">
+"How can you even call that a mixer in any
+ way?"
+#
+<sprite "ta04a018.agf" 4 4 12>
+<name "Rualtei" "!RA0258">
+"They're sleeping now, but I'm scared of what
+ happens when they wake up.
+ Can't you do something?"
+#
+<name "Darx">
+"I'm sorry.
+ I've got nothing to do with those three in
+ this story, remember?"
+#
+<name "Darx">
+"Also, they put all their food and drinks on
+ my tab, so..."
+#
+<sprite "ta04a012.agf" 4 4 12>
+<name "Rualtei" "!RA0259">
+"I'm truly sorry."
+#
+<removesprite -1 11>
+<music 14>
+<background "bg015a0.agf" 10>
+The reason why the men didn't show up...
+#
+<name "Fleeing Man" "!MB0173">
+"I had no idea it'd be those three!"
+#
+<name "Tricked Man" "!CB0196">
+"I was told it'd be three liberal arts
+ students!"
+#
+<name "Despairing Man" "!KB0310">
+"I heard it'd be cute girls with animal ears!"
+#
+Apparently they saw them ahead of time and beat
+a hasty retreat.
+#
+\x78\x78

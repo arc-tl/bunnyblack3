@@ -1,0 +1,265 @@
+﻿<music 29>
+<background "bg028a0.agf" 10>
+<name "Company Maid" "!DC0092" "ka34c000.agf">
+"Somebody's collapsed over there."
+#
+<name "Darx">
+"Here?"
+#
+It's Suisen.
+#
+<sprite "ta06a016.agf" 4 4 11>
+<name "Suisen" "!YA0222">
+"Nngh..."
+#
+<name "Darx">
+"Capture her."
+#
+<sprite "ta06a017.agf" 4 4 12>
+<name "Suisen" "!YA0223">
+"Wait..."
+#
+<name "Darx">
+"Hm?"
+#
+<sprite "ta06a016.agf" 4 4 12>
+<name "Suisen" "!YA0224">
+"...I won't fight.
+ Listen to me."
+#
+<name "Darx">
+"We're being uncharacteristically well
+ behaved."
+#
+<sprite "ta06a017.agf" 4 4 12>
+<name "Suisen" "!YA0225">
+"I don't have the magic or the strength."
+#
+<removesprite -1 11>
+Well, after all I did to her, I'm not surprised
+she's having a hard time bouncing back.
+#
+When you think about it, it's impressive she
+made it even this far.
+#
+<sprite "ta06a017.agf" 4 4 11>
+<name "Suisen" "!YA0226">
+"I have a... favor to ask."
+#
+<name "Darx">
+"...What?
+ Say it."
+#
+<sprite "ta06a016.agf" 4 4 12>
+<name "Suisen" "!YA0227">
+"Rescue Sue."
+#
+<name "Darx">
+"Sue? Your snake?
+ Isn't it on your shoulder?"
+#
+<removesprite -1 11>
+Like always, she's got snakes all around her.
+#
+<sprite "ta06a017.agf" 4 4 11>
+<name "Suisen" "!YA0228">
+"This is Lou."
+#
+<sprite "ta06a016.agf" 4 4 12>
+<name "Suisen" "!YA0229">
+"They look exactly the same, but they're
+ different snakes."
+#
+<removesprite -1 11>
+She doesn't seem like she's joking.
+#
+<name "Darx">
+"...Continue."
+#
+<sprite "ta06a017.agf" 4 4 11>
+<name "Suisen" "!YA0230">
+"Sue wasn't there when you captured me."
+#
+<name "Darx">
+"Yeah, that seems true."
+#
+<removesprite -1 11>
+I know at least some of her snakes ran off 
+during the fight.
+#
+<sprite "ta06a016.agf" 4 4 11>
+<name "Suisen" "!YA0231">
+"She was absorbed by your body."
+#
+<name "Darx">
+"...What do you mean?"
+#
+<sprite "ta06a017.agf" 4 4 12>
+<name "Suisen" "!YA0232">
+"Your body went crazy for a while, yes?"
+#
+<name "Suisen" "!YA0233">
+"It's because Sue got mixed up with it."
+#
+<name "Suisen" "!YA0234">
+"I know you have questions."
+#
+<name "Suisen" "!YA0235">
+"It wasn't something that could just be done.
+ Not from the start."
+#
+<name "Suisen" "!YA0236">
+"That's why it took time to get everything
+ ready."
+#
+<name "Suisen" "!YA0237">
+"So that we could break the link between you
+ and your body and take it over."
+#
+<name "Suisen" "!YA0238">
+"But to do that, we needed you to not send your
+ mind to that body, but to keep sending mana
+ to it."
+#
+<sprite "ta06a016.agf" 4 4 12>
+<name "Suisen" "!YA0239">
+"That's why Wadatsumi... collected women for
+ you."
+#
+<sprite "ta06a017.agf" 4 4 12>
+<name "Suisen" "!YA0240">
+"When you're with a woman, you take away her
+ mana."
+#
+<sprite "ta06a016.agf" 4 4 12>
+<name "Suisen" "!YA0241">
+"As long as you're connected, you send that
+ mana to your body."
+#
+<name "Darx">
+"...So that's why you got all those demons
+ riled up against us?"
+#
+<name "Suisen" "!YA0242">
+"Yes, that's right."
+#
+<name "Darx">
+"...Hold on. Then the angels who stayed our
+ enemy targeting the demon men was also..."
+#
+<sprite "ta06a017.agf" 4 4 12>
+<name "Suisen" "!YA0243">
+"Yes, to force the women to you.
+ In other words... to sacrifice all the
+ remaining women to you."
+#
+<name "Suisen" "!YA0244">
+"But you didn't have sex with them as much as
+ we expected."
+#
+<name "Suisen" "!YA0245">
+"According to the rumors, you would have slept
+ with all of them."
+#
+<name "Suisen" "!YA0246">
+"So Wadatsumi had to make up for the missing
+ amount with Rualtei and Miartei."
+#
+<name "Suisen" "!YA0247">
+"Kyuriha... made her own decision, but I think
+ he expected her to act that way."
+#
+<sprite "ta06a016.agf" 4 4 12>
+<name "Suisen" "!YA0248">
+"Perhaps for me too."
+#
+<name "Darx">
+"So, I wouldn't realize and keep sending mana
+ to my other body."
+#
+<sprite "ta06a017.agf" 4 4 12>
+<name "Suisen" "!YA0249">
+"Yes."
+#
+<name "Suisen" "!YA0250">
+"Sue gradually combined with your body."
+#
+<name "Suisen" "!YA0251">
+"And according to the plan, Wadatsumi would
+ take control of it and Sue would leave it."
+#
+<name "Suisen" "!YA0252">
+"But she didn't come back."
+#
+<sprite "ta06a016.agf" 4 4 12>
+<name "Suisen" "!YA0253">
+"Instead, your body went berserk."
+#
+<name "Darx">
+"...Is Sue supposed to be able to completely
+ control my body?"
+#
+<name "Suisen" "!YA0254">
+"That's what I was told."
+#
+<name "Darx">
+"Did you tell it to drag off Forzelotte?"
+#
+<sprite "ta06a017.agf" 4 4 12>
+<name "Suisen" "!YA0255">
+"Huh?"
+#
+<sprite "ta06a016.agf" 4 4 12>
+<name "Suisen" "!YA0256">
+"That wasn't..."
+#
+<name "Darx">
+"So, according to your story..."
+#
+<name "Darx">
+"Sue manipulated my body, snatched up
+ Forzelotte and took her to Wadatsumi, killed
+ him, and has now gone berserk."
+#
+<sprite "ta06a017.agf" 4 4 12>
+<name "Suisen" "!YA0257">
+"Wadatsumi is dead?"
+#
+<name "Darx">
+"Yeah."
+#
+<sprite "ta06a016.agf" 4 4 12>
+<name "Suisen" "!YA0258">
+"No..."
+#
+<name "Darx">
+"I have a lot more to ask you, but now's not
+ the time for a chat."
+#
+<name "Darx">
+"...I'll keep you safe.
+ Go back and get some rest."
+#
+<sprite "ta06a017.agf" 4 4 12>
+<name "Suisen" "!YA0259">
+"Sue... What about Sue..."
+#
+<name "Darx">
+"I'll do what I can."
+#
+<sprite "ta06a016.agf" 4 4 12>
+<name "Suisen" "!YA0260">
+"I-I'm begging... you..."
+#
+<name "Darx">
+"Much better behaved now."
+#
+<name "Darx">
+"I wish you had been like this before..."
+#
+<sprite "ta06a017.agf" 4 4 12>
+<name "Suisen" "!YA0261">
+"..."
+#
+<removesprite -1 11>
+\x2B\x78\x78

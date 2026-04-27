@@ -1,0 +1,202 @@
+﻿<music 9>
+<background "ev075b00.agf" 10>
+Wadatsumi falls.
+#
+<name "Darx">
+"Tie him up.
+ I have questions for him."
+#
+<name "Company Maid" "!PC0077">
+"Sir.
+ And Forzelotte..."
+#
+<name "Darx">
+"Yeah, you're right."
+#
+<background "ev075a00.agf" 10>
+She's wrapped up in my other body, but I'm able
+to free her almost disappointingly easily.
+#
+<name "Darx">
+"Are you okay?"
+#
+<name "Forzelotte" "!XA0024">
+"Mm."
+#
+<name "Darx">
+"Did they do anything sexy?"
+#
+<name "Forzelotte" "!XA0025">
+"I feel that there are more important 
+ questions...
+ But no. They just stopped me from moving."
+#
+<name "Darx">
+"Good."
+#
+<name "Forzelotte" "!XA0026">
+"Mm.
+ Thank you for your concern."
+#
+<name "Darx">
+"Don't mention it."
+#
+<name "Company Maid" "!PC0078">
+"Overlord, what should we do with your other
+ body?"
+#
+It's just sitting there, completely inert.
+#
+<name "Darx">
+"We can't just leave it here..."
+#
+<name "Company Maid" "!PC0079">
+"Can you not absorb it back into yourself?"
+#
+It is part of me, so I should be able to 
+bring it back.
+#
+<name "Darx">
+"...I don't want it."
+#
+<name "Forzelotte" "!XA0027">
+"It's a waste of so much mana, but is our only
+ choice to destroy it?"
+#
+<name "Darx">
+"Seems like it."
+#
+I still have a lot of questions, but there's
+no other choice.
+#
+I attack my other body.
+#
+It falls effortlessly.
+#
+Because it's back to its usual strength.
+#
+<name "Company Maid" "!PC0080">
+"That's a relief."
+#
+<name "Darx">
+"Yeah.
+ ...Hm?"
+#
+It should be dead, but it instantly regenerates
+from the wound.
+#
+<name "Darx">
+"What?"
+#
+I don't remember giving it that power.
+#
+I sense danger and brace myself.
+#
+At the same time, dozens of tentacles whip out
+from it and attack me.
+#
+<name "Darx">
+"Ngh!"
+#
+I slash one, but another immediately takes its
+place.
+#
+There's no end to them.
+#
+<name "Forzelotte" "!XA0028">
+"Darx!"
+#
+I hear her scream.
+#
+She's wrapped up in tentacles.
+#
+<name "Darx">
+"Forzelotte!"
+#
+<name "Forzelotte" "!XA0029">
+"Nnngh!"
+#
+She disappears into the writhing mass.
+#
+<name "Darx">
+"Tch!
+ Don't underestimate me!"
+#
+<background "ev075d00.agf" 10>
+<name "Wadatsumi" "!MA0044">
+"Wahahahahaha!
+ No! You will not!
+ Human!"
+#
+Wadatsumi is suddenly standing next to my body
+again.
+#
+<name "Darx">
+"Ah!"
+#
+<background "ev075d01.agf" 12>
+A tentacle stabs out and pierces him through
+the chest.
+#
+<name "Wadatsumi" "!MA0045">
+"Huh?"
+#
+Looks like that caught him by surprise.
+#
+He looks down at the tentacles coming out of
+his chest in disbelief.
+#
+And then dies with a groan.
+#
+<background "ev075a00.agf" 10>
+A quake rocks the entire area.
+#
+<name "Company Maid" "!PC0081">
+"Overlord!
+ It's going to collapse!
+ We have to retreat!"
+#
+<name "Darx">
+"Like hell!
+ Forze's still in there!"
+#
+<name "Forzelotte" "!XA0030">
+"I'll be fine.
+ Live."
+#
+<name "Darx">
+"Forze!"
+#
+<name "Forzelotte" "!XA0031">
+"It's just holding me, not doing anything, 
+ the same as before.
+ I don't think that it's going to do 
+ anything to me just yet."
+#
+<name "Forzelotte" "!XA0032">
+"Withdraw and regroup."
+#
+<name "Darx">
+"Sorry, but I can't do that!"
+#
+I swing my sword, aiming for where I think I
+can cut her loose.
+#
+<name "Darx">
+"There!"
+#
+<background "ev075e00.agf" 10>
+I find her hand, grab it, and pull her out in
+one motion.
+#
+<background "ev075a00.agf" 10>
+<name "Forzelotte" "!XA0033">
+"Ngh...
+ You are reckless."
+#
+<name "Darx">
+"Up and move."
+#
+I grab her and we run away as fast as we can.
+#
+\x78\x78

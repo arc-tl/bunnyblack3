@@ -1,0 +1,94 @@
+﻿<music 4>
+<background "bg009a0.agf" 10>
+<name "Thinking Guard" "!QB0203">
+"The Overlord...
+ He's tough on his enemies, but kind to his
+ allies."
+#
+<name "Resting Guard" "!WB0218">
+"Yeah."
+#
+<name "Thinking Guard" "!QB0204">
+"But actually, it's more like this."
+#
+<name "Darx" "ka00a000.agf">
+"Hey! Swallow my semen already!
+ Don't spit it out!"
+#
+<name "Darx" "ka00a000.agf">
+"Hahaha.
+ Until morning?
+ Don't be ridiculous.
+ We're gonna do this for three days!"
+#
+<name "Darx" "ka00a000.agf">
+"Oh? You're tired?
+ Eeh? You can't go any more?
+ Then maybe we'll have one of your friends take
+ your place."
+#
+<name "Resting Guard" "!WB0219">
+"...So corny jerk porn?
+ No, more like an overbearing giggolo."
+#
+<name "Thinking Guard" "!QB0205">
+"But once you're an ally..."
+#
+<name "Darx" "ka00a000.agf">
+"Are you okay?
+ You're living okay in the city?
+ Let me know if there are any problems.
+ Oh, I can pull some strings."
+#
+<name "Darx" "ka00a000.agf">
+"Huh?
+ Do your boobs miss me?
+ Okay, I'll suck them!"
+#
+<name "Resting Guard" "!WB0220">
+"More of a overprotective and spoiling type?"
+#
+<name "Thinking Guard" "!QB0206">
+"I have a conclusion fromthat.
+ It's..."
+#
+<name "Resting Guard" "!WB0221">
+"It's what?"
+#
+<name "Thinking Guard" "!QB0207">
+"Assuming he doesn't have a split
+ personality..."
+#
+<name "Resting Guard" "!WB0222">
+"He doesn't."
+#
+<name "Thinking Guard" "!QB0208">
+"He's a sex fiend who just divides his play
+ between friends and foe!"
+#
+<name "Resting Guard" "!WB0223">
+"I see."
+#
+<name "Darx">
+"Okay, then it's sex time from the sex fiend.
+ Time for you to learn that even my allies can
+ get the overbearing jerk treatment."
+#
+<name "Darx">
+"Oh, but don't worry.
+ I'll be with you for three or four days."
+#
+<name "Thinking Guard" "!QB0209">
+"E-Eep!"
+#
+<name "Resting Guard" "!WB0224">
+"I'm sorry."
+#
+...
+#
+<name "Wise Guard" "!TC0186">
+"I knew it would turn out like this, so I 
+ stayed clear of that conversation from the
+ start."
+#
+\x78\x78

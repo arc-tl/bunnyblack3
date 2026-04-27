@@ -1,0 +1,38 @@
+﻿<music 3>
+<background "bg010a0.agf" 10>
+<sprite "ta01a033.agf" 4 4 11>
+<name "Sofia" "!ZB5015">
+"Okay, it's event time!"
+#
+<name "Darx">
+"Yeah!
+ ...Is what I'd say, but you haven't told me
+ what you're doing."
+#
+<sprite "ta01a027.agf" 4 4 12>
+<name "Sofia" "!ZB5016">
+"Don't worry about the little details!"
+#
+<name "Darx">
+"Hold on."
+#
+<name "Sofia" "!ZB5017">
+"Don't worry about it!"
+#
+<name "Darx">
+"I haven't okayed anything!"
+#
+<name "Sofia" "!ZB5018">
+"Don't worry..."
+#
+<name "Darx">
+"I'll tell Rakia on you."
+#
+<sprite "ta01a037.agf" 4 4 12>
+<name "Sofia" "!ZB5019">
+"I'm sorry.
+ Please forgive me.
+ I'll quickly summarize for you."
+#
+<removesprite -1 11>
+\x2B\x78\x78

@@ -1,0 +1,55 @@
+﻿<music 8>
+<background "ev054a00.agf" 10>
+<name "Proposing Student" "!HC0064">
+"It's Izana's love class!♪"
+#
+<name "Izana" "!AA0066">
+"Huh?
+ What's that?"
+#
+<name "Proposing Student" "!HC0065">
+"A love class."
+#
+<name "Izana" "!AA0067">
+"You said that already...
+ What am I supposed to do?"
+#
+<name "Proposing Student" "!HC0066">
+"Let's see.
+ Ah, I know!
+ Tell us about how you fell in love with the
+ Overlord."
+#
+<name "Izana" "!AA0068">
+"A-Ahaha..."
+#
+<name "Izana" "!AA0070">
+"Never ask the immigrants from Celestia about
+ that."
+#
+<name "Proposing Student" "!HC0067">
+"Huh?"
+#
+<name "Izana" "!AA0071">
+"I'm serious.
+ It's strictly off-limits."
+#
+<name "Kozelotte" "!NA0167">
+"Ma'am, I'll add it to the school rules."
+#
+<name "Izana" "!AA0072">
+"You absolutely should."
+#
+<name "Proposing Student" "!HC0068">
+"What does that mean?"
+#
+<name "Izana" "!AA0073">
+"You'll understand when you get older."
+#
+<name "Kozelotte" "!NA0168">
+"Ignorance is bliss."
+#
+<name "Proposing Student" "!HC0069">
+"I-I don't get it."
+#
+\x78\x78

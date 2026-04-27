@@ -1,0 +1,77 @@
+﻿<music 18>
+<background "ev058b00.agf" 10>
+<name "Filliane" "!GA0038">
+"Ah...ah...aah...aaah..."
+#
+<name "Marialis" "!LA0105">
+"Ah...aah...mmm...mmm...aah!"
+#
+I keep fucking both Filliane and Marialis.
+#
+<background "ev058b01.agf" 10>
+<name "Filliane" "!GA0039">
+"Ah! Aaah!"
+#
+<name "Marialis" "!LA0106">
+"Ahhhhhh!"
+#
+And come over and over.
+#
+I can't even count the number of times the 
+two of them have come either.
+#
+<music 5>
+<background "bg011a0.agf" 10>
+<sprite "ta15a120.agf" 4 4 11>
+<name "Marialis" "!LA0107">
+"Aaah..."
+#
+<removesprite -1 11>
+<name "Filliane" "!GA0040" "ka25a000.agf">
+"Satisfied.♪"
+#
+<name "Darx">
+"You guys have gotten really strong."
+#
+<name "Filliane" "!GA0041" "ka25a000.agf">
+"Well, our relationship with you has been
+ long and frequent."
+#
+<name "Darx">
+"I see."
+#
+<name "Filliane" "!GA0042" "ka25a000.agf">
+"Also, you were into pretty hard play back at
+ the start."
+#
+<name "Darx">
+"I guess."
+#
+They were both originally enemies.
+#
+<name "Filliane" "!GA0043" "ka25a000.agf">
+"But you're so gentle now."
+#
+<name "Darx">
+"You can still take it?"
+#
+<name "Filliane" "!GA0044" "ka25a000.agf">
+"I'm writhing in joy."
+#
+<name "Darx">
+"Marialis?"
+#
+<sprite "ta15a116.agf" 4 4 11>
+<name "Marialis" "!LA0108">
+"Um... I think it'd be a waste to pass out."
+#
+<name "Darx">
+"..."
+#
+<removesprite -1 11>
+They really are lovable.
+#
+I took a shower and got changed, but ended up
+attacking them for one more round.
+#
+\x78\x78

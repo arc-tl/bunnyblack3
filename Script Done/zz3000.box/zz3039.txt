@@ -1,0 +1,28 @@
+﻿<music 11>
+<background "bg013a0.agf" 10>
+<sprite "ta15a004.agf" 4 4 11>
+<name "Marialis" "!LA5041">
+"Overlord.
+ Overlord."
+#
+<name "Darx">
+"What is it?"
+#
+<sprite "ta15a005.agf" 4 4 12>
+<name "Marialis" "!LA5042">
+"There's cover over there!"
+#
+<name "Darx">
+"..."
+#
+<removesprite -1 11>
+<music 17>
+<background "ev091a00.agf" 10>
+<name "Darx">
+"That's a very explicit invitation."
+#
+<name "Marialis" "!LA5043">
+"Still, I love that you know exactly what I
+ mean."
+#
+\x78\x78

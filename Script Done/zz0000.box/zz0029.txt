@@ -1,0 +1,119 @@
+﻿<music 16>
+<background "ev024a00.agf" 10>
+<name "Rualtei" "!RA0207">
+"Let's go!"
+#
+<music 20>
+<background "ev025a03.agf" 10>
+<name "Rualtei" "!RA0208">
+"Eek! You got me!"
+#
+<music 11>
+<background "bg008a0.agf" 10>
+<sprite "ta06a014.agf" 4 4 11>
+<name "Suisen" "!YA0048">
+"...She might genuinely have talent."
+#
+<removesprite -1 11>
+<sprite "ta05a010.agf" 2 4 11>
+<sprite "ta06a014.agf" 6 5 11>
+<name "Kyuriha" "!FA0199">
+"Indeed."
+#
+<removesprite -1 11>
+<sprite "ta03a004.agf" 4 4 11>
+<name "Miartei" "!SA0160">
+"She does.
+ It's true.
+ She is a genius."
+#
+<sprite "ta03a024.agf" 4 4 12>
+<name "Miartei" "!SA0161">
+"Some day, she might even pass me...
+ As if that day will ever come!
+ No older sister will ever allow their little
+ sister to surpass them!"
+#
+<removesprite -1 11>
+<sprite "ta05a010.agf" 2 4 11>
+<sprite "ta06a014.agf" 6 5 11>
+<name "Suisen" "!YA0049">
+"U-Um..."
+#
+<sprite "ta05a015.agf" 2 4 12>
+<name "Kyuriha" "!FA0200">
+"Well, it's true...
+ Even we couldn't use the Fulmination Rod,
+ so I think Miartei's understanding is greatly
+ mistaken."
+#
+<removesprite -1 11>
+<sprite "ta03a007.agf" 4 4 11>
+<name "Miartei" "!SA0162">
+"That was back then.
+ I could use it now."
+#
+<removesprite -1 11>
+<sprite "ta05a014.agf" 2 4 11>
+<sprite "ta06a016.agf" 6 5 11>
+<name "Suisen" "!YA0050">
+"We don't know how to activate it though."
+#
+<sprite "ta05a015.agf" 2 4 12>
+<name "Kyuriha" "!FA0201">
+"We could always ask someone high up in the 
+ Holy Spirit, but they'd probably get mad and
+ take it away from us."
+#
+<removesprite -1 11>
+<sprite "ta03a014.agf" 4 4 11>
+<name "Miartei" "!SA0163">
+"That's why we threw it in a storehouse and
+ never saw it again.
+ I can't believe she took it out without
+ permission..."
+#
+<sprite "ta03a000.agf" 4 4 12>
+<name "Miartei" "!SA0164">
+"I remember now.
+ I need to be very angry about this."
+#
+<sprite "ta03a008.agf" 4 4 12>
+<name "Miartei" "!SA0165">
+"Rualtei!
+ Come here this instant."
+#
+<removesprite -1 11>
+<sprite "ta03a009.agf" 2 4 11>
+<sprite "ta04a005.agf" 6 5 11>
+<name "Rualtei" "!RA0209">
+"What is it?"
+#
+<sprite "ta03a007.agf" 2 4 12>
+<name "Miartei" "!SA0166">
+"Do not take my belongings without permission.
+ How many times do I have to tell you this?"
+#
+<sprite "ta04a017.agf" 6 5 12>
+<name "Rualtei" "!RA0210">
+"But I wanted to have something that belonged
+ to you."
+#
+<sprite "ta03a019.agf" 2 4 12>
+<name "Miartei" "!SA0167">
+"Honestly. You're such a spoiled child."
+#
+<removesprite -1 11>
+...
+#
+<name "Darx">
+"Huh?
+ Isn't she just a siscon?"
+#
+<sprite "ta05a019.agf" 4 4 11>
+<name "Kyuriha" "!FA0202">
+"Darx, there are some things you shouldn't say,
+ even if you notice it."
+#
+<removesprite -1 11>
+\x2B\x78\x78

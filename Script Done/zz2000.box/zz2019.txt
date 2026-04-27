@@ -1,0 +1,12 @@
+﻿<music 11>
+<background "bg013a0.agf" 10>
+<name "Housewife Citizen" "!GB0273">
+"Set free what you don't need.
+ Collect what you do."
+#
+<name "Housewife Citizen" "!GB0274">
+"Bazaars are great."
+#
+The bazaar was a success.
+#
+\x78\x78

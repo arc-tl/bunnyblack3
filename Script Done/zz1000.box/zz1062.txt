@@ -1,0 +1,33 @@
+﻿<music 8>
+<background "ev047b00.agf" 10>
+<name "Concerned Student" "!RB0112">
+"Ms. Logius seems unusually on guard."
+#
+<name "Regular Student" "!LB0096">
+"Is she worried about boys peeping?"
+#
+<name "Concerned Student" "!RB0113">
+"It doesn't seem like she's embarrassed.
+ If anything, more like murderous...
+ Ah, she cast a spell."
+#
+<name "Guarding Student" "!GB0089">
+"Peeping tom captured!"
+#
+<name "Logius" "!PA0071">
+"The Overlord!?"
+#
+<name "Guarding Student" "!GB0090">
+"No."
+#
+<name "Logius" "!PA0072">
+"Tch."
+#
+<name "Concerned Student" "!RB0114">
+"She seems really annoyed by that."
+#
+<name "Regular Student" "!LB0097">
+"Hahaha...
+ Let's pretend we didn't see anything."
+#
+\x78\x78

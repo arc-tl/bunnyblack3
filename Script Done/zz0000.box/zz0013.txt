@@ -1,0 +1,46 @@
+﻿<music 11>
+<background "bg008a0.agf" 10>
+<name "Man No. 1" "!ZH0138">
+"A situation you'd never find in an anime or a
+ manga!"
+#
+<name "Man No. 1" "!ZH0139">
+"A new student who shows up partway through 
+ isn't good enough!"
+#
+<name "Man No. 2" "!MB0171">
+"The new student who shows up that way doesn't
+ get involved with the protagonist's group."
+#
+<name "Man No. 3" "!CB0194">
+"They're not bombarded with questions from 
+ their classmates."
+#
+<name "Man No. 4" "!KB0309">
+"They don't act in any kind of unuusal way."
+#
+<name "Man No. 5" "!BC0223">
+"They immediately skip school."
+#
+<name "Man No. 6" "!ZD0179">
+"...Isn't that just a new student who was
+ bullied somewhere else?"
+#
+<name "Man No. 1" "!ZH0140">
+"Ah, if you think about it like that, it could
+ be that kind of situation."
+#
+<name "Man No. 2" "!MB0172">
+"But if the main story is a fighting thing,
+ then..."
+#
+<music 15>
+<background "ev076a00.agf" 10>
+<name "Man No. 6" "!ZD0180">
+"I think it's probably impossible discuss this
+ kind of situation here."
+#
+<name "Man No. 3" "!CB0195">
+"I just wanted something with escapism."
+#
+\x78\x78

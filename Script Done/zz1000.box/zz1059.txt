@@ -1,0 +1,122 @@
+﻿<music 29>
+<background "bg028a0.agf" 10>
+<name "Darx">
+"Whew..."
+#
+The battle's over.
+#
+<music 9>
+<background "ev078a00.agf" 10>
+<name "Darx">
+"...I wish I could say, but I can't."
+#
+<name "Macdo" "!ZA5006">
+"We have to hit it all at once with an
+ overwhelming attack."
+#
+<name "Darx">
+"Macdo."
+#
+<name "Macdo" "!ZA5007">
+"If left alone, it'd likely destroy our new
+ branch."
+#
+<name "Darx">
+"So what's the overwhelming attack?"
+#
+<name "Macdo" "!ZA5008">
+"The Dynast's Mace."
+#
+<name "Macdo" "!ZA5010">
+"That Celestial weapon used by Rualtei that 
+ they call the Fulmination Rod.
+ If we remove the seal on it, it could work."
+#
+<name "Darx">
+"That's it!"
+#
+<name "Darx">
+"Call Rualtei!"
+#
+<name "Rualtei" "!RA5003">
+"I-I'm already here..."
+#
+<name "Rualtei" "!RA5005">
+"I don't know how to break the seal."
+#
+<name "Rualtei" "!RA5008">
+"If my sister or Kyuriha or Suisen were
+ here..."
+#
+<name "Darx">
+"Macdo, you brought it up.
+ You know how to break the seal, right?"
+#
+<name "Macdo" "!ZA5011">
+"Of course."
+#
+<name "Darx">
+"What do we need to do?"
+#
+<name "Macdo" "!ZA5012">
+"You don't do anything.
+ I'll break the seal."
+#
+<name "Darx">
+"You can?"
+#
+<name "Macdo" "!ZA5013">
+"The Dynast's Mace was created by my family.
+ So was the seal."
+#
+<name "Macdo" "!ZA5015">
+"I've heard how to do it."
+#
+<name "Darx">
+"Ooh!"
+#
+<name "Macdo" "!ZA5016">
+"However, you'll have to use it."
+#
+<name "Darx">
+"Rualtei can't do it?"
+#
+<name "Macdo" "!ZA5017">
+"The Dynast's Mace is a weapon for humans."
+#
+<name "Darx">
+"I see."
+#
+<name "Macdo" "!ZA5018">
+"Okay, the rest is up to you."
+#
+<name "Darx">
+"Got it!"
+#
+I take the Fulmination Rod... the Dynast's Mace
+from her.
+#
+<name "Rualtei" "!RA5009">
+"Um, that's my weapon though..."
+#
+<name "Darx">
+"Thank you too.
+ You took good care of it."
+#
+<name "Rualtei" "!RA5010">
+"H-Hmph."
+#
+<name "Rualtei" "!RA5012">
+"D-Don't screw it up."
+#
+<name "Darx">
+"Leave it to me!"
+#
+Yeah.
+#
+I'm the Overlord.
+#
+I'm going to finish this here and now.
+#
+<background "bg017a0.agf" 10>
+\x2B\x78\x78

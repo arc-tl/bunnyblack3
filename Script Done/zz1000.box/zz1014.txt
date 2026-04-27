@@ -1,0 +1,467 @@
+﻿<music 5>
+<background "bg011a0.agf" 10>
+There's an unusual visitor waiting in my
+room.
+#
+<sprite "ta10a005.agf" 4 4 11>
+<name "Forzelotte" "!XA0040">
+"You look well."
+#
+<name "Darx">
+"Forzelotte?
+ And in that form..."
+#
+She can change the size of her body however
+she wants, but this isn't actually her.
+#
+If it was, her ability to absorb mana would
+have already at least knocked out every single
+person in the Overlord's Retreat, if not
+killed them.
+#
+She doesn't want that to happen, so she almost
+never leaves her room deep inside Forzelotte's
+Shrine.
+#
+There would also be some functional problems
+with Forzelotte's Shrine if she left.
+#
+So it's clear that this isn't her changing
+her size.
+#
+If it was, there would have been carnage and
+chaos all around us right now.
+#
+Which means...
+#
+<name "Darx">
+"A clone?"
+#
+<removesprite -1 11>
+Like my tentacles, she can create a separate
+body out of her mana.
+#
+This isn't what that is though.
+#
+If it was a clone, it'd still have her mana
+absorption powers.
+#
+So a fake?
+#
+But it looks just like her, and it feels like
+her mana.
+#
+<sprite "ta10a004.agf" 4 4 11>
+<name "Forzelotte" "!XA0041">
+"Oh, I don't mind explaining.
+ Your wife is sad."
+#
+<name "Darx">
+"I knew it.
+ It is you."
+#
+<sprite "ta10a005.agf" 4 4 12>
+<name "Forzelotte" "!XA0042">
+"Mmhmm, but not quite me."
+#
+<name "Darx">
+"What do you mean?"
+#
+<sprite "ta10a006.agf" 4 4 12>
+<name "Forzelotte" "!XA0043">
+"The mana within this body is entirely mine."
+#
+<sprite "ta10a005.agf" 4 4 12>
+<name "Forzelotte" "!XA0044">
+"So you would not be wrong to say this body is
+ mine."
+#
+<sprite "ta10a004.agf" 4 4 12>
+<name "Forzelotte" "!XA0045">
+"But it is not a clone.
+ I am controlling it directly."
+#
+<name "Darx">
+"Huh?"
+#
+<sprite "ta10a005.agf" 4 4 12>
+<name "Forzelotte" "!XA0046">
+"You can think about it like I'm controlling a
+ body that I created with mana from afar."
+#
+<name "Darx">
+"Then what about the real you?"
+#
+<sprite "ta10a006.agf" 4 4 12>
+<name "Forzelotte" "!XA0047">
+"Asleep in my room in Forzelotte's Shrine."
+#
+<sprite "ta10a005.agf" 4 4 12>
+<name "Forzelotte" "!XA0048">
+"And as I'm sure you've noticed, there is a
+ significant advantage to this body."
+#
+<name "Darx">
+"You don't suck up all the mana around you."
+#
+<sprite "ta10a024.agf" 4 4 12>
+<name "Forzelotte" "!XA0049">
+"I can by and large suppress it."
+#
+<name "Darx">
+"Are you sure?"
+#
+<sprite "ta10a021.agf" 4 4 12>
+<name "Forzelotte" "!XA0050">
+"Mmhmm, but it is limited to just around me.
+ I will absorb it if it comes into physical
+ contact."
+#
+<name "Darx">
+"Not... perfect then, huh?"
+#
+<sprite "ta10a020.agf" 4 4 12>
+<name "Forzelotte" "!XA0051">
+"Nothing is."
+#
+<sprite "ta10a022.agf" 4 4 12>
+<name "Forzelotte" "!XA0052">
+"It's not even a tenth as strong as my true
+ body, and if something were to happen to me
+ while I was controlling this, it would have
+ a significant effect."
+#
+<sprite "ta10a020.agf" 4 4 12>
+<name "Forzelotte" "!XA0053">
+"Furthermore, if I release control of this
+ body too far away from my actual body, it
+ will disintegrate and be difficult to
+ reconstruct."
+#
+<sprite "ta10a022.agf" 4 4 12>
+<name "Forzelotte" "!XA0054">
+"It is not a path to strength, nor a skill 
+ many learn because the main body is left
+ helpless, but mine attacks those around it
+ regardless of my will anyway."
+#
+<name "Darx">
+"So it works for you."
+#
+<sprite "ta10a024.agf" 4 4 12>
+<name "Forzelotte" "!XA0055">
+"Well, it is useful if you are able to
+ overlook its faults."
+#
+<sprite "ta10a005.agf" 4 4 12>
+<name "Forzelotte" "!XA0056">
+"I can even eat and sleep with this body."
+#
+<name "Darx">
+"Where does the mana you absorb go?"
+#
+<sprite "ta10a006.agf" 4 4 12>
+<name "Forzelotte" "!XA0057">
+"It accumulates naturally in this body."
+#
+<sprite "ta10a005.agf" 4 4 12>
+<name "Forzelotte" "!XA0058">
+"If I release control near my real body, the
+ mana will pass to it."
+#
+<sprite "ta10a004.agf" 4 4 12>
+<name "Forzelotte" "!XA0059">
+"Hm?
+ What is it?"
+#
+<name "Darx">
+"T-That's incredible!"
+#
+<sprite "ta10a024.agf" 4 4 12>
+<name "Forzelotte" "!XA0060">
+"You may continue your praise."
+#
+<name "Darx">
+"Wow!
+ Incredible!"
+#
+<sprite "ta10a023.agf" 4 4 12>
+<name "Forzelotte" "!XA0061">
+"Hahahaha...
+ Why are you picking me up under your arm and
+ carrying me to the bed?"
+#
+<name "Darx">
+"Hahahahaha!"
+#
+<sprite "ta10a018.agf" 4 4 12>
+<name "Forzelotte" "!XA0062">
+"Ah, hey, w-wait...
+ Eh? Ah!"
+#
+<removesprite -1 11>
+<music 19>
+<background "ev044a00.agf" 10>
+I take the little Forzelotte to the bed and
+get started right away.
+#
+<name "Forzelotte" "!XA0063">
+"Mm...
+ Y-You're... t-too rough."
+#
+<name "Darx">
+"Am I?"
+#
+After caressing her thoroughly, I stuck it in.
+She's more than wet enough.
+#
+<background "ev044a01.agf" 10>
+<name "Forzelotte" "!XA0064">
+"Mmhmm.
+ Aah... Y-You're always a little more...
+ Aah...ah...ah...ah!"
+#
+<name "Darx">
+"A little more what?"
+#
+I continue and interrupt her.
+#
+<name "Forzelotte" "!XA0065">
+"Mmmm...
+ H-Honestly...
+ Aahhh..."
+#
+<name "Darx">
+"What?"
+#
+<name "Forzelotte" "!XA0066">
+"D-Do as you wish."
+#
+<name "Darx">
+"Got it."
+#
+I grab her ankles and spread her legs.
+#
+Her tiny body is wide open.
+#
+And my dick is buried deep inside her.
+#
+When I look at her face...
+#
+<name "Forzelotte" "!XA0067">
+"I told you to do as you like.
+ Just get moving and amuse yourself."
+#
+I doubt she really means that, but I can
+definitely see her saying that and start
+moving my hips.
+#
+<name "Forzelotte" "!XA0068">
+"Ah...ah...aaah!"
+#
+Slowly to start.
+#
+But soon intensely, forcing her small body
+up.
+#
+But I pull her legs down and force her close.
+#
+<name "Forzelotte" "!XA0069">
+"Aah! Ah! Ahhh!"
+#
+My dick looks even bigger going into her tiny
+body.
+#
+And the tip of my dick is pressing against her
+womb.
+#
+<name "Forzelotte" "!XA0070">
+"Aah! Ahh! Aaah! Ah! Aah!"
+#
+But she accepts it.
+#
+<name "Forzelotte" "!XA0071">
+"Aah! Ah! Mmmm! Aah! Ah!"
+#
+Knowing that, I don't hold back.
+#
+Doing it intensely is a way of showing my 
+love, so I completely violate her small body.
+#
+<name "Forzelotte" "!XA0072">
+"Aah! Ah! Aaah! Ahhh!"
+#
+At the same time as I feel her start to 
+orgasm from where we're connected, my dick
+starts to ejaculate too.
+#
+<background "ev044a02.agf" 10>
+<name "Forzelotte" "!XA0073">
+"Aaaaaahhhhhhh!"
+#
+I come at the exact same time as she does.
+#
+<name "Forzelotte" "!XA0074">
+"Ah...aah...ah...aaaaah..."
+#
+She soaks in the afterglow.
+#
+I move my hips and my dick inside her again.
+#
+<name "Forzelotte" "!XA0075">
+"Aah!"
+#
+<name "Darx">
+"It's been a long time, so I wouldn't go
+ easy."
+#
+<name "Forzelotte" "!XA0076">
+"Aah...ah... 
+ That's what I want...
+ Give me everything you have..."
+#
+<name "Darx">
+"Yeah."
+#
+I enjoy myself with her without reserve.
+#
+<background "ev044a03.agf" 10>
+<name "Forzelotte" "!XA0077">
+"Ah...ahh...ahh..."
+#
+Over and over again...
+#
+<background "ev044a04.agf" 10>
+<name "Forzelotte" "!XA0078">
+"T-That's about enough..."
+#
+Relentlessly.
+#
+<background "ev044a05.agf" 10>
+<name "Forzelotte" "!XA0079">
+"T-That's enough already..."
+#
+<name "Darx">
+"It's you.
+ I can keep going."
+#
+<name "Forzelotte" "!XA0080">
+"..."
+#
+<background "ev044a06.agf" 10>
+<name "Forzelotte" "!XA0081">
+"Very well.
+ I will stay with you until you're satisfied."
+#
+<name "Darx">
+"Of course."
+#
+<background "bg017a0.agf" 10>
+<music 5>
+<background "bg016a0.agf" 10>
+Three days later...
+#
+<background "bg011a0.agf" 10>
+<sprite "ta10a010.agf" 4 4 11>
+<name "Forzelotte" "!XA0082">
+"Y-You...
+ I've wondered for a while, but do you prefer
+ this kind of small figure?"
+#
+<name "Darx">
+"Hm?"
+#
+<sprite "ta10a127.agf" 4 4 12>
+<name "Forzelotte" "!XA0083">
+"That was quite intense."
+#
+<name "Darx">
+"Because it was with you.
+ Also, you in that form is pretty arousing."
+#
+<sprite "ta10a113.agf" 4 4 12>
+<name "Forzelotte" "!XA0084">
+"T-That's, um...
+ A form from long ago, perhaps?"
+#
+<removesprite -1 11>
+The first time we did it, she looked like
+this.
+#
+<name "Darx">
+"Want to keep going?"
+#
+<sprite "ta10a013.agf" 4 4 11>
+<name "Forzelotte" "!XA0085">
+"Hmm. That's a tempting invitation, but I do
+ have something unfortunate to share."
+#
+<name "Darx">
+"Hm?"
+#
+<sprite "ta10a012.agf" 4 4 12>
+<name "Forzelotte" "!XA0086">
+"This body cannot become pregnant.
+ If possible, I'd prefer the real one."
+#
+<name "Darx">
+"Ah, well, I see."
+#
+<sprite "ta10a005.agf" 4 4 12>
+<name "Forzelotte" "!XA0087">
+"But my mind is here.
+ Well, I will not be angry even if we did."
+#
+<name "Darx">
+"Let's not worry about the little things for
+ today."
+#
+<sprite "ta10a024.agf" 4 4 12>
+<name "Forzelotte" "!XA0088">
+"Mm."
+#
+<removesprite -1 11>
+<background "bg016a0.agf" 10>
+Another day later...
+#
+<background "bg011a0.agf" 10>
+<sprite "ta10a121.agf" 4 4 11>
+<name "Forzelotte" "!XA0089">
+"T-That was quite sadistic..."
+#
+<name "Darx">
+"I'd keep going if there wasn't work to do."
+#
+<sprite "ta10a020.agf" 4 4 12>
+<name "Forzelotte" "!XA0090">
+"I as well.
+ I'm worried... both about my body and the
+ children."
+#
+<name "Darx">
+"...Sorry for always making you take care of
+ the kids by yourself."
+#
+<sprite "ta10a005.agf" 4 4 12>
+<name "Forzelotte" "!XA0091">
+"I only have the good times thanks to 
+ Filliane and Kasha."
+#
+<name "Darx">
+"Right?"
+#
+<sprite "ta10a006.agf" 4 4 12>
+<name "Forzelotte" "!XA0092">
+"And raising your children is too much for me
+ anyway."
+#
+<name "Darx">
+"Grr...
+ I will come home now and then."
+#
+<sprite "ta10a024.agf" 4 4 12>
+<name "Forzelotte" "!XA0093">
+"Of course you will."
+#
+<removesprite -1 11>
+\x2B\x78\x78

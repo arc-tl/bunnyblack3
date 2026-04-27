@@ -1,0 +1,31 @@
+﻿<music 40>
+<background "bg004a0.agf" 10>
+<sprite "ta34a000.agf" 2 4 11>
+<sprite "ta34b000.agf" 6 5 11>
+<name "Experienced Maid" "!DC0066">
+"Hasn't Macdo softened lately?"
+#
+<name "Junior Maid" "!PC0050">
+"Yeah.
+ Well, the strictness of her work hasn't
+ changed."
+#
+<name "Experienced Maid" "!DC0067">
+"The executives of Gunguskar don't let
+ emotions influence them."
+#
+<sprite "ta34b001.agf" 6 5 12>
+<name "Junior Maid" "!PC0051">
+"At first, it felt like emotions completely
+ controlled her though..."
+#
+<name "Experienced Maid" "!DC0068">
+"Ah, I guess it was like that."
+#
+<sprite "ta34b000.agf" 6 5 12>
+<name "Junior Maid" "!PC0052">
+"Anyway, work.
+ Let's do our best."
+#
+<removesprite -1 11>
+\x2B\x78\x78

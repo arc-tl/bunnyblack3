@@ -1,0 +1,67 @@
+﻿<music 4>
+<background "bg009a0.agf" 10>
+<name "Brenda" "!QB0093">
+"Frenda, have you decided what you're going
+ to do for the next talent show?"
+#
+<name "Frenda" "!WB0083">
+"That's a secret."
+#
+<name "Brenda" "!QB0094">
+"If it's a secret, that means you've already
+ got something!"
+#
+<name "Frenda" "!WB0084">
+"Ooh... I let it slip in my haste.
+ It was pointless keeping it secret."
+#
+<name "Brenda" "!QB0095">
+"That's right. No point in it.
+ So tell me what you're going to do."
+#
+<name "Frenda" "!WB0085">
+"The helping hands act."
+#
+<name "Brenda" "!QB0096">
+"...What's that?"
+#
+<name "Frenda" "!WB0086">
+"I learned it from a dragon who came from the
+ east.
+ I bet it'll be pretty popular."
+#
+<name "Brenda" "!QB0097">
+"Can I do it too?"
+#
+<name "Frenda" "!WB0087">
+"You could, but...
+ A talent show is a competition, and we're
+ enemies."
+#
+<name "Brenda" "!QB0098">
+"I-I guess..."
+#
+<name "Frenda" "!WB0088">
+"There's still time until it.
+ Think hard to come up with your own act.
+ Oh, maybe you could try asking some human
+ adventurers for something."
+#
+<name "Frenda" "!WB0089">
+"They know a lot of things that'd be good for
+ a secret talent."
+#
+<name "Brenda" "!QB0099">
+"That'd be good.
+ It's a nice idea, but I wonder if they'd
+ honestly tell me."
+#
+<name "Frenda" "!WB0090">
+"Hmm... Then..."
+#
+For a while, there were rumors about a 
+strange fallen angel in the Forest of the
+Overlord who would let you get away if you
+could show her an unusual trick.
+#
+\x78\x78

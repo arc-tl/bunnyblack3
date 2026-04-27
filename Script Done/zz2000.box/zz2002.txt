@@ -1,0 +1,77 @@
+﻿<music 10>
+<background "ev056a00.agf" 10>
+<name "Mylene" "!TC0078">
+"Brenda and Frenda... 
+ Your names are confusing because they're so
+ similar."
+#
+<name "Brenda" "!QB0087">
+"You're saying that now?"
+#
+<name "Frenda" "!WB0078">
+"Hasn't it been a pretty long time since we
+ met each other?"
+#
+<name "Mylene" "!TC0079">
+"Yeah, but... I still think about it.
+ It's not like you're sisters."
+#
+<name "Brenda" "!QB0088">
+"There's a lot of people out there, so some
+ people just have similar names."
+#
+<name "Frenda" "!WB0079">
+"That's right."
+#
+<name "Mylene" "!TC0080">
+"But similar names, similar circumstances,
+ both squad leaders in the same unit."
+#
+<name "Mylene" "!TC0081">
+"Isn't that confusing?"
+#
+<name "Brenda" "!QB0089">
+"It's not confusing.
+ Nobody's gotten it wrong yet, have they?"
+#
+<name "Mylene" "!TC0082">
+"I guess, but, um..."
+#
+<name "Frenda" "!WB0080">
+"Then why don't we don't try making your name
+ like it too?"
+#
+<name "Mylene" "!TC0083">
+"Huh?"
+#
+<name "Frenda" "!WB0081">
+"Brenda, Frenda, and... 
+ How about Glenda?"
+#
+<name "Brenda" "!QB0090">
+"Brenda, Frenda, Glenda."
+#
+<name "Brenda" "!QB0091">
+"I think our subordinates might have an issue
+ with that."
+#
+<name "Mylene" "!TC0084">
+"See? It is confusing."
+#
+<name "Frenda" "!WB0082">
+"It's because there's three.
+ Two is fine."
+#
+<name "Marialis" "!LA0068">
+"Yes, yes.
+ No chitchat while on the job.
+ Brenda, Frenda, Glenda.
+ Are there any issues?"
+#
+<name "Brenda" "!QB0092">
+"N-None."
+#
+<name "Mylene" "!TC0085">
+"N-None, but please go back to Mylene."
+#
+\x78\x78

@@ -1,0 +1,23 @@
+﻿<music 18>
+<background "ev033a00.agf" 10>
+<name "Rualtei" "!RA0211">
+"Sister, is there something wrong with me?"
+#
+<name "Miartei" "!SA0199">
+"What do you mean?"
+#
+<name "Rualtei" "!RA0212">
+"I swear I see something completely
+ unbelievable."
+#
+<name "Miartei" "!SA0200">
+"Don't worry.
+ Actually, so do I."
+#
+<name "Rualtei" "!RA0213">
+"...Should we come back later?"
+#
+<name "Miartei" "!SA0201">
+"Let's do that."
+#
+\x78\x78

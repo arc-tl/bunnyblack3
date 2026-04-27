@@ -1,0 +1,349 @@
+﻿<music 3>
+<background "bg010a0.agf" 10>
+<name "Darx">
+"Ao, Tamaga, got a minute?"
+#
+<sprite "ta19a000.agf" 2 5 11>
+<sprite "ta17a000.agf" 6 4 11>
+<name "Ao" "!WA0090">
+"What is it?"
+#
+<name "Darx">
+"I want to know why you attacked the city."
+#
+<sprite "ta19a001.agf" 2 5 12>
+<name "Ao" "!WA0091">
+"Huh?"
+#
+<name "Darx">
+"You attacked here, right?
+ I want the reason why."
+#
+<sprite "ta19a000.agf" 2 5 12>
+<name "Ao" "!WA0092">
+"Um, it's kind of a long story, I guess?"
+#
+<name "Darx">
+"That's fine."
+#
+<sprite "ta19a003.agf" 2 5 12>
+<name "Ao" "!WA0093">
+"Then I'll tell you.
+ Tamaga, jump in if you have anything to add
+ or I make a mistake."
+#
+<sprite "ta17a001.agf" 6 4 12>
+<name "Tamaga" "!PB0084">
+"Okay."
+#
+<removesprite -1 11>
+<sprite "ta19a000.agf" 4 4 11>
+<name "Ao" "!WA0094">
+"First off, it all started right before the
+ castle fell."
+#
+<sprite "ta19a001.agf" 4 4 12>
+<name "Ao" "!WA0095">
+"We were warned to run away before it fell."
+#
+<sprite "ta19a002.agf" 4 4 12>
+<name "Ao" "!WA0096">
+"Nobody controlled the area, but it was a
+ genuine warning.
+ All of us who lived around that area took
+ shelter."
+#
+<sprite "ta19a001.agf" 4 4 12>
+<name "Ao" "!WA0097">
+"Then the castle fell just like they said.
+ Everywhere was wrecked."
+#
+<sprite "ta19a002.agf" 4 4 12>
+<name "Ao" "!WA0098">
+"And just when we thought it was over, another
+ castle came along, and then another and
+ another. After running away to the edges,
+ we couldn't get back to our homes."
+#
+<name "Darx">
+"I see."
+#
+<sprite "ta19a001.agf" 4 4 12>
+<name "Ao" "!WA0099">
+"After a while, we got a message from the
+ Netherworld that things had calmed down and
+ it was safe to go back."
+#
+<removesprite -1 11>
+<sprite "ta19a001.agf" 2 5 11>
+<sprite "ta17a000.agf" 6 4 11>
+<name "Tamaga" "!PB0085">
+"I heard around then that there was going to
+ be an attempt to take control of that area."
+#
+<removesprite -1 11>
+I left dealing with that area up the Meryl.
+#
+Maybe it's okay to tell them that.
+#
+<sprite "ta19a001.agf" 4 4 11>
+<name "Ao" "!WA0100">
+"Some of the smaller groups joined peacefully,
+ but most of them refused to submit."
+#
+<sprite "ta19a000.agf" 4 4 12>
+<name "Ao" "!WA0101">
+"It'd been hundreds of years outside of
+ Forzelotte's control. Every group was like
+ their own kingdom.
+ They wouldn't just give that up."
+#
+<name "Darx">
+"Hmm."
+#
+<sprite "ta19a001.agf" 4 4 12>
+<name "Ao" "!WA0102">
+"And when we tried to go back home, we couldn't
+ because angels were spreading out from the
+ fallen castles."
+#
+<name "Ao" "!WA0103">
+"Of course, that led to battle."
+#
+<removesprite -1 11>
+<sprite "ta19a001.agf" 2 5 11>
+<sprite "ta17a014.agf" 6 4 11>
+<name "Tamaga" "!PB0086">
+"That's when they killed our men."
+#
+<removesprite 6 11>
+<removesprite -1 11>
+<sprite "ta19a001.agf" 4 4 11>
+<name "Ao" "!WA0104">
+"Yeah. For some reason, they mercilessly
+ targeted the men."
+#
+<sprite "ta19a010.agf" 4 4 12>
+<name "Ao" "!WA0105">
+"Because of that, Tamaga and I became leaders.
+ Same with the other groups."
+#
+<sprite "ta19a011.agf" 4 4 12>
+<name "Ao" "!WA0106">
+"We kept fighting, but things were only getting
+ worse.
+ So we formed an alliance."
+#
+<name "Darx">
+"Better than falling apart."
+#
+<sprite "ta19a000.agf" 4 4 12>
+<name "Ao" "!WA0107">
+"Yeah.
+ Actually, it worked too."
+#
+<removesprite -1 11>
+<sprite "ta19a000.agf" 2 5 11>
+<sprite "ta17a000.agf" 6 4 11>
+<name "Tamaga" "!PB0087">
+"The angels backed down."
+#
+<sprite "ta19a001.agf" 2 5 12>
+<name "Ao" "!WA0108">
+"We outnumbered them."
+#
+<sprite "ta19a010.agf" 2 5 12>
+<name "Ao" "!WA0109">
+"And we started actually being able to fight
+ back, but when we were trying to get back to
+ our original homes..."
+#
+<sprite "ta17a001.agf" 6 4 12>
+<name "Tamaga" "!PB0088">
+"Forzelotte set up a city on the south side
+ where there hadn't been as much damage."
+#
+<name "Darx">
+"Forzelotte did?"
+#
+<removesprite 6 11>
+<removesprite -1 11>
+<sprite "ta19a001.agf" 4 4 11>
+<name "Ao" "!WA0110">
+"Yeah. Our information then was bad.
+ You had already become Overlord, but we
+ thought she still was."
+#
+<name "Darx">
+"I see.
+ So you attacked the city?"
+#
+<sprite "ta19a010.agf" 4 4 12>
+<name "Ao" "!WA0111">
+"Yes, but..."
+#
+<sprite "ta19a011.agf" 4 4 12>
+<name "Ao" "!WA0112">
+"At the time, um..."
+#
+<name "Darx">
+"What is it?
+ Be clear."
+#
+<sprite "ta19a010.agf" 4 4 12>
+<name "Ao" "!WA0113">
+"The castle falling and angels attacking us...
+ There were rumors that it was all a plot to
+ make this city."
+#
+<name "Darx">
+"..."
+#
+<sprite "ta19a001.agf" 4 4 12>
+<name "Ao" "!WA0114">
+"I'm not dumb enough to believe a rumor like
+ that, but I looked into the information, and
+ apparently whoever knocked down the castle
+ is in this city."
+#
+<removesprite -1 11>
+<sprite "ta19a001.agf" 2 5 11>
+<sprite "ta17a000.agf" 6 4 11>
+<name "Tamaga" "!PB0089">
+"If we didn't attack the city, we wouldn't 
+ just not have an alliance, we wouldn't be
+ able to keep what we had together."
+#
+<name "Darx">
+"I see.
+ So that's why you attacked."
+#
+<removesprite 6 11>
+<removesprite -1 11>
+<sprite "ta19a000.agf" 4 4 11>
+<name "Ao" "!WA0115">
+"Yeah."
+#
+<name "Darx">
+"Okay.
+ I understand better.
+ Thank you."
+#
+<sprite "ta19a001.agf" 4 4 12>
+<name "Ao" "!WA0116">
+"It's nothing."
+#
+<removesprite -1 11>
+<sprite "ta17a000.agf" 4 4 11>
+<name "Tamaga" "!PB0090">
+"Overlord."
+#
+<name "Darx">
+"Hm?"
+#
+<sprite "ta17a002.agf" 4 4 12>
+<name "Tamaga" "!PB0091">
+"Is it true the person who made the castle
+ fall is in this city?"
+#
+<name "Darx">
+"What? You really don't know?"
+#
+<sprite "ta17a011.agf" 4 4 12>
+<name "Tamaga" "!PB0092">
+"Huh?"
+#
+<name "Darx">
+"It's me."
+#
+<name "Darx">
+"Oh, but I didn't drop it for fun."
+#
+<name "Darx">
+"That castle was about to engage in a very
+ dangerous attack. If I hadn't dropped it,
+ things would have ended up far worse."
+#
+<removesprite -1 11>
+<sprite "ta19a015.agf" 4 4 11>
+<name "Ao" "!WA0117">
+"O-Oh, really?"
+#
+<name "Darx">
+"I wonder if that got twisted."
+#
+<sprite "ta19a010.agf" 4 4 12>
+<name "Ao" "!WA0118">
+"...Yeah."
+#
+<name "Darx">
+"It's the truth.
+ If you want, you can ask others about it."
+#
+<sprite "ta19a009.agf" 4 4 12>
+<name "Ao" "!WA0119">
+"No, I don't doubt you...
+ But why did the information that we got get
+ so confused?"
+#
+<removesprite -1 11>
+<sprite "ta17a010.agf" 4 4 11>
+<name "Tamaga" "!PB0093">
+"Right.
+ I never heard anything like what you just
+ told us."
+#
+<name "Darx">
+"You think somebody been deliberating feeding
+ you bad information?"
+#
+<removesprite -1 11>
+<sprite "ta19a000.agf" 4 4 11>
+<name "Ao" "!WA0120">
+"Yes."
+#
+<name "Darx">
+"But who gains from that?"
+#
+<sprite "ta19a001.agf" 4 4 12>
+<name "Ao" "!WA0121">
+"You're right..."
+#
+<removesprite -1 11>
+<sprite "ta19a001.agf" 2 5 11>
+<sprite "ta17a010.agf" 6 4 11>
+<name "Tamaga" "!PB0095">
+"If they can manipulate information that much,
+ wouldn't it be better to work first on
+ improving the relationships between the 
+ groups?"
+#
+<sprite "ta19a010.agf" 2 5 12>
+<name "Ao" "!WA0122">
+"Maybe we're overthinking it."
+#
+<name "Darx">
+"Well, it's something to keep in mind."
+#
+<sprite "ta19a003.agf" 2 5 12>
+<name "Ao" "!WA0123">
+"Y-Yes."
+#
+<removesprite -1 11>
+...
+#
+I agree with her, but something's still not
+adding up.
+#
+If someone was manipulating information...
+Who? And why?
+#
+I think it's safe to assume it's probably the
+angels holed up in the castle...
+#
+I'm not sure we can figure this out yet.
+#
+Like I told them, we just need to stay on
+guard.
+#
+\x78\x78

@@ -1,0 +1,63 @@
+﻿<music 8>
+<background "ev029a00.agf" 10>
+<name "Kyuriha" "!FA0391">
+"I was shy and withdrawn.
+ Miartei and Suisen dragged me out with them."
+#
+<name "Kyuriha" "!FA0392">
+"Those were good childhood memories."
+#
+<name "Darx">
+"That's not how it seemed from that one CG."
+#
+<name "Sofia" "!ZB0231">
+"If anything, you were the ringleader."
+#
+<name "Marialis" "!LA0043">
+"That animal you were riding on was also a
+ cow famous in Celestia for its rampages."
+#
+<name "Ultinia" "!EA0010">
+"It did seem like you were running amok
+ however you pleased."
+#
+<name "Izana" "!AA0010">
+"Even we never went that far..."
+#
+<music 16>
+<background "ev030b01.agf" 10>
+<name "Kyuriha" "!FA0393">
+"All of you are noisome."
+#
+<name "Darx">
+"Aah! Don't look into the eye of the fan!
+ You'll burn up!"
+#
+<name "Ultinia" "!EA0011">
+"Kyuriha, don't lose your temper just because
+ we said the truth."
+#
+<name "Kyuriha" "!FA0394">
+"I decided to be graceful!"
+#
+<name "Kyuriha" "!FA0395">
+"That black history must be erased from my
+ memory.
+ And so must the people involved..."
+#
+<name "Miartei" "!SA0223">
+"Kyuriha, aren't we your precious friends?"
+#
+<name "Suisen" "!YA0063">
+"Your best friends!"
+#
+<name "Izana" "!AA0011">
+"Gutsy to try to just save themselves.
+ Pathetic.
+ Truly pathetic!"
+#
+<name "Miartei" "!SA0224">
+"Izana, please come see me behind the 
+ schoolhouse later."
+#
+\x78\x78

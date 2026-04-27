@@ -1,0 +1,48 @@
+﻿<music 50>
+<background "ev045a07.agf" 10>
+<name "Forzelotte" "!XA0206">
+"Aah...ahh...aah..."
+#
+<name "Darx">
+"Forze."
+#
+<name "Forzelotte" "!XA0207">
+"Aah...ah...hm?"
+#
+<name "Darx">
+"You're adorable."
+#
+<name "Forzelotte" "!XA0208">
+"O-Of course."
+#
+<name "Darx">
+"..."
+#
+<name "Forzelotte" "!XA0209">
+"Huh?
+ Ah, h-hey... H-Honestly...
+ Why would I expect anything else..."
+#
+I lust for her more.
+#
+<background "bg017a0.agf" 10>
+<music 41>
+<background "bg003a0.agf" 10>
+<sprite "ta09a016.agf" 4 4 11>
+<name "Forzelotte" "!XA0210">
+"E-Every time you come back, I end up worn
+ out."
+#
+<name "Darx">
+"Should I not?"
+#
+<sprite "ta09a023.agf" 4 4 12>
+<name "Forzelotte" "!XA0211">
+"...Do not ask questions you know the answer
+ to."
+#
+<name "Darx">
+"Thought so."
+#
+<removesprite -1 11>
+\x2B\x78\x78

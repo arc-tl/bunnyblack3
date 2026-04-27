@@ -1,0 +1,254 @@
+﻿<music 39>
+<background "bg002a0.agf" 10>
+<name "Mery's Subordinate" "!QB0074">
+"Meryl, the report's finished."
+#
+<sprite "ta12a001.agf" 4 4 11>
+<name "Meryl" "!HA0013">
+"Okay.
+ Then I'm off to see the Overlord."
+#
+<name "Mery's Subordinate" "!QB0075">
+"Leave here to us."
+#
+<sprite "ta12a003.agf" 4 4 12>
+<name "Meryl" "!HA0014">
+"Yes."
+#
+<removesprite -1 11>
+...
+#
+<sprite "ta02a000.agf" 4 4 11>
+<name "Macdo" "!ZA0321">
+"Meryl, a moment?"
+#
+<removesprite -1 11>
+<sprite "ta12a000.agf" 2 4 11>
+<sprite "ta02a000.agf" 6 5 11>
+<name "Meryl" "!HA0015">
+"What can I do for you, Macdo?"
+#
+<sprite "ta02a001.agf" 6 5 12>
+<name "Macdo" "!ZA0322">
+"I hear you're going to see Darx.
+ I'd like to come."
+#
+<sprite "ta12a001.agf" 2 4 12>
+<name "Meryl" "!HA0016">
+"With me?"
+#
+<sprite "ta02a000.agf" 6 5 12>
+<name "Macdo" "!ZA0323">
+"Is there an issue?"
+#
+<sprite "ta12a010.agf" 2 4 12>
+<name "Meryl" "!HA0017">
+"No, none at all.
+ Please, come along."
+#
+<sprite "ta02a004.agf" 6 5 12>
+<name "Macdo" "!ZA0324">
+"Mm."
+#
+<removesprite -1 11>
+<music 18>
+<background "ev055a00.agf" 10>
+<name "Meryl" "!HA0018">
+"This matter was handled like usual, but we
+ ran into a couple problems, so let me explain
+ what we're doing about them."
+#
+<background "ev055b00.agf" 10>
+<name "Meryl" "!HA0019">
+"First, for starters, look at this report.
+ These are the progress schedules A and B for
+ the eastern reconstruction work."
+#
+<name "Meryl" "!HA0020">
+"The group performing schedule A ran into an
+ unexpected problem. Investigating what caused
+ that is the first issue we need to focus on."
+#
+<name "Darx">
+"Does that even matter?"
+#
+<name "Meryl" "!HA0021">
+"I think they're related.
+ I was surprised too.
+ Next, looking at schedule B, the first part
+ of the problem is..."
+#
+<name "Macdo" "!ZA0325">
+"I-I apologize for interrupting your report,
+ but... could I have a moment?"
+#
+<name "Darx">
+"What is it?"
+#
+<name "Macdo" "!ZA0326">
+"Do you always report like this?"
+#
+<name "Meryl" "!HA0022">
+"Yes, that's right."
+#
+I'm lying naked in bed with Meryl on top of
+me, also naked, straddling me with my dick 
+inside her.
+#
+She moves her hips to stimulate me as she gives
+her report.
+#
+<name "Meryl" "!HA0023">
+"Isn't this the best way to prove I'm not
+ hiding anything?"
+#
+<name "Macdo" "!ZA0327">
+"The best way?
+ This is the best way?"
+#
+<name "Meryl" "!HA0024">
+"Oh, don't worry about the position.
+ It took some tries, but we picked this
+ position because it's the easiest to read
+ reports."
+#
+<name "Macdo" "!ZA0328">
+"No, that's not what I meant by best..."
+#
+<name "Macdo" "!ZA0329">
+"I'd been watching you closely the whole time,
+ and didn't see you give him any kind of
+ signal.
+ Do you really do this every time you report?"
+#
+<name "Meryl" "!HA0025">
+"Mm... Overlord.
+ You aren't allowed to move.
+ I have to be the one to move to prove my
+ obedience and loyalty."
+#
+<name "Meryl" "!HA0026">
+"Right, Macdo?"
+#
+<name "Macdo" "!ZA0330">
+"..."
+#
+<name "Macdo" "!ZA0331">
+"Pardon me, but if this is going to continue,
+ I'm excusing myself."
+#
+<name "Macdo" "!ZA0332">
+"Don't worry about me.
+ I'll go home once I finish my business."
+#
+<name "Meryl" "!HA0027">
+"Are you sure?
+ That's a shame.
+ I was hoping to enjoy your company once I
+ finished my report."
+#
+<name "Macdo" "!ZA0333">
+"I'm not into that.
+ Excuse me."
+#
+She beats a hasty retreat.
+#
+<name "Darx">
+"...Don't rile her up so much.
+ She'll take it out on me."
+#
+<name "Meryl" "!HA0028">
+"But she did take you from us."
+#
+<name "Meryl" "!HA0029">
+"Teasing her this much is fine."
+#
+<name "Darx">
+"I guess."
+#
+She doesn't actually report like this every
+time.
+#
+That was completely improvised.
+#
+We're close enough to be able to pick up on
+each other like that.
+#
+<name "Meryl" "!HA0030">
+"Anyway, it'd be trouble if she decides to
+ come back, so let me continue the report."
+#
+<name "Darx">
+"Yeah, go ahead."
+#
+She continues while moving her hips.
+#
+By the time she finishes, I had come twice.
+#
+<name "Darx">
+"You've gotten pretty good."
+#
+<name "Meryl" "!HA0031">
+"Against my will."
+#
+Meryl's possibly who I've been with more than
+anybody else.
+#
+She was my boss when I was Forzelotte's minion,
+but she caused an incident, got demoted, and
+ended up answering to me.
+#
+We've had a physical relationship ever since
+then.
+#
+<name "Meryl" "!HA0032">
+"Okay, on to the next report."
+#
+<name "Darx">
+"Hm?
+ I thought you were finished."
+#
+<name "Meryl" "!HA0033">
+"It's been so long, it'd be a little sad to
+ leave it at just that."
+#
+<name "Darx">
+"That's true...
+ Then how about a report on the virtues of 
+ your body?"
+#
+<name "Meryl" "!HA0034">
+"Yes, sir.
+ I think that report is best investigated
+ personally."
+#
+<name "Darx">
+"Yeah."
+#
+I thrust my hips and push her upward.
+#
+<background "ev055b01.agf" 10>
+<name "Meryl" "!HA0035">
+"Ah!"
+#
+And then she falls, plunging my dick deep into
+her pussy.
+#
+<background "ev055c00.agf" 10>
+<name "Meryl" "!HA0036">
+"Aah! Ah! Aaah!"
+#
+Despite forcing me to come twice, she hasn't
+come yet, so her pussy is incredibly tender.
+#
+She must've been holding back.
+#
+<background "ev055c01.agf" 10>
+<name "Meryl" "!HA0037">
+"Aah! Ahh! Ahhh! Aaaah! Ah! Aah!
+ O-Overlord!"
+#
+She orgasms with a loud cry and takes my
+third shot of semen into her.
+#
+\x78\x78

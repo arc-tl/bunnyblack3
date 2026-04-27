@@ -1,0 +1,85 @@
+﻿<music 14>
+<background "ev018d00.agf" 10>
+<name "Kyuriha" "!FA0375">
+"This table and these chairs..."
+#
+<name "Miartei" "!SA0213">
+"I ordered them from Celestia."
+#
+<name "Miartei" "!SA0214">
+"Your tea is fine, but mine isn't bad either."
+#
+<name "Kyuriha" "!FA0376">
+"Indeed."
+#
+<name "Rualtei" "!RA0223">
+"Sister, the cake is ready."
+#
+<name "Miartei" "!SA0215">
+"Thank you.
+ Please have a seat yourself too."
+#
+<name "Rualtei" "!RA0224">
+"Okay."
+#
+<name "Kyuriha" "!FA0377">
+"Having tea with you, with this table and
+ these chairs, it reminds me of before we
+ came here."
+#
+<name "Miartei" "!SA0216">
+"Yes."
+#
+<name "Kyuriha" "!FA0378">
+"I went out of my way to warn you, and you
+ decided to meddle anyway..."
+#
+<name "Miartei" "!SA0217">
+"H-Hahaha...
+ Please forget that."
+#
+<name "Kyuriha" "!FA0379">
+"...Um..."
+#
+<name "Miartei" "!SA0218">
+"What is it?"
+#
+<name "Kyuriha" "!FA0380">
+"Why did you ignore my warning?"
+#
+<name "Miartei" "!SA0219">
+"Huh?"
+#
+<name "Kyuriha" "!FA0381">
+"I knew you hated the Netherworld, but I don't
+ think that would be enough for you to ignore
+ me and start acting."
+#
+<name "Miartei" "!SA0220">
+"That's... um... huh?"
+#
+<name "Kyuriha" "!FA0384">
+"Are you saying Suisen incited you?"
+#
+<name "Miartei" "!SA0221">
+"...I do remember Suisen coming to see me.
+ Huh?"
+#
+<name "Kyuriha" "!FA0385">
+"Do you know anything, Rualtei?"
+#
+<name "Rualtei" "!RA0225">
+"N-No?
+ I just got orders from my sister and followed
+ them."
+#
+<name "Kyuriha" "!FA0386">
+"This means...
+#
+<name "Miartei" "!SA0222">
+"Was Suisen up to something?"
+#
+<name "Kyuriha" "!FA0387">
+"It does seem possible."
+#
+\x78\x78

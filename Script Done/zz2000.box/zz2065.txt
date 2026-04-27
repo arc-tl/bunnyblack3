@@ -1,0 +1,77 @@
+﻿<music 3>
+<background "bg010a0.agf" 10>
+<name "Darx">
+"That reminds me, are you all women?"
+#
+I've only ever seen women of Raffino's 
+species.
+#
+<sprite "ta20a001.agf" 4 4 11>
+<name "Raffino" "!EB0043">
+"For us, it's very rare for a man to be born."
+#
+<name "Darx">
+"Oh?
+ So there are none here?"
+#
+<sprite "ta20a000.agf" 4 4 12>
+<name "Raffino" "!EB0044">
+"No, there's two.
+ But they're still young children."
+#
+<name "Darx">
+"The lifeline of your kind?"
+#
+<sprite "ta20a001.agf" 4 4 12>
+<name "Raffino" "!EB0045">
+"Yes."
+#
+<name "Darx">
+"Take good care of them."
+#
+<sprite "ta20a011.agf" 4 4 12>
+<name "Raffino" "!EB0046">
+"Huh?"
+#
+<name "Darx">
+"Hm?
+ Did I say something wrong?"
+#
+<sprite "ta20a004.agf" 4 4 12>
+<name "Raffino" "!EB0047">
+"N-No.
+ We will."
+#
+<name "Darx">
+"Yeah, do that."
+#
+<name "Darx">
+"And if that's the case, I'll help you have
+ children.
+ Send any willing women to my room."
+#
+<sprite "ta20a020.agf" 4 4 12>
+<name "Raffino" "!EB0048">
+"No thank you."
+#
+<name "Darx">
+"...You're getting used to things, huh?"
+#
+<sprite "ta20a004.agf" 4 4 12>
+<name "Raffino" "!EB0049">
+"Yes."
+#
+<name "Darx">
+"Then just you is fine.
+ Come to my room."
+#
+<sprite "ta20a005.agf" 4 4 12>
+<name "Raffino" "!EB0050">
+"Understood.
+ Please be gentle."
+#
+<name "Darx">
+"Yeah."
+#
+<removesprite -1 11>
+\x2B\x78\x78

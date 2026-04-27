@@ -1,0 +1,54 @@
+﻿<music 4>
+<background "bg009a0.agf" 10>
+<name "Darx">
+"I'm not sure how I feel about buying and
+ selling breast milk..."
+#
+<sprite "ta34b000.agf" 4 4 11>
+<name "Company Maid" "!PC0138">
+"Thank you for your business."
+#
+<removesprite -1 11>
+<name "Darx">
+"But you're selling it yourself, huh?"
+#
+<name "Yahnu" "!NB0023" "ka24a003.agf">
+"It's one of the angolamay's main sources of
+ income. We're happy so long as it sells for a
+ tidy profit."
+#
+<name "Darx">
+"I see."
+#
+<background "ev068b00.agf" 10>
+<name "Darx">
+"Ah, but back then, weren't you really mad at
+ me?"
+#
+<name "Yahnu" "!NB0024">
+"I'm fine selling it myself, but having it 
+ squeezed out of me by force?
+ Yeah, I hate that."
+#
+<name "Darx">
+"Like, it's embarrassing?"
+#
+<background "bg009a0.agf" 10>
+<name "Yahnu" "!NB0025" "ka24a005.agf">
+"It's the pride of a craftsman.
+ Conditions have slight effects on the taste 
+ too. The taste can also change at both the
+ start and end of lactation."
+#
+<name "Yahnu" "!NB0026" "ka24a006.agf">
+"You just drained it all into bottles without
+ thinking about any of that, so it was 
+ definitely low quality. I'd be ashamed to
+ sell that with my name on it."
+#
+<name "Darx">
+"...S-Sorry for forcibly milking you."
+#
+I apologized meekly.
+#
+\x78\x78

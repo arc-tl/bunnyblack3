@@ -1,0 +1,38 @@
+﻿<music 11>
+<background "bg008a0.agf" 10>
+<name "Participating Citizen" "!ZD0164">
+"I'm fine with a fishing tournament, but isn't
+ that pond man-made?
+ Are there any fish?"
+#
+<sprite "ta34a000.agf" 4 4 11>
+<name "Company Maid" "!DC0491">
+"There are fish.
+ Many of been released there in consideration
+ for the ecosystem."
+#
+<name "Participating Citizen" "!ZD0165">
+"Oh? But in that case, isn't it bad to catch
+ them?
+ You'll destroy the ecosystem."
+#
+<name "Company Maid" "!DC0516">
+"No, it's..."
+#
+<name "Participating Citizen" "!ZD0166">
+"Hm?"
+#
+<name "Company Maid" "!DC0492">
+"We released too many big fish, and we'll be
+ in trouble if they're not caught...
+ Catch and eat, please."
+#
+<name "Participating Citizen" "!ZD0167">
+"Meaning that the pond's ecosystem is in the
+ hands of us fishermen.
+ Leave it us!"
+#
+<removesprite -1 11>
+The fishing tournament was a success.
+#
+\x78\x78

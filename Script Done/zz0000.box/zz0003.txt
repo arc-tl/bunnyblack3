@@ -1,0 +1,92 @@
+﻿<music 40>
+<background "bg004a0.agf" 10>
+<sprite "ta08a011.agf" 4 4 11>
+<name "Rakia" "!ZC0489">
+"This game is putting my spot in danger."
+#
+<sprite "ta08a009.agf" 4 4 12>
+<name "Rakia" "!ZC0490">
+"Maybe I need to be a little more enticing..."
+#
+<name "Darx">
+"Don't you think you were enticing enough in 
+ the game?"
+#
+<sprite "ta08a008.agf" 4 4 12>
+<name "Rakia" "!ZC0491">
+"It wasn't enough!
+ I need to do more to cement my place as a
+ fixture heroine!"
+#
+<removesprite -1 11>
+<sprite "ta09a010.agf" 4 4 11>
+<name "Forzelotte" "!XA0300">
+"...A fixture heroine?"
+#
+<removesprite -1 11>
+<sprite "ta09a010.agf" 2 4 11>
+<sprite "ta11a004.agf" 6 5 11>
+<name "Kozelotte" "!NA0175">
+"I thought I was the heroine..."
+#
+<removesprite -1 11>
+<sprite "ta08a023.agf" 4 4 11>
+<name "Rakia" "!ZC0492">
+"Characters who are chained to their roles by
+ the setting are no comparison."
+#
+<removesprite -1 11>
+<sprite "ta09a018.agf" 2 4 11>
+<sprite "ta11a004.agf" 6 5 11>
+<name "Forzelotte" "!XA0301">
+"Grr..."
+#
+<sprite "ta11a010.agf" 6 5 12>
+<name "Kozelotte" "!NA0176">
+"Urgh!"
+#
+<removesprite -1 11>
+<sprite "ta08a004.agf" 4 4 11>
+<name "Rakia" "!ZC0493">
+"So, Darx.
+ I would appreciate your cooperation."
+#
+<name "Darx">
+"By cooperation, you mean..."
+#
+<sprite "ta08a026.agf" 4 4 12>
+<name "Rakia" "!ZC0494">
+"That of course would mean a bit of thiiis,
+ and a bit of thaaat."
+#
+<name "Darx">
+"Heheheh.
+ Leave it to me, my lady."
+#
+<sprite "ta08a121.agf" 4 4 12>
+<name "Rakia" "!ZC0495">
+"Aah! Aah! Aaahh..."
+#
+<removesprite -1 11>
+...
+#
+<sprite "ta01a025.agf" 4 4 11>
+<name "Sofia" "!ZB1028">
+"Uhh...
+ U-Um, aren't I the heroine of this game?
+ I'm the one on the box."
+#
+<removesprite -1 11>
+<sprite "ta01a025.agf" 2 5 11>
+<sprite "ta34a000.agf" 6 4 11>
+<name "Veteran Maid" "!AC0317">
+"In Softhouse Chara games, it doesn't really
+ matter who's on the box.
+ Be aware of that."
+#
+<sprite "ta01a023.agf" 2 5 12>
+<name "Sofia" "!ZB1027">
+"E-Eeeh!?"
+#
+<removesprite -1 11>
+\x2B\x78\x78

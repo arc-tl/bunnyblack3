@@ -1,0 +1,37 @@
+﻿<music 5>
+<background "bg011a0.agf" 10>
+<name "Darx">
+"The first advantage of being able to produce
+ tentacles!"
+#
+<name "Darx">
+"You can reach up high!"
+#
+<name "Composed Citizen" "!HC0043">
+"It looks creepy."
+#
+<name "Hopeful Citizen" "!SB0076">
+"Please stop doing that."
+#
+<name "Darx">
+"The second advantage!"
+#
+<name "Darx">
+"You can do all kinds of sex things."
+#
+<name "Composed Citizen" "!HC0046">
+"Ah... Like tentacle bondage play."
+#
+<name "Hopeful Citizen" "!SB0077">
+"Being ravished in two places while the
+ Overlord uses a third."
+#
+<name "Composed Citizen" "!HC0047">
+"Double insertion..."
+#
+<name "Darx">
+"..."
+#
+Opinions are divided.
+#
+\x78\x78

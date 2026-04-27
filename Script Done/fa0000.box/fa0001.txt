@@ -1,0 +1,166 @@
+﻿\x1A\x01\x0A\x46\x00\x32\x00\x34\x00\x30\x00\x31\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :35: \x0A\x04\x00\x27\x84\x01\x0A\x04\x09\x61\x84\x01\x16 :FA: \xA4\x15 :ED: 
+:35
+\x2E\x22\x00\x00 1  4 \x1A\x01\x0A\x43\x00\x4C\x00\x30\x00\x30\x00\x30\x00\x20\x00\x3C\x00\x3D\x00\x20\x00\x31\x00 :6C: \x16 :493: \xA4\x15 :ED: 
+:6C
+\x1A\x01\x0A\x43\x00\x4C\x00\x30\x00\x30\x00\x30\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x32\x00 :95: \x16 :5BA: \xA4\x15 :ED: 
+:95
+\x1A\x01\x0A\x43\x00\x4C\x00\x30\x00\x30\x00\x30\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x33\x00 :BE: \x16 :75B: \xA4\x15 :ED: 
+:BE
+\x1A\x01\x0A\x43\x00\x4C\x00\x30\x00\x30\x00\x30\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x34\x00 :E7: \x16 :95D: \xA4\x15 :ED: 
+:E7
+\x15 :ED: 
+:ED
+\x78\x16 :AD1: \x15 :ED: 
+:FA
+<music 3>
+<background "bg010a0.agf" 10>
+<sprite "ta01a000.agf" 4 4 11>
+<name "Sofia" "!ZB0684">
+"Overlord, Macdo has given us our new goals."
+#
+<sprite "ta01a001.agf" 4 4 12>
+<name "Sofia" "!ZB0685">
+"Here's what they are."
+#
+<name "Darx">
+"I see.
+ So if we can get this, then all is good?"
+#
+<sprite "ta01a024.agf" 4 4 12>
+<name "Sofia" "!ZB0686">
+"Yes.
+ Oh, but it's not just a one time thing..."
+#
+<name "Darx">
+"I know.
+ I'll need to go through this multiple times."
+#
+<sprite "ta01a004.agf" 4 4 12>
+<name "Sofia" "!ZB0687">
+"Yes."
+#
+<sprite "ta01a005.agf" 4 4 12>
+<name "Sofia" "!ZB0688">
+"Rakia helped decided these conditions, so I
+ think they should usually be pretty 
+ reasonable.
+ Good luck."
+#
+<name "Darx">
+"All right.
+ Let's all work hard."
+#
+<removesprite -1 11>
+<exit>
+:493
+<music 3>
+<background "bg010a0.agf" 10>
+<sprite "ta01a004.agf" 4 4 11>
+<name "Sofia" "!ZB0706">
+"Here is the next goal."
+#
+<sprite "ta01a005.agf" 4 4 12>
+<name "Sofia" "!ZB0707">
+"Let's make the city bigger and get clearing
+ it right away!"
+#
+<removesprite -1 11>
+<exit>
+:5BA
+<music 3>
+<background "bg010a0.agf" 10>
+<sprite "ta01a004.agf" 4 4 11>
+<name "Sofia" "!ZB0708">
+"Your next goal is here."
+#
+<sprite "ta01a024.agf" 4 4 12>
+<name "Sofia" "!ZB0709">
+"This looks a little difficult."
+#
+<name "Darx">
+"Oh come on.
+ I'll have it done, no sweat."
+#
+<sprite "ta01a033.agf" 4 4 12>
+<name "Sofia" "!ZB0710">
+"Ooh, sounding confident."
+#
+<removesprite -1 11>
+<exit>
+:75B
+<music 3>
+<background "bg010a0.agf" 10>
+<sprite "ta01a024.agf" 4 4 11>
+<name "Sofia" "!ZB0711">
+"Here's your next goal, but... it'll be
+ tough."
+#
+<name "Darx">
+"We might have to rely on resources outside
+ the city."
+#
+<sprite "ta01a004.agf" 4 4 12>
+<name "Sofia" "!ZB0712">
+"Yeah.
+ Maybe that's assumed for achieving this goal
+ though?"
+#
+<name "Darx">
+"Well, we'll just have to work hard."
+#
+<sprite "ta01a005.agf" 4 4 12>
+<name "Sofia" "!ZB0713">
+"Please."
+#
+<removesprite -1 11>
+<exit>
+:95D
+<music 3>
+<background "bg010a0.agf" 10>
+<sprite "ta01a024.agf" 4 4 11>
+<name "Sofia" "!ZB0714">
+"Your next goal's been chosen...
+ It's a pretty hard one."
+#
+<name "Darx">
+"Really?"
+#
+<sprite "ta01a004.agf" 4 4 12>
+<name "Sofia" "!ZB0715">
+"Yes, but I believe in you, Overlord.
+ Good luck."
+#
+<removesprite -1 11>
+<exit>
+:AD1
+<music 3>
+<background "bg010a0.agf" 10>
+<name "Darx">
+"Hey, Sofia."
+#
+<sprite "ta01a004.agf" 4 4 11>
+<name "Sofia" "!ZB0716">
+"What is it?"
+#
+<name "Darx">
+"How many more goals do I need to meet until
+ I've proven myself?"
+#
+<sprite "ta01a033.agf" 4 4 12>
+<name "Sofia" "!ZB0717">
+"Let's see.
+ After that, there's just this."
+#
+<name "Darx">
+"...I see."
+#
+<sprite "ta01a004.agf" 4 4 12>
+<name "Sofia" "!ZB0718">
+"Good luck."
+#
+<name "Darx">
+"Yeah."
+#
+<removesprite -1 11>
+<exit>
+\x78

@@ -1,0 +1,51 @@
+﻿<music 3>
+<background "bg010a0.agf" 10>
+<name "Lassan" "!ZE0035" "ka38a000.agf">
+"Overlor', Overlor'."
+#
+<name "Darx">
+"Hm?"
+#
+<name "Lassan" "!ZE0036" "ka38a000.agf">
+"When I waz bowin', those guys doin' it same
+ as me, who were they?"
+#
+<name "Darx">
+"Golan, who works at Forzelotte's Shrine, and
+ Tatsumaki, who I knew when I was an 
+ adventurer."
+#
+<name "Lassan" "!ZE0037" "ka38a000.agf">
+"...Are they both married by chance?"
+#
+<name "Darx">
+"Yeah, that's right."
+#
+<name "Darx">
+"Hm?
+ What's the matter?
+ Why the tears?"
+#
+<name "Lassan" "!ZE0038" "ka38a000.agf">
+"We never met, but I c'n tell they're kindre'
+ spirits."
+#
+<name "Lassan" "!ZE0039" "ka38a000.agf">
+"Oooh... I ain't alone!"
+#
+<name "Lassan" "!ZE0040" "ka38a000.agf">
+"Thank you, comrades I ain't never met!
+ Right! Time to git ta work!"
+#
+<name "Darx">
+"...I'm married too, you know."
+#
+<name "Lassan" "!ZE0041" "ka38a000.agf">
+"Makin' a harem don' mean ever gettin' down on
+ yer knees.
+ Ya ain't one of us."
+#
+<name "Darx">
+"Oh, I see..."
+#
+\x78\x78

@@ -1,0 +1,253 @@
+﻿<music 3>
+<background "bg010a0.agf" 10>
+<name "Darx">
+"Human captives?"
+#
+<sprite "ta34c001.agf" 4 4 11>
+<name "Company Maid" "!AC0226">
+"Yes."
+#
+<name "Darx">
+"I don't remember telling you to take 
+ prisoners."
+#
+<removesprite -1 11>
+The opposite.
+I remember ordering them to not take 
+prisoners.
+#
+If this was Forzelotte's Shrine, we'd have 
+room and people to manage that, but we barely
+have enough people here to stand guard as it
+is.
+#
+Also, it takes time and effort to negotiate
+their release.
+#
+There's no room for prisoners in this city.
+#
+<sprite "ta34c001.agf" 4 4 11>
+<name "Company Maid" "!AC0227">
+"I'm very sorry."
+#
+<name "Company Maid" "!AC0228">
+"We do have a prison, so we throw adventurers
+ in it who have gotten too destructive to
+ punish them, and we let them out after two
+ or three days."
+#
+<name "Darx">
+"I see."
+#
+<name "Company Maid" "!AC0229">
+"However, um..."
+#
+<sprite "ta34c002.agf" 4 4 12>
+<name "Company Maid" "!AC0230">
+"There's an adventurer who's gotten too
+ troublesome even for that, and those who
+ work in the dungeon strongly oppose 
+ releasing them."
+#
+<name "Company Maid" "!AC0231">
+"We can't ignore that, so I came to you."
+#
+<name "Darx">
+"By coming to me, you mean..."
+#
+<sprite "ta34c000.agf" 4 4 12>
+<name "Company Maid" "!AC0232">
+"It's a woman."
+#
+<removesprite -1 11>
+<music 53>
+<background "ev081a00.agf" 10>
+<name "Berserker Adventurer" "!LB0116">
+"Aah...ah..."
+#
+Since she was already tied up and naked, I
+forcibly took her virginity and then had 
+about three more rounds of fun.
+#
+<name "Darx">
+"Remember this.
+ Your first man was me."
+#
+<name "Berserker Adventurer" "!LB0117">
+"Ah...ah...
+ I-I'll kill you."
+#
+<name "Darx">
+"That's a nice glare, but..."
+#
+<name "Darx">
+"Not nearly crazy enough."
+#
+The angels were far scarier.
+#
+For every single one of them, it felt like
+they'd kill me the moment I let my guard
+down.
+#
+But I don't feel that from this woman.
+#
+I took her virginity and fucked her three
+more times after that.
+#
+If she was an angel, she would've tried to
+bite me to death.
+#
+<name "Darx">
+"Is this really the woman who's so much
+ trouble?"
+#
+She just seems like a regular warrior.
+#
+<name "Company Maid" "!AC0233">
+"There's no doubt about it."
+#
+The maid waiting behind me answers.
+#
+<name "Darx">
+"And yet..."
+#
+<name "Company Maid" "!AC0234">
+"Apparently she completely changes when she
+ has her sword."
+#
+<name "Darx">
+"I see..."
+#
+<name "Darx">
+"You, are you aware of this?
+ Answer me."
+#
+<background "ev081a01.agf" 10>
+<name "Berserker Adventurer" "!LB0118">
+"..."
+#
+<name "Darx">
+"You want me to fuck you again?
+ I don't mind."
+#
+<background "ev081a02.agf" 10>
+<name "Berserker Adventurer" "!LB0119">
+"W-When I hold a sword, I-I feel stronger
+ than anything."
+#
+<name "Darx">
+"Any kind of sword?"
+#
+<name "Berserker Adventurer" "!LB0120">
+"I've never had anything but my sword."
+#
+<name "Darx">
+"I see."
+#
+I try holding up a regular sword in front of
+her.
+#
+<name "Darx">
+"How's this?"
+#
+<name "Darx">
+"Do you hate me?"
+#
+<name "Berserker Adventurer" "!LB0121">
+"O-Of course I do."
+#
+<name "Darx">
+"...Nothing."
+#
+It's the same as before.
+#
+<name "Darx">
+"Bring me her sword."
+#
+<name "Company Maid" "!AC0235">
+"B-But..."
+#
+<name "Darx">
+"Do it."
+#
+...
+#
+<background "ev081b00.agf" 10>
+<name "Berserker Adventurer" "!LB0122">
+"Ah!"
+#
+As soon as I hold up her sword, the look in
+her eyes completely changes.
+#
+<background "ev081b01.agf" 10>
+<name "Berserker Adventurer" "!LB0123">
+"Give it!
+ Give me that sword!"
+#
+<name "Berserker Adventurer" "!LB0124">
+"And I will slice you to shreds!"
+#
+<name "Berserker Adventurer" "!LB0125">
+"Ahahahahahahaha!!!!!"
+#
+<name "Darx">
+"Hmm..."
+#
+Definitely an immediate change.
+#
+<name "Darx">
+"Sorry."
+#
+<background "ev081c00.agf" 10>
+After apologizing, I slam the sword on the 
+ground, breaking it.
+#
+<name "Berserker Adventurer" "!LB0126">
+"Ah..."
+#
+<name "Darx">
+"How's that?"
+#
+<name "Berserker Adventurer" "!LB0127">
+"Huh?
+ Ah... huh?"
+#
+<name "Darx">
+"How do you feel?"
+#
+<name "Berserker Adventurer" "!LB0128">
+"I... I-I feel strange..."
+#
+<name "Darx">
+"That was a cursed sword.
+ They're well-known among adventurers."
+#
+<name "Berserker Adventurer" "!LB0129">
+"It was?"
+#
+<name "Darx">
+"I'll give you some kind of new sword."
+#
+<name "Darx">
+"So call it even."
+#
+<background "ev081d00.agf" 10>
+<name "Berserker Adventurer" "!LB0130">
+"Huh? Oh, o-okay."
+#
+<name "Darx">
+"Then, shall we continue?"
+#
+<name "Berserker Adventurer" "!LB0131">
+"Huh?"
+#
+I enjoyed her for another half day.
+#
+<background "ev081d01.agf" 10>
+<name "Berserker Adventurer" "!LB0132">
+"I-I-I swear I'll kill you!"
+#
+<name "Darx">
+"I'm looking forward to it."
+#
+\x78\x78

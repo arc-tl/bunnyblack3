@@ -1,0 +1,25 @@
+﻿<music 39>
+<background "ev080a00.agf" 10>
+<name "Macdo" "!ZA0476">
+"A lot has happened, but I admit it."
+#
+<name "Macdo" "!ZA0477">
+"You are the Overlord."
+#
+And I was recognized as the Overlord.
+#
+<name "Macdo" "!ZA0478">
+"Your people are waiting.
+ Go greet them."
+#
+<name "Darx">
+"Yeah."
+#
+I wave to the waiting people.
+#
+And they let out a loud cheer.
+#
+I may still be a new Overlord, but I'll do
+everything I can.
+#
+\x78\x78

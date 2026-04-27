@@ -1,0 +1,334 @@
+﻿<music 4>
+<background "bg009a0.agf" 10>
+<sprite "ta11a004.agf" 4 4 11>
+<name "Kozelotte" "!NA0067">
+"Dad."
+#
+<name "Darx">
+"Koze?
+ Been awhile."
+#
+<sprite "ta11a005.agf" 4 4 12>
+<name "Kozelotte" "!NA0068">
+"Yes, you haven't been coming to see me much."
+#
+<name "Darx">
+"Don't be mad.
+ You know everything that's going on with
+ me."
+#
+<sprite "ta11a004.agf" 4 4 12>
+<name "Kozelotte" "!NA0069">
+"Yes."
+#
+<name "Darx">
+"I wish I could have you help out.
+ There's so many different annoying things to
+ deal with."
+#
+<sprite "ta11a010.agf" 4 4 12>
+<name "Kozelotte" "!NA0070">
+"Seems like it.
+ I was warned not to help too."
+#
+<name "Darx">
+"...Even if you don't like it, don't 
+ antagonize her."
+#
+<sprite "ta11a016.agf" 4 4 12>
+<name "Kozelotte" "!NA0071">
+"I know that."
+#
+<name "Darx">
+"Okay."
+#
+<name "Darx">
+"You have business here today?"
+#
+<sprite "ta11a004.agf" 4 4 12>
+<name "Kozelotte" "!NA0072">
+"Yes. Shopping at Sofia's."
+#
+<name "Darx">
+"Want to get dinner?"
+#
+<sprite "ta11a010.agf" 4 4 12>
+<name "Kozelotte" "!NA0073">
+"I'd love to, but I don't have time."
+#
+<name "Darx">
+"I see.
+ That's too bad.
+ Well, keep up the hard work."
+#
+<sprite "ta11a005.agf" 4 4 12>
+<name "Kozelotte" "!NA0074">
+"Yes.
+ You too, Dad."
+#
+<name "Darx">
+"Yeah."
+#
+<removesprite -1 11>
+<music 11>
+<background "bg008a0.agf" 10>
+<name "Accompanying Student" "!RB0126">
+"You really are the Overlord's daughter."
+#
+<sprite "ta11a001.agf" 4 4 11>
+<name "Kozelotte" "!NA0075">
+"I thought everyone knew that."
+#
+<name "Accompanying Student" "!RB0127">
+"I knew, but it's still so..."
+#
+<sprite "ta11a002.agf" 4 4 12>
+<name "Kozelotte" "!NA0076">
+"I look nothing like him?"
+#
+<name "Accompanying Student" "!RB0128">
+"Yeah."
+#
+<sprite "ta11a004.agf" 4 4 12>
+<name "Kozelotte" "!NA0077">
+"Haha.
+ I guess I don't."
+#
+<name "Accompanying Student" "!RB0129">
+"Are you happy you don't resemble him?"
+#
+<sprite "ta11a005.agf" 4 4 12>
+<name "Kozelotte" "!NA0078">
+"As his daughter, it's a little disappointing.
+ Come on, we'll be late if we hang around.
+ Let's hurry up."
+#
+<name "Accompanying Student" "!RB0130">
+"R-Right."
+#
+<removesprite -1 11>
+<music 8>
+<background "bg031a0.agf" 10>
+<name "Helped Teacher" "!GB0096">
+"Good job.
+ Thanks a lot."
+#
+<sprite "ta11a005.agf" 4 4 11>
+<name "Kozelotte" "!NA0079">
+"It was nothing.
+ I have to be going now."
+#
+<name "Helped Teacher" "!GB0097">
+"Hm?
+ I can at least offer you a drink."
+#
+<sprite "ta11a004.agf" 4 4 12>
+<name "Kozelotte" "!NA0080">
+"Thank you very much, but I have other work
+ to take care of."
+#
+<name "Helped Teacher" "!GB0098">
+"I see.
+ You're very busy."
+#
+<sprite "ta11a005.agf" 4 4 12>
+<name "Kozelotte" "!NA0081">
+"I took this job myself.
+ Okay, please excuse me."
+#
+<name "Helped Teacher" "!GB0099">
+"Yes. Good luck."
+#
+<removesprite -1 11>
+...
+#
+<background "bg012a0.agf" 10>
+<sprite "ta11a016.agf" 4 4 11>
+<name "Kozelotte" "!NA0082">
+"Sigh..."
+#
+<sprite "ta11a003.agf" 4 4 12>
+<name "Kozelotte" "!NA0083">
+"There's nobody around."
+#
+<sprite "ta11a016.agf" 4 4 12>
+<name "Kozelotte" "!NA0084">
+"Sensing...
+ Definitely nobody."
+#
+<sprite "ta11a004.agf" 4 4 12>
+<name "Kozelotte" "!NA0085">
+"Then..."
+#
+<sprite "ta11a005.agf" 4 4 12>
+<name "Kozelotte" "!NA0086">
+"Dad!"
+#
+<sprite "ta11a017.agf" 4 4 12>
+<name "Kozelotte" "!NA0087">
+"Daddy♪! Daddy♪! Daddy♪!"
+#
+<sprite "ta11a018.agf" 4 4 12>
+<name "Kozelotte" "!NA0088">
+"Aaah! Daddy♪! Daddy♪! Daddy♪!"
+#
+<sprite "ta11a017.agf" 4 4 12>
+<name "Kozelotte" "!NA0089">
+"You're the best!♪"
+#
+<sprite "ta11a018.agf" 4 4 12>
+<name "Kozelotte" "!NA0090">
+"You're wonderful!♪"
+#
+<sprite "ta11a017.agf" 4 4 12>
+<name "Kozelotte" "!NA0091">
+"Ahhhhhhh..."
+#
+<sprite "ta11a018.agf" 4 4 12>
+<name "Kozelotte" "!NA0092">
+"I said it! I said it! I said it!"
+#
+<sprite "ta11a017.agf" 4 4 12>
+<name "Kozelotte" "!NA0093">
+"Aaaah!
+ He even asked me out!"
+#
+<sprite "ta11a018.agf" 4 4 12>
+<name "Kozelotte" "!NA0094">
+"But I can't believe I had to say no!"
+#
+<sprite "ta11a017.agf" 4 4 12>
+<name "Kozelotte" "!NA0095">
+"But, but, if it was just the two of us..."
+#
+<removesprite -1 11>
+<music 17>
+<background "ev048a00.agf" 10>
+<name "Kozelotte" "!NA0096">
+"It'd definitely end up like this."
+#
+<name "Kozelotte" "!NA0097">
+"Yes.
+ Because he's so kind."
+#
+<name "Kozelotte" "!NA0098">
+"Aahh..."
+#
+<name "Kozelotte" "!NA0099">
+"I want to be taken from behind."
+#
+<name "Kozelotte" "!NA0100">
+"I want to be held down and ravaged."
+#
+<name "Kozelotte" "!NA0101">
+"Aah...ahhh...ahhh...
+ Daddy..."
+#
+<name "Kozelotte" "!NA0102">
+"Daddy... Daddy... Daddy...♪"
+#
+<name "Kozelotte" "!NA0103">
+"I know it'd be like this...
+ Mmm...aahhh..."
+#
+<name "Kozelotte" "!NA0104">
+"Aah... No... 
+ Mmm... My breasts...
+ Ah..."
+#
+<background "ev048a01.agf" 10>
+<name "Kozelotte" "!NA0105">
+"Ah... So rough...
+ So intense..."
+#
+<name "Kozelotte" "!NA0106">
+"But... Y-Yes, I love it...
+ Yes, I can take it..."
+#
+<name "Kozelotte" "!NA0107">
+"Mmmm...aah...aahhh..."
+#
+<name "Kozelotte" "!NA0108">
+"Ah... T-The way you're looking at me...
+ Yes... Daddy..."
+#
+<name "Kozelotte" "!NA0109">
+"Ah...mmm...
+ K-Kiss me...
+ Y-Yes..."
+#
+<name "Kozelotte" "!NA0110">
+"Ah...aah...
+ Daddy... Daddy..."
+#
+<name "Kozelotte" "!NA0111">
+"Mm...mmm...mmm...
+ I-I can't..."
+#
+<name "Kozelotte" "!NA0112">
+"Ah..."
+#
+<name "Kozelotte" "!NA0113">
+"Ah... D-Daddy...
+ Mmm... T-That's my... but...
+ Ah...mmm...ah!"
+#
+<name "Kozelotte" "!NA0114">
+"Ah! Ah! Ah...mmmmmmmmm!"
+#
+<name "Kozelotte" "!NA0115">
+"Ah...aahhh...
+ Daddy..."
+#
+<name "Kozelotte" "!NA0116">
+"Ah...mm...aahhhh..."
+#
+<name "Kozelotte" "!NA0117">
+"Aahhh..."
+#
+<music 8>
+<background "bg012a0.agf" 10>
+<sprite "ta11a011.agf" 4 4 11>
+<name "Kozelotte" "!NA0118">
+"I did it."
+#
+<sprite "ta11a010.agf" 4 4 12>
+<name "Kozelotte" "!NA0119">
+"Oooh... 
+ I couldn't hold back until I got to my room."
+#
+<sprite "ta11a011.agf" 4 4 12>
+<name "Kozelotte" "!NA0120">
+"I need to control myself."
+#
+<sprite "ta11a017.agf" 4 4 12>
+<name "Kozelotte" "!NA0121">
+"Aah... but I don't think I could completely
+ stand it if I had dinner alone with him."
+#
+<sprite "ta11a016.agf" 4 4 12>
+<name "Kozelotte" "!NA0122">
+"I would have to bring another girl to come
+ to dinner with me..."
+#
+<sprite "ta11a010.agf" 4 4 12>
+<name "Kozelotte" "!NA0123">
+"But I don't want anybody else becoming
+ interested in him either."
+#
+<sprite "ta11a011.agf" 4 4 12>
+<name "Kozelotte" "!NA0124">
+"And there are already so many other rivals."
+#
+<sprite "ta11a016.agf" 4 4 12>
+<name "Kozelotte" "!NA0125">
+"It's awful, but it was right for me to say
+ no."
+#
+<sprite "ta11a005.agf" 4 4 12>
+<name "Kozelotte" "!NA0126">
+"I'm sure my kind father will invite me out
+ again."
+#
+<removesprite -1 11>
+\x2B\x78\x78

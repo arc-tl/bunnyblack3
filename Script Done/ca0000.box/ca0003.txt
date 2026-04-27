@@ -1,0 +1,4123 @@
+﻿\x0A\x22\x00\x07 0 \x0B\x22\x00\x07\x22\x00\x07\x02\x01\x05\x0B\x22\x00\x07\x22\x00\x07\x02\x01\x06\x0B\x22\x00\x07\x22\x00\x07\x02\x01\x07\x0B\x22\x00\x07\x22\x00\x07\x02\x01\x08\x0B\x22\x00\x07\x22\x00\x07\x02\x01\x09\x0B\x22\x00\x07\x22\x00\x07\x02\x01\x0A\x0B\x22\x00\x07\x22\x00\x07\x02\x01\x0B\x1A\x01\x0A\x46\x00\x31\x00\x37\x00\x30\x00\x31\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :7D: \x0A\x04\x06\xA5\x84\x01\x16 :F3C: \x15 :F0D: 
+:7D
+\x1A\x01\x0A\x46\x00\x31\x00\x37\x00\x34\x00\x34\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :C9: \x1A\x01\x0B\x43\x00\x34\x00\x32\x00\x33\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x32\x00\x30\x00\x09\x00 :C9: \x0A\x04\x06\xD0\x84\x01\x16 :12CAB: \x15 :F0D: 
+:C9
+\x1A\x01\x0A\x46\x00\x31\x00\x37\x00\x30\x00\x37\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :11F: \x1A\x01\x0D\x43\x00\x4C\x00\x30\x00\x30\x00\x37\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x31\x00\x30\x00\x09\x00\x09\x00 :11F: \x0A\x04\x00\xD0\x84\x01\x0A\x04\x06\xAB\x84\x01\x16 :18B1: \x15 :F0D: 
+:11F
+\x1A\x01\x0A\x46\x00\x31\x00\x37\x00\x34\x00\x30\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :189: \x1A\x01\x08\x46\x00\x32\x00\x32\x00\x30\x00\x20\x00\x6F\x00\x6E\x00\x09\x00 :189: \x1A\x01\x0B\x43\x00\x30\x00\x36\x00\x30\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x33\x00\x30\x00\x09\x00 :189: \x0A\x04\x00\xCC\x84\x01\x0A\x04\x06\xCC\x84\x01\x16 :FC00: \x15 :F0D: 
+:189
+\x1A\x01\x0A\x46\x00\x31\x00\x37\x00\x30\x00\x32\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :1B7: \x0A\x04\x06\xA6\x84\x01\x16 :100F: \x15 :F0D: 
+:1B7
+\x1A\x01\x0A\x46\x00\x31\x00\x37\x00\x30\x00\x33\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :205: \x1A\x01\x0C\x43\x00\x4C\x00\x30\x00\x30\x00\x37\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x33\x00\x09\x00\x09\x00 :205: \x0A\x04\x06\xA7\x84\x01\x16 :12E7: \x15 :F0D: 
+:205
+\x1A\x01\x0A\x46\x00\x31\x00\x37\x00\x34\x00\x31\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :287: \x1A\x01\x08\x46\x00\x32\x00\x30\x00\x34\x00\x20\x00\x6F\x00\x6E\x00\x09\x00 :287: \xF3 "Garrison"  0  0  0 \x22\x00\x00 0 \x1A\x01\x0A\x43\x00\x4C\x00\x30\x00\x30\x00\x30\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x33\x00 :287: \x0A\x04\x06\xCD\x84\x01\x16 :106E7: \x15 :F0D: 
+:287
+\x1A\x01\x0A\x46\x00\x31\x00\x37\x00\x34\x00\x32\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :309: \x1A\x01\x08\x46\x00\x32\x00\x30\x00\x34\x00\x20\x00\x6F\x00\x6E\x00\x09\x00 :309: \xF3 "Garrison"  0  0  0 \x22\x00\x00 0 \x1A\x01\x0A\x43\x00\x4C\x00\x30\x00\x30\x00\x30\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x35\x00 :309: \x0A\x04\x06\xCE\x84\x01\x16 :12269: \x15 :F0D: 
+:309
+\x1A\x01\x0A\x46\x00\x31\x00\x37\x00\x34\x00\x33\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :38B: \x1A\x01\x08\x46\x00\x32\x00\x30\x00\x34\x00\x20\x00\x6F\x00\x6E\x00\x09\x00 :38B: \xF3 "Garrison"  0  0  0 \x22\x00\x00 0 \x1A\x01\x0A\x43\x00\x4C\x00\x30\x00\x30\x00\x30\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x38\x00 :38B: \x0A\x04\x06\xCF\x84\x01\x16 :12868: \x15 :F0D: 
+:38B
+\x1A\x01\x0A\x46\x00\x31\x00\x37\x00\x30\x00\x34\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :3D9: \x1A\x01\x0C\x43\x00\x4C\x00\x30\x00\x30\x00\x37\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x34\x00\x09\x00\x09\x00 :3D9: \x0A\x04\x06\xA8\x84\x01\x16 :1547: \x15 :F0D: 
+:3D9
+\x1A\x01\x0A\x46\x00\x31\x00\x37\x00\x30\x00\x35\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :427: \x1A\x01\x0C\x43\x00\x4C\x00\x30\x00\x30\x00\x37\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x36\x00\x09\x00\x09\x00 :427: \x0A\x04\x06\xA9\x84\x01\x16 :1657: \x15 :F0D: 
+:427
+\x1A\x01\x0A\x46\x00\x31\x00\x37\x00\x30\x00\x36\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :475: \x1A\x01\x0C\x43\x00\x4C\x00\x30\x00\x30\x00\x37\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x39\x00\x09\x00\x09\x00 :475: \x0A\x04\x06\xAA\x84\x01\x16 :177B: \x15 :F0D: 
+:475
+\x1A\x01\x0A\x46\x00\x31\x00\x37\x00\x30\x00\x38\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :4DD: \x1A\x01\x08\x46\x00\x32\x00\x30\x00\x38\x00\x20\x00\x6F\x00\x6E\x00\x09\x00 :4DD: \x1A\x01\x0D\x43\x00\x4C\x00\x30\x00\x30\x00\x37\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x31\x00\x30\x00\x09\x00\x09\x00 :4DD: \x0A\x04\x06\xAC\x84\x01\x16 :367C: \x15 :F0D: 
+:4DD
+\x1A\x01\x0A\x46\x00\x31\x00\x37\x00\x30\x00\x39\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :545: \x1A\x01\x08\x46\x00\x32\x00\x30\x00\x38\x00\x20\x00\x6F\x00\x6E\x00\x09\x00 :545: \x1A\x01\x0D\x43\x00\x4C\x00\x30\x00\x30\x00\x37\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x31\x00\x32\x00\x09\x00\x09\x00 :545: \x0A\x04\x06\xAD\x84\x01\x16 :3AB0: \x15 :F0D: 
+:545
+\x1A\x01\x0A\x46\x00\x31\x00\x37\x00\x31\x00\x30\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :5AD: \x1A\x01\x08\x46\x00\x32\x00\x30\x00\x38\x00\x20\x00\x6F\x00\x6E\x00\x09\x00 :5AD: \x1A\x01\x0D\x43\x00\x4C\x00\x30\x00\x30\x00\x37\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x31\x00\x34\x00\x09\x00\x09\x00 :5AD: \x0A\x04\x06\xAE\x84\x01\x16 :42A5: \x15 :F0D: 
+:5AD
+\x1A\x01\x0A\x46\x00\x31\x00\x37\x00\x31\x00\x31\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :615: \x1A\x01\x08\x46\x00\x32\x00\x30\x00\x38\x00\x20\x00\x6F\x00\x6E\x00\x09\x00 :615: \x1A\x01\x0D\x43\x00\x4C\x00\x30\x00\x30\x00\x37\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x31\x00\x36\x00\x09\x00\x09\x00 :615: \x0A\x04\x06\xAF\x84\x01\x16 :4761: \x15 :F0D: 
+:615
+\x1A\x01\x0A\x46\x00\x31\x00\x37\x00\x31\x00\x33\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :663: \x1A\x01\x0C\x43\x00\x4C\x00\x30\x00\x30\x00\x37\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x34\x00\x09\x00\x09\x00 :663: \x0A\x04\x06\xB1\x84\x01\x16 :4F71: \x15 :F0D: 
+:663
+\x1A\x01\x0A\x46\x00\x31\x00\x37\x00\x31\x00\x34\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :6AB: \x1A\x01\x09\x46\x00\x31\x00\x37\x00\x31\x00\x33\x00\x20\x00\x6F\x00\x6E\x00\x09\x00 :6AB: \x0A\x04\x06\xB2\x84\x01\x16 :608F: \x15 :F0D: 
+:6AB
+\x1A\x01\x0A\x46\x00\x31\x00\x37\x00\x31\x00\x35\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :6F9: \x1A\x01\x0C\x43\x00\x4C\x00\x30\x00\x30\x00\x37\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x37\x00\x09\x00\x09\x00 :6F9: \x0A\x04\x06\xB3\x84\x01\x16 :6737: \x15 :F0D: 
+:6F9
+\x1A\x01\x0A\x46\x00\x31\x00\x37\x00\x31\x00\x36\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :741: \x1A\x01\x09\x46\x00\x31\x00\x37\x00\x31\x00\x35\x00\x20\x00\x6F\x00\x6E\x00\x09\x00 :741: \x0A\x04\x06\xB4\x84\x01\x16 :7C1C: \x15 :F0D: 
+:741
+\x1A\x01\x0A\x46\x00\x31\x00\x37\x00\x31\x00\x37\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :789: \x1A\x01\x09\x46\x00\x31\x00\x37\x00\x31\x00\x36\x00\x20\x00\x6F\x00\x6E\x00\x09\x00 :789: \x0A\x04\x06\xB5\x84\x01\x16 :7D8A: \x15 :F0D: 
+:789
+\x1A\x01\x0A\x46\x00\x31\x00\x37\x00\x31\x00\x38\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :7D9: \x1A\x01\x0D\x43\x00\x4C\x00\x30\x00\x30\x00\x37\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x31\x00\x30\x00\x09\x00\x09\x00 :7D9: \x0A\x04\x06\xB6\x84\x01\x16 :7EDE: \x15 :F0D: 
+:7D9
+\x1A\x01\x0A\x46\x00\x31\x00\x37\x00\x31\x00\x39\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :821: \x1A\x01\x09\x46\x00\x31\x00\x37\x00\x31\x00\x38\x00\x20\x00\x6F\x00\x6E\x00\x09\x00 :821: \x0A\x04\x06\xB7\x84\x01\x16 :8D4A: \x15 :F0D: 
+:821
+\x1A\x01\x0A\x46\x00\x31\x00\x37\x00\x32\x00\x30\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :869: \x1A\x01\x09\x46\x00\x31\x00\x37\x00\x31\x00\x39\x00\x20\x00\x6F\x00\x6E\x00\x09\x00 :869: \x0A\x04\x06\xB8\x84\x01\x16 :9103: \x15 :F0D: 
+:869
+\x1A\x01\x0A\x46\x00\x31\x00\x37\x00\x32\x00\x31\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :8B9: \x1A\x01\x0D\x43\x00\x4C\x00\x30\x00\x30\x00\x37\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x31\x00\x38\x00\x09\x00\x09\x00 :8B9: \x0A\x04\x06\xB9\x84\x01\x16 :962D: \x15 :F0D: 
+:8B9
+\x1A\x01\x0A\x46\x00\x31\x00\x37\x00\x32\x00\x32\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :901: \x1A\x01\x09\x46\x00\x31\x00\x37\x00\x32\x00\x31\x00\x20\x00\x6F\x00\x6E\x00\x09\x00 :901: \x0A\x04\x06\xBA\x84\x01\x16 :A55B: \x15 :F0D: 
+:901
+\x1A\x01\x0A\x46\x00\x31\x00\x37\x00\x32\x00\x33\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :949: \x1A\x01\x09\x46\x00\x31\x00\x37\x00\x32\x00\x32\x00\x20\x00\x6F\x00\x6E\x00\x09\x00 :949: \x0A\x04\x06\xBB\x84\x01\x16 :B333: \x15 :F0D: 
+:949
+\x1A\x01\x0A\x46\x00\x31\x00\x37\x00\x32\x00\x34\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :991: \x1A\x01\x09\x46\x00\x31\x00\x37\x00\x32\x00\x33\x00\x20\x00\x6F\x00\x6E\x00\x09\x00 :991: \x0A\x04\x06\xBC\x84\x01\x16 :B595: \x15 :F0D: 
+:991
+\x1A\x01\x0A\x46\x00\x31\x00\x37\x00\x32\x00\x35\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :9D9: \x1A\x01\x09\x46\x00\x31\x00\x37\x00\x32\x00\x34\x00\x20\x00\x6F\x00\x6E\x00\x09\x00 :9D9: \x0A\x04\x06\xBD\x84\x01\x16 :B7A5: \x15 :F0D: 
+:9D9
+\x1A\x01\x0A\x46\x00\x31\x00\x37\x00\x32\x00\x36\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :A29: \x1A\x01\x0D\x43\x00\x4C\x00\x30\x00\x30\x00\x37\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x31\x00\x32\x00\x09\x00\x09\x00 :A29: \x0A\x04\x06\xBE\x84\x01\x16 :BA33: \x15 :F0D: 
+:A29
+\x1A\x01\x0A\x46\x00\x31\x00\x37\x00\x32\x00\x37\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :A79: \x1A\x01\x0D\x43\x00\x4C\x00\x30\x00\x30\x00\x37\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x31\x00\x35\x00\x09\x00\x09\x00 :A79: \x0A\x04\x06\xBF\x84\x01\x16 :BFD3: \x15 :F0D: 
+:A79
+\x1A\x01\x0A\x46\x00\x31\x00\x37\x00\x32\x00\x38\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :AC9: \x1A\x01\x0D\x43\x00\x4C\x00\x30\x00\x30\x00\x37\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x31\x00\x38\x00\x09\x00\x09\x00 :AC9: \x0A\x04\x06\xC0\x84\x01\x16 :C1CE: \x15 :F0D: 
+:AC9
+\x1A\x01\x0A\x46\x00\x31\x00\x37\x00\x32\x00\x39\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :B19: \x1A\x01\x0D\x43\x00\x4C\x00\x30\x00\x30\x00\x37\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x32\x00\x31\x00\x09\x00\x09\x00 :B19: \x0A\x04\x06\xC1\x84\x01\x16 :C600: \x15 :F0D: 
+:B19
+\x1A\x01\x0A\x46\x00\x31\x00\x37\x00\x33\x00\x30\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :B7B: \x1A\x01\x08\x46\x00\x32\x00\x32\x00\x30\x00\x20\x00\x6F\x00\x6E\x00\x09\x00 :B7B: \x1A\x01\x0A\x43\x00\x36\x00\x30\x00\x30\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x33\x00\x09\x00 :B7B: \x0A\x04\x06\xC2\x84\x01\x16 :C8F3: \x15 :F0D: 
+:B7B
+\x1A\x01\x0A\x46\x00\x31\x00\x37\x00\x33\x00\x31\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :BDD: \x1A\x01\x08\x46\x00\x32\x00\x32\x00\x30\x00\x20\x00\x6F\x00\x6E\x00\x09\x00 :BDD: \x1A\x01\x0A\x43\x00\x36\x00\x30\x00\x30\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x35\x00\x09\x00 :BDD: \x0A\x04\x06\xC3\x84\x01\x16 :CC2A: \x15 :F0D: 
+:BDD
+\x1A\x01\x0A\x46\x00\x31\x00\x37\x00\x33\x00\x32\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :C3F: \x1A\x01\x08\x46\x00\x32\x00\x32\x00\x30\x00\x20\x00\x6F\x00\x6E\x00\x09\x00 :C3F: \x1A\x01\x0A\x43\x00\x36\x00\x30\x00\x30\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x38\x00\x09\x00 :C3F: \x0A\x04\x06\xC4\x84\x01\x16 :D274: \x15 :F0D: 
+:C3F
+\x1A\x01\x0A\x46\x00\x31\x00\x37\x00\x33\x00\x33\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :CA3: \x1A\x01\x08\x46\x00\x32\x00\x32\x00\x30\x00\x20\x00\x6F\x00\x6E\x00\x09\x00 :CA3: \x1A\x01\x0B\x43\x00\x36\x00\x30\x00\x30\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x31\x00\x32\x00\x09\x00 :CA3: \x0A\x04\x06\xC5\x84\x01\x16 :D7D8: \x15 :F0D: 
+:CA3
+\x1A\x01\x0A\x46\x00\x31\x00\x37\x00\x33\x00\x34\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :D07: \x1A\x01\x08\x46\x00\x32\x00\x32\x00\x30\x00\x20\x00\x6F\x00\x6E\x00\x09\x00 :D07: \x1A\x01\x0B\x43\x00\x36\x00\x30\x00\x30\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x31\x00\x36\x00\x09\x00 :D07: \x0A\x04\x06\xC6\x84\x01\x16 :E5D4: \x15 :F0D: 
+:D07
+\x1A\x01\x0A\x46\x00\x31\x00\x37\x00\x33\x00\x35\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :D6B: \x1A\x01\x08\x46\x00\x32\x00\x32\x00\x30\x00\x20\x00\x6F\x00\x6E\x00\x09\x00 :D6B: \x1A\x01\x0B\x43\x00\x36\x00\x30\x00\x30\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x32\x00\x30\x00\x09\x00 :D6B: \x0A\x04\x06\xC7\x84\x01\x16 :E7D4: \x15 :F0D: 
+:D6B
+\x1A\x01\x0A\x46\x00\x31\x00\x37\x00\x33\x00\x36\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :DCF: \x1A\x01\x08\x46\x00\x32\x00\x32\x00\x30\x00\x20\x00\x6F\x00\x6E\x00\x09\x00 :DCF: \x1A\x01\x0B\x43\x00\x36\x00\x30\x00\x30\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x32\x00\x34\x00\x09\x00 :DCF: \x0A\x04\x06\xC8\x84\x01\x16 :EB2B: \x15 :F0D: 
+:DCF
+\x1A\x01\x0A\x46\x00\x31\x00\x37\x00\x33\x00\x37\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :E33: \x1A\x01\x08\x46\x00\x32\x00\x32\x00\x30\x00\x20\x00\x6F\x00\x6E\x00\x09\x00 :E33: \x1A\x01\x0B\x43\x00\x36\x00\x30\x00\x30\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x32\x00\x38\x00\x09\x00 :E33: \x0A\x04\x06\xC9\x84\x01\x16 :ECCB: \x15 :F0D: 
+:E33
+\x1A\x01\x0A\x46\x00\x31\x00\x37\x00\x33\x00\x38\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :E97: \x1A\x01\x08\x46\x00\x32\x00\x32\x00\x30\x00\x20\x00\x6F\x00\x6E\x00\x09\x00 :E97: \x1A\x01\x0B\x43\x00\x36\x00\x30\x00\x30\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x33\x00\x32\x00\x09\x00 :E97: \x0A\x04\x06\xCA\x84\x01\x16 :F379: \x15 :F0D: 
+:E97
+\x1A\x01\x0A\x46\x00\x31\x00\x37\x00\x33\x00\x39\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :EFB: \x1A\x01\x08\x46\x00\x32\x00\x32\x00\x30\x00\x20\x00\x6F\x00\x6E\x00\x09\x00 :EFB: \x1A\x01\x0B\x43\x00\x36\x00\x30\x00\x30\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x33\x00\x36\x00\x09\x00 :EFB: \x0A\x04\x06\xCB\x84\x01\x16 :F8F4: \x15 :F0D: 
+:EFB
+\x16 :1378F: \x15 :F0D: \x15 :F0D: 
+:F0D
+\x78\x1A\x01\x0A\x46\x00\x31\x00\x37\x00\x31\x00\x32\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :F3C: \x0A\x04\x06\xB0\x84\x01\x16 :4E65: \x15 :F0D: 
+:F3C
+<music 3>
+<background "bg010a0.agf" 10>
+<name "Darx">
+"I think I'll inspect the dungeon."
+#
+<sprite "ta34c000.agf" 4 4 11>
+<name "Company Maid" "!DC0471">
+"I'll join you."
+#
+<name "Darx">
+"Okay."
+#
+<removesprite -1 11>
+<exit>
+:100F
+<music 12>
+<background "ev074a00.agf" 10>
+<name "Warrior Adventurer" "!ZD0052">
+"All right, so this is the dungeon that was
+ found recently?"
+#
+<name "Observant Adventurer" "!UA0067">
+"This dungeon is more of a cave."
+#
+<name "Wizard Adventurer" "!HC0085">
+"But... there's something deep in there."
+#
+<name "Cautious Adventurer" "!JA0044">
+"Seems like it...
+ It's weird."
+#
+<name "Warrior Adventurer" "!ZD0053">
+"What do you mean?"
+#
+<name "Cautious Adventurer" "!JA0045">
+"It looks crappy, but smells of profit.
+ It's a weird balance.
+ I can't tell if it's dangerous or not."
+#
+<name "Observant Adventurer" "!UA0068">
+"Anyway, if you smell money, we've got to go
+ in."
+#
+<name "Cautious Adventurer" "!JA0046">
+"Yeah."
+#
+Adventurers.
+#
+Those who seek danger and treasure.
+#
+<exit>
+:12E7
+<music 12>
+<background "ev074a00.agf" 10>
+<name "Veteran Adventurer" "!ZE0069">
+"What a strange place."
+#
+<name "Serious Adventurer" "!ZF0048">
+"You can tell that?"
+#
+<name "Veteran Adventurer" "!ZE0070">
+"How many years do you think I've been doing
+ this?"
+#
+<name "Serious Adventurer" "!ZF0049">
+"So, if it's strange, does that mean it's
+ dangerous?"
+#
+<name "Veteran Adventurer" "!ZE0071">
+"I don't know."
+#
+<name "Serious Adventurer" "!ZF0050">
+"How many years have you been doing this?"
+#
+<name "Veteran Adventurer" "!ZE0072">
+"It'll be twenty years this year."
+#
+<name "Serious Adventurer" "!ZF0051">
+"...Anyway, let's go."
+#
+<name "Veteran Adventurer" "!ZE0073">
+"Yeah."
+#
+<exit>
+:1547
+<music 12>
+<background "bg030a0.agf" 10>
+<name "Patrolling Adventurer" "!ZG0022">
+"Is this the deepest part?"
+#
+<name "Exploring Adventurer" "!ZH0050">
+"I can't tell. 
+ Maybe we should turn back.
+ We've made enough money."
+#
+<name "Patrolling Adventurer" "!ZG0023">
+"Hmmm... All right.
+ Better not to risk it."
+#
+<exit>
+:1657
+<music 12>
+<background "bg030a0.agf" 10>
+<name "Sword Adventurer" "!RB0147">
+"Should we gain some experience here?"
+#
+<name "Spear Adventurer" "!LB0112">
+"Sure thing."
+#
+<name "Sword Adventurer" "!RB0148">
+"Then draw out some monsters when you're
+ ready."
+#
+<name "Rogue Adventurer" "!ZH0051">
+"Yeah, yeah."
+#
+<exit>
+:177B
+<music 12>
+<background "bg030a0.agf" 10>
+<name "Guarding Angel" "!QB0161">
+"H-Humans are surprisingly strong."
+#
+<name "Veteran Demon" "!HC0086">
+"Especially the ones coming to places like
+ this."
+#
+<name "Veteran Demon" "!HC0087">
+"If you're not careful, they'll get you, so 
+ stay on guard."
+#
+<name "Guarding Angel" "!QB0162">
+"I'll be careful."
+#
+<exit>
+:18B1
+<music 3>
+<background "bg010a0.agf" 10>
+I couldn't believe my ears when I heard the
+report.
+#
+<name "Darx">
+"This... isn't a joke, is it?"
+#
+<sprite "ta34a002.agf" 4 4 11>
+<name "Company Maid" "!AC0222">
+"N-No...
+ It's pretty reliable information."
+#
+<name "Darx">
+"I had... better check for myself."
+#
+<name "Company Maid" "!AC0223">
+"If you can."
+#
+<removesprite -1 11>
+I head to the location.
+#
+It's the Temple of Darx.
+#
+The deepest part of my personal dungeon.
+#
+In other words, the closest place to the
+Overlord's Retreat.
+#
+<music 12>
+<background "ev049a00.agf" 10>
+<name "Ekate" "!TA0020">
+"Hahahahaha!"
+#
+<name "Ekate" "!TA0022">
+"You've come this far!"
+#
+<name "Ekate" "!TA0023">
+"But this is as far as you go!"
+#
+<name "Ekate" "!TA0024">
+"The Overlord's wife will not let you take a
+ single step further!"
+#
+<name "Ekate" "!TA0025">
+"I will say it again."
+#
+<name "Ekate" "!TA0026">
+"The Overlord's wife will not let you take a
+ single step further!"
+#
+<name "Warrior Adventurer" "!MB0043">
+"H-Hey, is this for real?
+ Isn't that Ekate?"
+#
+<name "Monk Adventurer" "!CB0056">
+"Yeah, she's the monster at the end of the
+ dungeon."
+#
+<name "Warrior Adventurer" "!MB0044">
+"I heard it's best to run away as quick as you
+ can if you ever run into her."
+#
+<name "Monk Adventurer" "!CB0057">
+"I can't do it.
+ I can't even stand anymore."
+#
+<name "Warrior Adventurer" "!MB0045">
+"It can't be.
+ What would Ekate be doing in such a crappy
+ dungeon?"
+#
+<name "Monk Adventurer" "!CB0058">
+"It's too much!
+ It's too horrible!"
+#
+<name "Ekate" "!TA0027">
+"Heheheheheheh.
+ Don't worry.
+ You won't die so easily."
+#
+<name "Ekate" "!TA0028">
+"On the contrary, if you do me a favor, I'll
+ let you live.
+ Oh, but you still can't go past here."
+#
+<name "Warrior Adventurer" "!MB0046">
+"Huh?"
+#
+<name "Monk Adventurer" "!CB0059">
+"Really?"
+#
+<name "Warrior Adventurer" "!MB0047">
+"T-Tell us.
+ We'll do whatever you want.
+ Just let us go."
+#
+<name "Ekate" "!TA0029">
+"Very well.
+ Then first, memorize what I'm about to say."
+#
+<name "Ekate" "!TA0030">
+"The wife of the Overlord, Ekate."
+#
+<name "Ekate" "!TA0031">
+"Can you remember that?"
+#
+<name "Warrior Adventurer" "!MB0048">
+"I-I can."
+#
+<name "Ekate" "!TA0032">
+"Then let's hear it."
+#
+<name "Warrior Adventurer" "!MB0049">
+"T-The wife of the Overlord, Ekate."
+#
+<name "Ekate" "!TA0033">
+"You there."
+#
+<name "Monk Adventurer" "!CB0060">
+"The wife of the Overlord, Ekate."
+#
+<name "Ekate" "!TA0034">
+"Very well done."
+#
+<name "Warrior Adventurer" "!MB0050">
+"O-Okay!"
+#
+<name "Monk Adventurer" "!CB0061">
+"We did it!"
+#
+<name "Ekate" "!TA0035">
+"Now, when you return to the surface, tell 
+ that to at least ten people."
+#
+<name "Ekate" "!TA0036">
+"Understand?"
+#
+<name "Warrior Adventurer" "!MB0051">
+"O-Okay.
+ I understand."
+#
+<name "Monk Adventurer" "!CB0062">
+"I swear I'll tell it to at least ten people."
+#
+<name "Ekate" "!TA0037">
+"Then leave!"
+#
+<name "Warrior Adventurer" "!MB0052">
+"Y-Yes, ma'am!"
+#
+...
+#
+<music 11>
+<name "Ekate" "!TA0038">
+"Whew.
+ Job complete."
+#
+<name "Darx">
+"Um, a word."
+#
+<name "Ekate" "!TA0039">
+"Overlord!♪"
+#
+This is the report I got.
+#
+That Ekate was tormenting humans deep inside
+the Temple of Darx.
+#
+I couldn't believe it, but it was true.
+#
+<music 18>
+<background "ev050a00.agf" 10>
+<name "Ekate" "!TA0040">
+"Aah! My Lord!♪"
+#
+I brought her to my room in the Overlord's
+Retreat and immediately threw her on the bed.
+#
+Well, I'm not going to say no to her, so I'm
+more than happy enough to have plenty of fun
+with her.
+#
+<name "Ekate" "!TA0041">
+"Heheheh..."
+#
+<name "Darx">
+"You're being unusually clingy."
+#
+<name "Ekate" "!TA0042">
+"Am I?"
+#
+She hugs me tight from behind, pressing her
+breasts against my back.
+#
+<name "Ekate" "!TA0043">
+"I think I always cling to you."
+#
+<name "Darx">
+"That's true."
+#
+<name "Ekate" "!TA0044">
+"...It's cause I missed you."
+#
+<name "Darx">
+"Sorry."
+#
+<name "Darx">
+"But if you were guarding the Hall of Doors,
+ wouldn't you still be able to see me?"
+#
+<name "Ekate" "!TA0045">
+"That's what I thought, but you never came 
+ even once!"
+#
+<name "Darx">
+"Well, things were busy."
+#
+I had a lot of land work to do, and didn't use
+the Doors much.
+#
+<name "Ekate" "!TA0046">
+"Grr.
+ Again."
+#
+<name "Darx">
+"Yeah, yeah."
+#
+I gently embrace her.
+#
+<name "Darx">
+"Speaking of which, why were you doing that in
+ there?"
+#
+<name "Ekate" "!TA0047">
+"I-I wanted to be nearby, but...
+ I thought I shouldn't bother you."
+#
+<name "Darx">
+"So you went there."
+#
+<name "Ekate" "!TA0048">
+"Yep."
+#
+<name "Darx">
+"...I'm sorry I made you feel lonely."
+#
+<name "Ekate" "!TA0049">
+"Yep."
+#
+<name "Darx">
+"You can dote on me however much you want
+ today."
+#
+<name "Ekate" "!TA0050">
+"Really?"
+#
+<name "Darx">
+"Yeah, as an apology for making you lonely."
+#
+<name "Ekate" "!TA0051">
+"T-Then..."
+#
+I satisfy each and every one of her demands
+until morning.
+#
+<music 3>
+<background "bg010a0.agf" 10>
+<sprite "ta13a006.agf" 4 4 11>
+<name "Ekate" "!TA0052">
+"I'm quitting there and coming to work here."
+#
+<removesprite -1 11>
+<name "Darx">
+"She insisted..."
+#
+<sprite "ta08a019.agf" 4 4 11>
+<name "Rakia" "!ZC0458">
+"There are a lot of problems with approving
+ that..."
+#
+<name "Darx">
+"We'll figure things out."
+#
+<sprite "ta08a014.agf" 4 4 12>
+<name "Rakia" "!ZC0459">
+"If you could possibly just come back..."
+#
+<removesprite -1 11>
+<sprite "ta13a005.agf" 4 4 11>
+<name "Ekate" "!TA0053">
+"Nope."
+#
+<removesprite -1 11>
+<sprite "ta08a013.agf" 4 4 11>
+<name "Rakia" "!ZC0460">
+"T-Then... I can expand the definition of the
+ guard area from around the Hall of Doors to
+ the elevator connecting the dungeon to the
+ city. How does that sound?"
+#
+<name "Darx">
+"Are you sure?"
+#
+<removesprite -1 11>
+It's a big concession.
+#
+Maybe she figures that even if she convinced
+Ekate to come back, she'd just be upset and
+more trouble than it's worth.
+#
+<removesprite -1 11>
+<sprite "ta08a011.agf" 4 4 11>
+<name "Rakia" "!ZC0461">
+"However, you'd work for Forzelotte's Shrine.
+ You would have to do your job for both sides.
+ And as much as possible, you'd have to be
+ stationed in Forzelotte's Shrine."
+#
+<name "Darx">
+"How about that, Ekate?"
+#
+<removesprite -1 11>
+<sprite "ta13a017.agf" 4 4 11>
+<name "Ekate" "!TA0054">
+"Mrrrrr..."
+#
+<removesprite -1 11>
+<sprite "ta08a015.agf" 4 4 11>
+<name "Rakia" "!ZC0462">
+"I'll say it again, the place you'd be 
+ guarding would be the elevator connecting the
+ Temple of Darx to the city, and the area
+ around it."
+#
+<sprite "ta08a016.agf" 4 4 12>
+<name "Rakia" "!ZC0463">
+"Please don't stretch the definition of that
+ either. Fighting outside of eyeshot of the
+ elevator would be seen as assisting Darx in
+ his evaluation."
+#
+<name "Darx">
+"What happens if she does?"
+#
+<sprite "ta08a023.agf" 4 4 12>
+<name "Rakia" "!ZC0464">
+"That depends on Macdo's mood."
+#
+<name "Darx">
+"...I see.
+ Does that work for you, Ekate?"
+#
+<removesprite -1 11>
+<sprite "ta13a005.agf" 4 4 11>
+<name "Ekate" "!TA0055">
+"Yep."
+#
+<removesprite -1 11>
+<sprite "ta08a016.agf" 2 5 11>
+<sprite "ta13a005.agf" 6 4 11>
+<name "Rakia" "!ZC0465">
+"And while you're here, please try to stay in
+ the Temple of Darx as much as you can."
+#
+<sprite "ta13a006.agf" 6 4 12>
+<name "Ekate" "!TA0056">
+"I'll try."
+#
+<removesprite -1 11>
+<music 4>
+<background "bg009a0.agf" 10>
+<sprite "ta08a016.agf" 4 4 11>
+<name "Rakia" "!ZC0466">
+"Sigh..."
+#
+<name "Darx">
+"Sorry for the headache."
+#
+<sprite "ta08a014.agf" 4 4 12>
+<name "Rakia" "!ZC0467">
+"Honestly."
+#
+<name "Darx">
+"Hahaha..."
+#
+<sprite "ta08a012.agf" 4 4 12>
+<name "Rakia" "!ZC0468">
+"By the way, have you made her even more of a
+ little girl?"
+#
+<name "Darx">
+"Aah, that was from last night.
+ She was a little spoiled."
+#
+<name "Darx">
+"She should be back to normal in a few days."
+#
+<sprite "ta08a023.agf" 4 4 12>
+<name "Rakia" "!ZC0469">
+"I certainly hope so."
+#
+<removesprite -1 11>
+\x2B\x0A\x44\x02\x37\x84\x01
+<exit>
+:367C
+<music 12>
+<background "ev049a00.agf" 10>
+<name "Ekate" "!TA0057">
+"You'll go no further."
+#
+<name "Warrior Adventurer" "!ZD0055">
+"A-Aiee!
+#
+<name "Thief Adventurer" "!UA0070">
+"Damn it. I can't believe we ran into Ekate
+ here."
+#
+<name "Wizard Adventurer" "!ZE0074">
+"Let's give up.
+ Don't fight her.
+ I'm running."
+#
+Ekate played her role as the final boss.
+#
+<music 10>
+<name "Ekate" "!TA0058">
+"Heheheh..."
+#
+<name "Guard Demon" "!GB0111">
+"Thank you for the hard work driving them
+ off."
+#
+<name "Ekate" "!TA0059">
+"I didn't do anything.
+ It wasn't hard at all."
+#
+<name "Guard Demon" "!GB0112">
+"That's right.
+ That's what I expect of you."
+#
+<name "Ekate" "!TA0060">
+"I guess.
+ Then since the annoyances are gone, shall we
+ get back to training?"
+#
+<name "Guard Demon" "!GB0113">
+"Y-Yes, ma'am.
+ Okay, I'll call the people hiding back out."
+#
+And she trained the other people in the 
+dungeon too.
+#
+<name "Company Maid" "!AC0224">
+"Um, is this okay?"
+#
+<name "Rakia" "!ZC0470">
+"I-It would be a bad idea to interfere with
+ her fun and games."
+#
+<name "Company Maid" "!AC0225">
+"Understood."
+#
+\x0A\x44\x02\x38\x84\x01
+<exit>
+:3AB0
+<music 12>
+<background "ev074a00.agf" 10>
+<name "Warrior Adventurer" "!ZF0052">
+"Okay, we're making good progress."
+#
+<name "Samurai Adventurer" "!ZG0024">
+"Yeah.
+ My instincts tell me we're almost to the 
+ end."
+#
+<name "Warrior Adventurer" "!ZF0053">
+"I see.
+ Okay then, I'll write my name in huge letters
+ on the wall."
+#
+<name "Samurai Adventurer" "!ZG0025">
+"Sound g... hm?"
+#
+<name "Warrior Adventurer" "!ZF0054">
+"Someone's there.
+ Be careful."
+#
+<name "Samurai Adventurer" "!ZG0026">
+"Yeah.
+ Rear guard, prepare for battle."
+#
+<name "Wizard Adventurer" "!LB0113">
+"I'm ready."
+#
+<name "Warrior Adventurer" "!ZF0055">
+"You in the back, don't get careless."
+#
+<name "Wizard Adventurer" "!LB0114">
+"Leave it to me."
+#
+<music 16>
+<background "ev049a00.agf" 10>
+<name "Ekate" "!TA0061">
+"Welcome."
+#
+<name "Samurai Adventurer" "!ZG0027">
+"...Huh?"
+#
+<name "Warrior Adventurer" "!ZF0056">
+"What's the matter!?
+ Slice her up!"
+#
+<name "Samurai Adventurer" "!ZG0028">
+"Shut up!
+ And put your weapons away!"
+#
+<name "Warrior Adventurer" "!ZF0057">
+"W-What?"
+#
+<name "Samurai Adventurer" "!ZG0029">
+"You back there, absolutely don't attack her!"
+#
+<name "Wizard Adventurer" "!LB0115">
+"Huh?"
+#
+<name "Ekate" "!TA0062">
+"Not many make it this far.
+ I was getting bored."
+#
+<name "Ekate" "!TA0063">
+"Heheheh.
+ Now, how shall I have you entertain me?"
+#
+<name "Samurai Adventurer" "!ZG0030">
+"Y-You over there.
+ Could you by chance be the beautiful wife of
+ the famous Overlord?"
+#
+<music 17>
+<name "Ekate" "!TA0064">
+".........Have a seat.
+ I'll get drinks.
+ I only have candy for snacks, do you mind?"
+#
+<name "Samurai Adventurer" "!ZG0031">
+"Thanks."
+#
+<name "Warrior Adventurer" "!ZF0058">
+"U-Um, what's going on here?"
+#
+<name "Samurai Adventurer" "!ZG0032">
+"Just do it. Don't fight it.
+ And compliment her.
+ Flatter her."
+#
+<name "Samurai Adventurer" "!ZG0033">
+"Do it if you don't want to die."
+#
+<name "Warrior Adventurer" "!ZF0059">
+"U-Um..."
+#
+<name "Samurai Adventurer" "!ZG0034">
+"It'll be okay. If you listen to her talk 
+ about her love life for about three hours,
+ she'll let us go. Think about it like a kind
+ of inescapable trap."
+#
+Ekate worked hard as the final line of 
+defense.
+#
+\x0A\x44\x02\x39\x84\x01
+<exit>
+:42A5
+<music 12>
+<background "ev074a00.agf" 10>
+<name "Rookie Adventurer" "!JA0047">
+"Sir, I heard that Ekate was in the deepest
+ part of this dungeon.
+ Isn't she dangerous?"
+#
+<name "Seasoned Adventurer" "!BC0069">
+"Hahaha.
+ Come on.
+ It's just a rumor."
+#
+<name "Rookie Adventurer" "!JA0048">
+"But a castle fell in the middle of this
+ forest. Maybe she moved to a different home
+ or something..."
+#
+<name "Seasoned Adventurer" "!BC0070">
+"No way.
+ Look around.
+ This place is just cruddy."
+#
+<name "Seasoned Adventurer" "!BC0071">
+"Low level monsters too."
+#
+<name "Seasoned Adventurer" "!BC0072">
+"There's no way Ekate would be somewhere like
+ this."
+#
+<name "Rookie Adventurer" "!JA0049">
+"Sir, when you talk to me about that, it just
+ makes me feel like you're forcing us to run
+ into Ekate."
+#
+<name "Seasoned Adventurer" "!BC0073">
+"Oh, you mean like that stuff.
+ Like how talking about getting married before
+ battle makes everybody think that you're 
+ going to die in that fight."
+#
+<name "Rookie Adventurer" "!JA0050">
+"Yes.
+ A jinx."
+#
+<name "Seasoned Adventurer" "!BC0074">
+"Hahaha.
+ I don't believe in jinxes."
+#
+<music 16>
+<background "ev049a00.agf" 10>
+<name "Seasoned Adventurer" "!BC0075">
+"Um...
+ From now on, I believe in jinxes."
+#
+<name "Rookie Adventurer" "!JA0051">
+"That means that we're gonna die.
+ Please let us make it home alive first."
+#
+\x0A\x44\x02\x3A\x84\x01
+<exit>
+:4761
+<music 16>
+<background "ev049a00.agf" 10>
+<name "Ekate" "!TA0065">
+"Heheheh.
+ You've done well to make it this far."
+#
+<name "Veteran Adventurer" "!ZG0035">
+"Oh?
+ So it seems to be true that you've moved
+ here."
+#
+<name "Veteran Adventurer" "!ZG0036">
+"Today I will have your head!"
+#
+<name "Ekate" "!TA0066">
+"Let's see how long that spirit lasts."
+#
+<name "Office Demon" "!QB0163">
+"Um, Miss Ekate.
+ Excuse me, could you please sign this
+ document?"
+#
+<name "Ekate" "!TA0067">
+"...I'm busy right now.
+ Can't you see that?"
+#
+<name "Office Demon" "!QB0164">
+"I know, but this is very important too.
+ Please."
+#
+<name "Ekate" "!TA0068">
+"G-Geez..."
+#
+<music 43>
+<name "Ekate" "!TA0069">
+"Oh, sorry.
+ Wait a second.
+ Um... here, right?"
+#
+<name "Office Demon" "!QB0165">
+"And these documents too."
+#
+<name "Ekate" "!TA0070">
+"T-There's so many."
+#
+<name "Office Demon" "!QB0166">
+"Please."
+#
+<name "Ekate" "!TA0071">
+"All right already.
+ Just cause you're getting in the way.
+ I'll do what I have to."
+#
+<name "Office Demon" "!QB0167">
+"T-Then, once every three days, if you could
+ do your work back there..."
+#
+<name "Ekate" "!TA0072">
+"That's not happening."
+#
+<name "Veteran Adventurer" "!ZG0037">
+"Uh...
+ Um, you seem busy, so maybe another time..."
+#
+<name "Ekate" "!TA0073">
+"Huh? Ooh, wait.
+ Just five minutes.
+ I'll be done in five minutes."
+#
+<name "Veteran Adventurer" "!ZG0038">
+"No, I'm leaving.
+ It's not the atmosphere for a fight to the
+ death anymore.
+ I'll come back another time."
+#
+<name "Ekate" "!TA0074">
+"I-I'm sorry.
+ I'm really sorry."
+#
+<name "Office Demon" "!QB0168">
+"Sorry, but I was in trouble too.
+ It's really not good to wait until the very,
+ very last minute."
+#
+<name "Ekate" "!TA0075">
+"I-I know, I said.
+ I'll finish right away, so stop crying."
+#
+\x0A\x44\x02\x3B\x84\x01
+<exit>
+:4E65
+<music 42>
+<background "bg005a0.agf" 10>
+<name "Guard Demon" "!BC0076">
+"Even if Ekate's gone, I will protect this
+ place!"
+#
+<name "Guard Demon" "!BC0077">
+"...Oohh..."
+#
+<name "Guard Demon" "!BC0078">
+"I knew it. 
+ I'm scared with Ekate gone."
+#
+<exit>
+:4F71
+<music 3>
+<background "bg010a0.agf" 10>
+<name "Darx">
+"Human captives?"
+#
+<sprite "ta34c001.agf" 4 4 11>
+<name "Company Maid" "!AC0226">
+"Yes."
+#
+<name "Darx">
+"I don't remember telling you to take 
+ prisoners."
+#
+<removesprite -1 11>
+The opposite.
+I remember ordering them to not take 
+prisoners.
+#
+If this was Forzelotte's Shrine, we'd have 
+room and people to manage that, but we barely
+have enough people here to stand guard as it
+is.
+#
+Also, it takes time and effort to negotiate
+their release.
+#
+There's no room for prisoners in this city.
+#
+<sprite "ta34c001.agf" 4 4 11>
+<name "Company Maid" "!AC0227">
+"I'm very sorry."
+#
+<name "Company Maid" "!AC0228">
+"We do have a prison, so we throw adventurers
+ in it who have gotten too destructive to
+ punish them, and we let them out after two
+ or three days."
+#
+<name "Darx">
+"I see."
+#
+<name "Company Maid" "!AC0229">
+"However, um..."
+#
+<sprite "ta34c002.agf" 4 4 12>
+<name "Company Maid" "!AC0230">
+"There's an adventurer who's gotten too
+ troublesome even for that, and those who
+ work in the dungeon strongly oppose 
+ releasing them."
+#
+<name "Company Maid" "!AC0231">
+"We can't ignore that, so I came to you."
+#
+<name "Darx">
+"By coming to me, you mean..."
+#
+<sprite "ta34c000.agf" 4 4 12>
+<name "Company Maid" "!AC0232">
+"It's a woman."
+#
+<removesprite -1 11>
+<music 53>
+<background "ev081a00.agf" 10>
+<name "Berserker Adventurer" "!LB0116">
+"Aah...ah..."
+#
+Since she was already tied up and naked, I
+forcibly took her virginity and then had 
+about three more rounds of fun.
+#
+<name "Darx">
+"Remember this.
+ Your first man was me."
+#
+<name "Berserker Adventurer" "!LB0117">
+"Ah...ah...
+ I-I'll kill you."
+#
+<name "Darx">
+"That's a nice glare, but..."
+#
+<name "Darx">
+"Not nearly crazy enough."
+#
+The angels were far scarier.
+#
+For every single one of them, it felt like
+they'd kill me the moment I let my guard
+down.
+#
+But I don't feel that from this woman.
+#
+I took her virginity and fucked her three
+more times after that.
+#
+If she was an angel, she would've tried to
+bite me to death.
+#
+<name "Darx">
+"Is this really the woman who's so much
+ trouble?"
+#
+She just seems like a regular warrior.
+#
+<name "Company Maid" "!AC0233">
+"There's no doubt about it."
+#
+The maid waiting behind me answers.
+#
+<name "Darx">
+"And yet..."
+#
+<name "Company Maid" "!AC0234">
+"Apparently she completely changes when she
+ has her sword."
+#
+<name "Darx">
+"I see..."
+#
+<name "Darx">
+"You, are you aware of this?
+ Answer me."
+#
+<background "ev081a01.agf" 10>
+<name "Berserker Adventurer" "!LB0118">
+"..."
+#
+<name "Darx">
+"You want me to fuck you again?
+ I don't mind."
+#
+<background "ev081a02.agf" 10>
+<name "Berserker Adventurer" "!LB0119">
+"W-When I hold a sword, I-I feel stronger
+ than anything."
+#
+<name "Darx">
+"Any kind of sword?"
+#
+<name "Berserker Adventurer" "!LB0120">
+"I've never had anything but my sword."
+#
+<name "Darx">
+"I see."
+#
+I try holding up a regular sword in front of
+her.
+#
+<name "Darx">
+"How's this?"
+#
+<name "Darx">
+"Do you hate me?"
+#
+<name "Berserker Adventurer" "!LB0121">
+"O-Of course I do."
+#
+<name "Darx">
+"...Nothing."
+#
+It's the same as before.
+#
+<name "Darx">
+"Bring me her sword."
+#
+<name "Company Maid" "!AC0235">
+"B-But..."
+#
+<name "Darx">
+"Do it."
+#
+...
+#
+<background "ev081b00.agf" 10>
+<name "Berserker Adventurer" "!LB0122">
+"Ah!"
+#
+As soon as I hold up her sword, the look in
+her eyes completely changes.
+#
+<background "ev081b01.agf" 10>
+<name "Berserker Adventurer" "!LB0123">
+"Give it!
+ Give me that sword!"
+#
+<name "Berserker Adventurer" "!LB0124">
+"And I will slice you to shreds!"
+#
+<name "Berserker Adventurer" "!LB0125">
+"Ahahahahahahaha!!!!!"
+#
+<name "Darx">
+"Hmm..."
+#
+Definitely an immediate change.
+#
+<name "Darx">
+"Sorry."
+#
+<background "ev081c00.agf" 10>
+After apologizing, I slam the sword on the 
+ground, breaking it.
+#
+<name "Berserker Adventurer" "!LB0126">
+"Ah..."
+#
+<name "Darx">
+"How's that?"
+#
+<name "Berserker Adventurer" "!LB0127">
+"Huh?
+ Ah... huh?"
+#
+<name "Darx">
+"How do you feel?"
+#
+<name "Berserker Adventurer" "!LB0128">
+"I... I-I feel strange..."
+#
+<name "Darx">
+"That was a cursed sword.
+ They're well-known among adventurers."
+#
+<name "Berserker Adventurer" "!LB0129">
+"It was?"
+#
+<name "Darx">
+"I'll give you some kind of new sword."
+#
+<name "Darx">
+"So call it even."
+#
+<background "ev081d00.agf" 10>
+<name "Berserker Adventurer" "!LB0130">
+"Huh? Oh, o-okay."
+#
+<name "Darx">
+"Then, shall we continue?"
+#
+<name "Berserker Adventurer" "!LB0131">
+"Huh?"
+#
+I enjoyed her for another half day.
+#
+<background "ev081d01.agf" 10>
+<name "Berserker Adventurer" "!LB0132">
+"I-I-I swear I'll kill you!"
+#
+<name "Darx">
+"I'm looking forward to it."
+#
+\x0A\x44\x02\x3C\x84\x01
+<exit>
+:608F
+<music 53>
+<background "ev081d01.agf" 10>
+<name "Darx">
+"So, you knew it'd end up like this and you
+ came back anyway?
+ You can't possibly have thought you were
+ going to beat me."
+#
+<name "Berserker Adventurer" "!LB0133">
+"Hmph."
+#
+<name "Darx">
+"..."
+#
+<name "Berserker Adventurer" "!LB0134">
+"W-What?"
+#
+<name "Darx">
+"What's your name?"
+#
+<name "Berserker Adventurer" "!LB0135">
+"Frei."
+#
+<name "Darx">
+"Join me."
+#
+<name "Frei" "!LB0136">
+"Huh?"
+#
+<name "Darx">
+"Oh, I'll just keep fucking you until you say
+ okay, so just say if that's what you want."
+#
+<name "Frei" "!LB0137">
+"Huh? Ah, huh? H-Hold on...
+ Ah! Aaah!"
+#
+After coming in her six more times, Frei
+joined me.
+#
+\xBC 0  "味方戦士"  -1 \x00\x00\x8A 1  0  0  0  "Frei has joined." 
+<music 11>
+<background "bg008a0.agf" 10>
+<sprite "ta34c001.agf" 4 4 11>
+<name "Company Maid" "!AC0236">
+"Are you sure about this?"
+#
+<name "Darx">
+"Yeah, I'm fine with it, and she'll get used
+ to things here."
+#
+<name "Darx">
+"Well, I'm sure she'll be a handful for you
+ guys to start out."
+#
+<name "Company Maid" "!AC0237">
+"It's nothing."
+#
+<name "Darx">
+"...You demons do the same things over and
+ over. You're very good at mastering a known
+ thing."
+#
+<name "Darx">
+"But you're bad at creating something out of
+ nothing."
+#
+<name "Company Maid" "!AC0238">
+"You think humans will help develop the city?"
+#
+<name "Darx">
+"It's best to have people with different ways
+ of thinking."
+#
+<name "Darx">
+"Well, that's my inexperienced assumption.
+ Convincing enough?"
+#
+<sprite "ta34c000.agf" 4 4 12>
+<name "Company Maid" "!AC0239">
+"Yes.
+ Thank you for your concern."
+#
+<name "Darx">
+"I know humans have their bad side too.
+ Don't worry, there won't be too many of
+ them."
+#
+<name "Company Maid" "!AC0240">
+"Okay."
+#
+<removesprite -1 11>
+\x2B\x0A\x44\x02\x3D\x84\x01
+<exit>
+:6737
+<music 3>
+<background "bg010a0.agf" 10>
+<sprite "ta34c001.agf" 4 4 11>
+<name "Company Maid" "!DC0244">
+"Overlord, I apologize for bothering you,
+ but I can ask you to deal with one of our
+ captives?"
+#
+<name "Darx">
+"Is something the matter?"
+#
+<name "Company Maid" "!DC0245">
+"Yes. The captive is a priestess, who, um..."
+#
+<name "Darx">
+"Hm?"
+#
+<name "Company Maid" "!DC0246">
+"She's too fanatical."
+#
+<name "Darx">
+"Fanatical?
+ What do you mean?"
+#
+<name "Company Maid" "!DC0247">
+"Um, well, she vehemently hates demons and
+ monsters and believes that it is her sworn
+ mission to eradicate all of them."
+#
+<name "Darx">
+"What about angels?"
+#
+<sprite "ta34c006.agf" 4 4 12>
+<name "Company Maid" "!DC0248">
+"She just treats them like any other person."
+#
+<name "Darx">
+"How does she tell the difference?"
+#
+<name "Company Maid" "!DC0249">
+"Appearance, I think."
+#
+<name "Company Maid" "!DC0250">
+"Her acts against goos and slimers are
+ especially heinous."
+#
+<name "Darx">
+"That's a problem."
+#
+<name "Company Maid" "!DC0251">
+"Yes, which is why I came to you."
+#
+<removesprite -1 11>
+<music 21>
+<background "ev082a00.agf" 10>
+<name "Darx">
+"I don't care if you hate demons and monsters.
+ I just want you to stop going over the line
+ after defeating them.
+ That's all I want."
+#
+<name "Fanatical Adventurer" "!GB0115">
+"Mmpgh!"
+#
+<name "Darx">
+"Oh, just shake or nod your head to answer."
+#
+Her mouth is gagged.
+#
+Because nothing but abuse was coming out of
+it.
+#
+<name "Fanatical Adventurer" "!GB0116">
+"Mphphghpgh!"
+#
+She shakes her head angrily and shouts.
+#
+Underneath that blindfold, her eyes are
+undoubtedly burning with hatred.
+#
+Pretty bold of her considering the situation.
+#
+I put two fingers into her pussy and slide
+them in.
+#
+<name "Fanatical Adventurer" "!GB0117">
+"Nnh!"
+#
+And forcefully feel inside her.
+#
+<name "Darx">
+"I'm not saying not to kill them.
+ It's kill or be killed.
+ I won't want revenge for that."
+#
+<name "Darx">
+"But what you're doing after killing them is
+ unacceptable."
+#
+What she did was cruel and unusual.
+#
+It's not just killing, it's desecrating the
+bodies.
+#
+<name "Darx">
+"This is your last chance.
+ If you don't give me the answer I want, I
+ will just violate you."
+#
+I push my fingers in deeper and feel the
+obstruction of her hymen.
+#
+<name "Fanatical Adventurer" "!GB0118">
+"Nnnnnh!"
+#
+<name "Darx">
+"Stop going too far."
+#
+<name "Fanatical Adventurer" "!GB0119">
+"M-Mph!
+ Mmghmphghmpghmpgh!"
+#
+<name "Fanatical Adventurer" "!GB0120">
+"Mmghpgh!
+ Mmghmmnghnghmgh!"
+#
+<name "Darx">
+"...I see."
+#
+<name "Darx">
+"Oh, you can stop talking now.
+ It's getting messy.
+ You're covered in drool."
+#
+<name "Darx">
+"Well, I guess there's no worrying about that
+ now."
+#
+I scoop up her saliva with my fingers and rub
+it on her face.
+#
+<name "Darx">
+"Hahahahahahaha!"
+#
+I undress and bring out my dick.
+#
+That seems to scare her for a moment, but
+that's it.
+#
+I don't hold back.
+#
+I press the tip of it against her.
+#
+<name "Fanatical Adventurer" "!GB0121">
+"Ahh!"
+#
+And slowly push in.
+#
+Not to be gentle.
+#
+She can't move or see.
+It's to inflict fear and pain.
+#
+The tip of my dick hits the hymen I felt 
+before.
+#
+It's very elastic.
+#
+It'd be hard to break with a slow insertion.
+#
+But I press against it while grinding into
+her.
+#
+<name "Fanatical Adventurer" "!GB0122">
+"Aah! Ah! Ah!"
+#
+She stiffens rigidly.
+#
+Resisting as hard as she can.
+#
+I move my hips harder.
+#
+<background "ev082a01.agf" 10>
+<name "Fanatical Adventurer" "!GB0123">
+"Aaaaaahhhh!"
+#
+And break through.
+#
+Her hymen is ripped through and my dick 
+arrives at the deepest point inside her.
+#
+<name "Fanatical Adventurer" "!GB0124">
+"Ah...aah...aah..."
+#
+She writhes and spasms in pain.
+#
+But I don't stop.
+#
+Once I reach the deepest part, I pull back.
+#
+I drag it out of her quickly.
+#
+She screams voicelessly.
+#
+Like I'm mocking her, I stick it back in.
+#
+Quickly and forcefully twisted into her.
+#
+<name "Fanatical Adventurer" "!GB0125">
+"Ah! Aah!"
+#
+She can't catch her breath.
+#
+I thrust violently and ransack her insides.
+#
+Violating her.
+#
+No matter how you say it, that's what I'm
+doing.
+#
+I would never do this to my wife, or to one I
+love. Just a sexual act to force the woman
+before me to surrender.
+#
+I know that it's a disgusting thing.
+#
+But I don't stop.
+#
+I violate this woman.
+#
+I shape my hips just for that, and abuse her.
+#
+And pour my semen, the symbol of my lust,
+into her pussy and womb.
+#
+<background "ev082a02.agf" 10>
+<name "Fanatical Adventurer" "!GB0126">
+"Aah...ah...aah..."
+#
+<name "Darx">
+"Do you understand?
+ I finished coming for the first time."
+#
+<name "Fanatical Adventurer" "!GB0127">
+"Aah...ah..."
+#
+<name "Darx">
+"Yeah, I can tell you're spirited.
+ I respect your devotion."
+#
+<name "Darx">
+"I won't tell you to hold back anymore."
+#
+<name "Darx">
+"So I won't either."
+#
+<name "Darx">
+"This is how you will bear the grudges that
+ you have inflicted."
+#
+<name "Fanatical Adventurer" "!GB0128">
+"Aah...ah..."
+#
+<background "ev082a03.agf" 10>
+I fucked her for several days.
+#
+Her body was healed magically every few hours.
+#
+I won't let her die from fatigue or pain.
+#
+I want her keep clinging to her faith.
+#
+<music 11>
+<background "bg008a0.agf" 10>
+<name "Company Maid" "!DC0252">
+"Thank you for your hard work."
+#
+<name "Darx">
+"Find a good time and let her go."
+#
+<name "Darx">
+"I did what needed to be done.
+ Nobody can say that she got off too easy."
+#
+<name "Company Maid" "!DC0253">
+"Indeed.
+ Understood."
+#
+\x0A\x44\x02\x3E\x84\x01
+<exit>
+:7C1C
+<music 21>
+<background "ev082a03.agf" 10>
+It's been a few days, and that priestess is
+refusing to be released.
+#
+<name "Darx">
+"Haven't you had enough?"
+#
+<name "Fanatical Adventurer" "!GB0129">
+"I can't go back after what was done to me.
+ Please, take me in."
+#
+There's nothing in her eyes now but desire.
+#
+\xBC 0  "味方僧侶"  -1 \x00\x00\x8A 1  0  0  0  "Aerys has joined." \x0A\x44\x02\x3F\x84\x01
+<exit>
+:7D8A
+<music 21>
+<background "ev082a03.agf" 10>
+<name "Aerys" "!GB0130">
+"Ah...aaah..."
+#
+I've gotten used to this kind of play when I'm
+with Aerys.
+#
+<name "Aerys" "!GB0131">
+"Aah...aah...aah..."
+#
+Looking at her drowning in pleasure, I can't
+help but thinking that the first time is 
+pretty influential.
+#
+\x0A\x44\x02\x40\x84\x01
+<exit>
+:7EDE
+<music 3>
+<background "bg010a0.agf" 10>
+<sprite "ta34c001.agf" 4 4 11>
+<name "Company Maid" "!DC0254">
+"Um, Overlord, we have a little problem in
+ the Temple of Darx."
+#
+<name "Darx">
+"What's the matter?"
+#
+<name "Company Maid" "!DC0255">
+"There's someone doing magical experiments
+ there."
+#
+<name "Darx">
+"Magical experiments?"
+#
+<removesprite -1 11>
+I can believe that.
+#
+Or rather, it's not uncommon.
+#
+<name "Darx">
+"But you're asking me for help so...
+ Something dangerous?"
+#
+<sprite "ta34c001.agf" 4 4 11>
+<name "Company Maid" "!DC0256">
+"Yes. They're conducting large-scale magic in
+ an enclosed space. It's been okay so far,
+ but if it escalates, it could lead to the
+ collapse of the Temple of Darx."
+#
+<name "Darx">
+"That bad?"
+#
+<name "Company Maid" "!DC0257">
+"The Temple of Darx is under Darx City, so
+ there would be consequences..."
+#
+<name "Darx">
+"So I need to drive them out?"
+#
+<name "Company Maid" "!DC0258">
+"That's a possibility, but I have a perfect
+ product for this."
+#
+<name "Darx">
+"Hm?"
+#
+<name "Company Maid" "!DC0259">
+"For now, we're calling it darn dopper.
+ We'd like you to test out the prototype."
+#
+<name "Darx">
+"Oh?"
+#
+<removesprite -1 11>
+<music 12>
+<background "ev083a00.agf" 10>
+<name "Wizard Adventurer" "!HC0088">
+"Heheheh..."
+#
+<name "Darx">
+"Her?"
+#
+<name "Company Maid" "!DC0260">
+"Yes.
+ She's definitely the one."
+#
+<name "Company Maid" "!DC0261">
+"Do you know how to use the darn dopper?"
+#
+<name "Darx">
+"Yeah."
+#
+<name "Company Maid" "!DC0262">
+"Then I'll leave you to it."
+#
+<name "Darx">
+"Roger."
+#
+<name "Wizard Adventurer" "!HC0089">
+"Now then, let's blow some stuff up again."
+#
+<name "Wizard Adventurer" "!HC0090">
+"Hm?
+ Another adventurer?"
+#
+<name "Wizard Adventurer" "!HC0091">
+"You look pretty crazy."
+#
+<name "Wizard Adventurer" "!HC0092">
+"Oh, it's not safe to be here.
+ I'm gonna let loose some magic."
+#
+<name "Wizard Adventurer" "!HC0093">
+"So get your butt out of here."
+#
+<name "Darx">
+"Sorry, but I'm an enemy."
+#
+<name "Wizard Adventurer" "!HC0094">
+"...You have got to be kidding me."
+#
+<name "Darx">
+"Yeah, don't hold back."
+#
+<name "Wizard Adventurer" "!HC0095">
+"You really are an enemy then?"
+#
+<name "Darx">
+"That's right.
+ Your magic experiments here are a problem.
+ I was sent to drive you out."
+#
+<name "Wizard Adventurer" "!HC0096">
+"Hmmm?"
+#
+<name "Wizard Adventurer" "!HC0097">
+"Then explode."
+#
+Before she can cast a spell, I use the darn
+dopper.
+#
+<background "ev083b00.agf" 10>
+Her clothes disappear.
+#
+No, they fall apart.
+#
+Like all the sewing came undone.
+#
+<name "Wizard Adventurer" "!HC0098">
+"...Huh?"
+#
+It's enough to interrupt her spell chant too.
+#
+<name "Wizard Adventurer" "!HC0099">
+"Huh?
+ Uh?
+ Huh?"
+#
+She doesn't realize what happened for a few
+moments before letting out a huge scream.
+#
+I can't stop laughing.
+#
+She tries to hold up the cloth around her and
+cover herself, but it keeps slipping from her
+hands.
+#
+<background "ev083b01.agf" 10>
+<name "Wizard Adventurer" "!HC0100">
+"What just...
+ Huh? Huuuh?
+ Eeeeeh!?"
+#
+I beat a hasty retreat, laughing the whole 
+way.
+#
+<name "Darx">
+"How was that?"
+#
+<name "Company Maid" "!DC0263">
+"It was spectacular."
+#
+<name "Darx">
+"Hahahahaha...
+ But what's the theory behind it?
+ I can't imagine it's just to instantly
+ destroy clothing."
+#
+<name "Company Maid" "!DC0264">
+"The makers said they reduced the friction of
+ materials to zero or something like that...
+ I'm sorry.
+ I'm not sure the details."
+#
+<name "Darx">
+"Does this work on things like demons too?"
+#
+<name "Company Maid" "!DC0265">
+"It doesn't have any effect on clothing made
+ with mana, so it's useless against demons."
+#
+<name "Darx">
+"I-I see...
+ Too bad."
+#
+<name "Company Maid" "!DC0266">
+"Hahaha..."
+#
+<name "Darx">
+"Well, that's fine.
+ Once this comes out for sale, I'll be sure to
+ buy a ton of it."
+#
+<name "Company Maid" "!DC0267">
+"Umm... I'll be sure to tell the creators
+ that."
+#
+\x0A\x44\x02\x41\x84\x01
+<exit>
+:8D4A
+<music 3>
+<background "bg010a0.agf" 10>
+<sprite "ta34c000.agf" 4 4 11>
+<name "Company Maid" "!DC0268">
+"Overlord, do you remember that wizard who was
+ experimenting with magic in the Temple of
+ Darx?"
+#
+<removesprite -1 11>
+<background "ev083b01.agf" 10>
+<name "Darx">
+"Yeah, the one we stripped naked."
+#
+<name "Company Maid" "!DC0269">
+"Yes, that one."
+#
+<background "bg010a0.agf" 10>
+<name "Darx">
+"Is she up to something again?"
+#
+<sprite "ta34c001.agf" 4 4 11>
+<name "Company Maid" "!DC0270">
+"No, um..."
+#
+<name "Company Maid" "!DC0271">
+"She's in the dungeon, yelling for you to take
+ responsibility. 
+ The person in charge of the dungeon feels
+ bad for her..."
+#
+<name "Darx">
+"Take responsibility?
+ I didn't do anything."
+#
+<name "Company Maid" "!DC0272">
+"Um, Overlord, for some women, they feel that
+ way from being seen completely naked... or
+ even just their most private places."
+#
+<name "Darx">
+"...Well, whatever."
+#
+<removesprite -1 11>
+\x2B\xBC 0  "味方魔法使い"  -1 \x00\x00\x8A 1  0  0  0  "Mirre has joined." \x0A\x44\x02\x42\x84\x01
+<exit>
+:9103
+<music 3>
+<background "bg010a0.agf" 10>
+<name "Mirre" "!HC0101">
+"Um, Overlord."
+#
+<name "Darx">
+"Hm?"
+#
+<name "Mirre" "!HC0102">
+"H-How were my breasts?"
+#
+<name "Darx">
+"Your breasts?"
+#
+<background "ev083b00.agf" 10>
+<name "Darx">
+"Oh, they were okay."
+#
+<name "Mirre" "!HC0103">
+"Okay?"
+#
+She lifts her staff.
+#
+<name "Darx">
+"Excuse me.
+ They were good."
+#
+<name "Mirre" "!HC0104">
+"I know, right?"
+#
+<name "Darx">
+"Hahahaha..."
+#
+<name "Darx">
+"Oh, that's right.
+ It's a little late, but sorry about what
+ happened back then."
+#
+<name "Mirre" "!HC0105">
+"S-Seriously."
+#
+<name "Mirre" "!HC0106">
+"I was so embarrassed, and because I was 
+ totally naked, I couldn't call for help.
+ I was practically in tears the whole time
+ that was happening."
+#
+<name "Darx">
+"Sorry."
+#
+<name "Mirre" "!HC0107">
+"Speaking of which, what did you do to me
+ back then?"
+#
+<name "Darx">
+"Oh, I used something called darn dopper."
+#
+<name "Mirre" "!HC0108">
+"As a wizard, I'd love to know more about it."
+#
+<name "Darx">
+"Unfortunately, its production was delayed."
+#
+<name "Mirre" "!HC0109">
+"Even if you just have the data, I could make
+ it."
+#
+<name "Darx">
+"You can reproduce it?"
+#
+<name "Mirre" "!HC0110">
+"I'll show you how it's done."
+#
+<name "Darx">
+"You're a good minion."
+#
+Darn dopper is a man's dream.
+#
+But recreating it was a long and arduous road.
+#
+\x0A\x44\x02\x43\x84\x01
+<exit>
+:962D
+<music 3>
+<background "bg010a0.agf" 10>
+<sprite "ta34c001.agf" 4 4 11>
+<name "Company Maid" "!PC0280">
+"Overlord, I had a request for you."
+#
+<name "Darx">
+"Hm?"
+#
+<name "Company Maid" "!PC0281">
+"There's a very powerful adventurer wandering
+ through the Temple of Darx. We can't handle
+ it with our current forces. Can we ask you
+ to quickly take care of them yourself?"
+#
+<name "Darx">
+"They're that strong?"
+#
+<name "Company Maid" "!PC0282">
+"Yes. It's just one person, but their
+ technique is enough to cut down anybody who
+ gets near."
+#
+<name "Darx">
+"I see."
+#
+<name "Darx">
+"All right.
+ I'll take a look myself to start."
+#
+<name "Company Maid" "!PC0283">
+"Yes, sir."
+#
+<removesprite -1 11>
+<music 22>
+<background "ev084a00.agf" 10>
+<name "Frustrated Adventurer" "!SB0164">
+"A-A man!
+ A man!"
+#
+<name "Darx">
+"Huh? H-Hey!
+ Hold it!
+ He...ah!"
+#
+When I went to investigate the situation,
+she instantly found me and tackled me.
+#
+I have no idea what's going on.
+#
+But the only thing on her mind is sex.
+#
+Is she some kind of crazy slut?
+#
+She forcefully grabs my dick, starts rubbing
+it, and as soon as it's big enough, starts
+putting it inside her.
+#
+<name "Frustrated Adventurer" "!SB0165">
+"Ah...mm...mmm!"
+#
+But I can tell from the feeling.
+#
+She's not a slut.
+#
+She's a virgin.
+#
+The proof is that I can feel her hymen 
+tearing.
+#
+<background "ev084a01.agf" 10>
+<name "Frustrated Adventurer" "!SB0166">
+"Aah! Aah! Aaah!"
+#
+Doesn't it hurt?
+#
+She doesn't slow down at all.
+#
+Was she so overstimulated by fighting that
+it started feeling good and she went into
+heat?
+#
+I can hardly even think straight.
+#
+The pleasure from the lower half of my body
+is dominating my thoughts.
+#
+But I'm not going to be able to come from
+such a violent act!
+#
+<background "ev084a02.agf" 10>
+<name "Frustrated Adventurer" "!SB0167">
+"Ah...mmm...mmm...mmm...ah..."
+#
+But the look in her eyes...
+#
+I'm drawn in by the only eye I can see.
+#
+The look of lust demanding a man.
+#
+Demanding pleasure.
+#
+<name "Frustrated Adventurer" "!SB0168">
+"Ah...ah...ah...
+ Come...
+ Aah...ah...
+ A-Almost..."
+#
+Her movements become even more violent.
+#
+She suddenly pulls close to me.
+#
+And takes my lips.
+#
+She thrusts her tongue in and licks the inside
+of my mouth.
+#
+The attack makes my dick even bigger.
+#
+<name "Frustrated Adventurer" "!SB0169">
+"Aaaahh!
+ Ah! Aah! Aaahhhh!"
+#
+She's even more ecstatic from that and swings
+her hips more.
+#
+I can't resist, pinned under her.
+#
+She forces me to come inside her.
+#
+<name "Frustrated Adventurer" "!SB0170">
+"Ah! Ah! Ahh! Ah! Ah! Ah! Aaahh!"
+#
+As I stay shocked at what's going on, a huge
+amount of semen erupts from my dick.
+#
+<background "ev084a03.agf" 10>
+<name "Frustrated Adventurer" "!SB0171">
+"Mmmmmmmm!!!!"
+#
+She comes, trembling from head to toe, as she
+takes my semen into her pussy and womb.
+#
+As I finish coming, my head starts to calm
+down.
+#
+Now that she's orgasmed, she should come back
+to her senses too.
+#
+And then we'll switch roles.
+#
+After what she did to me, I owe her quite a
+bit in return.
+#
+I decide that and try to reach up to her 
+chest.
+#
+But she grabs my wrists and stops me.
+#
+<name "Frustrated Adventurer" "!SB0172">
+"Aaah...mmm...ahhhh...
+ More..."
+#
+...
+#
+Her eyes remain inflamed with desire.
+#
+I wasn't let go for a long time.
+#
+<music 3>
+<background "bg010a0.agf" 10>
+<sprite "ta34c002.agf" 4 4 11>
+<name "Company Maid" "!PC0284">
+"Um..."
+#
+<sprite "ta34c000.agf" 4 4 12>
+<name "Company Maid" "!PC0285">
+"T-That must have been terrible."
+#
+<name "Darx">
+"I... told you to help me.
+ You ran away."
+#
+<sprite "ta34c008.agf" 4 4 12>
+<name "Company Maid" "!PC0286">
+"I'm sorry.
+ I was so confused by what was happening..."
+#
+<name "Darx">
+"You ran away."
+#
+<sprite "ta34c004.agf" 4 4 12>
+<name "Company Maid" "!PC0287">
+"H-Hahaha..."
+#
+<sprite "ta34c001.agf" 4 4 12>
+<name "Company Maid" "!PC0288">
+"I understand."
+#
+<name "Company Maid" "!PC0289">
+"You can punish me for running away, so please
+ feel better."
+#
+<removesprite -1 11>
+I punish the maid in bed while swearing
+vengeance on that woman.
+#
+\x0A\x44\x02\x44\x84\x01
+<exit>
+:A55B
+<music 3>
+<background "bg010a0.agf" 10>
+<sprite "ta34c001.agf" 4 4 11>
+<name "Company Maid" "!PC0290">
+"Overlord, there's an adventurer rampaging in
+ the Temple of Darx."
+#
+<name "Darx">
+"Is it that samurai?"
+#
+<name "Company Maid" "!PC0291">
+"Yes."
+#
+<name "Darx">
+"Good."
+#
+<removesprite -1 11>
+I stretch out.
+#
+Last time I screwed up.
+#
+I got pushed down and taken advantage of...
+#
+I was careless and tired.
+#
+Yeah, I was just there to check things out.
+I wasn't prepared.
+#
+And I was tired from various things.
+#
+However!
+#
+This time, I'm ready.
+#
+I'm prepared too.
+#
+<name "Darx">
+"Let's go!"
+#
+<sprite "ta34c001.agf" 4 4 11>
+<name "Company Maid" "!PC0292">
+"Huh? Um, by yourself?"
+#
+<name "Darx">
+"Of course!"
+#
+<removesprite -1 11>
+<music 22>
+<background "ev084b00.agf" 10>
+<name "Frustrated Adventurer" "!SB0173">
+"Aah...aah...aah...aaah!"
+#
+<name "Darx">
+"N-No way!"
+#
+<name "Frustrated Adventurer" "!SB0175">
+"Ah...ah...mmm...mmm!"
+#
+Once again, this woman!
+#
+She's gotten even better than last time!
+#
+<name "Frustrated Adventurer" "!SB0176">
+"Mm...ah...
+ M-More... More..."
+#
+B-But I won't lose!
+#
+<name "Darx">
+"Ooooohhhh!"
+#
+<name "Frustrated Adventurer" "!SB0177">
+"Ah...mm...mmm...
+ S-So sudden...
+ Ahhh..."
+#
+I can't afford to lose!
+#
+I move my hips and try to regain the control
+that's been taken from me.
+#
+<name "Frustrated Adventurer" "!SB0178">
+"Mm... Y-Yes...mm...
+ That feels good...
+ Ahhh...mmm...mmm..."
+#
+But my opponent is strong.
+#
+<name "Frustrated Adventurer" "!SB0179">
+"Yes... Mm... Yes... Ahh...
+ M-More... Harder...
+ Ah... Haha... 
+ Yes... Like that..."
+#
+Am I going to lose?
+#
+<name "Frustrated Adventurer" "!SB0180">
+"Mm...ah...mmm...aah...ah...ah...ahhh...
+ Mmm...ah..."
+#
+The battle between us continues with her
+having the advantage.
+#
+Until my dick rubs a certain spot inside her
+pussy.
+#
+<name "Frustrated Adventurer" "!SB0181">
+"Aah!"
+#
+She reacts more than I expected.
+#
+My instincts from being with many women tell
+me that's the spot.
+#
+<name "Frustrated Adventurer" "!SB0182">
+"Ah...ahh...ah...ah...ah..."
+#
+I knew it. 
+That's a woman's weak point.
+#
+Each time I rub there, her hips get weaker.
+#
+<name "Frustrated Adventurer" "!SB0183">
+"Aaah!"
+#
+She also lets out a small trickle of water.
+#
+I can do it.
+#
+My movements become more intense and I attack
+that spot.
+#
+And...
+#
+<name "Frustrated Adventurer" "!SB0184">
+"Aaaaaaaaahhhhhh!!!!"
+#
+Her whole body suddenly convulses and a
+throbbing goes through her entire pussy.
+#
+She came.
+#
+She climaxed.
+#
+Her eyes are soaked in pleasure.
+#
+Now.
+#
+Just after her, I start to come.
+#
+Semen floods out of my dick.
+#
+<background "ev084b01.agf" 10>
+<name "Frustrated Adventurer" "!SB0185">
+"Ah...ah...ahh!"
+#
+As soon as I finish coming, I start moving my
+hips again.
+#
+<name "Frustrated Adventurer" "!SB0186">
+"Aaah!"
+#
+The afterglow comes later.
+#
+<name "Frustrated Adventurer" "!SB0187">
+"Ah! Aah! Ah! Aaahh!"
+#
+I finally found an opening.
+#
+My counterattack has begun.
+#
+<music 11>
+<background "bg008a0.agf" 10>
+<name "Company Maid" "!PC0293">
+"T-That was incredible."
+#
+<name "Darx">
+"I guess."
+#
+<name "Company Maid" "!PC0294">
+"I can't believe you kept going until she
+ passed out."
+#
+<name "Darx">
+"Heheheh..."
+#
+<name "Company Maid" "!PC0295">
+"But you're very kind too."
+#
+<name "Company Maid" "!PC0296">
+"You cleaned her up and brought her back to
+ the entrance."
+#
+<name "Darx">
+"Well, I couldn't just leave here there."
+#
+<name "Company Maid" "!PC0297">
+"Yo.
+ That's our Overlord!"
+#
+<name "Darx">
+"Hahahahaha!"
+#
+I'm just overjoyed that I won.
+#
+\x0A\x44\x02\x45\x84\x01
+<exit>
+:B333
+<music 3>
+<background "bg010a0.agf" 10>
+<sprite "ta34c001.agf" 4 4 11>
+<name "Company Maid" "!PC0298">
+"Um, Overlord."
+#
+<name "Darx">
+"Yes?"
+#
+<name "Company Maid" "!PC0299">
+"A human adventurer is asking to join us."
+#
+<name "Darx">
+"Oh?"
+#
+<name "Company Maid" "!PC0300">
+"This adventurer...
+ Um, it's that samurai woman."
+#
+<name "Darx">
+"...No way.
+ Her?"
+#
+<name "Company Maid" "!PC0301">
+"Yes.
+ In return, she asks if you could sometimes
+ be with her..."
+#
+<name "Darx">
+"..."
+#
+<removesprite -1 11>
+\x2B\xBC 0  "味方侍"  -1 \x00\x00\x8A 1  0  0  0  "Tsulara has joined." \x0A\x44\x02\x46\x84\x01
+<exit>
+:B595
+<music 3>
+<background "bg010a0.agf" 10>
+<name "Darx">
+"Hmmm..."
+#
+<name "Darx">
+"Normally, you're just normal."
+#
+<name "Tsulara" "!SB0188">
+"Yes."
+#
+<name "Tsulara" "!SB0189">
+"However, sometimes, um...
+ I guess you could say that my frustration
+ explodes?"
+#
+<name "Darx">
+"That certainly seems like it."
+#
+<name "Tsulara" "!SB0190">
+"Yes."
+#
+<name "Tsulara" "!SB0191">
+"My first would be my husband.
+ I swore that, but it was just a random man,
+ and what's more, the Overlord..."
+#
+<name "Tsulara" "!SB0192">
+"I feel like it must be fate."
+#
+She's certainly well-adjusted.
+#
+\x0A\x44\x02\x47\x84\x01
+<exit>
+:B7A5
+<music 3>
+<background "bg010a0.agf" 10>
+<name "Tsulara" "!SB0193">
+"My eyepatch?
+ Oh, that's just for style."
+#
+<name "Darx">
+"Why again?"
+#
+<name "Tsulara" "!SB0194">
+"Isn't it much cooler this way?"
+#
+<name "Darx">
+"...If you're a samurai, shouldn't you focus
+ on practicality?"
+#
+<name "Tsulara" "!SB0195">
+"Hahaha..."
+#
+...
+#
+<name "Tsulara" "!SB0196">
+"Actually, that eye has trouble with light
+ and can get in the way in a fight, so I felt
+ like it was better to cover it up."
+#
+<name "Tsulara" "!SB0197">
+"Well, that doesn't matter much in a dungeon."
+#
+<name "Tsulara" "!SB0198">
+"If you don't like it, I can take it off."
+#
+<name "Darx">
+"No, if you have a reason, it's fine."
+#
+\x0A\x44\x02\x48\x84\x01
+<exit>
+:BA33
+<music 3>
+<background "bg010a0.agf" 10>
+<name "Darx">
+"I got a request.
+ What's going on?"
+#
+<sprite "ta34c001.agf" 4 4 11>
+<name "Company Maid" "!PC0302">
+"I-I'm sorry."
+#
+<name "Darx">
+"I thought I told you not to take prisoners."
+#
+<name "Company Maid" "!PC0303">
+"Yes."
+#
+<removesprite -1 11>
+But apparently some people have decided to
+hold onto some adventurers for punishment.
+#
+In other words, taken prisoners.
+#
+<name "Darx">
+"And yet, I get this request."
+#
+It's a request to expand the prison.
+#
+<name "Darx">
+"This doesn't make sense."
+#
+<sprite "ta34c001.agf" 4 4 11>
+<name "Company Maid" "!PC0304">
+"Yes. It's strange."
+#
+<name "Darx">
+"Why?
+ You looked into that, right?"
+#
+<name "Company Maid" "!PC0305">
+"It's because of the citizens who moved here
+ from Forzelotte's Shrine."
+#
+<name "Darx">
+"What do you mean?"
+#
+<name "Company Maid" "!PC0306">
+"Um, no matter what we tell them to do, they
+ keep taking prisoners because they believe
+ that will please you."
+#
+<name "Darx">
+"..."
+#
+<removesprite -1 11>
+<music 20>
+<background "ev085a00.agf" 10>
+<name "Writhing Adventurer" "!RB0150">
+"Aaah...ah...ahh...ah...aaah..."
+#
+I fuck the captured women in the jail, one
+after another.
+#
+It reminds me of when I had to deal with the
+angels.
+#
+But unlike then, these are humans.
+#
+I can't go too overboard with them.
+#
+But actually, it feels nice and different.
+#
+<name "Writhing Adventurer" "!RB0151">
+"Ah...ah...ah...
+ N-No mo...ah...
+ F-Forgive me..."
+#
+I enjoy my time in the prison with the 
+adventurers.
+#
+\x0A\x44\x02\x49\x84\x01
+<exit>
+:BFD3
+<music 20>
+<background "ev085a00.agf" 10>
+Hmm...
+#
+Sometimes, it's not bad to fuck humans.
+#
+Physically and mentally, they're delicate
+compared to angels or demons, but...
+#
+Thanks to that, I remember how different
+they are.
+#
+I've been pretty reckless lately.
+#
+<name "Company Maid" "!PC0307">
+"Overlord, how much longer will you be?"
+#
+<name "Darx">
+"After the ones here... two more times, 
+ maybe?"
+#
+<name "Company Maid" "!PC0308">
+"Understood.
+ Good luck."
+#
+<name "Darx">
+"Yeah!"
+#
+\x0A\x44\x02\x4A\x84\x01
+<exit>
+:C1CE
+<music 20>
+<background "ev085a00.agf" 10>
+<name "Writhing Adventurer" "!RB0152">
+"Ah...ah...aah...ahh..."
+#
+<name "Company Maid" "!PC0309">
+"Overlord."
+#
+<name "Darx">
+"Hm?
+ Is something the matter?"
+#
+<name "Company Maid" "!PC0310">
+"No, you've just been shut up in here for a
+ very long time..."
+#
+<name "Darx">
+"Has it been that long?"
+#
+<name "Company Maid" "!PC0311">
+"Yes..."
+#
+Apparently it's been two days.
+#
+Looking around me now, I certainly do seem to
+have been in a trance.
+#
+<name "Darx">
+"I see.
+ But my body still needs a woman."
+#
+<name "Darx">
+"Oh, do you want to do it too?"
+#
+<name "Company Maid" "!PC0312">
+"That's a tempting offer, but somebody needs
+ to take care of them."
+#
+<name "Darx">
+"I guess so."
+#
+<name "Company Maid" "!PC0313">
+"I'll let you know when I'm available."
+#
+<name "Darx">
+"Yeah, please do."
+#
+Three days later, I leave the adventurers'
+prison.
+#
+<music 5>
+<background "bg011b0.agf" 10>
+<name "Darx">
+"Urgh... What the hell?
+ That's still not enough."
+#
+<name "Darx">
+"I still need a woman."
+#
+<name "Darx">
+"It should've been enough..."
+#
+\x0A\x44\x02\x4B\x84\x01
+<exit>
+:C600
+<music 3>
+<background "bg010a0.agf" 10>
+<sprite "ta34b000.agf" 4 4 11>
+<name "Office Maid" "!PC0314">
+"Huh?
+ Where's the Overlord?"
+#
+<removesprite -1 11>
+<sprite "ta34a000.agf" 2 4 11>
+<sprite "ta34b000.agf" 6 5 11>
+<name "Secretary Maid" "!AC0241">
+"The usual place."
+#
+<removesprite -1 11>
+<music 20>
+<background "ev085a00.agf" 10>
+<name "Panting Adventurer" "!LB0138">
+"Ah! Aah! Ah! Aaaah!"
+#
+<name "Office Maid" "!PC0315">
+"He's been here a long time.
+ Is he okay?"
+#
+<name "Secretary Maid" "!AC0242">
+"I think so..."
+#
+<name "Office Maid" "!PC0316">
+"Should we ask Rakia?"
+#
+<name "Secretary Maid" "!AC0243">
+"Yeah...
+ Oh, but we have to tell Sofia first."
+#
+<name "Office Maid" "!PC0317">
+"Yeah."
+#
+\x0A\x44\x02\x4C\x84\x01
+<exit>
+:C8F3
+<music 10>
+<background "ev056a00.agf" 10>
+<name "Marialis" "!LA0064">
+"Brenda, Frenda, Mylene, how is the situation
+ there?"
+#
+<name "Brenda" "!QB0085">
+"All clear!"
+#
+<name "Frenda" "!WB0076">
+"Nothing to report!"
+#
+<name "Mylene" "!TC0075">
+"There were traces of a human camp.
+ I think approximately two days old."
+#
+<name "Marialis" "!LA0065">
+"Adventurers then.
+ Can you track them?"
+#
+<name "Mylene" "!TC0076">
+"That's my specialty.
+ Leave it to me."
+#
+<name "Marialis" "!LA0066">
+"Hopefully they just left.
+ If it looks like they've gone deeper, be sure
+ to report."
+#
+<name "Mylene" "!TC0077">
+"Yes, ma'am."
+#
+<name "Marialis" "!LA0067">
+"Brenda, Frenda, expand your patrol areas.
+ Focus on the edges near Mylene's area."
+#
+<name "Brenda" "!QB0086">
+"Roger."
+#
+<name "Frenda" "!WB0077">
+"Understood."
+#
+\x0A\x44\x02\x59\x84\x01
+<exit>
+:CC2A
+<music 10>
+<background "ev056a00.agf" 10>
+<name "Mylene" "!TC0078">
+"Brenda and Frenda... 
+ Your names are confusing because they're so
+ similar."
+#
+<name "Brenda" "!QB0087">
+"You're saying that now?"
+#
+<name "Frenda" "!WB0078">
+"Hasn't it been a pretty long time since we
+ met each other?"
+#
+<name "Mylene" "!TC0079">
+"Yeah, but... I still think about it.
+ It's not like you're sisters."
+#
+<name "Brenda" "!QB0088">
+"There's a lot of people out there, so some
+ people just have similar names."
+#
+<name "Frenda" "!WB0079">
+"That's right."
+#
+<name "Mylene" "!TC0080">
+"But similar names, similar circumstances,
+ both squad leaders in the same unit."
+#
+<name "Mylene" "!TC0081">
+"Isn't that confusing?"
+#
+<name "Brenda" "!QB0089">
+"It's not confusing.
+ Nobody's gotten it wrong yet, have they?"
+#
+<name "Mylene" "!TC0082">
+"I guess, but, um..."
+#
+<name "Frenda" "!WB0080">
+"Then why don't we don't try making your name
+ like it too?"
+#
+<name "Mylene" "!TC0083">
+"Huh?"
+#
+<name "Frenda" "!WB0081">
+"Brenda, Frenda, and... 
+ How about Glenda?"
+#
+<name "Brenda" "!QB0090">
+"Brenda, Frenda, Glenda."
+#
+<name "Brenda" "!QB0091">
+"I think our subordinates might have an issue
+ with that."
+#
+<name "Mylene" "!TC0084">
+"See? It is confusing."
+#
+<name "Frenda" "!WB0082">
+"It's because there's three.
+ Two is fine."
+#
+<name "Marialis" "!LA0068">
+"Yes, yes.
+ No chitchat while on the job.
+ Brenda, Frenda, Glenda.
+ Are there any issues?"
+#
+<name "Brenda" "!QB0092">
+"N-None."
+#
+<name "Mylene" "!TC0085">
+"N-None, but please go back to Mylene."
+#
+\x0A\x44\x02\x5A\x84\x01
+<exit>
+:D274
+<music 4>
+<background "bg009a0.agf" 10>
+<name "Brenda" "!QB0093">
+"Frenda, have you decided what you're going
+ to do for the next talent show?"
+#
+<name "Frenda" "!WB0083">
+"That's a secret."
+#
+<name "Brenda" "!QB0094">
+"If it's a secret, that means you've already
+ got something!"
+#
+<name "Frenda" "!WB0084">
+"Ooh... I let it slip in my haste.
+ It was pointless keeping it secret."
+#
+<name "Brenda" "!QB0095">
+"That's right. No point in it.
+ So tell me what you're going to do."
+#
+<name "Frenda" "!WB0085">
+"The helping hands act."
+#
+<name "Brenda" "!QB0096">
+"...What's that?"
+#
+<name "Frenda" "!WB0086">
+"I learned it from a dragon who came from the
+ east.
+ I bet it'll be pretty popular."
+#
+<name "Brenda" "!QB0097">
+"Can I do it too?"
+#
+<name "Frenda" "!WB0087">
+"You could, but...
+ A talent show is a competition, and we're
+ enemies."
+#
+<name "Brenda" "!QB0098">
+"I-I guess..."
+#
+<name "Frenda" "!WB0088">
+"There's still time until it.
+ Think hard to come up with your own act.
+ Oh, maybe you could try asking some human
+ adventurers for something."
+#
+<name "Frenda" "!WB0089">
+"They know a lot of things that'd be good for
+ a secret talent."
+#
+<name "Brenda" "!QB0099">
+"That'd be good.
+ It's a nice idea, but I wonder if they'd
+ honestly tell me."
+#
+<name "Frenda" "!WB0090">
+"Hmm... Then..."
+#
+For a while, there were rumors about a 
+strange fallen angel in the Forest of the
+Overlord who would let you get away if you
+could show her an unusual trick.
+#
+\x0A\x44\x02\x5B\x84\x01
+<exit>
+:D7D8
+<music 4>
+<background "bg009a0.agf" 10>
+<name "Brenda" "!QB0100">
+"Brenda!"
+#
+<name "Frenda" "!WB0091">
+"Frenda."
+#
+<name "Mylene" "!TC0086">
+"G-Glenda."
+#
+<name "Brenda" "!QB0101">
+"It's the standup comedy corner trio!"
+#
+<name "Brenda" "!QB0102">
+"Well, doing standup out of nowhere somewhere
+ like this?
+ It's kinda hard."
+#
+<name "Mylene" "!TC0087">
+"I know, right?"
+#
+<name "Frenda" "!WB0092">
+"I have no problem with it.
+ I'm always ready for anything.
+ I'm not like you."
+#
+<name "Mylene" "!TC0088">
+"Huh?
+ You're ready even for doing standup?"
+#
+<name "Frenda" "!WB0093">
+"Of course."
+#
+<name "Mylene" "!TC0089">
+"W-Wow."
+#
+<name "Frenda" "!WB0094">
+"But you can't do standup alone.
+ I'm ready, but you guys..."
+#
+<name "Brenda" "!QB0103">
+"Hold on a minute.
+ How exactly are you ready?"
+#
+<name "Frenda" "!WB0095">
+"I have a big folded paper, stretchy slacks,
+ and tools for hanging up laundry."
+#
+<name "Brenda" "!QB0104">
+"Um... Hold on.
+ First of all..."
+#
+<name "Brenda" "!QB0105">
+"You don't use props for standup!
+ Standup is won or lost only through the
+ dialogue!"
+#
+<name "Mylene" "!TC0090">
+"If you use props or set pieces, then it
+ becomes sketch comedy."
+#
+<name "Brenda" "!QB0106">
+"Second, these props are terrible!
+ What is this?
+ How are you supposed to use it?"
+#
+<name "Mylene" "!TC0091">
+"You never had any intention of doing this
+ with the stuff you brought."
+#
+<name "Brenda" "!QB0107">
+"And what, you always carry stuff like this
+ around with you?"
+#
+<name "Mylene" "!TC0092">
+"I had thought it was strange for you to have
+ it for a while."
+#
+<name "Frenda" "!WB0096">
+"You better not be underestimating me.
+ I brought these props so that you rookies
+ could make fun of them. Did you really think
+ that was all I had ready?"
+#
+<name "Mylene" "!TC0093">
+"Huh?
+ There's more?"
+#
+<name "Frenda" "!WB0099">
+"I don't just have these props, but I have
+ gags too."
+#
+<name "Brenda" "!QB0108">
+"Ooh!
+ You have a whole notebook full of jokes!"
+#
+<name "Frenda" "!WB0100">
+"Heheheh.
+ So how about we talk about the weather?
+ I'll start, and you can just read from
+ there."
+#
+<name "Mylene" "!TC0094">
+"N-Now you feel like a veteran."
+#
+<name "Brenda" "!QB0109">
+"So let's talk about the weather.
+ Um...
+ It's been hot lately."
+#
+<name "Frenda" "!WB0101">
+"It has."
+#
+<name "Mylene" "!TC0095">
+"When it's this hot, it's hard to sleep at
+ night."
+#
+<name "Frenda" "!WB0102">
+"It is."
+#
+<name "Brenda" "!QB0110">
+"That's right.
+ And when you wake up in the morning, you're
+ covered in sweat.
+ But because it's hot, it dries up quickly."
+#
+<name "Frenda" "!WB0103">
+"It does."
+#
+<name "Mylene" "!TC0096">
+"That just leaves the awful smell.
+ Man, I hope it gets cold soon."
+#
+<name "Frenda" "!WB0104">
+"It will."
+#
+<name "Brenda" "!QB0111">
+"Hey, you're just agreeing with everything!"
+#
+<name "Frenda" "!WB0105">
+"I am."
+#
+<name "Mylene" "!TC0097">
+"Ah! There's nothing written in this notebook
+ but things like 'It is' and 'What the heck'!"
+#
+<name "Brenda" "!QB0112">
+"You thought you were going to get away with
+ just that!?"
+#
+<name "Frenda" "!WB0106">
+"Don't worry, it'll work."
+#
+<name "Brenda" "!QB0113">
+"No it won't!
+ Geez! I've had enough!"
+#
+<name "Mylene" "!TC0098">
+"Thank you very much."
+#
+...
+#
+<name "Brenda" "!QB0114">
+"So, h-how was that?"
+#
+<name "Mylene" "!TC0099">
+"For our punishment for slacking off."
+#
+<name "Frenda" "!WB0107">
+"We tried our best."
+#
+<name "Marialis" "!LA0069">
+"Judge, your decision?"
+#
+<name "Darx">
+"It was kind of funny, so one more round."
+#
+<name "Brenda" "!QB0115">
+"Awwwww..."
+#
+\x0A\x44\x02\x5C\x84\x01
+<exit>
+:E5D4
+<music 10>
+<background "ev056a00.agf" 10>
+<name "Brenda" "!QB0116">
+"Humans... Adventurers, confirmed.
+ Tricked by the barrier and turning back."
+#
+<name "Marialis" "!LA0070">
+"Track them for a little while, and if they
+ leave, all is fine."
+#
+<name "Brenda" "!QB0117">
+"Roger."
+#
+<name "Frenda" "!WB0108">
+"Still, hasn't the number of adventurers
+ increased?"
+#
+<name "Marialis" "!LA0071">
+"Yeah.
+ I wonder if they've heard about the Temple
+ of Darx."
+#
+<name "Frenda" "!WB0109">
+"I'll stay on guard."
+#
+<name "Marialis" "!LA0072">
+"Yes."
+#
+<exit>
+:E7D4
+<music 10>
+<background "ev056a00.agf" 10>
+<name "Brenda" "!QB0118">
+"Captain, could we rest and eat soon?"
+#
+<name "Marialis" "!LA0073">
+"All right.
+ Squad one, you're on rest.
+ Get something to eat."
+#
+<name "Frenda" "!WB0110">
+"Um, if I can ask, could the exhausted squad
+ three also rest?"
+#
+<name "Marialis" "!LA0074">
+"Squad three, why are you so tired?"
+#
+<name "Frenda" "!WB0111">
+"U-Um, we found a hare, and maybe got a little
+ overexcited and restless chasing after it."
+#
+<name "Marialis" "!LA0078">
+"That's right. So, do you think that squad three
+ should be allowed to rest first? 
+ Even though the other squads were diligent
+ in their duties?"
+#
+<name "Marialis" "!LA0076">
+"I think it would be generous enough simply to
+ not make them skip eating entirely."
+#
+<name "Frenda" "!WB0112">
+"I-I misspoke.
+ Forget I said anything."
+#
+<name "Marialis" "!LA0077">
+"That's better."
+#
+<exit>
+:EB2B
+<music 10>
+<background "ev056a00.agf" 10>
+<name "Brenda" "!QB0119">
+"Captain, there's a bear.
+ What should we do?
+ Hunt it?"
+#
+<name "Marialis" "!LA0079">
+"Ignore it.
+ Let it scare the humans off."
+#
+<name "Marialis" "!LA0080">
+"Ah, but adventurers might be happy to hunt
+ it for food..."
+#
+<name "Brenda" "!QB0120">
+"Um..."
+#
+<name "Marialis" "!LA0081">
+"My original order stands.
+ Leave it."
+#
+<exit>
+:ECCB
+<music 10>
+<background "ev056a00.agf" 10>
+<name "Scouting Guard" "!QB0121">
+"...No sign of humans.
+ Nothing strange."
+#
+<name "Marialis" "!LA0082">
+"Good.
+ All troops, choose a random route and
+ rendevzous at the meeting place."
+#
+<name "Scouting Guard" "!QB0122">
+"Roger."
+#
+<name "Rookie Guard" "!TC0100">
+"You know, I've been wondering..."
+#
+<name "Veteran Guard" "!WB0113">
+"What?"
+#
+<name "Rookie Guard" "!TC0101">
+"Why don't we all go together to the 
+ rendezvous point?
+ And why do we need to all go different ways?"
+#
+<name "Veteran Guard" "!WB0114">
+"So that we cover more ground as we search for
+ intruders, and to avoid getting stuck in a
+ rut in case of emergency."
+#
+<name "Rookie Guard" "!TC0102">
+"What kind of emergency?"
+#
+<name "Veteran Guard" "!WB0115">
+"If the route is always the same, it's easy
+ to set up an ambush.
+ To prevent that."
+#
+<name "Rookie Guard" "!TC0103">
+"Oh, I see."
+#
+<name "Veteran Guard" "!WB0116">
+"I feel like that's basic, but I guess you
+ were in Castle Baldaquin, huh?"
+#
+<name "Rookie Guard" "!TC0104">
+"Oh, I'm more of an engineering girl."
+#
+<name "Veteran Guard" "!WB0117">
+"Why are engineers patrolling with us?"
+#
+<name "Rookie Guard" "!TC0106">
+"Hahaha.
+ I had no talent for it."
+#
+<name "Veteran Guard" "!WB0118">
+"Ooh, sorry.
+ I shouldn't have asked."
+#
+<name "Rookie Guard" "!TC0107">
+"No, it's fine.
+ Please keep teaching me."
+#
+<name "Veteran Guard" "!WB0119">
+"Okay.
+ If you have any questions, don't hesitate to
+ ask."
+#
+<name "Rookie Guard" "!TC0108">
+"Then I won't.
+ So if I could talk to you about our formation
+ while we're moving..."
+#
+<name "Veteran Guard" "!WB0120">
+"I know you already told me, but...
+ This kind of inquisitive disposition is 
+ better suited for engineering."
+#
+<exit>
+:F379
+<music 3>
+<background "bg010a0.agf" 10>
+<name "Scouting Guard" "!QB0123" "ka35b000.agf">
+"Reporting.
+ Nothing unusual today in the forest around
+ Darx City."
+#
+<name "Darx">
+"All right.
+ Good job."
+#
+<name "Scouting Guard" "!QB0124" "ka35b000.agf">
+"It was nothing.
+ Excuse me."
+#
+...
+#
+<name "Serious Guard" "!TC0109" "ka35b000.agf">
+"Did something happen?
+ You're grinning."
+#
+<name "Scouting Guard" "!QB0125" "ka35b000.agf">
+"Huh? H-Hahaha...
+ Um, just happy to be able to work near the
+ Overlord."
+#
+<name "Serious Guard" "!TC0110" "ka35b000.agf">
+"I see.
+ It's too bad for our friends who were left
+ behind in Forzelotte's Shrine, but great for
+ us."
+#
+<name "Scouting Guard" "!QB0126" "ka35b000.agf">
+"Yeah."
+#
+<name "Serious Guard" "!TC0111" "ka35b000.agf">
+"If we're lucky, we'll get to be with him."
+#
+<name "Scouting Guard" "!QB0127" "ka35b000.agf">
+"Hahaha...
+ I'm scared our friends back there will find
+ out."
+#
+<name "Serious Guard" "!TC0112" "ka35b000.agf">
+"Don't worry.
+ I'll make sure everybody here has their
+ stories straight."
+#
+<name "Scouting Guard" "!QB0128" "ka35b000.agf">
+"Hahaha...
+ Solidarity is strength."
+#
+<name "Serious Guard" "!TC0113" "ka35b000.agf">
+"Of course."
+#
+<name "Scouting Guard" "!QB0129" "ka35b000.agf">
+"Cause they're scary."
+#
+<name "Serious Guard" "!TC0114" "ka35b000.agf">
+"Yeah."
+#
+<exit>
+:F8F4
+<music 10>
+<background "bg012a0.agf" 10>
+<name "Reporting Guard" "!RB0066" "ka35b000.agf">
+"Squad eight will now relieve squad nine in
+ childcare duties!"
+#
+<sprite "ta15a003.agf" 4 4 11>
+<name "Marialis" "!LA0083">
+"Fortune be with you."
+#
+<removesprite -1 11>
+Many of the guards are angels.
+#
+Meaning I've had sex with most of them.
+#
+Naturally, some of them have had children too.
+#
+<name "Reporting Guard" "!RB0067" "ka35b000.agf">
+"It's been a while since I saw my daughter."
+#
+<name "Pleased Guard" "!LB0095" "ka35b000.agf">
+"Yeah.
+ Maybe I should get her a present."
+#
+...
+#
+<name "Jealous Guard" "!GB0088" "ka35b000.agf">
+"I want a baby too."
+#
+<name "Thinking Guard" "!SB0079" "ka35b000.agf">
+"Yeah.
+ Let's ask the Overlord for help."
+#
+<exit>
+:FC00
+<music 4>
+<background "bg009a0.agf" 10>
+<name "Filliane" "!GA0001" "ka25a000.agf">
+"Hello."
+#
+<name "Veteran Guard" "!TC0115" "ka35b000.agf">
+"Ah, Subcommander Filliane."
+#
+<name "Filliane" "!GA0002" "ka25a000.agf">
+"I'm not in the guard anymore.
+ I'm not your subcommander."
+#
+<name "Veteran Guard" "!TC0116" "ka35b000.agf">
+"I guess.
+ Head of childcare then."
+#
+<name "Filliane" "!GA0003" "ka25a000.agf">
+"There is that...
+ Hahaha..."
+#
+<name "Filliane" "!GA0004" "ka25a000.agf">
+"I never expected that I'd have a talent for
+ taking care of kids."
+#
+<name "Veteran Guard" "!TC0117" "ka35b000.agf">
+"But you're famous for it now."
+#
+<name "Filliane" "!GA0005" "ka25a000.agf">
+"I guess.
+ Um, where's Mari?"
+#
+<name "Veteran Guard" "!TC0118" "ka35b000.agf">
+"The captain should be back soon.
+ Please be patient."
+#
+<name "Filliane" "!GA0006" "ka25a000.agf">
+"Okay."
+#
+<name "Darx">
+"I could keep you company in the meantime."
+#
+<name "Filliane" "!GA0007" "ka25a000.agf">
+"Overlord!
+ It's been a while."
+#
+<name "Darx">
+"Yeah.
+ ...Are you okay?
+ You look like you're not eating enough."
+#
+<name "Filliane" "!GA0008" "ka25a000.agf">
+"Thank you for your concern.
+ If anything, I'm putting on weight..."
+#
+<name "Darx">
+"I have heard that kids are a lot of hard
+ labor."
+#
+<name "Filliane" "!GA0009" "ka25a000.agf">
+"Yes, but it's much more fun than being on the
+ battlefield."
+#
+<name "Darx">
+"I see.
+ ...Sorry for leaving you to take care of all
+ the kids."
+#
+<name "Filliane" "!GA0010" "ka25a000.agf">
+"It's fine.
+ I have a daughter of my own too."
+#
+<name "Darx">
+"How is Fina doing?
+ She's not jealous of her mother getting taken
+ away?"
+#
+<name "Filliane" "!GA0011" "ka25a000.agf">
+"She's well.
+ Not exactly jealous... more like lonely.
+ She is getting along with Maria though."
+#
+<name "Darx">
+"Yeah, Fina and Maria are close, aren't they?"
+#
+<name "Filliane" "!GA0012" "ka25a000.agf">
+"They're already good friends, just like Mari
+ and me."
+#
+<sprite "ta15a003.agf" 4 4 11>
+<name "Marialis" "!LA0084">
+"But if you keep him all to yourself, there
+ might be cracks in that relationship."
+#
+<name "Filliane" "!GA0013" "ka25a000.agf">
+"Aah!
+ You scared me."
+#
+<removesprite -1 11>
+<name "Darx">
+"Welcome back."
+#
+<sprite "ta15a003.agf" 4 4 11>
+<name "Marialis" "!LA0085">
+"Sir.
+ Reporting back from duty.
+ I'm ready to report..."
+#
+<removesprite -1 11>
+<name "Darx">
+"Make it quick and I'll let you go."
+#
+<name "Filliane" "!GA0014" "ka25a000.agf">
+"It'd be okay for it to be just the three of
+ us in bed."
+#
+<name "Darx">
+"Hahaha.
+ Unfortunately not an option today."
+#
+<name "Filliane" "!GA0015" "ka25a000.agf">
+"Too bad."
+#
+<name "Darx">
+"Seriously."
+#
+\x0A\x44\x02\x5D\x84\x01
+<exit>
+:106E7
+<music 3>
+<background "bg010a0.agf" 10>
+<name "Filliane" "!GA0016" "ka25a000.agf">
+"Overlord."
+#
+<name "Darx">
+"Hm? What is it?"
+#
+<name "Filliane" "!GA0017" "ka25a000.agf">
+"We haven't seen each other for such a long
+ time, so I was hoping you'd make love with
+ me."
+#
+<sprite "ta15a005.agf" 4 4 11>
+<name "Marialis" "!LA0086">
+"Just her wouldn't be fair.
+ So I came too."
+#
+<removesprite -1 11>
+<name "Darx">
+"Okay, so that's you two, but what about the
+ ones behind you?"
+#
+<name "Hopeful Guard" "!QB0130" "ka35b000.agf">
+"I am mind and body with our captain."
+#
+<name "Agreeing Guard" "!WB0121" "ka35b000.agf">
+"Me too."
+#
+<name "Opportunistic Guard" "!TC0119" "ka35b000.agf">
+"Me too."
+#
+<name "Darx">
+"Hahaha.
+ I-It would be fine, but I have a lot of
+ work..."
+#
+<name "Filliane" "!GA0018" "ka25a000.agf">
+"We'll help."
+#
+<sprite "ta15a005.agf" 4 4 11>
+<name "Marialis" "!LA0087">
+"We'll finish in no time."
+#
+<removesprite -1 11>
+<music 18>
+<background "ev058a00.agf" 10>
+<name "Hopeful Guard" "!QB0131">
+"Ah...ah...aah..."
+#
+<name "Agreeing Guard" "!WB0122">
+"Aahh..."
+#
+<name "Opportunistic Guard" "!TC0120">
+"Aah...mm..."
+#
+After finishing with the guards, I take care
+of Filliane and Marialis at the same time. 
+#
+<name "Marialis" "!LA0088">
+"Aah...ah...mm...mmm..."
+#
+<name "Filliane" "!GA0019">
+"Aah...mmm..."
+#
+I stick my dick into Marialis while caressing
+Filliane's pussy.
+#
+<name "Filliane" "!GA0020">
+"Mm...
+ D-Do me too..."
+#
+<name "Darx">
+"It's Marialis's turn right now."
+#
+I stick my finger deeper into her and rub it
+violently to appease her dissatisfaction.
+#
+<name "Filliane" "!GA0021">
+"Ah...ah...
+ G-Geez..."
+#
+<name "Darx">
+"You're next, so get yourself ready."
+#
+I go back to gently caressing her.
+#
+<name "Filliane" "!GA0022">
+"Aah... O-Okay..."
+#
+<name "Darx">
+"Marialis."
+#
+<name "Marialis" "!LA0089">
+"Aah...ah...aah...ah...mm...ah..."
+#
+Marialis is moaning with each movement of my
+dick.
+#
+<name "Darx">
+"I'm going to go faster."
+#
+<name "Marialis" "!LA0090">
+"Mm...
+ P-Please."
+#
+She spreads her legs to make it easier for me
+to move.
+#
+I go faster, happy to see her openly accepting
+me.
+#
+<name "Marialis" "!LA0091">
+"Ah! Aah! Ahhh!"
+#
+Her pussy squeezes tight around my dick.
+#
+But because of all the love juices she's
+leaking out, it feels really good.
+#
+<name "Marialis" "!LA0092">
+"Mm! Aah! Ah! Ah! Mm! Mmm! Aahh!
+ R-Right there... 
+ Aahhh! Ah! Aah! Ahhh!"
+#
+And warm.
+#
+It feels like her warmth is enveloping me, 
+and my hips desire her all on their own.
+#
+But my hand still doesn't forget Filliane.
+#
+<name "Filliane" "!GA0023">
+"Ah...aah...ahhh...aah!"
+#
+No, she won't me forget.
+#
+I can feel her pussy distinctly on my fingers.
+#
+<name "Filliane" "!GA0024">
+"Ah...mmm...ahhh..."
+#
+Like it's urging me to stick my dick in her
+as soon as possible.
+#
+My finger moves, searching for more.
+#
+<name "Filliane" "!GA0025">
+"Aah! Ah! Ahh!"
+#
+<name "Marialis" "!LA0093">
+"Ah! Aah! Ah! Ahh!"
+#
+I continue moving my hips and fingers as I
+listen to their sweet moans.
+#
+I've soaked in this pleasure for a long time,
+but it goes up and down.
+#
+And I can feel that it's almost at its peak.
+#
+<name "Darx">
+"I'm going to come."
+#
+<name "Marialis" "!LA0094">
+"Ah...ah...
+ Y-Yes..."
+#
+She shows open pleasure at my words.
+#
+<name "Darx">
+"Filliane, come with me too."
+#
+<name "Filliane" "!GA0026">
+"Ah... Y-Yes..."
+#
+I rub her walls with my fingertips.
+#
+<name "Darx">
+"Take it."
+#
+As I say that, I start coming inside Marialis.
+#
+<background "ev058a01.agf" 10>
+<name "Marialis" "!LA0095">
+"Ah! Aah! Aah! Ahhhhhhhhhh!!!"
+#
+<name "Filliane" "!GA0027">
+"Ah! Ah! Mmm! Mmmmmmmmmm!!!"
+#
+She climaxes while I come in her at the same
+time as Filliane orgasms on my fingers.
+#
+<name "Marialis" "!LA0096">
+"Ah...ahhh...ah..."
+#
+<name "Filliane" "!GA0028">
+"Aah...ah...aaah..."
+#
+The two gasp for breath.
+#
+I'm tempted to keep going, but I pull out of
+Marialis and turn to Filliane.
+#
+<name "Marialis" "!LA0097">
+"Ah..."
+#
+<background "ev058b00.agf" 10>
+<name "Filliane" "!GA0029">
+"Mmmm!"
+#
+This time, I move my dick in Filliane's pussy
+while playing with Marialis with my other 
+hand.
+#
+<name "Filliane" "!GA0030">
+"Ah...ah...ah...ah...
+ M-My Lord... My Lord..."
+#
+She just came, so she writhes violently with
+my dick suddenly thrust deep into her.
+#
+<name "Marialis" "!LA0098">
+"Ah...aah...ah...aah..."
+#
+And Marialis's pussy, freshly filled with my
+semen, squeezes hard onto my fingers and won't
+let go.
+#
+<name "Filliane" "!GA0031">
+"Ah! Aah! Ah! Ah! Aaah!"
+#
+<name "Marialis" "!LA0099">
+"Ah! Ahh! Aaaahh!"
+#
+<name "Filliane" "!GA0032">
+"Aah! Ah! M-More!
+ Ahh! Ahh! Aaah!"
+#
+Filliane's enthusiastic response is already
+close to forcing me to come.
+#
+<name "Filliane" "!GA0033">
+"Ah! Ah! Aah! Ahh!"
+#
+Well, I don't need to hold back.
+#
+I gratefully accept her actions and soak in
+the pleasure.
+#
+But just like before, she's not the only one.
+Marialis is also demanding my attention.
+#
+<name "Marialis" "!LA0100">
+"Ah! Aah! Ah! Aaaah!"
+#
+They're both adorable.
+#
+I move my hips frantically, but never stop my
+fingers. I come inside Filliane while Marialis
+orgasms on my fingers.
+#
+<background "ev058b01.agf" 10>
+<name "Filliane" "!GA0034">
+"Ahhhhhhhhhh!!!!!!"
+#
+<name "Marialis" "!LA0101">
+"Mmmmmmm..."
+#
+I continue to enjoy myself with them for a
+very long time.
+#
+<music 5>
+<background "bg011a0.agf" 10>
+<sprite "ta15a011.agf" 4 4 11>
+<name "Marialis" "!LA0102">
+"Um, My Lord."
+#
+<name "Darx">
+"Hm?"
+#
+<sprite "ta15a012.agf" 4 4 12>
+<name "Marialis" "!LA0103">
+"Why did you do the others first and us last?"
+#
+<name "Darx">
+"If I started with you, the others would never
+ get a turn."
+#
+<removesprite -1 11>
+<name "Filliane" "!GA0035" "ka25a000.agf">
+"Really?"
+#
+<name "Darx">
+"Really.
+ That's why."
+#
+<name "Darx">
+"I would never think of making you jealous by
+ having sex with other women in front of you."
+#
+<name "Filliane" "!GA0036" "ka25a000.agf">
+"You never thought of that at all?"
+#
+<name "Darx">
+"I had maybe thought about it a little bit."
+#
+<sprite "ta15a016.agf" 4 4 11>
+<name "Marialis" "!LA0104">
+"Geez...
+ What a bully."
+#
+<name "Darx">
+"It's because you two are so cute.
+ Forgive me."
+#
+<removesprite -1 11>
+<name "Filliane" "!GA0037" "ka25a000.agf">
+"Only if we do it again."
+#
+<name "Darx">
+"Yeah, yeah.
+ I can handle that."
+#
+I keep flirting with the two of them while
+waiting for the others to wake up.
+#
+<name "Fallen Guard" "!WB0123" "ka35b000.agf">
+"T-The captains are so tough..."
+#
+\x0A\x44\x02\x5E\x84\x01
+<exit>
+:12269
+<music 18>
+<background "ev058b00.agf" 10>
+<name "Filliane" "!GA0038">
+"Ah...ah...aah...aaah..."
+#
+<name "Marialis" "!LA0105">
+"Ah...aah...mmm...mmm...aah!"
+#
+I keep fucking both Filliane and Marialis.
+#
+<background "ev058b01.agf" 10>
+<name "Filliane" "!GA0039">
+"Ah! Aaah!"
+#
+<name "Marialis" "!LA0106">
+"Ahhhhhh!"
+#
+And come over and over.
+#
+I can't even count the number of times the 
+two of them have come either.
+#
+<music 5>
+<background "bg011a0.agf" 10>
+<sprite "ta15a120.agf" 4 4 11>
+<name "Marialis" "!LA0107">
+"Aaah..."
+#
+<removesprite -1 11>
+<name "Filliane" "!GA0040" "ka25a000.agf">
+"Satisfied.♪"
+#
+<name "Darx">
+"You guys have gotten really strong."
+#
+<name "Filliane" "!GA0041" "ka25a000.agf">
+"Well, our relationship with you has been
+ long and frequent."
+#
+<name "Darx">
+"I see."
+#
+<name "Filliane" "!GA0042" "ka25a000.agf">
+"Also, you were into pretty hard play back at
+ the start."
+#
+<name "Darx">
+"I guess."
+#
+They were both originally enemies.
+#
+<name "Filliane" "!GA0043" "ka25a000.agf">
+"But you're so gentle now."
+#
+<name "Darx">
+"You can still take it?"
+#
+<name "Filliane" "!GA0044" "ka25a000.agf">
+"I'm writhing in joy."
+#
+<name "Darx">
+"Marialis?"
+#
+<sprite "ta15a116.agf" 4 4 11>
+<name "Marialis" "!LA0108">
+"Um... I think it'd be a waste to pass out."
+#
+<name "Darx">
+"..."
+#
+<removesprite -1 11>
+They really are lovable.
+#
+I took a shower and got changed, but ended up
+attacking them for one more round.
+#
+\x0A\x44\x02\x5F\x84\x01
+<exit>
+:12868
+<music 18>
+<background "ev058b00.agf" 10>
+<name "Filliane" "!GA0045">
+"Aaah...aah...ah...mmm..."
+#
+<name "Darx">
+"I'll do it as many times as you want."
+#
+<name "Filliane" "!GA0046">
+"Aah... 
+ Y-Yes..."
+#
+<name "Guard" "!WB0124">
+"Mmm..."
+#
+<name "Darx">
+"...Hold on.
+ Time out."
+#
+I go to the girl who woke up and give her all
+I've got.
+#
+<name "Guard" "!WB0125">
+"Ah! Aah! Ah! Aah! Aaaah!"
+#
+After she passes out, I come back to them.
+#
+And resume.
+#
+<name "Filliane" "!GA0047">
+"U-Um, what was that?"
+#
+<name "Darx">
+"I have to stick it in the ones who wake up."
+#
+<name "Filliane" "!GA0048">
+"H-Hahaha...
+ Then I'll keep my voice down to not disturb
+ them."
+#
+<name "Darx">
+"You think you can?"
+#
+<name "Filliane" "!GA0049">
+"Mm...mmm!
+ Ah! Aaah!"
+#
+<name "Marialis" "!LA0109">
+"Ah, My Lord.
+ Me too."
+#
+<name "Darx">
+"All right."
+#
+I continue to enjoy myself with them, and with
+the ones who wake up.
+#
+<background "ev058b01.agf" 10>
+<name "Sofia" "!ZB0683">
+"Three whole days...
+ Unbelievable."
+#
+There was some anger over it.
+#
+\x0A\x44\x02\x60\x84\x01
+<exit>
+:12CAB
+<music 10>
+<background "bg014a1.agf" 10>
+<name "Defending Demon" "!RB5024">
+"This puzzle is really hard."
+#
+<name "Guard Demon" "!LB5020">
+"What puzzle?"
+#
+<name "Defending Demon" "!RB5025">
+"This one.
+ If I could just solve it, I could move on..."
+#
+<name "Guard Demon" "!LB5021">
+"Hmmmm.
+ That's pretty complicated.
+ Wait, why are you doing this while you're on
+ duty?"
+#
+<name "Defending Demon" "!RB5026">
+"I'm bored.
+ No intruders ever come somewhere like this."
+#
+<name "Guard Demon" "!LB5022">
+"...Well, that's true."
+#
+<name "Defending Demon" "!RB5027">
+"So, this puzzle...
+ Do you get it?"
+#
+<name "Guard Demon" "!LB5023">
+"How should I know?
+ I mean, it's a puzzle to drive off 
+ intruders."
+#
+<name "Guard Demon" "!LB5024">
+"Or rather...
+ I think the problem here is that you've 
+ already unlocked two of the seven parts of
+ the puzzle."
+#
+<name "Defending Demon" "!RB5028">
+"I'll reset them later."
+#
+<name "Guard Demon" "!LB5025">
+"Geez..."
+#
+<name "Defending Demon" "!RB5029">
+"Still... this is tough.
+ Maybe the ball here is a hint."
+#
+<name "Guard Demon" "!LB5026">
+"If you're worried about the answer, why don't
+ you ask dungeon master?"
+#
+<name "Defending Demon" "!RB5030">
+"Hmm...
+ Is that the only way?"
+#
+<name "Adventurer" "!KB5019">
+"Hold it right there!"
+#
+<name "Defending Demon" "!RB5031">
+"W-Who's there?"
+#
+<name "Adventurer" "!KB5020">
+"I am the rival of Whitney the Baker!
+ Heiselman the Dumpling Maker!"
+#
+<name "Guard Demon" "!LB5027">
+"...I-Intruder!"
+#
+<name "Defending Demon" "!RB5032">
+"R-Ring the alarm!
+ Call reinforcements!"
+#
+<name "Heiselman" "!KB5021">
+"Wait!
+ Hold on!
+ I have no intention of attacking you!"
+#
+<name "Defending Demon" "!RB5033">
+"Huh?"
+#
+<name "Heiselman" "!KB5022">
+"If I did, I would have cut you down without
+ calling out to you."
+#
+<name "Defending Demon" "!RB5034">
+"That's true..."
+#
+<name "Heiselman" "!KB5023">
+"My adventurer style is to avoid combat as
+ much as possible and to sneakily steal the
+ treasures of a dungeon, all on my own!"
+#
+<name "Heiselman" "!KB5025">
+"I appeared before you!
+ Do you know why!?"
+#
+<name "Guard Demon" "!LB5028">
+"U-Um..."
+#
+<name "Defending Demon" "!RB5035">
+"You mean, to solve this puzzle?"
+#
+<name "Heiselman" "!KB5026">
+"Yes!"
+#
+<name "Heiselman" "!KB5027">
+"Whitney the Baker is my rival.
+ An unsolvable puzzle is a challenge to me!
+ I must face this challenge!"
+#
+<name "Defending Demon" "!RB5036">
+"T-Then, do you want to try to solve it?
+ It seems impossible for us."
+#
+<name "Heiselman" "!KB5028">
+"Let me at it!"
+#
+<name "Guard Demon" "!LB5029">
+"I-Is this okay?"
+#
+...
+#
+<music 11>
+<background "bg008a0.agf" 10>
+<sprite "ta01a010.agf" 4 4 11>
+<name "Sofia" "!ZB5025">
+"It was absolutely not okay."
+#
+<removesprite -1 11>
+<name "Guard Demon" "!LB5030">
+"I thought so."
+#
+<name "Defending Demon" "!RB5037">
+"But I feel so refreshed with it solved!"
+#
+\x0A\x44\x02\x61\x84\x01
+<exit>
+:1378F
+<music 3>
+<background "bg010a0.agf" 10>
+The dungeon is at peace, aside from the 
+fighting in it.
+#
+<exit>
+\x78

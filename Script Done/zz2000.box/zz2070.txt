@@ -1,0 +1,47 @@
+﻿<music 3>
+<background "bg010a0.agf" 10>
+<sprite "ta16a015.agf" 4 4 11>
+<name "Farren" "!FB0141">
+"Um, Overlord, I heard rumors that you've done
+ sexual things with fairies..."
+#
+<name "Darx">
+"..."
+#
+<sprite "ta16a020.agf" 4 4 12>
+<name "Farren" "!FB0142">
+"Is that true?"
+#
+<name "Darx">
+".........Farren."
+#
+<sprite "ta16a015.agf" 4 4 12>
+<name "Farren" "!FB0143">
+"Y-Yes?"
+#
+<name "Darx">
+"Come here a minute."
+#
+<sprite "ta16a114.agf" 4 4 12>
+<name "Farren" "!FB0144">
+"Huh?
+ Ah! Ahh! Aaaahh!"
+#
+<removesprite -1 11>
+I fucked her into silence.
+#
+<sprite "ta16a116.agf" 4 4 11>
+<name "Farren" "!FB0145">
+"Ooh..."
+#
+<removesprite -1 11>
+<sprite "ta34a000.agf" 4 4 11>
+<name "Company Maid" "!DC0121">
+"You don't need to hide it.
+ Everybody knows about it."
+#
+<name "Darx">
+"For some reason."
+#
+<removesprite -1 11>
+\x2B\x78\x78

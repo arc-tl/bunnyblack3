@@ -1,0 +1,180 @@
+﻿<music 43>
+<background "bg002a0.agf" 10>
+<sprite "ta13a019.agf" 4 4 11>
+<name "Ekate" "!TA0001">
+"Rrr! Rrr! Rrr!"
+#
+<removesprite -1 11>
+...
+#
+<name "Paniverna" "!DA0036" "ka14a000.agf">
+"Um...
+ Ekate seems a little dangerous right now..."
+#
+<name "Golan" "!CA0001" "ka32a000.agf">
+"Yeah."
+#
+<name "Tojo" "!KA0001" "ka33a000.agf">
+"Hey, we've gotta do something about that."
+#
+<name "Izana" "!AA0001" "ka28a000.agf">
+"Would it be so bad if she killed Macdo?"
+#
+<name "Ultinia" "!EA0001" "ka29a000.agf">
+"If it wasn't, wouldn't the Overlord have
+ killed her already?"
+#
+<name "Izana" "!AA0002" "ka28a000.agf">
+"He goes easy when it's a woman."
+#
+<name "Ultinia" "!EA0002" "ka29a000.agf">
+"That's not how I'd put it."
+#
+<name "Izana" "!AA0003" "ka28a000.agf">
+"I guess, but still..."
+#
+<name "Golan" "!CA0002" "ka32a000.agf">
+"We're getting off track."
+#
+<name "Tojo" "!KA0002" "ka33a000.agf">
+"I think it'd be okay to kill Macdo myself."
+#
+<name "Ultinia" "!EA0003" "ka29a000.agf">
+"Why?"
+#
+<name "Tojo" "!KA0003" "ka33a000.agf">
+"Right when she got here, she was supposed to
+ be testing the Overlord's abilities, so if she
+ died, that'd mean we killed her, right?"
+#
+<name "Ultinia" "!EA0004" "ka29a000.agf">
+"Yes."
+#
+<name "Tojo" "!KA0004" "ka33a000.agf">
+"But now that it's changed to her staying here
+ and evaluating him, if she died, can't we
+ say it was an accident and send someone else
+ in her place?"
+#
+<name "Tojo" "!KA0005" "ka33a000.agf">
+"Well, we'd be in trouble if the second person
+ also died."
+#
+<name "Logius" "!PA0001" "ka26a000.agf">
+"Naive!
+ Too naive!"
+#
+<name "Logius" "!PA0002" "ka26a000.agf">
+"The Great Overlord might overlook it, but the
+ people around him would not."
+#
+<name "Logius" "!PA0003" "ka26a000.agf">
+"If it was us, if one of our people died
+ somewhere, we'd be mad, even if it was an
+ accident."
+#
+<name "Logius" "!PA0004" "ka26a000.agf">
+"It's the same for them."
+#
+<name "Paniverna" "!DA0037" "ka14a000.agf">
+"I'd be mad, but..."
+#
+<name "Ultinia" "!EA0005" "ka29a000.agf">
+"The question is how important Macdo is to the
+ Great Overlord and those around him."
+#
+<name "Tojo" "!KA0006" "ka33a000.agf">
+"Does anybody know that?"
+#
+<name "Izana" "!AA0004" "ka28a000.agf">
+"We're in no place to say..."
+#
+<name "Logius" "!PA0005" "ka26a000.agf">
+"Even if you think that, look at the
+ situation."
+#
+<name "Logius" "!PA0006" "ka26a000.agf">
+"The Overlord is working hard, all by himself,
+ to prove himself."
+#
+<name "Logius" "!PA0007" "ka26a000.agf">
+"If Macdo dies, we would be betraying that
+ effort."
+#
+<name "Logius" "!PA0008" "ka26a000.agf">
+"Do you really not believe me?"
+#
+<name "Izana" "!AA0005" "ka28a000.agf">
+"Y-You're right..."
+#
+<name "Logius" "!PA0009" "ka26a000.agf">
+"So he will absolutely not praise you for it!
+ The opposite! He will give praise to whoever
+ stops Ekate from killing her!"
+#
+<name "Paniverna" "!DA0038" "ka14a000.agf">
+"Let's stop Ekate."
+#
+<name "Ultinia" "!EA0006" "ka29a000.agf">
+"Yes."
+#
+<name "Izana" "!AA0006" "ka28a000.agf">
+"If we must."
+#
+<name "Tojo" "!KA0007" "ka33a000.agf">
+"I don't want anybody to get hurt though."
+#
+<name "Ultinia" "!EA0007" "ka29a000.agf">
+"If all of us surround her, I think we could
+ manage it."
+#
+<name "Izana" "!AA0007" "ka28a000.agf">
+"Surround her?
+ Then who takes the front?"
+#
+<name "Golan" "!CA0003" "ka32a000.agf">
+"There's no choice...
+ I..."
+#
+<name "Logius" "!PA0010" "ka26a000.agf">
+"No.
+ I'm the one who insisted on stopping her.
+ I'll do it."
+#
+<name "Tojo" "!KA0008" "ka33a000.agf">
+"I had you all wrong."
+#
+<name "Golan" "!CA0004" "ka32a000.agf">
+"Yeah. I thought you despised the Overlord."
+#
+<name "Logius" "!PA0011" "ka26a000.agf">
+"That is not true.
+ Hahahaha!
+ Come, let's fight our best!"
+#
+<music 11>
+<background "bg015a0.agf" 10>
+And so, Logius and friends were able to prevent
+Ekate from killing Macdo.
+#
+\x41 39 
+<background "bg002a0.agf" 10>
+<name "Logius" "!PA0012" "ka26a000.agf">
+"Owww..."
+#
+<name "Logius" "!PA0013" "ka26a000.agf">
+"We pulled it off somehow."
+#
+<name "Logius" "!PA0014" "ka26a000.agf">
+"That was close.
+ The Overlord was about to come back."
+#
+<name "Logius" "!PA0015" "ka26a000.agf">
+"The precious peace I finally have.
+ I'll do anything to protect Aly and Fran.
+ I will..."
+#
+<name "Logius" "!PA0016" "ka26a000.agf">
+"Heheheh..."
+#
+\x78\x78

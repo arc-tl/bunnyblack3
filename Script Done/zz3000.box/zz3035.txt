@@ -1,0 +1,39 @@
+﻿<music 11>
+<background "bg013a0.agf" 10>
+<sprite "ta15a004.agf" 4 4 11>
+<name "Marialis" "!LA5000">
+"Overlord?
+ So here you are.
+ I came to report."
+#
+<name "Darx">
+"Yeah, sorry.
+ Did you have to look for me?"
+#
+<sprite "ta15a003.agf" 4 4 12>
+<name "Marialis" "!LA5002">
+"A little.
+ What are you doing here?"
+#
+<name "Darx">
+"Taking care of the fields and checking on the
+ city."
+#
+<sprite "ta15a005.agf" 4 4 12>
+<name "Marialis" "!LA5003">
+"Keep up the hard work."
+#
+<name "Darx">
+"It's half play, but I definitely didn't say
+ that."
+#
+<sprite "ta15a003.agf" 4 4 12>
+<name "Marialis" "!LA5004">
+"Uh huh.
+ Anyway, could you please sign this?"
+#
+<name "Darx">
+"Roger."
+#
+<removesprite -1 11>
+\x2B\x78\x78

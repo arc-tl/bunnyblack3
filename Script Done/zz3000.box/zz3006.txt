@@ -1,0 +1,220 @@
+﻿<music 3>
+<background "bg010a0.agf" 10>
+<sprite "ta01a004.agf" 4 4 11>
+<name "Sofia" "!ZB0628">
+"Overlord, a letter for you."
+#
+<name "Darx">
+"Hm?
+ From Ultinia?"
+#
+<removesprite -1 11>
+She's one of my wives.
+#
+<name "Darx">
+"What is it?"
+#
+I open the letter.
+#
+It's a work report, and invitation to the hot
+springs.
+#
+Hot springs, huh?
+#
+That doesn't sound bad.
+#
+The place is...
+#
+Here?
+#
+Aah, I see.
+#
+That's why she came.
+#
+<name "Darx">
+"Sofia."
+#
+<sprite "ta01a004.agf" 4 4 11>
+<name "Sofia" "!ZB0629">
+"Yes?"
+#
+<name "Darx">
+"I'm going out for a while."
+#
+<sprite "ta01a001.agf" 4 4 12>
+<name "Sofia" "!ZB0630">
+"Y-Yes, sir."
+#
+<removesprite -1 11>
+Strike while the iron's hot.
+#
+<music 49>
+<background "ev053a00.agf" 10>
+<name "Darx">
+"Aaah...
+ So relaxing."
+#
+I get in the hot spring with Ultinia.
+#
+It's not mixed bathing, but this one is,
+exclusively for me.
+#
+Normally though, it's open for anybody to use.
+#
+This hot spring's for me only.
+#
+So despite how it looks, not many of the people
+here are too shy.
+#
+Since it's my personalhot springs, they're
+pretty much all women I've slept with.
+#
+<name "Ultinia" "!EA0045">
+"Indeed.
+ How is everything with you?"
+#
+<name "Darx">
+"It's not bad.
+ It'd be a little easier if all I had to
+ worry about was the city though."
+#
+<name "Ultinia" "!EA0046">
+"Isn't it more like you to fight?"
+#
+<name "Darx">
+"That's a fair point.
+ How about things with you?"
+#
+Ultinia, Paniverna, and Izana are angels who
+were the lords of Castle Baldaquin.
+#
+Now, as my wives, they deal with the angels
+who are staying at Forzelotte's Shrine.
+#
+<name "Ultinia" "!EA0047">
+"My work is going well, but there's some
+ dissatisfaction among our people."
+#
+<name "Darx">
+"Dissatisfaction?"
+#
+<name "Ultinia" "!EA0048">
+"Most of my people are warriors from Celestia.
+ You slept with almost all of them, and they
+ stayed simply because it's where you are."
+#
+<name "Ultinia" "!EA0049">
+"They want to come see you every now and then,
+ but that's not acceptable."
+#
+<name "Ultinia" "!EA0050">
+"Because of that, a few of them go to your
+ other body on their own, but it's only a few."
+#
+<name "Darx">
+"Aah, I see.
+ Sounds like I need to come up with something
+ then."
+#
+<name "Ultinia" "!EA0051">
+"Every now and then, I can let some sneak in
+ with Marialis's group, if you can make sure
+ to accomodate them."
+#
+<name "Darx">
+"Wouldn't it be bad if Macdo found out?"
+#
+<name "Ultinia" "!EA0052">
+"From what I can tell, she'd overlook this.
+ In fact, it's not helping you at all.
+ If anything, it's creating more problems for
+ you to deal with."
+#
+<name "Darx">
+"Hahaha.
+ I see.
+ It could be a handful."
+#
+<name "Ultinia" "!EA0053">
+"It should be fine in moderation."
+#
+<name "Darx">
+"All right."
+#
+<name "Ultinia" "!EA0054">
+"I now it's a lot to ask you to do things like
+ this, and I hear how tired and stressed you
+ are.
+ Please just relax and enjoy yourself today."
+#
+<name "Darx">
+"Yeah, I will."
+#
+<name "Darx">
+"So... why are you reaching between my legs?
+ Aren't we supposed to be relaxing?"
+#
+<name "Ultinia" "!EA0055">
+"Isn't this kind of thing a sort of relaxation
+ for you?"
+#
+<name "Darx">
+"Physical and mentally venting is the core of
+ expressing love.
+ It's not a part of relaxation."
+#
+<name "Darx">
+"Besides, you know I won't go easy with you."
+#
+<name "Ultinia" "!EA0056">
+"Aah, I'm so touched.
+ You think so much of me."
+#
+<name "Darx">
+"Hahahaha."
+#
+She can always see right through me, no matter
+how I try to hide it, and is relentless 
+whenever she's in a bad mood.
+#
+So it's better for both of us to be completely
+open right from the start.
+#
+I don't hate that.
+#
+<name "Darx">
+"Well, later, anyway."
+#
+<name "Darx">
+"For now, let's just enjoy the hot spring."
+#
+<name "Ultinia" "!EA0057">
+"I understand.
+ It is a shame though."
+#
+<name "Darx">
+"I'll be with you later until you pass out."
+#
+I squeeze her breast hard.
+#
+<name "Ultinia" "!EA0058">
+"Mmm...
+ I-I'm looking forward to it."
+#
+I enjoy the hot spring with her.
+#
+...
+#
+<name "Darx">
+"I said later, but you forced me down after
+ only ten minutes!"
+#
+<name "Ultinia" "!EA0059">
+"After you rubbed my breast, my heart started
+ beating too hard...
+ I couldn't take it."
+#
+Apparently it's not just her followers who were
+frustrated.
+#
+\x78\x78

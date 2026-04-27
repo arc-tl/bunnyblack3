@@ -1,0 +1,82 @@
+﻿<music 18>
+<background "ev034a00.agf" 10>
+<name "Kyuriha" "!FA0330">
+"Ah! Aah! Ah! D-Darx!
+ Aah! Ahh!"
+#
+<name "Darx">
+"I'm going to come."
+#
+<name "Kyuriha" "!FA0331">
+"Ah! Aah! Y-Yes!"
+#
+I hold her close and tight and slam my hips
+into her.
+#
+<name "Kyuriha" "!FA0332">
+"Ah...ah...ah..."
+#
+And come.
+#
+<background "ev034a01.agf" 10>
+<name "Kyuriha" "!FA0333">
+"Mmmmmmmm!!!!!"
+#
+It looks like she came at the same time as me.
+#
+<name "Kyuriha" "!FA0334">
+"Ah...aah...ah...aah...aahhh..."
+#
+She soaks satisfied in the afterglow.
+#
+I keep holding her tight, careful not to
+disturb her.
+#
+<name "Kyuriha" "!FA0335">
+"Aah..."
+#
+<background "bg017a0.agf" 10>
+<music 5>
+<background "bg011b0.agf" 10>
+<sprite "ta05a017.agf" 4 4 11>
+<name "Kyuriha" "!FA0336">
+"Thank you very much."
+#
+<name "Darx">
+"Yeah.
+ You're so pretty, I just had to give it my
+ best."
+#
+<sprite "ta05a112.agf" 4 4 12>
+<name "Kyuriha" "!FA0337">
+"Ah..."
+#
+<name "Darx">
+"What is it?"
+#
+<sprite "ta05a115.agf" 4 4 12>
+<name "Kyuriha" "!FA0338">
+"N-No, um..."
+#
+<name "Darx">
+"Hm?"
+#
+<sprite "ta05a117.agf" 4 4 12>
+<name "Kyuriha" "!FA0339">
+"I knew it.
+ You're gentle to your own people."
+#
+<name "Darx">
+"Oh?"
+#
+<sprite "ta05a119.agf" 4 4 12>
+<name "Kyuriha" "!FA0340">
+"Yes, and I am happy to be among them."
+#
+<name "Darx">
+"..."
+#
+<removesprite -1 11>
+I had to give it my best one more time.
+#
+\x78\x78

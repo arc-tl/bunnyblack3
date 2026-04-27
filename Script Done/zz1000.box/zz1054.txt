@@ -1,0 +1,208 @@
+﻿<music 62>
+<background "bg021a0.agf" 10>
+<sprite "ta04a017.agf" 4 4 11>
+<name "Rualtei" "!RA0052">
+"No...
+ I can't have..."
+#
+<name "Darx">
+"You're pretty strong."
+#
+<sprite "ta04a018.agf" 4 4 12>
+<name "Rualtei" "!RA0053">
+"Oooh..."
+#
+<name "Darx">
+"Now, it's time for punishment."
+#
+<sprite "ta04a024.agf" 4 4 12>
+<name "Rualtei" "!RA0054">
+"Eep!"
+#
+<removesprite -1 11>
+<sprite "ta05a002.agf" 4 4 11>
+<name "Kyuriha" "!FA0110">
+"P-Please wait!"
+#
+<name "Darx">
+"...Hm?"
+#
+<sprite "ta05a002.agf" 4 4 12>
+<name "Kyuriha" "!FA0111">
+"Darx, forgive me.
+ Please stay your hand."
+#
+<name "Darx">
+"...That's not what you said to me before.
+ Am I supposed to ignore your previous words?"
+#
+<sprite "ta05a001.agf" 4 4 12>
+<name "Kyuriha" "!FA0112">
+"I am well aware of what you are trying to
+ say, but please don't."
+#
+<sprite "ta05a002.agf" 4 4 12>
+<name "Kyuriha" "!FA0113">
+"She is a child who was not prepared for the
+ consequences of defeat.
+ Please show her mercy."
+#
+<name "Darx">
+"........."
+#
+<removesprite -1 11>
+While I'm thinking it over, the other one
+interjects.
+#
+<sprite "ta04a009.agf" 4 4 11>
+<name "Rualtei" "!RA0055">
+"I'm not a child!"
+#
+<removesprite -1 11>
+But as soon as the words leave her lips, 
+Kyuriha's clenched fist swings down like a
+hammer and strikes her directly on the head.
+#
+<sprite "ta05a007.agf" 4 4 11>
+<name "Kyuriha" "!FA0114">
+"You will be silent!"
+#
+<removesprite -1 11>
+That genuinely sounded like it cracked her
+skull, especially after she's already worn out
+from fighting.
+#
+<sprite "ta04a023.agf" 4 4 11>
+<name "Rualtei" "!RA0056">
+"Oooooohhhhh..."
+#
+<removesprite -1 11>
+She seems to still be alive though.
+#
+<sprite "ta05a016.agf" 4 4 11>
+<name "Kyuriha" "!FA0115">
+"I am truly, truly sorry.
+ Please, just this once, show mercy."
+#
+<name "Darx">
+"...Just this once."
+#
+<sprite "ta05a004.agf" 4 4 12>
+<name "Kyuriha" "!FA0116">
+"Really?"
+#
+<name "Darx">
+"Because you begged, just this once.
+ There will be no next time.
+ Even if it's someone else."
+#
+<sprite "ta05a017.agf" 4 4 12>
+<name "Kyuriha" "!FA0117">
+"Y-Yes.
+ Rualtei, apologize!"
+#
+<removesprite -1 11>
+<sprite "ta04a027.agf" 4 4 11>
+<name "Rualtei" "!RA0057">
+"...Hmph!"
+#
+<removesprite -1 11>
+<sprite "ta05a007.agf" 2 4 11>
+<sprite "ta04a027.agf" 6 5 11>
+<name "Kyuriha" "!FA0118">
+"Do you want me to hit you again?"
+#
+<sprite "ta04a023.agf" 6 5 12>
+<name "Rualtei" "!RA0058">
+"Eep!"
+#
+<removesprite -1 11>
+<name "Darx">
+"It doesn't matter.
+ But you should remember that too.
+ There won't be a next time."
+#
+<sprite "ta04a024.agf" 4 4 11>
+<name "Rualtei" "!RA0059">
+"..."
+#
+<removesprite -1 11>
+I let her go.
+#
+<sprite "ta05a015.agf" 4 4 11>
+<name "Kyuriha" "!FA0119">
+"Truly, thank you from the bottom of my heart."
+#
+<name "Darx">
+"Yeah."
+#
+<name "Darx">
+"Anyway, what are you doing here?"
+#
+<sprite "ta05a016.agf" 4 4 12>
+<name "Kyuriha" "!FA0120">
+"I had a bad feeling when I heard that Rualtei
+ was wandering around here."
+#
+<sprite "ta05a015.agf" 4 4 12>
+<name "Kyuriha" "!FA0121">
+"Forgive me.
+ If I had arrived sooner, I might have been
+ able to stop this before a fight broke out."
+#
+<name "Darx">
+"...Well, don't sweat it."
+#
+<sprite "ta05a014.agf" 4 4 12>
+<name "Kyuriha" "!FA0122">
+"Yes.
+ There won't be a next time.
+ I shall not forget that."
+#
+<sprite "ta05a015.agf" 4 4 12>
+<name "Kyuriha" "!FA0123">
+"Well, I mean to say that I truly did not 
+ intend to stand in your way, but I am sorry.
+ I have a soft spot for her..."
+#
+<name "Darx">
+"I take it from her name that she's Miartei's
+ sister?
+ So you've known her for a long time."
+#
+<sprite "ta05a019.agf" 4 4 12>
+<name "Kyuriha" "!FA0124">
+"Yes.
+ Ever since she was a little girl."
+#
+<name "Darx">
+"Then you couldn't help it."
+#
+<name "Darx">
+"Also, I don't think you should be thanking
+ me."
+#
+<sprite "ta05a012.agf" 4 4 12>
+<name "Kyuriha" "!FA0125">
+"Huh?"
+#
+<name "Darx">
+"She's definitely going to try again."
+#
+<name "Darx">
+"Isn't that how she is?"
+#
+<sprite "ta05a014.agf" 4 4 12>
+<name "Kyuriha" "!FA0126">
+"..."
+#
+<name "Darx">
+"You better pray she doesn't find me a second
+ time."
+#
+<sprite "ta05a016.agf" 4 4 12>
+<name "Kyuriha" "!FA0127">
+"...I shall."
+#
+<removesprite -1 11>
+\x2B\x78\x78

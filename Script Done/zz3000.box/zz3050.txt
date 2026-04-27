@@ -1,0 +1,107 @@
+﻿<music 18>
+<background "ev086a03.agf" 10>
+<name "Sofia" "!ZB0474">
+"Aaaaaah!"
+#
+<music 3>
+<background "bg010a0.agf" 10>
+<name "Darx">
+"Are you okay?"
+#
+<sprite "ta01a128.agf" 4 4 11>
+<name "Sofia" "!ZB0475">
+"I-I can't... walk."
+#
+<name "Darx">
+"I see.
+ I guess that was a little too much."
+#
+<removesprite -1 11>
+Partway through, she demanded I do it in her
+ass.
+#
+Apparently she heard from somewhere that I
+did that by force.
+#
+I tried to warn her, but she wouldn't listen.
+#
+She kept demanding it.
+#
+Yeah, this isn't my fault.
+#
+<sprite "ta01a128.agf" 4 4 11>
+<name "Sofia" "!ZB0476">
+"N-No way..."
+#
+<removesprite -1 11>
+I stick it in her front hole while using a
+quick spell to heal and relax her ass.
+#
+<sprite "ta01a129.agf" 4 4 11>
+<name "Sofia" "!ZB0477">
+"No way..."
+#
+<removesprite -1 11>
+...That's the last thing I remember.
+#
+<sprite "ta01a113.agf" 4 4 11>
+<name "Sofia" "!ZB0478">
+"I never imagined it'd go that far."
+#
+<name "Darx">
+"Huh?
+ What did I do?"
+#
+<name "Sofia" "!ZB0479">
+"Eep!"
+#
+<removesprite -1 11>
+She glares at me.
+#
+<sprite "ta01a113.agf" 4 4 11>
+<name "Sofia" "!ZB0480">
+"Is demanding an explanation also some kind of
+ game? I clearly don't know you well enough.
+ I need to rethink things."
+#
+<sprite "ta01a132.agf" 4 4 12>
+<name "Sofia" "!ZB0481">
+"If you really want to know, I'll tell you...
+ but right now I'm saying no."
+#
+<removesprite -1 11>
+Huh?
+What?
+What did I do?
+#
+But she's in no mood to talk about it.
+#
+It's probably better not to ask.
+#
+Hahaha...
+#
+Let's put this behind us.
+#
+That's what I swore, but then she wanted to do
+whatever I did again.
+Insistently.
+#
+I'm not sure what I did, but apparently she
+liked it.
+#
+<sprite "ta34a001.agf" 4 4 11>
+<name "Company Maid" "!PC0043">
+"Just what exactly did he do?"
+#
+<removesprite -1 11>
+<sprite "ta01a033.agf" 2 5 11>
+<sprite "ta34a001.agf" 6 4 11>
+<name "Sofia" "!ZB0482">
+"I'll tell you, if you're willing to wager
+ your life on it."
+#
+<name "Company Maid" "!PC0044">
+".........No thank you."
+#
+<removesprite -1 11>
+\x2B\x78\x78

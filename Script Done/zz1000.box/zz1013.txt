@@ -1,0 +1,268 @@
+﻿<music 5>
+<background "bg011a0.agf" 10>
+<sprite "ta10a005.agf" 4 4 11>
+<name "Forzelotte" "!XA0221">
+"It's been a while."
+#
+<name "Darx">
+"Yeah. What brings you here today?"
+#
+<sprite "ta10a006.agf" 4 4 12>
+<name "Forzelotte" "!XA0222">
+"I wanted some advice with work, if you 
+ didn't mind."
+#
+<name "Darx">
+"What's up?"
+#
+<sprite "ta10a005.agf" 4 4 12>
+<name "Forzelotte" "!XA0223">
+"It's about the school."
+#
+<name "Darx">
+"The school?
+ Forzelotte Academy?"
+#
+<sprite "ta10a003.agf" 4 4 12>
+<name "Forzelotte" "!XA0224">
+"Mmhmm.
+ I would actually like to open a branch of
+ the school here."
+#
+<name "Darx">
+"Here?
+ Is something the matter over there?"
+#
+<sprite "ta10a001.agf" 4 4 12>
+<name "Forzelotte" "!XA0225">
+"Not the matter, precisely... The school was
+ already destroyed by the castle incident.
+ Annexing facilities to rebuild it for your
+ children would naturally cause problems."
+#
+<name "Darx">
+"Really?"
+#
+<sprite "ta10a004.agf" 4 4 12>
+<name "Forzelotte" "!XA0226">
+"Really."
+#
+<sprite "ta10a002.agf" 4 4 12>
+<name "Forzelotte" "!XA0227">
+"Furthermore, the more time passes, the more
+ of your children there will be to learn and
+ grow. It's already too small, and it's 
+ difficult to make more space in the dungeon."
+#
+<name "Darx">
+"So an offshoot school here?"
+#
+<sprite "ta10a003.agf" 4 4 12>
+<name "Forzelotte" "!XA0228">
+"Technically an offshoot for now, but I plan
+ to make it a formal school in the future and
+ eliminate the one in Forzelotte's Shrine."
+#
+<name "Darx">
+"...That's a pretty big plan.
+ I'm not sure things are settled enough here
+ yet. I don't think everybody will be on
+ board with it either."
+#
+<sprite "ta10a005.agf" 4 4 12>
+<name "Forzelotte" "!XA0229">
+"I can take care of myself."
+#
+<sprite "ta10a006.agf" 4 4 12>
+<name "Forzelotte" "!XA0230">
+"Besides, your concern is unnecessary.
+ The teachers are lead by Logius, and while
+ there are some entrenched, there are also
+ leaders from the castle recruited by you."
+#
+<sprite "ta10a028.agf" 4 4 12>
+<name "Forzelotte" "!XA0231">
+"Additionally, the students are students.
+ There are plenty of troublemakers among
+ them."
+#
+<name "Darx">
+"There are that many troublemakers?"
+#
+<sprite "ta10a002.agf" 4 4 12>
+<name "Forzelotte" "!XA0232">
+"The one at the top of the list is our
+ daughter, Kozelotte."
+#
+<name "Darx">
+"K-Koze's not like that!"
+#
+<sprite "ta10a001.agf" 4 4 12>
+<name "Forzelotte" "!XA0233">
+"Well, her father would say that."
+#
+<name "Darx">
+"Grrr..."
+#
+<sprite "ta10a024.agf" 4 4 12>
+<name "Forzelotte" "!XA0234">
+"Hahaha.
+ I would also add that half the students are
+ your children. You would not be able to
+ intimidate them into compliance."
+#
+<name "Darx">
+"...That's true."
+#
+<sprite "ta10a005.agf" 4 4 12>
+<name "Forzelotte" "!XA0235">
+"So I have your permission."
+#
+<name "Darx">
+"That's not what you wanted to discuss, was
+ it?"
+#
+<sprite "ta10a028.agf" 4 4 12>
+<name "Forzelotte" "!XA0236">
+"The discussion is over, so we can move on to
+ the next step."
+#
+<name "Darx">
+"Seriously?
+ Where is this place even going?"
+#
+<sprite "ta10a005.agf" 4 4 12>
+<name "Forzelotte" "!XA0237">
+"I'm letting Rakia choose where.
+ I want enough space, but I would prefer it
+ to be some ways from here."
+#
+<name "Darx">
+"And what do you need for it?"
+#
+<sprite "ta10a006.agf" 4 4 12>
+<name "Forzelotte" "!XA0238">
+"Not money, but I will need resources."
+#
+<name "Darx">
+"And you want permission to use them.
+ Basically the same as asking me to donate
+ them to you?"
+#
+<sprite "ta10a001.agf" 4 4 12>
+<name "Forzelotte" "!XA0239">
+"That's correct.
+ It's difficult to come out and just say
+ that."
+#
+<name "Darx">
+"So shameless...
+ Is anybody against this?"
+#
+<sprite "ta10a004.agf" 4 4 12>
+<name "Forzelotte" "!XA0240">
+"If you're concerned about Macdo, you don't
+ need to be. She's already given her
+ permission through Rakia."
+#
+<sprite "ta10a002.agf" 4 4 12>
+<name "Forzelotte" "!XA0241">
+"The majority of teachers and students have
+ approved it as well."
+#
+<sprite "ta10a012.agf" 4 4 12>
+<name "Forzelotte" "!XA0242">
+"Logius was the one firmly against it.
+ She doesn't think the safety of the girls can
+ be assured that close to you. I wish I could
+ argue, but... well, it is what it is."
+#
+<name "Darx">
+"Sorry for the memories."
+#
+<sprite "ta10a013.agf" 4 4 12>
+<name "Forzelotte" "!XA0243">
+"Besides her, she didn't directly oppose it,
+ but Rakia didn't like it."
+#
+<name "Darx">
+"Rakia?"
+#
+<sprite "ta10a015.agf" 4 4 12>
+<name "Forzelotte" "!XA0244">
+"If the people with the school move here,
+ many of their compatriots will also leave."
+#
+<name "Darx">
+"Oh, I see. Fewer people in Forzelotte's
+ Shrine means less business for her."
+#
+<sprite "ta10a005.agf" 4 4 12>
+<name "Forzelotte" "!XA0246">
+"Mmhmm, but she has been helping with the
+ plans for a new school."
+#
+<sprite "ta10a024.agf" 4 4 12>
+<name "Forzelotte" "!XA0247">
+"I believe that's a problem that can be
+ addressed with your special touch later."
+#
+<name "Darx">
+"Special touch?"
+#
+<sprite "ta10a028.agf" 4 4 12>
+<name "Forzelotte" "!XA0248">
+"I know you have sex with her.
+ You don't need to hide it."
+#
+<name "Darx">
+"...You knew?"
+#
+<sprite "ta10a005.agf" 4 4 12>
+<name "Forzelotte" "!XA0249">
+"I had my suspicions.
+ Oh, I'm not upset about it.
+ More impressed that you convinced her."
+#
+<sprite "ta10a006.agf" 4 4 12>
+<name "Forzelotte" "!XA0250">
+"How did you manage that?"
+#
+<name "Darx">
+"A gentleman doesn't kiss and tell."
+#
+<sprite "ta10a024.agf" 4 4 12>
+<name "Forzelotte" "!XA0251">
+"Then I withdraw the question."
+#
+<name "Darx">
+"All right."
+#
+<sprite "ta10a005.agf" 4 4 12>
+<name "Forzelotte" "!XA0252">
+"Mm.
+ My work is done then."
+#
+<name "Darx">
+"Good work."
+#
+<sprite "ta10a024.agf" 4 4 12>
+<name "Forzelotte" "!XA0253">
+"I am done with work."
+#
+<name "Darx">
+"Uh..."
+#
+<removesprite -1 11>
+I pick her up under my arm and carry her to
+bed.
+#
+<name "Forzelotte" "!XA0255" "ka10a027.agf">
+"Aah, my dear husband, I would much appreciate
+ it if you would carry me like a princess 
+ instead of a sack."
+#
+<name "Darx">
+"Yeah, yeah."
+#
+\x78\x78

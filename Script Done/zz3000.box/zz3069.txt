@@ -1,0 +1,200 @@
+﻿<music 49>
+<background "ev041c00.agf" 10>
+<name "Rakia" "!ZC0431">
+"Um..."
+#
+<name "Darx">
+"What?"
+#
+<name "Rakia" "!ZC0432">
+"Why have you only been stroking my butt?"
+#
+<name "Darx">
+"You want me to put it in faster?"
+#
+Her juices are dripping down her thighs.
+#
+<name "Rakia" "!ZC0433">
+"No, that's not it..."
+#
+<name "Darx">
+"Um...
+ Just thinking about the timing."
+#
+<name "Rakia" "!ZC0434">
+"The timing?"
+#
+<name "Darx">
+"Yeah.
+ Hm..."
+#
+<name "Company Maid" "!PC0231">
+"Rakia, are you here?"
+#
+<name "Rakia" "!ZC0435">
+"Ah..."
+#
+Right as one of the maids comes looking for
+her, I sink my dick inside her.
+#
+<background "ev041c01.agf" 10>
+<name "Rakia" "!ZC0436">
+"D-Darx, d-don't...
+ Ah! Aahh!"
+#
+Her body is more than ready after the long
+foreplay.
+#
+It accepts my dick immediately.
+#
+But with a maid nearby, she tries to fight it.
+#
+<name "Rakia" "!ZC0437">
+"Darx, y-you'll make me mad.
+ Aah...ah...ah..."
+#
+<name "Company Maid" "!PC0232">
+"Rakia, where are you?"
+#
+<name "Darx">
+"You should answer her."
+#
+<name "Rakia" "!ZC0438">
+"Ah...ah...ah...ahh!"
+#
+<name "Darx">
+"Then I'll have to tell her you're here."
+#
+<name "Company Maid" "!PC0233">
+"Overlord?
+ Oh, you're here?"
+#
+<name "Darx">
+"Yeah, sorry.
+ Stop right there."
+#
+<name "Company Maid" "!PC0234">
+"Huh?"
+#
+<name "Darx">
+"We're having a private meeting.
+ Not for your eyes."
+#
+<name "Company Maid" "!PC0235">
+"I-I see.
+ I'm sorry for bothering you."
+#
+<name "Darx">
+"No, it's fine.
+ Did you need Rakia for something?"
+#
+<name "Company Maid" "!PC0236">
+"Yes.
+ Where is the list of products that need to
+ be sent to Sofia's store?"
+#
+<name "Darx">
+"Well?"
+#
+I keep moving inside of Rakia's pussy as I
+talk to the maid, even as she fights not to
+moan.
+#
+<name "Rakia" "!ZC0439">
+"Ah...ah... I'm sorry.
+ I meant to give it to her but I forgot.
+ It's on the shelf in my office next to my 
+ desk. Do you know where that is?"
+#
+<name "Company Maid" "!PC0237">
+"Yes.
+ The shelf with the blue books on it?"
+#
+<name "Rakia" "!ZC0440">
+"That's right.
+ It's in the middle row there, right at the
+ front."
+#
+<name "Rakia" "!ZC0441">
+"Check the date, and then please take care of
+ the rest."
+#
+<name "Company Maid" "!PC0238">
+"Yes, ma'am.
+ I understand.
+ Excuse me."
+#
+...
+#
+The maid leaves.
+#
+<name "Rakia" "!ZC0442">
+"Ah...aah...
+ D-Darx..."
+#
+I start to come inside her as she glares at
+me through tears.
+#
+<music 40>
+<background "bg004a0.agf" 10>
+<sprite "ta08a118.agf" 4 4 11>
+<name "Rakia" "!ZC0443">
+"W-What would have happened if she saw us?"
+#
+<name "Darx">
+"It's nothing special, right?"
+#
+<sprite "ta08a116.agf" 4 4 12>
+<name "Rakia" "!ZC0444">
+"I have my dignity too."
+#
+<removesprite -1 11>
+<sprite "ta08a116.agf" 2 5 11>
+<sprite "ta34b000.agf" 6 4 11>
+<name "Company Maid" "!PC0239">
+"Ah, Rakia.
+ Are you done with your meeting?"
+#
+<sprite "ta08a022.agf" 2 5 12>
+<name "Rakia" "!ZC0445">
+"Huh?
+ Yes, I think so.
+ Did you find the list?"
+#
+<name "Company Maid" "!PC0240">
+"Yes, eventually.
+ Okay, excuse me."
+#
+<removesprite -1 11>
+<sprite "ta08a024.agf" 4 4 11>
+<name "Rakia" "!ZC0446">
+"...She really didn't realize."
+#
+<name "Darx">
+"Well, she probably wouldn't even imagine the
+ great Rakia having sex in the back while at
+ work."
+#
+<sprite "ta08a018.agf" 4 4 12>
+<name "Rakia" "!ZC0447">
+"Oooh..."
+#
+<name "Darx">
+"If you don't like it, I won't do it
+ anymore."
+#
+<sprite "ta08a116.agf" 4 4 12>
+<name "Rakia" "!ZC0448">
+"...Y-You're mean."
+#
+<name "Darx">
+"Then let's do it again."
+#
+<sprite "ta08a117.agf" 4 4 12>
+<name "Rakia" "!ZC0449">
+"T-That's also questionable."
+#
+<removesprite -1 11>
+I make love with her.
+#
+\x78\x78

@@ -1,0 +1,37 @@
+﻿<music 17>
+<background "ev050a00.agf" 10>
+<name "Ekate" "!TA0007">
+"Aaah! Overlord.
+ You were wonderful."
+#
+<name "Darx">
+"You were very pretty too."
+#
+We share a quick kiss.
+#
+<name "Ekate" "!TA0008">
+"...But..."
+#
+<name "Darx">
+"Hm?"
+#
+<name "Ekate" "!TA0009">
+"When you're loving, I get lonely later."
+#
+<name "Darx">
+"...I see.
+ Sorry about that."
+#
+<name "Ekate" "!TA0010">
+"Yep.
+ Then one more time."
+#
+<name "Darx">
+"..."
+#
+<name "Ekate" "!TA0011">
+"Be rough."
+#
+It was a long night.
+#
+\x78\x78

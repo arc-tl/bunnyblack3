@@ -1,0 +1,148 @@
+﻿<music 40>
+<background "bg004a0.agf" 10>
+This story is a work of fiction.
+#
+<name "Drinking Citizen" "!CB0198">
+"This is a weird topic to bring up."
+#
+<name "Harvesting Citizen" "!KB0312">
+"What?"
+#
+<name "Drinking Citizen" "!CB0199">
+"What does 120% output mean?"
+#
+<name "Harvesting Citizen" "!KB0313">
+"...Huh?"
+#
+<name "Drinking Citizen" "!CB0200">
+"I'm saying, what do they mean when they say
+ something is at 120% output?"
+#
+<name "Harvesting Citizen" "!KB0314">
+"Well...
+ Isn't it that the output is at 120%?"
+#
+<name "Drinking Citizen" "!CB0201">
+"Isn't the maximum output 100%?
+ How do you go 20% above that?"
+#
+<name "Harvesting Citizen" "!KB0315">
+"Output is energy created by some kind of
+ power source."
+#
+<name "Drinking Citizen" "!CB0202">
+"Yeah, I know."
+#
+<name "Harvesting Citizen" "!KB0316">
+"Let's use this energy cannon here."
+#
+<name "Harvesting Citizen" "!KB0317">
+"So 100% normally is it working in perfect
+ condition. So if it's working at 100% output,
+ it can operate at its full capacity."
+#
+<name "Harvesting Citizen" "!KB0318">
+"So, say it's at full, but you push it a little
+ harder than that.
+ Wouldn't that be 120%?"
+#
+<name "Drinking Citizen" "!CB0203">
+"Then isn't that 120% the actual 100%?
+ So wouldn't it be better to shoot it at
+ around 85%?"
+#
+<name "Harvesting Citizen" "!KB0319">
+"Maybe if you go past 100% too much, there's
+ the danger that it could break down?
+ Or wear down the cannon more quickly."
+#
+<name "Harvesting Citizen" "!KB0320">
+"Like I said before, 100% is it working at
+ full capacity.
+ If you push past that, things can get dicey."
+#
+<name "Drinking Citizen" "!CB0204">
+"I see.
+ Thank you.
+ I understand better now."
+#
+<name "Harvesting Citizen" "!KB0321">
+"I mean, I just gave a reasonable answer.
+ I don't know if it's the right one."
+#
+<name "Drinking Citizen" "!CB0205">
+"No, it's correct."
+#
+<name "Harvesting Citizen" "!KB0322">
+"Huh?"
+#
+<name "Drinking Citizen" "!CB0206">
+"Going past 100% output is used for battleship
+ engines.
+ Basically, it's all about combat speed."
+#
+<name "Drinking Citizen" "!CB0207">
+"Going past 100% hurts the engine, so normally,
+ it's held back by a limiter, but it doesn't
+ make sense to lose the battle in order to
+ spare the engine."
+#
+<name "Drinking Citizen" "!CB0208">
+"So you forcibly remove the limiter during 
+ combat and overheat the engine.
+ So you pass the normal 100% and can get to
+ 120%."
+#
+<name "Harvesting Citizen" "!KB0323">
+"If you knew all that, why'd you have me
+ explain?"
+#
+<name "Drinking Citizen" "!CB0209">
+"I'm bad at small talk."
+#
+<name "Harvesting Citizen" "!KB0324">
+"...Then I guess you had to."
+#
+<name "Drinking Citizen" "!CB0210">
+"Yeah, no helping it."
+#
+Two more hours pass, and their dates never
+showed up.
+#
+<name "Harvesting Citizen" "!KB0325">
+"Should I move to the other seat?
+ It's awkward sitting next to you this long..."
+#
+<name "Drinking Citizen" "!CB0211">
+"No, not yet.
+ They could still come."
+#
+They ended up waiting six more hours, until the
+bar closed.
+#
+<name "Darx">
+"Why are you talking about modern stuff in a
+ fantasy story?"
+#
+<name "Drinking Citizen" "!CB0212">
+"It's hard to explain things with the right
+ words when you have to stick to only stuff
+ in a fantasy world."
+#
+<name "Harvesting Citizen" "!KB0326">
+"For example."
+#
+<name "Harvesting Citizen" "!KB0327">
+"Now Mimiyak's huddling with Bigitan."
+#
+<name "Drinking Citizen" "!CB0213">
+"Instead of being sports commentary when you
+ don't know the rules, it feels like listening
+ to some incomprehensible academic lecture."
+#
+<name "Darx">
+"I see..."
+#
+This story is a work of fiction.
+#
+\x78\x78

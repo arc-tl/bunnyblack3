@@ -1,0 +1,60 @@
+﻿<music 4>
+<background "bg009a0.agf" 10>
+<name "Interested Citizen" "!GB0275">
+"I heard you're doing a fashion show, but
+ what kind of event is that?"
+#
+<sprite "ta34b000.agf" 4 4 11>
+<name "Company Maid" "!DC0485">
+"It's an event for girls to dress up, at the
+ city's expense."
+#
+<name "Interested Citizen" "!GB0276">
+"Can regular citizens participate?"
+#
+<name "Company Maid" "!DC0486">
+"Of course. We're recruiting."
+#
+<name "Interested Citizen" "!GB0277">
+"I'll do it!"
+#
+<name "Company Maid" "!DC0487">
+"Okay.
+ Thank you very much."
+#
+<removesprite -1 11>
+...
+#
+<name "Curious Citizen" "!BC0187">
+"I heard you're doing a fashion show, but
+ what kind of event is that?"
+#
+<sprite "ta34b000.agf" 4 4 11>
+<name "Company Maid B" "!DC0488">
+"It's an event where you can look at girls who
+ are dressed up fancily."
+#
+<name "Curious Citizen" "!BC0188">
+"Is there anything I can do to help?"
+#
+<name "Company Maid" "!DC0489">
+"We're recruiting backstage staff."
+#
+<name "Curious Citizen" "!BC0189">
+"I'll do it!"
+#
+<removesprite -1 11>
+...
+#
+<name "Darx">
+"Um, I feel like you're deliberately leaving
+ off key details here..."
+#
+<sprite "ta34b000.agf" 4 4 11>
+<name "Company Maid" "!DC0490">
+"This is also for the success of the event."
+#
+<removesprite -1 11>
+The fashion show was a great success.
+#
+\x78\x78

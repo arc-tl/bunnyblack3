@@ -1,0 +1,115 @@
+﻿<music 3>
+<background "bg010a0.agf" 10>
+<name "Darx">
+"Hm? A meeting?"
+#
+<sprite "ta34a000.agf" 4 4 11>
+<name "Company Maid" "!AC0091">
+"Yes, with one of Ish's former followers."
+#
+<name "Darx">
+"What?
+ Well, okay.
+ Call her in."
+#
+<name "Company Maid" "!AC0092">
+"Yes, sir."
+#
+<removesprite -1 11>
+<name "Ish's Subordinate" "!SB0043">
+"O-Ooh...
+ I-It's an honor to see you."
+#
+<name "Darx">
+"What can I do for you?"
+#
+<name "Ish's Subordinate" "!SB0044">
+"Um, aren't you angry at us?"
+#
+<name "Darx">
+"Hm?"
+#
+<name "Ish's Subordinate" "!SB0045">
+"Because we attacked here with Ish too."
+#
+<name "Darx">
+"Yeah, I'm mad as far as that's concerned."
+#
+<name "Darx">
+"But you're citizens here now."
+#
+<name "Darx">
+"I won't punish you for past crimes."
+#
+<name "Ish's Subordinate" "!SB0046">
+"B-But... um..."
+#
+<name "Darx">
+"Hm?"
+#
+<name "Ish's Subordinate" "!SB0047">
+"I-It might be easier for us if we are
+ punished."
+#
+<name "Darx">
+"You want me to punish you?"
+#
+<name "Ish's Subordinate" "!SB0048">
+"Y-Yes.
+ Once we began living her, we came to regret
+ what we did.
+ We understand your anger."
+#
+<name "Ish's Subordinate" "!SB0049">
+"So, i-it feels right that we should have to
+ pay for what we did before becoming
+ citizens..."
+#
+<name "Darx">
+"I see.
+ Then I'll punish you."
+#
+<name "Darx">
+"Just you?"
+#
+<name "Ish's Subordinate" "!SB0050">
+"No, there's some others too."
+#
+<name "Darx">
+"I see.
+ Then let's round them up and deliver 
+ punishment."
+#
+<name "Ish's Subordinate" "!SB0051">
+"Thank you very much."
+#
+<name "Darx">
+"Oh, and just so I know, do you prefer sexual
+ punishment, or hard labor?"
+#
+<name "Ish's Subordinate" "!SB0052">
+"...Sexual punishment."
+#
+<background "ev065a02.agf" 10>
+<name "Ish's Subordinate" "!SB0053">
+"Will it be the same as you did to Ish?"
+#
+<name "Darx">
+"It'll be much worse than that."
+#
+<name "Ish's Subordinate" "!SB0054">
+"Eep!"
+#
+<name "Darx">
+"So, what's your choice?"
+#
+<name "Ish's Subordinate" "!SB0055">
+"O-Oooh... P-Punishment is punishment.
+ I'll accept whatever punishment it is."
+#
+<name "Darx">
+"All right."
+#
+Naturally, I sexually punished them thoroughly.
+#
+\x78\x78

@@ -1,0 +1,47 @@
+﻿<music 13>
+<background "ev051a01.agf" 10>
+<name "Listening Citizen" "!ZD0155">
+"Paniverna's already singing!"
+#
+<name "Bitter Citizen" "!MB0154">
+"Tch! We're late!"
+#
+<name "Listening Citizen" "!ZD0156">
+"Come on, make up for it with a cheer!"
+#
+<name "Bitter Citizen" "!MB0155">
+"Okay!
+ What's the cheer?"
+#
+<name "Excited Citizen" "!CB0183">
+"Lovely Paniverna, right?"
+#
+<name "Passionate Citizen" "!KB0273">
+"Lady! Don't forget the lady!"
+#
+<name "Excited Citizen" "!CB0184">
+"Lovely Lady Paniverna?"
+#
+<name "Pondering Citizen" "!BC0163">
+"Lovely feels weird to me."
+#
+<name "Suggesting Citizen" "!ZE0249">
+"Sexy?"
+#
+<name "Pondering Citizen" "!BC0164">
+"No."
+#
+<name "Alternative Citizen" "!ZF0151">
+"Wild."
+#
+<name "Pondering Citizen" "!BC0165">
+"Wild Lady Paniverna..."
+#
+<name "Listening Citizen" "!ZD0157">
+"Okay, that's it!"
+#
+It was a lively festival.
+#
+I don't know if she even heard the cheer.
+#
+\x78\x78

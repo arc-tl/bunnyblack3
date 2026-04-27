@@ -1,0 +1,63 @@
+﻿<music 20>
+<background "ev085a00.agf" 10>
+<name "Writhing Adventurer" "!RB0152">
+"Ah...ah...aah...ahh..."
+#
+<name "Company Maid" "!PC0309">
+"Overlord."
+#
+<name "Darx">
+"Hm?
+ Is something the matter?"
+#
+<name "Company Maid" "!PC0310">
+"No, you've just been shut up in here for a
+ very long time..."
+#
+<name "Darx">
+"Has it been that long?"
+#
+<name "Company Maid" "!PC0311">
+"Yes..."
+#
+Apparently it's been two days.
+#
+Looking around me now, I certainly do seem to
+have been in a trance.
+#
+<name "Darx">
+"I see.
+ But my body still needs a woman."
+#
+<name "Darx">
+"Oh, do you want to do it too?"
+#
+<name "Company Maid" "!PC0312">
+"That's a tempting offer, but somebody needs
+ to take care of them."
+#
+<name "Darx">
+"I guess so."
+#
+<name "Company Maid" "!PC0313">
+"I'll let you know when I'm available."
+#
+<name "Darx">
+"Yeah, please do."
+#
+Three days later, I leave the adventurers'
+prison.
+#
+<music 5>
+<background "bg011b0.agf" 10>
+<name "Darx">
+"Urgh... What the hell?
+ That's still not enough."
+#
+<name "Darx">
+"I still need a woman."
+#
+<name "Darx">
+"It should've been enough..."
+#
+\x78\x78

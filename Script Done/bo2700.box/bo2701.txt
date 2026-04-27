@@ -1,0 +1,4587 @@
+﻿\x1A\x01\x0D\x43\x00\x31\x00\x35\x00\x30\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x39\x00\x39\x00\x39\x00\x30\x00\x09\x00 :50: \x1A\x01\x0D\x43\x00\x31\x00\x35\x00\x30\x00\x20\x00\x3C\x00\x3D\x00\x20\x00\x39\x00\x39\x00\x39\x00\x33\x00\x09\x00 :50: \x0A\x04\x00\x78\x84\x01\x15 :FAE: 
+:50
+\x1A\x01\x0A\x43\x00\x31\x00\x35\x00\x35\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x31\x00\x09\x00 :A0: \x1A\x01\x0D\x43\x00\x31\x00\x35\x00\x30\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x39\x00\x38\x00\x30\x00\x30\x00\x09\x00 :A0: \x0A\x04\x00\x78\x84\x01\x16 :1E53: \x15 :FAE: 
+:A0
+\x1A\x01\x0A\x43\x00\x31\x00\x35\x00\x35\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x31\x00\x09\x00 :150: \x1A\x01\x0D\x43\x00\x31\x00\x35\x00\x30\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x39\x00\x38\x00\x30\x00\x31\x00\x09\x00 :150: \x0A\x04\x00\x78\x84\x01\x16 :2754: \x0A\x04\x00\xE6\x84\x01\xBC 0  "味方アンゴラメイ"  -1 \x00\x00\x8A 20  0  0  0  "Yahnu has joined." \x15 :FAE: 
+:150
+\x1A\x01\x0A\x43\x00\x31\x00\x35\x00\x35\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x31\x00\x09\x00 :1FC: \x1A\x01\x0D\x43\x00\x31\x00\x35\x00\x30\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x39\x00\x38\x00\x30\x00\x34\x00\x09\x00 :1FC: \x0A\x04\x00\x78\x84\x01\x16 :32E5: \x0A\x04\x00\xE7\x84\x01\xBC 0  "味方サマキュー"  -1 \x00\x00\x8A 30  0  0  0  "Ish  has joined." \x15 :FAE: 
+:1FC
+\x1A\x01\x0A\x43\x00\x31\x00\x35\x00\x35\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x31\x00\x09\x00 :2A8: \x1A\x01\x0D\x43\x00\x31\x00\x35\x00\x30\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x39\x00\x38\x00\x30\x00\x35\x00\x09\x00 :2A8: \x0A\x04\x00\x78\x84\x01\x16 :3C14: \x0A\x04\x00\xE8\x84\x01\xBC 0  "味方ルーセット"  -1 \x00\x00\x8A 1  0  0  0  "Nein has joined." \x15 :FAE: 
+:2A8
+\x1A\x01\x0A\x43\x00\x31\x00\x35\x00\x35\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x31\x00\x09\x00 :35A: \x1A\x01\x0D\x43\x00\x31\x00\x35\x00\x30\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x39\x00\x38\x00\x30\x00\x37\x00\x09\x00 :35A: \x0A\x04\x00\x78\x84\x01\x16 :4AE5: \x0A\x04\x00\xE9\x84\x01\xBC 0  "味方アイスショット"  -1 \x00\x00\x8A 24  0  0  0  "Hibi has joined." \x15 :FAE: 
+:35A
+\x1A\x01\x0A\x43\x00\x31\x00\x35\x00\x35\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x31\x00\x09\x00 :410: \x1A\x01\x0D\x43\x00\x31\x00\x35\x00\x30\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x39\x00\x38\x00\x30\x00\x38\x00\x09\x00 :410: \x0A\x04\x00\x78\x84\x01\x16 :5711: \x0A\x04\x00\xEA\x84\x01\xBC 0  "味方リーフウッド"  -1 \x00\x00\x8A 32  0  0  0  "Raffino has joined." \x15 :FAE: 
+:410
+\x1A\x01\x0A\x43\x00\x31\x00\x35\x00\x35\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x31\x00\x09\x00 :4B0: \x1A\x01\x0D\x43\x00\x31\x00\x35\x00\x30\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x39\x00\x38\x00\x31\x00\x35\x00\x09\x00 :4B0: \x0A\x04\x00\x78\x84\x01\x16 :6509: \x0A\x04\x00\xF0\x84\x01\xBC 0  "味方黒い婦人"  -1 \x00\x00\x8A 1  0  0  0  "Dark Lady has joined." \x15 :FAE: 
+:4B0
+\x1A\x01\x0A\x43\x00\x31\x00\x35\x00\x35\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x31\x00\x09\x00 :564: \x1A\x01\x0D\x43\x00\x31\x00\x35\x00\x30\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x39\x00\x38\x00\x31\x00\x36\x00\x09\x00 :564: \x0A\x04\x00\x78\x84\x01\x16 :6802: \x0A\x04\x00\xF1\x84\x01\xBC 0  "味方ライスボール"  -1 \x00\x00\x8A 1  0  0  0  "Lassan has joined." \x15 :FAE: 
+:564
+\x1A\x01\x0A\x43\x00\x31\x00\x35\x00\x35\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x31\x00\x09\x00 :628: \x1A\x01\x0D\x43\x00\x31\x00\x35\x00\x30\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x39\x00\x38\x00\x31\x00\x37\x00\x09\x00 :628: \x0A\x04\x00\x78\x84\x01\x16 :6EDB: \x0A\x04\x10\x22\x84\x01\x0A\x04\x00\xF2\x84\x01\xBC 0  "味方ジューシーボディ"  -1 \x00\x00\x8A 22  0  0  0  "Neymal has joined." \x15 :FAE: 
+:628
+\x1A\x01\x0A\x43\x00\x31\x00\x35\x00\x35\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x31\x00\x09\x00 :672: \x1A\x01\x0D\x43\x00\x31\x00\x35\x00\x30\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x39\x00\x39\x00\x37\x00\x30\x00\x09\x00 :672: \x0A\x04\x10\x22\x84\x01\x15 :FAE: 
+:672
+\x1A\x01\x0A\x43\x00\x31\x00\x35\x00\x35\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x31\x00\x09\x00 :71E: \x1A\x01\x0D\x43\x00\x31\x00\x35\x00\x30\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x39\x00\x38\x00\x32\x00\x32\x00\x09\x00 :71E: \x0A\x04\x00\x78\x84\x01\x16 :71B6: \x0A\x04\x00\xEB\x84\x01\xBC 0  "味方ティーグレ"  -1 \x00\x00\x8A 132  0  0  0  "Tamaga has joined." \x15 :FAE: 
+:71E
+\x1A\x01\x0A\x43\x00\x31\x00\x35\x00\x35\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x31\x00\x09\x00 :7CC: \x1A\x01\x0D\x43\x00\x31\x00\x35\x00\x30\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x39\x00\x38\x00\x32\x00\x36\x00\x09\x00 :7CC: \x0A\x04\x00\x78\x84\x01\x16 :83EB: \x0A\x04\x00\xED\x84\x01\x0B\x02\x02\xBC\x02\x00\x3C 5 \xBC 0  "味方ブラウ"  -1 \x00\x00\x8A 269  0  0  0  "Ao has joined." \x15 :FAE: 
+:7CC
+\x1A\x01\x0A\x43\x00\x31\x00\x35\x00\x35\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x31\x00\x09\x00 :886: \x1A\x01\x0D\x43\x00\x31\x00\x35\x00\x30\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x39\x00\x38\x00\x32\x00\x38\x00\x09\x00 :886: \x0A\x04\x00\x78\x84\x01\x16 :9130: \x0A\x04\x00\xEC\x84\x01\xBC 0  "味方タートルランナー"  -1 \x00\x00\x8A 160  0  0  0  "Lotta has joined." \x15 :FAE: 
+:886
+\x1A\x01\x0A\x43\x00\x31\x00\x35\x00\x35\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x31\x00\x09\x00 :93A: \x1A\x01\x0D\x43\x00\x31\x00\x35\x00\x30\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x39\x00\x38\x00\x32\x00\x39\x00\x09\x00 :93A: \x0A\x04\x00\x78\x84\x01\x16 :A8F1: \x0A\x04\x00\xEE\x84\x01\xBC 0  "味方レッドバード"  -1 \x00\x00\x8A 225  0  0  0  "Farren has joined." \x15 :FAE: 
+:93A
+\x1A\x01\x0A\x43\x00\x31\x00\x35\x00\x35\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x31\x00\x09\x00 :996: \x1A\x01\x0D\x43\x00\x31\x00\x35\x00\x30\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x39\x00\x38\x00\x33\x00\x33\x00\x09\x00 :996: \x0A\x04\x00\x84\x84\x01\x0A\x04\x00\xCA\x84\x01\x0A\x04\x00\x78\x84\x01\x16 :BA8E: \x15 :FAE: 
+:996
+\x1A\x01\x0A\x43\x00\x31\x00\x35\x00\x35\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x31\x00\x09\x00 :9F8: \x1A\x01\x0D\x43\x00\x31\x00\x35\x00\x30\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x39\x00\x38\x00\x33\x00\x34\x00\x09\x00 :9F8: \x0B\x02\x02\xC1\x02\x00\x3C 15 \x0A\x04\x00\xD2\x84\x01\x0A\x04\x00\x78\x84\x01\x16 :CBFD: \x15 :FAE: 
+:9F8
+\x1A\x01\x0A\x43\x00\x31\x00\x35\x00\x35\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x31\x00\x09\x00 :A4E: \x1A\x01\x0D\x43\x00\x31\x00\x35\x00\x30\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x39\x00\x38\x00\x35\x00\x30\x00\x09\x00 :A4E: \x0A\x04\x00\x87\x84\x01\x0A\x04\x00\x78\x84\x01\x16 :EAFC: \x15 :FAE: 
+:A4E
+\x1A\x01\x0A\x43\x00\x31\x00\x35\x00\x35\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x31\x00\x09\x00 :AA4: \x1A\x01\x0D\x43\x00\x31\x00\x35\x00\x30\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x39\x00\x38\x00\x36\x00\x30\x00\x09\x00 :AA4: \x0A\x04\x00\xD4\x84\x01\x0A\x04\x00\x78\x84\x01\x16 :ECC3: \x15 :FAE: 
+:AA4
+\x1A\x01\x0A\x43\x00\x31\x00\x35\x00\x35\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x31\x00\x09\x00 :AFA: \x1A\x01\x0D\x43\x00\x31\x00\x35\x00\x30\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x39\x00\x38\x00\x37\x00\x30\x00\x09\x00 :AFA: \x0A\x04\x00\xD7\x84\x01\x0A\x04\x00\x78\x84\x01\x16 :1091B: \x15 :FAE: 
+:AFA
+\x1A\x01\x0D\x43\x00\x31\x00\x35\x00\x30\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x39\x00\x38\x00\x38\x00\x31\x00\x09\x00 :B2E: \x0A\x04\x00\x78\x84\x01\x16 :130F7: \x15 :FAE: 
+:B2E
+\x1A\x01\x0D\x43\x00\x31\x00\x35\x00\x30\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x39\x00\x38\x00\x38\x00\x32\x00\x09\x00 :B62: \x0A\x04\x00\x78\x84\x01\x16 :131CE: \x15 :FAE: 
+:B62
+\x1A\x01\x0D\x43\x00\x31\x00\x35\x00\x30\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x39\x00\x38\x00\x38\x00\x33\x00\x09\x00 :B96: \x0A\x04\x00\x78\x84\x01\x16 :13294: \x15 :FAE: 
+:B96
+\x1A\x01\x0D\x43\x00\x31\x00\x35\x00\x30\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x39\x00\x38\x00\x38\x00\x34\x00\x09\x00 :BCA: \x0A\x04\x00\x78\x84\x01\x16 :1330B: \x15 :FAE: 
+:BCA
+\x1A\x01\x0D\x43\x00\x31\x00\x35\x00\x30\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x39\x00\x38\x00\x38\x00\x35\x00\x09\x00 :BFE: \x0A\x04\x00\x78\x84\x01\x16 :133CD: \x15 :FAE: 
+:BFE
+\x1A\x01\x0A\x43\x00\x31\x00\x35\x00\x35\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x31\x00\x09\x00 :C54: \x1A\x01\x0D\x43\x00\x31\x00\x35\x00\x30\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x39\x00\x38\x00\x38\x00\x30\x00\x09\x00 :C54: \x0A\x04\x00\xD5\x84\x01\x0A\x04\x00\x78\x84\x01\x16 :1344E: \x15 :FAE: 
+:C54
+\x1A\x01\x0A\x43\x00\x31\x00\x35\x00\x35\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x31\x00\x09\x00 :CB0: \x1A\x01\x0D\x43\x00\x31\x00\x35\x00\x30\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x39\x00\x38\x00\x39\x00\x30\x00\x09\x00 :CB0: \x0A\x04\x00\x8D\x84\x01\x0A\x04\x00\x8A\x84\x01\x0A\x04\x00\x78\x84\x01\x16 :13893: \x15 :FAE: 
+:CB0
+\x1A\x01\x0A\x43\x00\x31\x00\x35\x00\x35\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x31\x00\x09\x00 :CFA: \x1A\x01\x0D\x43\x00\x31\x00\x35\x00\x30\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x39\x00\x39\x00\x30\x00\x37\x00\x09\x00 :CFA: \x16 :14645: \x15 :FAE: 
+:CFA
+\x1A\x01\x0A\x43\x00\x31\x00\x35\x00\x35\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x31\x00\x09\x00 :D66: \x1A\x01\x0D\x43\x00\x31\x00\x35\x00\x30\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x39\x00\x39\x00\x35\x00\x30\x00\x09\x00 :D66: \x1A\x01\x0A\x46\x00\x34\x00\x32\x00\x30\x00\x32\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :D66: \x0A\x04\x10\x6A\x84\x01\x16 :14EC0: \x15 :FAE: 
+:D66
+\x1A\x01\x0A\x43\x00\x31\x00\x35\x00\x35\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x31\x00\x09\x00 :DB6: \x1A\x01\x0D\x43\x00\x31\x00\x35\x00\x30\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x39\x00\x39\x00\x35\x00\x35\x00\x09\x00 :DB6: \x0A\x04\x00\x78\x84\x01\x16 :1527F: \x15 :FAE: 
+:DB6
+\x1A\x01\x0A\x43\x00\x31\x00\x35\x00\x35\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x31\x00\x09\x00 :E06: \x1A\x01\x0D\x43\x00\x31\x00\x35\x00\x30\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x39\x00\x39\x00\x35\x00\x36\x00\x09\x00 :E06: \x0A\x04\x00\x78\x84\x01\x16 :15883: \x15 :FAE: 
+:E06
+\x1A\x01\x0A\x43\x00\x31\x00\x35\x00\x35\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x31\x00\x09\x00 :E50: \x1A\x01\x0D\x43\x00\x31\x00\x35\x00\x30\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x39\x00\x39\x00\x36\x00\x30\x00\x09\x00 :E50: \x0A\x04\x10\x24\x84\x01\x15 :FAE: 
+:E50
+\x1A\x01\x0A\x43\x00\x31\x00\x35\x00\x35\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x31\x00\x09\x00 :E9A: \x1A\x01\x0D\x43\x00\x31\x00\x35\x00\x30\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x39\x00\x39\x00\x38\x00\x30\x00\x09\x00 :E9A: \x0A\x04\x10\x23\x84\x01\x15 :FAE: 
+:E9A
+\x1A\x01\x0A\x46\x00\x31\x00\x39\x00\x30\x00\x32\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :FA8: \x1A\x01\x0A\x43\x00\x31\x00\x35\x00\x35\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x31\x00\x09\x00 :FA8: \x1A\x01\x08\x46\x00\x32\x00\x32\x00\x31\x00\x20\x00\x6F\x00\x6E\x00\x09\x00 :FA8: \x1A\x01\x0D\x43\x00\x31\x00\x35\x00\x30\x00\x20\x00\x3C\x00\x3D\x00\x20\x00\x39\x00\x37\x00\x30\x00\x30\x00\x09\x00 :FA8: \x1A\x01\x0A\x46\x00\x32\x00\x30\x00\x30\x00\x31\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :F40: \x0A\x04\x07\xD1\x84\x01\x0A\x04\x00\x78\x84\x01\x16 :FB5: \x15 :FAE: 
+:F40
+\x1A\x01\x0A\x46\x00\x32\x00\x30\x00\x30\x00\x32\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :F74: \x0A\x04\x07\xD2\x84\x01\x0A\x04\x00\x78\x84\x01\x16 :1B37: \x15 :FAE: 
+:F74
+\x1A\x01\x0A\x46\x00\x32\x00\x30\x00\x30\x00\x33\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :FA8: \x0A\x04\x07\xD3\x84\x01\x0A\x04\x00\x78\x84\x01\x16 :1C4F: \x15 :FAE: 
+:FA8
+\x15 :FAE: 
+:FAE
+\x78\x16 :15BD3: 
+:FB5
+\x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 \x2B
+<name "Company Maid" "!AC0022" "ka34c000.agf">
+"Overlord, we have someone with information
+ about the people who attacked the city."
+#
+<name "Darx">
+"...Bring them to me."
+#
+<name "Company Maid" "!AC0023" "ka34c000.agf">
+"Sir."
+#
+...
+#
+<name "Darx">
+"You?"
+#
+<name "Knowledgable Demon" "!JA0002">
+"Yeah.
+ You're the leader of the people who were
+ attacked?"
+#
+<name "Darx">
+"That's right.
+ I heard you know about the people who 
+ attacked the city.
+ You're looking to sell it?"
+#
+<name "Knowledgable Demon" "!JA0003">
+"Yeah.
+ I-I want something in return."
+#
+<name "Darx">
+"What?"
+#
+<name "Knowledgable Demon" "!JA0004">
+"Leave the people in my village alone."
+#
+<name "Darx">
+"By that... you mean we should leave here and
+ let you go on how you have been?"
+#
+<name "Knowledgable Demon" "!JA0005">
+"Yeah."
+#
+<name "Darx">
+"Sorry, but no.
+ So much for negotations."
+#
+<name "Darx">
+"I'll find someone else to talk to."
+#
+<name "Knowledgable Demon" "!JA0006">
+"W-Wait.
+ Please hold on."
+#
+<name "Darx">
+"What?"
+#
+<name "Knowledgable Demon" "!JA0007">
+"O-Okay.
+ I'll change the terms."
+#
+<name "Darx">
+"...Out with it."
+#
+<name "Knowledgable Demon" "!JA0008">
+"First, what are you planning to do with us?"
+#
+<name "Darx">
+"...Relocate you."
+#
+<name "Knowledgable Demon" "!JA0009">
+"Relocate?"
+#
+<name "Darx">
+"Yes.
+ You know about the people who attacked us,
+ so you know about the city, right?"
+#
+<name "Knowledgable Demon" "!JA0010">
+"Yeah.
+ Isn't it the city built in the south?"
+#
+<name "Darx">
+"Correct. You'll be living there.
+ Of course, that's the Overlord's land, so
+ you'll be ruled by the Overlord."
+#
+<name "Knowledgable Demon" "!JA0011">
+"...You're saying we'll be slaves?"
+#
+<name "Darx">
+"Citizens.
+ You'll have houses and jobs.
+ You'll have to work and earn money for 
+ anything more than that."
+#
+<name "Darx">
+"So now that you understand, speak your terms."
+#
+<name "Knowledgable Demon" "!JA0012">
+"...W-When we move, you won't separate
+ families. You'll let them stay together.
+ That's my condition."
+#
+<name "Darx">
+"Don't worry.
+ I know some will be resentful about having to
+ move. I don't want to pull families apart and
+ cause even more strife."
+#
+<name "Knowledgable Demon" "!JA0013">
+"Really?
+ You promise?"
+#
+<name "Darx">
+"Don't worry."
+#
+<name "Knowledgable Demon" "!JA0014">
+"Make the Overlord promise that too."
+#
+<name "Darx">
+"........."
+#
+<name "Knowledgable Demon" "!JA0015">
+"Ooohhh...
+ I knew that was a bad idea."
+#
+<name "Darx">
+"Uh..."
+#
+It's too embarrassing to say it myself.
+I glance to a nearby maid.
+#
+<name "Company Maid" "!AC0024" "ka34c006.agf">
+"Um, excuse me.
+ The Overlord is the man standing before you."
+#
+<name "Knowledgable Demon" "!JA0016">
+"Huh?"
+#
+<name "Darx">
+"...I-I really was trying to be more dignified
+ too."
+#
+<name "Company Maid" "!AC0025" "ka34c000.agf">
+"What about that beard you had for a while?"
+#
+<name "Darx">
+"The kids hated it."
+#
+<name "Knowledgable Demon" "!JA0017">
+"T-This man is... the Overlord..."
+#
+Anyway, we got some information about the
+people who attacked the city.
+#
+<exit>
+:1B37
+\x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 \x2B
+<name "Company Maid" "!AC0026" "ka34c000.agf">
+"Overlord, this woman says she knows about the
+ people who attacked the city."
+#
+<name "Darx">
+"Ask her for details."
+#
+<name "Company Maid" "!AC0027" "ka34c000.agf">
+"Yes, sir."
+#
+<exit>
+:1C4F
+\x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 \x2B
+<name "Company Maid" "!DC0007" "ka34c000.agf">
+"Overlord, there's someone who wanted to talk
+ to you about the people who attacked the city.
+ We're getting information from them."
+#
+<name "Darx">
+"Thanks."
+#
+<name "Company Maid" "!DC0008" "ka34c000.agf">
+"Yes, sir.
+ I'll make a summary for you."
+#
+...
+#
+<name "Analyzing Maid" "!AC0028" "ka34e000.agf">
+"Now that we've gathered information, I think
+ if we go back and look over it closely, we
+ can deduce quite a few things."
+#
+<name "Darx">
+"Yeah."
+#
+<exit>
+:1E53
+\x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 \x2B
+<name "Company Maid" "!AC0093" "ka34c000.agf">
+"Overlord, we've captured an enemy messenger."
+#
+<name "Darx">
+"Messenger?"
+#
+<name "Company Maid" "!AC0094" "ka34c000.agf">
+"Yes. It looks like they were trying to
+ contact someone."
+#
+<name "Darx">
+"Were they carrying a letter?"
+#
+<name "Company Maid" "!AC0095" "ka34c000.agf">
+"Nothing was with them when we captured her.
+ Do you want to interrogate them?"
+#
+<name "Darx">
+"Hey."
+#
+<name "Yahnu's Subordinate" "!GB0061">
+"Ngh."
+#
+<name "Darx">
+"The people I'm fighting now...
+ Are they led by Yahnu of the angolamay?"
+#
+<name "Yahnu's Subordinate" "!GB0062">
+"T-That's right."
+#
+<name "Darx">
+"Where were you going to meet her?"
+#
+<name "Yahnu's Subordinate" "!GB0063">
+"I-I'm not telling you.
+ I won't talk."
+#
+<name "Darx">
+"...That's fine.
+ There's no need for interrogation.
+ I'll just capture her like anybody else."
+#
+...
+#
+<name "Company Maid" "!AC0096" "ka34c000.agf">
+"Are you sure?"
+#
+<name "Darx">
+"It'll be fine."
+#
+<name "Darx">
+"Oh, and that was definitely a messenger."
+#
+<name "Darx">
+"She just refused to talk.
+ If she was anybody important, she would've
+ had a lot more to say."
+#
+<name "Company Maid" "!AC0097" "ka34c001.agf">
+"Meaning what?"
+#
+<name "Darx">
+"If they're losing or under siege, and they've
+ asked for reinforcements, it's in their own
+ interest to tell us that reinforcements are
+ on their way."
+#
+<name "Darx">
+"If she says nothing though, then they might
+ be able to beat us with reinforcements, but
+ while they're waiting for them, their own
+ forces will keep getting worn down."
+#
+<name "Darx">
+"From what we know, the alliance isn't that
+ altruistic to each other."
+#
+<name "Darx">
+"None of them are going to sacrifice their own
+ power for the betterment of the alliance."
+#
+<name "Darx">
+"Am I wrong?"
+#
+<name "Company Maid" "!AC0098" "ka34c000.agf">
+"...You do make a good point.
+ I hadn't thought it out enough."
+#
+<name "Company Maid" "!AC0099" "ka34c000.agf">
+"Still, Overlord.
+ That's very impressive.
+ You're almost like some kind of famous
+ general."
+#
+<name "Darx">
+"Hahaha.
+ You're making me blush."
+#
+<name "Company Maid" "!AC0100" "ka34c000.agf">
+"So, how did you really know?"
+#
+<name "Darx">
+"She was scared, but also frustrated.
+ I think we caught her before she was able to
+ get into contact with anybody."
+#
+<name "Company Maid" "!AC0101" "ka34c004.agf">
+"I see.
+ That is still quite the astute observation."
+#
+<name "Darx">
+"Hahaha..."
+#
+<exit>
+:2754
+<music 20>
+<background "ev068a00.agf" 10>
+<name "Yahnu" "!NB0014">
+"Ooooohhh...
+ D-Don't...
+ Aah!"
+#
+I bind her with my tentacles to hold her in
+place, and rub her breasts while twisting my
+dick into her pussy.
+#
+She's pretty well endowed and feels really
+good.
+#
+My hips move intensely on their own, like 
+they're also enjoying the feeling.
+#
+<name "Yahnu" "!NB0015">
+"Nnngh!
+ Nnnnnh!"
+#
+As I rub her breasts, my hands start getting
+unusually wet.
+#
+<name "Darx">
+"Hm?"
+#
+<background "ev068a01.agf" 10>
+I realize that breast milk is gushing out of
+her.
+#
+Every time I squeeze, it jets out.
+#
+Is she pregnant?
+#
+No, I definitely felt a hymen.
+#
+I broke through it when I thrust into her, and
+I haven't even come once yet.
+#
+What's going on here?
+#
+Is that how her race is?
+#
+Or maybe...
+#
+As I keep rubbing her breasts and thinking
+about it, one of the maids begins to explain.
+#
+<name "Company Maid" "!PC0121">
+"Angolamay women start producing breast milk
+ when they reach maturity.
+ They use it to attract a man."
+#
+<name "Darx">
+"I see.
+ So it's a race thing."
+#
+I squeeze her even harder.
+#
+<name "Company Maid" "!PC0122">
+"The breast milk of an angolamay can be used as
+ a component for many medicines, and because
+ only so much is available every day, it does
+ fetch a decent price."
+#
+<name "Company Maid" "!PC0123">
+"If possible, instead of wasting it..."
+#
+I thought she wanted me to stop squeezing her,
+but I was wrong.
+#
+She brings out a glass bottle.
+#
+<name "Darx">
+"All right."
+#
+<background "ev068b00.agf" 10>
+I pick it up with a tentacle and stick it over
+her nipple.
+#
+<name "Darx">
+"Okay, let's see how much I can squeeze out."
+#
+<name "Yahnu" "!NB0016">
+"Nnnnngh!"
+#
+I come repeatedly inside her and continue
+milking her.
+#
+I manage to fill about four bottles.
+#
+<name "Company Maid" "!PC0124">
+"Considering how much you wasted at the start,
+ this is a lot more than you'd normally expect.
+ She really must be their leader."
+#
+<name "Darx">
+"I guess."
+#
+<name "Company Maid" "!PC0125">
+"So what do we do with it?"
+#
+<name "Darx">
+"You wanted it, right?
+ Go sell it."
+#
+<name "Company Maid" "!PC0126">
+"Thank you very much."
+#
+<name "Yahnu" "!NB0017">
+"..."
+#
+She's probably angry about seeing her breast
+milk bartered for right in front of her.
+#
+That's quite the glare.
+#
+<name "Darx">
+"Don't get mad.
+ Well, it's time for questions."
+#
+I whisper in her ear.
+#
+<name "Yahnu" "!NB0018">
+"..."
+#
+<name "Darx">
+"Two paths lay before you.
+ Will you live in the city as a citizen, or as
+ livestock?"
+#
+<name "Darx">
+"If livestock, then just sit there.
+ If citizen, shake your ass and please me."
+#
+<name "Yahnu" "!NB0019">
+"..."
+#
+<name "Darx">
+"Oh, and before you answer, I'm not asking
+ any of the rest of you this question.
+ Your answer goes for all of them."
+#
+<name "Yahnu" "!NB0020">
+"..."
+#
+<name "Yahnu" "!NB0021">
+"........."
+#
+She slowly starts moving her hips on her own.
+#
+<name "Darx">
+"Good answer.
+ Once we're finished, you'll be citizens of my
+ city."
+#
+\x0A\x44\x02\x1E\x84\x01
+<exit>
+:32E5
+<music 20>
+<background "ev065a00.agf" 10>
+<name "Ish" "!AB0019">
+"Nnnngh!
+ Ngggghhhhhhh!!!"
+#
+When I come to my senses, I'm already coming
+in her mouth.
+#
+I apparently lost myself in my anger.
+#
+Think clearly.
+#
+We won the battle.
+#
+And then I threw her down and fucked her.
+#
+Five in the front, where no man had been yet.
+#
+Twice in the back.
+#
+And then her mouth.
+#
+So that would make this... the ninth time?
+#
+<name "Ish" "!AB0020">
+"Aah...ah..."
+#
+My body keeps going, aiming for the tenth.
+#
+<name "Ish" "!AB0021">
+"Aaah...aah...ah..."
+#
+She's much weaker now than she was the first
+time.
+#
+Her hands and feet are free, but she's not
+trying to resist.
+#
+Oh, I guess my tentacles are still pushed into
+both her holes.
+#
+Not the whole big tentacle mass, just little
+ones, about the same size as my own dick.
+#
+I can't transfer my whole mind to them, but I
+can still feel and control them.
+#
+I twist them deeper into her and let them just
+gyrate inside her body.
+#
+Unlike my dick, they stay in place, 
+stimulating themselves by stretching and
+contracting.
+#
+It does feel about the same as if I was 
+thrusting into her.
+#
+<name "Ish" "!AB0022">
+"Mmmmgh..."
+#
+I come for the tenth time as I relish all those
+sensations.
+#
+<background "ev065a01.agf" 10>
+<name "Ish" "!AB0023">
+"Ah...ah...ah..."
+#
+<name "Ish" "!AB0024">
+"Agh...aah..."
+#
+<name "Ish" "!AB0025">
+"Ah...ah...
+ N-No more..."
+#
+<name "Ish" "!AB0026">
+"I'll do anything...
+ I-I can't take any more..."
+#
+She says something, but I ignore her and keep
+going.
+#
+My resentment isn't that easy to soothe.
+#
+She rampaged through the city.
+#
+I heard all about it.
+#
+And then they kept attacking us.
+#
+She's an enemy.
+#
+<background "ev065a02.agf" 10>
+<name "Ish" "!AB0027">
+"Aaah! Agh! Nnnnnngh!"
+#
+I relentless attack all three of her holes at
+the same time.
+#
+When she passes out, I sink my fingers into
+her breasts and force her to wake back up.
+#
+<name "Ish" "!AB0028">
+"Aah...aaah...ahhhh..."
+#
+She pisses herself yet again.
+#
+But I don't show any mercy.
+#
+Next to us, the maids are working on convincing
+her people to move to the city.
+#
+They're telling them that this won't happen to
+people on our side.
+#
+But we have no mercy for our enemies.
+#
+One by one, the maids will convince all of her
+followers to join us.
+#
+\x0A\x44\x01\xD5\x84\x01\x0A\x44\x02\x1F\x84\x01
+<exit>
+:3C14
+<music 20>
+<background "ev066a00.agf" 10>
+<name "Nein" "!QA0050">
+"Mmmmgh!
+ Mmmmmmggh!"
+#
+I shove my dick into her mouth and relentlessly
+start pounding her face.
+#
+<name "Nein" "!QA0051">
+"Mmgh! Mgh! Mmmgh!
+ Mmgh!"
+#
+I grab the rest of her body and hold her head
+so that she can't escape, no matter how much
+it hurts.
+#
+I keep moving her head to make her pay for what
+she did to us.
+#
+She struggles a lot to start, but starts to
+behave herself after the first time I come down
+her throat.
+#
+<name "Nein" "!QA0052">
+"Mmmgh! Mmgh!
+ Mmgh! Mmmmgh!"
+#
+I'm sure she has something to say.
+#
+Probably an apology.
+#
+But that can wait.
+#
+I bury my face between her legs.
+#
+<name "Nein" "!QA0053">
+"Mmgh! Mmgh! 
+ Mmgggghhhhh!"
+#
+The smell of a woman.
+#
+It also inflames my lust.
+#
+<name "Nein" "!QA0054">
+"Mmmgh! Mmgh!
+ Aagh! Aahhh!"
+#
+And then I begin coming in her mouth again.
+#
+<background "ev066a01.agf" 10>
+<name "Nein" "!QA0055">
+"Aah! Aah! Aahhh!"
+#
+Once I finish, I force her head back and forth.
+#
+I'm not finished yet.
+#
+Plus, her virgin slit is dripping in front of
+me, tempting me.
+#
+I don't think she means to, but her body is
+reacting to the smell of my dick and it being
+forced into her.
+#
+It's physiological.
+#
+I know that.
+#
+But it makes her smell even more desirable.
+#
+Aah...
+#
+I come in her mouth again.
+#
+<background "ev066a02.agf" 10>
+<name "Nein" "!QA0056">
+"Mmmmgh..."
+#
+How many times has it been now?
+#
+Well, there's no point in counting.
+#
+I nibble on the button sticking out over her
+entrance.
+#
+<name "Nein" "!QA0057">
+"Aah!"
+#
+Her whole exhausted body trembles.
+#
+I bite it again and again, enjoying her 
+reaction.
+#
+<name "Nein" "!QA0058">
+"Ah! Ah! Aaah...aaah..."
+#
+This is pretty fun.
+#
+I can't wait to see how much more she can
+entertain me.
+#
+...
+#
+A few hours later...
+#
+In front of me is her pussy, penetrated by my
+dick, hymen gone, and full of semen.
+#
+The crotch of a woman with a miserable first
+night.
+#
+<background "ev066a03.agf" 10>
+<name "Nein" "!QA0059">
+"Aah...ah...aahhh..."
+#
+As I look at it, I come twice more in her 
+mouth.
+#
+She barely even reacts.
+#
+When I pour it into her mouth, it just spills
+out.
+#
+Thinking back, the last time she resisted was
+when I stuck it in her pussy.
+#
+I let go of her head, finally satisfied.
+#
+<name "Nein" "!QA0060">
+"Ah..."
+#
+<name "Darx">
+"...I'm ready to listen to you now.
+ If you have something to say, out with it."
+#
+<name "Nein" "!QA0061">
+"Ah...ah...
+ P-Please... mercy..."
+#
+<name "Darx">
+"Is that all?"
+#
+<name "Nein" "!QA0062">
+"Ah...
+ I-I promise... I'll... obey you..."
+#
+<name "Darx">
+"You're not going to throw me in another hole?"
+#
+<name "Nein" "!QA0063">
+"Ah...ah..."
+#
+She doesn't know how to answer and starts to
+panic again, making the semen I poured into her
+pussy come flooding out.
+#
+<name "Darx">
+"Hahahahaha!"
+#
+<name "Nein" "!QA0064">
+"..."
+#
+Well, it's fine.
+#
+I've amused myself enough.
+#
+I can let her off.
+#
+<name "Darx">
+"Don't betray me again."
+#
+<name "Nein" "!QA0065">
+"Ah... Y-Yes...
+ I won't..."
+#
+<name "Darx">
+"There won't be a next time."
+#
+<name "Nein" "!QA0066">
+"I... I understand..."
+#
+Nein joins us.
+#
+\x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 \x2B
+<name "Darx">
+"Nein."
+#
+<sprite "ta22a009.agf" 4 4 11>
+<name "Nein" "!QA0067">
+"Y-Yes?"
+#
+<name "Darx">
+"The people following you are going to join my
+ city. It's up to you to convince them."
+#
+<sprite "ta22a012.agf" 4 4 12>
+<name "Nein" "!QA0068">
+"I-I understand."
+#
+<removesprite -1 11>
+\x2B\x0A\x44\x02\x20\x84\x01
+<exit>
+:4AE5
+<music 53>
+<background "ev067a00.agf" 10>
+<name "Hibi" "!DB0012">
+"Aah!"
+#
+I slowly twist my dick into her ass.
+#
+<name "Hibi" "!DB0013">
+"Aah...ah...ah..."
+#
+Naturally, it's the first time she's had 
+anything like it inside her.
+#
+It's really tight.
+#
+And small.
+#
+Her pain must be unimaginable from having it
+forcibly shoved into her.
+#
+She may actually die from her wounds before she
+finishes screaming.
+#
+The ass isn't meant to take a dick.
+#
+Which is why I'm sticking it in her.
+#
+The humiliation of losing her virginity there
+before the front.
+#
+That's what I'm giving to her.
+#
+Well, I don't want her to actually die, so I
+heal her with magic at the same time.
+#
+<background "ev067a01.agf" 10>
+<name "Hibi" "!DB0014">
+"Ah! Ah! Ah! Ah! N-No! T-Take it out!
+ A-Ah! Y-You can't! Ah!
+ No! No! No!"
+#
+About halfway into her, I stop.
+#
+Well, I expected this.
+#
+Any further might not be safe.
+#
+<name "Hibi" "!DB0015">
+"Ah! Ah! Ah! 
+ Aah!"
+#
+But that doesn't mean I'm done.
+#
+The next thing is to start moving back and
+forth.
+#
+<name "Hibi" "!DB0016">
+"Aaaaaahhhh!"
+#
+I move my hips and stimulate my dick in her
+ass.
+#
+<name "Hibi" "!DB0017">
+"Aaaahhh! Aaahh! Aaaaah!"
+#
+Her constant screams are sometimes tinged with
+a moan.
+#
+As I listen to her yell, I relentlessly move
+until I come in her ass.
+#
+<name "Hibi" "!DB0018">
+"Aaah..."
+#
+I spend a few hours coming over and over in
+her ass until I've had enough.
+#
+<background "ev067a02.agf" 10>
+<name "Hibi" "!DB0019">
+"Ah...aah..."
+#
+She's pissed herself a little.
+#
+<name "Hibi" "!DB0020">
+"Aah...ah..."
+#
+<name "Hibi" "!DB0021">
+"N-No more...
+ Mercy..."
+#
+<name "Darx">
+"Just hang in there a little longer."
+#
+<name "Hibi" "!DB0022">
+"N-No..."
+#
+<name "Darx">
+"I haven't used this hole yet."
+#
+I twist one finger into her other hole.
+#
+<name "Hibi" "!DB0023">
+"Ah...ah...
+ D-Don't..."
+#
+Her pussy came numerous times while her ass
+was being violated and is both tender and
+smeared with her love juices.
+#
+<name "Darx">
+"Oh, please.
+ Let's get this over with."
+#
+I pull out of her ass and wipe my dick off.
+#
+And then thrust into her pussy in one motion.
+#
+<name "Hibi" "!DB0024">
+"Aaah..."
+#
+Even with breaking her hymen, she's too 
+exhausted to even move.
+#
+I thrust violently into her unresisting body.
+#
+After only being able to get half my dick into
+her ass, being able to stick the whole thing
+into her pussy feels amazing.
+#
+I come almost immediately while her body
+flails under me.
+#
+<background "ev067a03.agf" 10>
+<name "Hibi" "!DB0025">
+"Aah..."
+#
+<name "Darx">
+"Oh, I said I'd get it over with, but sorry.
+ Hang in there a little longer."
+#
+<name "Hibi" "!DB0026">
+"Huh?"
+#
+<name "Darx">
+"Entertain me."
+#
+<name "Hibi" "!DB0027">
+"Ah...
+ N-No..."
+#
+<background "ev067a04.agf" 10>
+I pull out of her pussy and stick it back in
+her ass.
+#
+I come over and over.
+#
+<background "ev067a05.agf" 10>
+I don't stop even after she passes out.
+#
+\x0A\x44\x02\x21\x84\x01
+<exit>
+:5711
+<music 54>
+<background "ev064a01.agf" 10>
+<name "Raffino" "!EB0017">
+"Ah...aah...ah..."
+#
+I finish coming into her yet again.
+#
+Revenge for burning our city.
+#
+I feel a little better now that I've made her
+pay.
+#
+<name "Raffino" "!EB0018">
+"Aah...ah..."
+#
+I will say that I took her virginity, and she
+fought hard, so I was able to enjoy myself for
+a long time.
+#
+It seems like her race doesn't have any
+breasts to rub, but her pussy was tight
+enough.
+#
+Hm?
+#
+My neck hurts.
+#
+Oh, right. She bit me as I fucked her.
+#
+I'm bleeding.
+#
+I was so turned on that I hadn't noticed.
+#
+But my lust hasn't settled yet.
+#
+I'm just taking a break because she's too worn
+out to even react.
+#
+Besides, all I've enjoyed so far is her pussy.
+#
+<name "Raffino" "!EB0019">
+"..."
+#
+<name "Darx">
+"Looks like you can't handle it yet.
+ Fine, get some rest."
+#
+I grab another one of the women we caught and
+get ready to fuck her.
+#
+<name "Raffino's Subordinate" "!HC0029">
+"Nooo! Ah! L-Let me go!
+ R-Raffino! Raffino! Save me!"
+#
+She saw what I did and is scared of what's
+going to happen to her.
+#
+<name "Darx">
+"Good.
+ That's the spirit.
+ Struggle harder."
+#
+The more they resist, the more it feeds my
+dark lust.
+#
+<name "Raffino" "!EB0020">
+"Aah...
+ S-Stop... it..."
+#
+<name "Raffino's Subordinate" "!HC0030">
+"Aaah! Aah! Aaahhh!"
+#
+She says something, but I ignore her and keep
+fucking the woman.
+#
+I think that's about the sixth time?
+#
+One of the maids steps up to us.
+#
+<name "Company Maid" "!DC0101">
+"Overlord, we captured some who were hiding
+ in the back."
+#
+<name "Darx">
+"I see.
+ Good job."
+#
+<name "Company Maid" "!DC0102">
+"What should we do with them?"
+#
+<name "Darx">
+"Did they resist?"
+#
+<name "Company Maid" "!DC0103">
+"They didn't come peacefully, but it would be
+ generous to call that resistance."
+#
+<name "Darx">
+"Hmm... It seems like you have something to
+ say.
+ Speak your mind."
+#
+<name "Company Maid" "!DC0104">
+"Sir.
+ Then..."
+#
+<name "Company Maid" "!DC0105">
+"The ones hiding in the back were mere 
+ children, unable to fight.
+ If possible, I think you should accept them
+ as residents of the city."
+#
+<name "Darx">
+"You're too soft hearted."
+#
+<name "Company Maid" "!DC0106">
+"...I-I spoke out of turn."
+#
+<name "Darx">
+"I told you to.
+ Don't worry about it.
+ Residents, huh?"
+#
+<name "Darx">
+"I want to fuck all of them, but...
+ I also want more citizens."
+#
+<name "Darx">
+"Raffino, you're awake?"
+#
+I grab her chest.
+#
+<name "Raffino" "!EB0021">
+"Aah..."
+#
+<name "Darx">
+"You heard that?"
+#
+<name "Raffino" "!EB0022">
+"Ah...aah..."
+#
+<name "Darx">
+"I'll let you decide."
+#
+<name "Darx">
+"Join me, or don't."
+#
+<name "Darx">
+"Decide before I get tired of fucking this
+ one."
+#
+<name "Raffino" "!EB0023">
+"..."
+#
+Her group ended up joining us.
+#
+...
+#
+<name "Company Maid" "!DC0107">
+"Overlord."
+#
+<name "Darx">
+"Hm?"
+#
+<name "Company Maid" "!DC0108">
+"About what happened, if that woman didn't
+ join you, would you have really..."
+#
+<name "Darx">
+"You thought I was serious?
+ That's shocking."
+#
+<name "Company Maid" "!DC0109">
+"Huh? Oh, no, I didn't think you'd do it, it
+ was just a little... um... scary."
+#
+<name "Darx">
+"Huh?
+ Was it that intense?"
+#
+<name "Company Maid" "!DC0110">
+"W-Well, you really were violating a woman at
+ the time."
+#
+<name "Darx">
+"They razed our city.
+ They'll get no mercy."
+#
+<name "Darx">
+"But I'm not so cruel to violate those who
+ don't fight back."
+#
+<name "Company Maid" "!DC0111">
+"It's a relief to know you didn't mean it.
+ I expected no less of our Overlord."
+#
+\x0A\x44\x02\x22\x84\x01
+<exit>
+:6509
+\x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 \x2B
+<name "Darx">
+"Aaaaaaaaaaaaggggghhhhhh!"
+#
+...
+#
+<name "Company Maid" "!AC0102" "ka34a000.agf">
+"Why is the Overlord rolling around?"
+#
+<name "Knowing Maid" "!DC0122" "ka34c000.agf">
+"Um..."
+#
+<name "Knowing Maid" "!DC0123" "ka34c000.agf">
+"He... can't touch for very long."
+#
+<name "Black Lady" "!HC0036" "ka37a000.agf">
+"Three seconds is the most for anybody."
+#
+<name "Company Maid" "!AC0103" "ka34a000.agf">
+"Aaah, I see."
+#
+<name "Black Lady" "!HC0037" "ka37a000.agf">
+"I-I think... I'm sorry?"
+#
+<name "Company Maid" "!AC0104" "ka34a000.agf">
+"It's fine. It's fine.
+ Please register as a citizen over here."
+#
+\x0A\x44\x02\x23\x84\x01
+<exit>
+:6802
+\x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 \x2B
+<name "Lassan" "!ZE0023" "ka38a000.agf">
+"Yer strong, bro."
+#
+<name "Lassan" "!ZE0024" "ka38a000.agf">
+"Sorry!
+ Mah bad!
+ Go easy!"
+#
+<name "Lassan" "!ZE0025" "ka38a000.agf">
+"Wha!? Ya forgive me!?
+ Oooooh!
+ What a heart!"
+#
+<name "Lassan" "!ZE0026" "ka38a000.agf">
+"I'll follow ya foreva!"
+#
+<name "Darx">
+"I haven't said anything yet."
+#
+<name "Lassan" "!ZE0027" "ka38a000.agf">
+"Don' swea' the de'ails, bro."
+#
+<name "Darx">
+"The details..."
+#
+<name "Lassan" "!ZE0028" "ka38a000.agf">
+"Heheheh.
+ Bro, can ya still say the same when ya see
+ dis?"
+#
+<name "Darx">
+"Huh?"
+#
+<name "Lassan" "!ZE0029" "ka38a000.agf">
+"Secre' move!
+ Rollin' rice ball!"
+#
+<name "Darx">
+"Ooooh!
+ What the!?
+ He suddenly started rolling!
+ And so fast!"
+#
+<name "Lassan" "!ZE0030" "ka38a000.agf">
+"An' from there, han's and knees!"
+#
+<name "Darx">
+"...That's the eastern way of prostration!
+ And not just the form!
+ It's bowing with centuries of refinement!
+ Bowing with the weight of history!"
+#
+<name "Lassan" "!ZE0031" "ka38a000.agf">
+"Ya' can tell?"
+#
+<name "Darx">
+"I-Impressive.
+ I've only seen two other people get down on
+ their hands and knees like this before."
+#
+<name "Lassan" "!ZE0032" "ka38a000.agf">
+"Then ya can forgive me?"
+#
+<name "Darx">
+"Against that kind of bowing, I have no choice.
+ I forgive you."
+#
+<name "Lassan" "!ZE0033" "ka38a000.agf">
+"Yo!"
+#
+<name "Darx">
+"Oh, let me see it again."
+#
+<name "Lassan" "!ZE0034" "ka38a000.agf">
+"Leave it ta me!
+ Secre' move!
+ Rollin' rice ball!"
+#
+\x0A\x44\x02\x24\x84\x01
+<exit>
+:6EDB
+\x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 \x2B
+<name "Neymal" "!UA0023" "ka39a000.agf">
+"You got me!"
+#
+<name "Neymal" "!UA0024" "ka39a000.agf">
+"Ooh! 
+ What strength!"
+#
+<name "Neymal" "!UA0025" "ka39a000.agf">
+"It was foolish to oppose you!"
+#
+<name "Neymal" "!UA0026" "ka39a000.agf">
+"I surrender.
+ Just spare my life."
+#
+<name "Darx">
+"...You really don't half-ass anything, do
+ you?"
+#
+<name "Neymal" "!UA0027" "ka39a000.agf">
+"I'm giving it my all.
+ Should I talk to the maids over there about
+ moving to the city?"
+#
+<name "Darx">
+"Yeah."
+#
+<name "Neymal" "!UA0028" "ka39a000.agf">
+"Okay, I owe you one.
+ Thanks."
+#
+\x0A\x44\x02\x25\x84\x01
+<exit>
+:71B6
+<music 20>
+<background "ev061a00.agf" 10>
+<name "Tamaga" "!PB0034">
+"Urgh..."
+#
+I twist my dick into her pussy.
+#
+After a little movement, blood drips out,
+proof of breaking her hymen.
+#
+<name "Tamaga" "!PB0035">
+"..."
+#
+<name "Darx">
+"What's the matter?
+ You're not going to struggle?"
+#
+<background "ev061a01.agf" 10>
+<name "Tamaga" "!PB0036">
+"Nngh...ah...
+ Would it be... ngh... better to struggle?"
+#
+<name "Darx">
+"No, you just seemed unusually well behaved."
+#
+I've got my tentacles wrapped around her hands
+and legs because I expected her to fight back,
+but there's apparently not much point.
+#
+She's not trying to resist at all.
+#
+<name "Tamaga" "!PB0037">
+"Ngh...ah... I lost.
+ Do whatever... nngh... you want."
+#
+<name "Darx">
+"I see.
+ Then I think I will."
+#
+I hold her in place and move my hips, going
+back and forth in her pussy.
+#
+<name "Tamaga" "!PB0038">
+"Ah...aah...ngh..."
+#
+Her pussy is narrow and stiff from having
+never been with a man before.
+#
+I can't move how I want going slowly, so I
+do it hard.
+#
+<name "Tamaga" "!PB0039">
+"Nngh...nnn...ngh...ah...ah!"
+#
+It it's too tight, I can stretch it.
+If it's too stiff, I can tenderize it.
+#
+Well, it'll all happen quick, so it's going to
+hurt her a bit.
+#
+<name "Tamaga" "!PB0040">
+"Nngh!"
+#
+Once I've come once, my semen will at least
+make it slip a little easier.
+#
+It'd also help the pain.
+#
+I continue moving, thinking about myself, and
+come for the first time inside her.
+#
+<background "ev061a02.agf" 10>
+<name "Tamaga" "!PB0041">
+"Ngh...ngh...ah...nngh..."
+#
+She still doesn't even try to resist.
+#
+That kind of pisses me off.
+#
+<name "Darx">
+"I'm your first man now."
+#
+<name "Darx">
+"Even if you kill me, you have to carry that
+ for the rest of your life."
+#
+I'll taunt her then.
+#
+<name "Tamaga" "!PB0042">
+Ah...ah... I-I don't... really care."
+#
+<name "Darx">
+"I'm not finished yet."
+#
+<name "Tamaga" "!PB0043">
+"I-I told you to do whatever you want."
+#
+<name "Darx">
+"Fine."
+#
+I grab her head and forcibly kiss her.
+#
+<name "Tamaga" "!PB0044">
+"Nnnngh..."
+#
+And plunge my tongue into her mouth.
+#
+<name "Tamaga" "!PB0045">
+"Ah...aah...ah..."
+#
+After finishing the kiss, I start moving my
+hips again.
+#
+<name "Tamaga" "!PB0046">
+"Aah...ah...ngh...ngh!"
+#
+It is smoother to move in her now that I came.
+#
+<name "Tamaga" "!PB0047">
+"Ah...ngh...ngh...ah..."
+#
+<name "Darx">
+"Tamaga?"
+#
+<name "Tamaga" "!PB0048">
+"Ah...aah...ah..."
+#
+<name "Darx">
+"All of your people are going to move to my
+ city."
+#
+<name "Darx">
+"You have a problem with that?"
+#
+<name "Tamaga" "!PB0049">
+"Ah...nngh...
+ N-No..."
+#
+<name "Tamaga" "!PB0050">
+"B-But...ah...
+ Don't touch my..."
+#
+<name "Darx">
+"Don't worry.
+ You surrendered.
+ I'm not going to do anything except to you,
+ their leader."
+#
+<name "Tamaga" "!PB0051">
+"I-I see...
+ Nnngh..."
+#
+Yeah, she's accepting her defeat and 
+surrendering to me.
+#
+She's promised that her people will join us.
+#
+Torturing her like this is just my way of
+punishing her.
+#
+For attacking the city.
+#
+I know that there's no point to it.
+#
+But I'm not going to stop.
+#
+<background "ev061a03.agf" 10>
+<name "Tamaga" "!PB0052">
+"Nngh! Ah! Aah! Ah! Aahhh!"
+#
+I come inside her pussy again.
+#
+<name "Tamaga" "!PB0053">
+"Ah...ah...nngh..."
+#
+<name "Darx">
+"You have a good body.
+ Keep it up."
+#
+<background "ev061a04.agf" 10>
+<name "Tamaga" "!PB0054">
+"Ngh...
+ H-How long are you going to do this?"
+#
+<name "Darx">
+"Let's see...
+ Until the surrendered people move to the
+ city."
+#
+<name "Tamaga" "!PB0055">
+"I-I understand..."
+#
+Six hours, if they move fast.
+#
+Longer if they resist or some try to run away.
+#
+<name "Darx">
+"I'm going to fully enjoy your body."
+#
+I concentrate on what I'm doing.
+#
+Punishing her body, her pussy, and her mind.
+#
+<background "ev061a05.agf" 10>
+<name "Tamaga" "!PB0056">
+"Ah! Aah! Ah! Aah!
+ Aaaaahhhh!"
+#
+She desperately tries to endure it, but her
+body betrays her.
+#
+<name "Tamaga" "!PB0057">
+"Ah! Ah! Ah! Aaaahhhhhhh!"
+#
+She comes.
+#
+She tries to resist the pleasure assaulting
+her, but she can't beat instincts.
+#
+<name "Tamaga" "!PB0058">
+"Ah! Aah! Ahh! Ah!"
+#
+After her body learns about pleasure, it 
+greedily hungers for more, and she starts to
+moan to tempt me.
+#
+<name "Tamaga" "!PB0059">
+"Ah! Aah! Ah!"
+#
+If she wasn't bound in place, she would be
+moving her hips herself.
+#
+It's quite the sudden change.
+#
+<background "ev061a06.agf" 10>
+<name "Tamaga" "!PB0060">
+"Mmm! Ah! Ah! Aaah! 
+ Aaaaaaaaahhhhhhhh!!!!"
+#
+I let her go after about half a day.
+#
+As a new minion.
+#
+\x0A\x44\x02\x26\x84\x01
+<exit>
+:83EB
+<music 20>
+<background "ev063a00.agf" 10>
+<name "Ao" "!WA0047">
+"Aah!"
+#
+I pull her to me and screw my dick into her
+pussy.
+#
+<background "ev063a01.agf" 10>
+<name "Ao" "!WA0048">
+"Ah...ah...aah..."
+#
+Without any foreplay, she twists in pain as
+her hymen is ripped through.
+#
+<background "ev063a02.agf" 10>
+<name "Ao" "!WA0049">
+"Aaaah...aah...
+ Y-You'll pay for this!"
+#
+I ignore her and start moving.
+#
+<name "Ao" "!WA0050">
+"Ah! Aah! Ah! Aaaah!"
+#
+Her narrow, stiff pussy isn't ready for a man's
+dick. It's just tight and hard.
+#
+Even when I move, my dick's not going back and
+forth inside her, but pulling her hips along
+with mine.
+#
+<name "Ao" "!WA0051">
+"Ah! Ah!
+ S-Stop! Stop it!
+ Aaah..."
+#
+She tries to move her hips with mine to ease
+the pain.
+#
+<name "Ao" "!WA0052">
+"Ah! Aah! Ahh! S-Stop!
+ Ah! Don't move!"
+#
+When I push forward, she moves forward.
+When I try to pull back, she presses her hips
+against me.
+#
+Seeing her move her hips so desperately to try
+to escape the pain almost makes me laugh.
+#
+<name "Ao" "!WA0053">
+"Ah! Aah! Ah! Aah!"
+#
+My rhythm doesn't change.
+#
+<name "Ao" "!WA0054">
+"Ah! Ah! Ah! Aah! Nnngh!"
+#
+It's annoying, but there is some rubbing like
+this, and is pleasurable in its own way.
+#
+<name "Ao" "!WA0055">
+"Ah! Ah! Aah! Ah!
+ S-Stop! Stop, I said!
+ I told you!"
+#
+Besides, I want to see how far she can go.
+#
+But it ends almost immediately.
+#
+<name "Ao" "!WA0056">
+"Aaah!"
+#
+She loses the rhythm and my dick plunges deep
+into her pussy.
+#
+But she keeps desperately trying to move her
+hips even though the rhythm is off, so I'm
+pumping in her twice as fast.
+#
+<name "Ao" "!WA0057">
+"Ah...ah..."
+#
+I nonstop pierce her with my dick as she 
+flails in pain.
+#
+And move even faster than before.
+#
+<name "Ao" "!WA0058">
+"Ah! Ah! Aah! Aaaahhhh!"
+#
+The sound of my body hitting her ass echoes
+in the room.
+#
+And I come.
+#
+<name "Ao" "!WA0059">
+"Ah..."
+#
+A flood of semen shoots out of my dick and 
+fills her pussy and womb.
+#
+<background "ev063a03.agf" 10>
+<name "Ao" "!WA0060">
+"Ah...ah...ah...aah..."
+#
+She's surprised by it for a moment and stunned.
+#
+She must've known what was going to happen.
+#
+But that was intellectually.
+#
+Feeling semen pouring into her womb makes her
+experience it physically.
+#
+<name "Ao" "!WA0061">
+"I..."
+#
+And now she's mad.
+#
+<background "ev063a04.agf" 10>
+<name "Ao" "!WA0062">
+"I'll kill you!
+ I swear I'll kill you!
+ Remember that, you fucking human!"
+#
+<name "Darx">
+"Yeah, I will."
+#
+Once I finish coming, I start moving my hips
+again.
+#
+<background "ev063a05.agf" 10>
+<name "Ao" "!WA0063">
+"Ah...ah...ah...ah...ah..."
+#
+<name "Darx">
+"You thought it'd be over after just once?"
+#
+<name "Ao" "!WA0064">
+"Ah! Ah! Ah! Aah!"
+#
+<name "Darx">
+"I'm nowhere near finished.
+ Let's see how much you can take."
+#
+<name "Ao" "!WA0065">
+"Ah!"
+#
+She looks scared for a second, but then grits
+her teeth.
+#
+Steeling herself.
+#
+If she's really going to endure it, that's all
+she can do.
+#
+But I shatter that to pieces.
+#
+<background "ev063a06.agf" 10>
+<name "Ao" "!WA0066">
+"Aaaah! Aaaaaah!
+ Aaaaaaaaaaahhhhhhhhhhh!!!"
+#
+I come yet again.
+#
+And she does too.
+#
+It's been over half a day since I started.
+#
+There's no sign left of the same person who
+said she'd kill me.
+#
+\x0A\x44\x01\xD4\x84\x01\x0A\x44\x02\x27\x84\x01
+<exit>
+:9130
+<music 18>
+<background "ev062a00.agf" 10>
+<name "Lotta" "!HB0027">
+"Aah!"
+#
+<name "Lotta" "!HB0028">
+"Aahhh!"
+#
+<name "Lotta" "!HB0029">
+"Hahaha!"
+#
+<name "Lotta" "!HB0030">
+"Mm... More?"
+#
+W-What's going on?
+#
+Dozens of naked women surround me.
+#
+They all look the same, but each is a slightly
+different age.
+#
+Why does it feel like I've stepped into a 
+house filled with someone's daughters?
+#
+No, what's even going on here?
+#
+What was I just doing?"
+#
+<name "Lotta" "!HB0031">
+"Mmmm!"
+#
+I try to collect my thoughts, but the women
+all swarm me like they're trying to distract
+me.
+#
+They seem pretty talented, but they picked
+the wrong man.
+#
+They're no match for my experience.
+#
+<name "Lotta" "!HB0032">
+"Heheheh..."
+#
+But my confidence is quickly broken.
+#
+Their movement keeps attacking my weak spots.
+#
+Making me want to give in.
+#
+Can't I just let them do what they want?
+#
+I could just do that.
+#
+Yeah.
+#
+I deal with women like this all the time.
+#
+<name "Lotta" "!HB0033">
+"Aaah!
+ More..."
+#
+<name "Lotta" "!HB0034">
+"Please with my boobs!"
+#
+<name "Lotta" "!HB0035">
+"Aah! Me too!"
+#
+<name "Lotta" "!HB0036">
+"Aaah...
+ Don't touch me there!"
+#
+<name "Lotta" "!HB0037">
+"Ah! Aah! Ah! Aaaahh!"
+#
+Anyway, I move my hips to come for the first
+time.
+#
+It comes out immediately.
+#
+And with much more pleasure than usual.
+#
+More.
+#
+My body wants these women more.
+#
+<name "Lotta" "!HB0038">
+"Aaah! Aahhh...
+ More?"
+#
+<name "Lotta" "!HB0039">
+"Ah...aah...
+ Me next."
+#
+<name "Lotta" "!HB0040">
+"Aaah... No fair.
+ Me too."
+#
+I devour them.
+#
+Forgetting everything but the women before me.
+#
+Aah, what nice boobs.
+#
+And pussy.
+#
+They smell good too.
+#
+Ah, I can't take it.
+#
+My hips move intensely.
+#
+I come over and over.
+#
+...
+#
+<background "ev062b00.agf" 10>
+<name "Lotta" "!HB0041">
+"Heheheh...
+ A pleasant collapse."
+#
+<name "Lotta" "!HB0042">
+"I was hoping for a little more..."
+#
+<name "Lotta" "!HB0043">
+"Well, that's how men are."
+#
+<name "Lotta" "!HB0044">
+"Still, when you strip away their lust...
+ Huh?"
+#
+<background "ev062b01.agf" 10>
+<name "Lotta" "!HB0045">
+"Oh?"
+#
+<background "ev062b02.agf" 10>
+<name "Lotta" "!HB0046">
+"T-That place?"
+#
+<name "Lotta" "!HB0047">
+"Huh?
+ My arm?
+ Huh?"
+#
+<name "Lotta" "!HB0048">
+"Oh?
+ Huh?
+ That position... huh?"
+#
+...
+#
+<background "ev062b03.agf" 10>
+<name "Lotta" "!HB0049">
+"Aaaaah!"
+#
+<name "Lotta" "!HB0050">
+"Aaahhhhhhh!"
+#
+<name "Lotta" "!HB0051">
+"Stop! No!
+ Aah! Aaaaahhhh!"
+#
+<name "Lotta" "!HB0052">
+"Ah...ah...aaaah..."
+#
+<name "Lotta" "!HB0053">
+"One after another... huh?
+ I'm gonna break!
+ No!"
+#
+<name "Lotta" "!HB0054">
+"Aaaaahhhhh!"
+#
+There's the sound of breaking glass.
+#
+\x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 \x2B
+<name "Darx">
+"Huh?"
+#
+<sprite "ta34a000.agf" 4 4 11>
+<name "Company Maid" "!DC0116">
+"Lord Darx?
+ Is something the matter?"
+#
+<name "Darx">
+"Huh?"
+#
+<name "Darx">
+"Oh, uh..."
+#
+<removesprite -1 11>
+I look around.
+#
+There's nothing out of the ordinary.
+#
+I check inside my pants, but it doesn't look
+like I came.
+#
+...
+#
+<name "Darx">
+"How long was I out of it?"
+#
+<sprite "ta34a000.agf" 4 4 11>
+<name "Company Maid" "!DC0117">
+"I don't think it was even a minute?"
+#
+<name "Darx">
+"...I see."
+#
+<name "Company Maid" "!DC0118">
+"Anyway, this is the leader of the forces
+ here.
+ What should we do?"
+#
+<removesprite -1 11>
+<sprite "ta18a000.agf" 4 4 11>
+<name "Lotta" "!HB0055">
+"I lost, but...
+ I didn't lose!"
+#
+<name "Darx">
+"..."
+#
+<sprite "ta18a001.agf" 4 4 12>
+<name "Lotta" "!HB0056">
+"I-I lost, but I didn't lose, okay!"
+#
+<removesprite -1 11>
+<background "ev062a00.agf" 10>
+She looks just like them.
+#
+Like the women in that illusion.
+#
+\x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 \x2B
+<name "Darx">
+"Can you use magic or something?"
+#
+<sprite "ta18a008.agf" 4 4 11>
+<name "Lotta" "!HB0057">
+"Huh?
+ I can't."
+#
+<name "Darx">
+"Really?"
+#
+<sprite "ta18a009.agf" 4 4 12>
+<name "Lotta" "!HB0058">
+"I-If I could, I would've used it when I was
+ fighting."
+#
+<name "Darx">
+"..."
+#
+<removesprite -1 11>
+That's a good point.
+#
+I don't see what the point of waiting until
+after the fight is over to use it on me
+either.
+#
+If she was going to do that, she would've done
+it right at the start.
+#
+Is there some condition for using it?
+#
+No, I think it's more logical to assume she
+can't use magic at all.
+#
+<name "Darx">
+"Can I ask the people here to confirm that?"
+#
+<sprite "ta18a008.agf" 4 4 11>
+<name "Lotta" "!HB0059">
+"Yep.
+ I don't lie."
+#
+<name "Darx">
+"All right.
+ Then..."
+#
+<name "Darx">
+"Do you surrender?"
+#
+<sprite "ta18a014.agf" 4 4 12>
+<name "Lotta" "!HB0060">
+"Ooh...
+ I surrender."
+#
+<name "Darx">
+"Okay. Everyone who follows you will move to
+ my city.
+ Any problem with that?"
+#
+<sprite "ta18a015.agf" 4 4 12>
+<name "Lotta" "!HB0061">
+"N-No."
+#
+<name "Darx">
+"Okay, tell your people.
+ If you do it quickly, I won't punish
+ anybody."
+#
+<sprite "ta18a016.agf" 4 4 12>
+<name "Lotta" "!HB0062">
+"Really?"
+#
+<name "Darx">
+"Yeah, but try any funny business, and I'll
+ do all sorts of stuff."
+#
+<sprite "ta18a014.agf" 4 4 12>
+<name "Lotta" "!HB0063">
+"I-I won't.
+ I won't, okay!
+ I won't do any funny business."
+#
+<name "Darx">
+"Good. Go."
+#
+<removesprite -1 11>
+She literally flies away.
+#
+<sprite "ta34a006.agf" 4 4 11>
+<name "Company Maid" "!DC0119">
+"Overlord?
+ You're not doing anything to her?"
+#
+<sprite "ta34a008.agf" 4 4 12>
+<name "Company Maid" "!DC0120">
+"Don't tell me. 
+ Are you sick?"
+#
+<name "Darx">
+"No, nothing like that."
+#
+<removesprite -1 11>
+After that illusion, I don't think I can deal
+with a shrimp like that.
+#
+The difference is too much.
+#
+Still...
+#
+<music 50>
+<background "ev062a00.agf" 10>
+Thinking back to it is making me hard.
+#
+Aaah...
+Do I have to endure it until we get home?
+#
+...
+#
+I can't.
+#
+One of the maids did her best.
+#
+\x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 \x2B
+I don't know entirely what happened, but Lotta
+joined us.
+#
+\x0A\x44\x02\x28\x84\x01
+<exit>
+:A8F1
+<music 52>
+<background "ev060a00.agf" 10>
+<name "Farren" "!FB0079">
+"Nnnngh..."
+#
+I twist my dick into her pussy, breaking her
+hymen and poking at her womb.
+#
+<name "Farren" "!FB0080">
+"Ah...ah...aah..."
+#
+She writhes from the excessive pain.
+#
+But I'm holding her tight with the tentacles
+sprouting from my body.
+#
+<background "ev060a01.agf" 10>
+<name "Farren" "!FB0081">
+"Ngh...
+ H-How dare you..."
+#
+She glares at me, but I ignore her and move
+my hips, dragging my dick back and forth inside
+her.
+#
+<name "Farren" "!FB0082">
+"Aaaah!"
+#
+She lets out a painful scream every time my
+dick slides in and out.
+#
+But she proudly tries to choke down her yells.
+#
+<name "Darx">
+"It'll be easier if you don't hold it all in."
+#
+<background "ev060a02.agf" 10>
+<name "Farren" "!FB0083">
+"Ah! S-Shut up!
+ Aaaahhhhh!"
+#
+She struggles her best while I enjoy her body
+to my utmost.
+#
+Her pussy is nice and tight.
+#
+The blood and juices it's letting out to
+protect itself are making it so smooth that
+it's hard to believe she was a virgin.
+#
+<name "Farren" "!FB0084">
+"Ah! Ah! Ah! Aah!"
+#
+And her breasts.
+#
+Not huge, but big enough.
+#
+Squishy, and easy to rub.
+#
+Pretty entertaining.
+#
+<name "Farren" "!FB0085">
+"Aah...ah...aah...aah!"
+#
+But the main draw is her skin.
+#
+It's weirdly slippery, but sticks fast to my
+touch.
+#
+It's just feminine all over.
+#
+<name "Farren" "!FB0086">
+"D-Don't touch m... ah! Aaah!"
+#
+I was unconsciously stroking her thighs.
+#
+They're nice.
+#
+<name "Farren" "!FB0087">
+"Ah...ngh...ah...ah..."
+#
+With each movement of my hips, her voice gets
+a little bit sweeter.
+#
+Is she getting turned on?
+Or is she getting carried away by the act?
+#
+Well, either way is fine.
+#
+I move faster.
+#
+<name "Farren" "!FB0088">
+"Ah! Aah! Aaah!"
+#
+She lets out an unabashed moan.
+#
+She notices it too and snaps her mouth shut.
+#
+She probably thinks that hearing that would
+please me.
+#
+<name "Farren" "!FB0089">
+"Mmgh...nngh...nnngh..."
+#
+She is right.
+#
+I can't help but want to hear it more.
+#
+I thrust violently, intensely scraping inside
+her.
+#
+<name "Farren" "!FB0090">
+"Nnngh...nnngh...aah...ah...aah!
+ Ah! Aah! Ah..."
+#
+I continue unrelentingly.
+#
+No, I'm getting more intense.
+#
+<name "Farren" "!FB0091">
+"Ah! Ah! Aah! Aahhh!"
+#
+At the same time as my dick pokes deep against
+the back of her pussy, her mouth opens wide.
+#
+<name "Farren" "!FB0092">
+"Aaaaaaaaaaahhhhhhhhhhhhhhhh!!!!!!!!!!"
+#
+She comes like a fountain and her entire body
+shudders.
+#
+I start to come for the first time inside her
+without holding back.
+#
+<background "ev060a03.agf" 10>
+<name "Farren" "!FB0093">
+"Ah...aah...ah...aaahhh..."
+#
+She's too exhausted to resist and has no choice
+but to accept my semen.
+#
+<name "Farren" "!FB0094">
+"Ngh...ah..."
+#
+I finish coming for the first time and
+immediately start moving to come again.
+#
+<background "ev060a04.agf" 10>
+<name "Farren" "!FB0095">
+"Ah...aah...ah..."
+#
+After orgasming, she completely stopped
+resisting.
+#
+The rest was just me moving on my own.
+#
+That's boring.
+#
+<name "Darx">
+"Farren."
+#
+<name "Farren" "!FB0096">
+"Ah...ah..."
+#
+<name "Darx">
+"You're pretty cute."
+#
+<name "Farren" "!FB0097">
+"Huh?"
+#
+Her pussy squeezes tight in reaction to what I
+said.
+#
+<name "Darx">
+"I like you."
+#
+<name "Farren" "!FB0098">
+"Ah..."
+#
+It squeezes even more.
+#
+<name "Darx">
+"Can you hang in there a little more?"
+#
+<name "Farren" "!FB0099">
+"Ah...ah..."
+#
+I continue while heaping praise on her.
+#
+<name "Farren" "!FB0100">
+"Aah...ah...ah...ahh...aah..."
+#
+The words are kind, but the act is violent.
+#
+<name "Farren" "!FB0101">
+"Aah! Aah! Ah! Aaah!"
+#
+<name "Darx">
+"Farren."
+#
+<name "Farren" "!FB0102">
+"Ah?"
+#
+I take her lips.
+#
+<name "Farren" "!FB0103">
+"Ah...ah...mmmmmm!"
+#
+She accepts my kiss without fighting.
+#
+I push my tongue in and wrap it around hers.
+#
+<name "Farren" "!FB0104">
+"Ah...aah..."
+#
+<name "Darx">
+"I will love you thoroughly."
+#
+I come inside her a second time as I whisper
+in her ear.
+#
+<background "ev060a05.agf" 10>
+<name "Farren" "!FB0105">
+"Ah...aah..."
+#
+It lasts three hours.
+#
+And after bringing her back to the city, we
+kept going.
+#
+\x0A\x44\x01\xDE\x84\x01\x0A\x44\x02\x29\x84\x01
+<exit>
+:BA8E
+\x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 
+<sprite "ta04a017.agf" 4 4 11>
+<name "Rualtei" "!RA0052">
+"No...
+ I can't have..."
+#
+<name "Darx">
+"You're pretty strong."
+#
+<sprite "ta04a018.agf" 4 4 12>
+<name "Rualtei" "!RA0053">
+"Oooh..."
+#
+<name "Darx">
+"Now, it's time for punishment."
+#
+<sprite "ta04a024.agf" 4 4 12>
+<name "Rualtei" "!RA0054">
+"Eep!"
+#
+<removesprite -1 11>
+<sprite "ta05a002.agf" 4 4 11>
+<name "Kyuriha" "!FA0110">
+"P-Please wait!"
+#
+<name "Darx">
+"...Hm?"
+#
+<sprite "ta05a002.agf" 4 4 12>
+<name "Kyuriha" "!FA0111">
+"Darx, forgive me.
+ Please stay your hand."
+#
+<name "Darx">
+"...That's not what you said to me before.
+ Am I supposed to ignore your previous words?"
+#
+<sprite "ta05a001.agf" 4 4 12>
+<name "Kyuriha" "!FA0112">
+"I am well aware of what you are trying to
+ say, but please don't."
+#
+<sprite "ta05a002.agf" 4 4 12>
+<name "Kyuriha" "!FA0113">
+"She is a child who was not prepared for the
+ consequences of defeat.
+ Please show her mercy."
+#
+<name "Darx">
+"........."
+#
+<removesprite -1 11>
+While I'm thinking it over, the other one
+interjects.
+#
+<sprite "ta04a009.agf" 4 4 11>
+<name "Rualtei" "!RA0055">
+"I'm not a child!"
+#
+<removesprite -1 11>
+But as soon as the words leave her lips, 
+Kyuriha's clenched fist swings down like a
+hammer and strikes her directly on the head.
+#
+<sprite "ta05a007.agf" 4 4 11>
+<name "Kyuriha" "!FA0114">
+"You will be silent!"
+#
+<removesprite -1 11>
+That genuinely sounded like it cracked her
+skull, especially after she's already worn out
+from fighting.
+#
+<sprite "ta04a023.agf" 4 4 11>
+<name "Rualtei" "!RA0056">
+"Oooooohhhhh..."
+#
+<removesprite -1 11>
+She seems to still be alive though.
+#
+<sprite "ta05a016.agf" 4 4 11>
+<name "Kyuriha" "!FA0115">
+"I am truly, truly sorry.
+ Please, just this once, show mercy."
+#
+<name "Darx">
+"...Just this once."
+#
+<sprite "ta05a004.agf" 4 4 12>
+<name "Kyuriha" "!FA0116">
+"Really?"
+#
+<name "Darx">
+"Because you begged, just this once.
+ There will be no next time.
+ Even if it's someone else."
+#
+<sprite "ta05a017.agf" 4 4 12>
+<name "Kyuriha" "!FA0117">
+"Y-Yes.
+ Rualtei, apologize!"
+#
+<removesprite -1 11>
+<sprite "ta04a027.agf" 4 4 11>
+<name "Rualtei" "!RA0057">
+"...Hmph!"
+#
+<removesprite -1 11>
+<sprite "ta05a007.agf" 2 4 11>
+<sprite "ta04a027.agf" 6 5 11>
+<name "Kyuriha" "!FA0118">
+"Do you want me to hit you again?"
+#
+<sprite "ta04a023.agf" 6 5 12>
+<name "Rualtei" "!RA0058">
+"Eep!"
+#
+<removesprite -1 11>
+<name "Darx">
+"It doesn't matter.
+ But you should remember that too.
+ There won't be a next time."
+#
+<sprite "ta04a024.agf" 4 4 11>
+<name "Rualtei" "!RA0059">
+"..."
+#
+<removesprite -1 11>
+I let her go.
+#
+<sprite "ta05a015.agf" 4 4 11>
+<name "Kyuriha" "!FA0119">
+"Truly, thank you from the bottom of my heart."
+#
+<name "Darx">
+"Yeah."
+#
+<name "Darx">
+"Anyway, what are you doing here?"
+#
+<sprite "ta05a016.agf" 4 4 12>
+<name "Kyuriha" "!FA0120">
+"I had a bad feeling when I heard that Rualtei
+ was wandering around here."
+#
+<sprite "ta05a015.agf" 4 4 12>
+<name "Kyuriha" "!FA0121">
+"Forgive me.
+ If I had arrived sooner, I might have been
+ able to stop this before a fight broke out."
+#
+<name "Darx">
+"...Well, don't sweat it."
+#
+<sprite "ta05a014.agf" 4 4 12>
+<name "Kyuriha" "!FA0122">
+"Yes.
+ There won't be a next time.
+ I shall not forget that."
+#
+<sprite "ta05a015.agf" 4 4 12>
+<name "Kyuriha" "!FA0123">
+"Well, I mean to say that I truly did not 
+ intend to stand in your way, but I am sorry.
+ I have a soft spot for her..."
+#
+<name "Darx">
+"I take it from her name that she's Miartei's
+ sister?
+ So you've known her for a long time."
+#
+<sprite "ta05a019.agf" 4 4 12>
+<name "Kyuriha" "!FA0124">
+"Yes.
+ Ever since she was a little girl."
+#
+<name "Darx">
+"Then you couldn't help it."
+#
+<name "Darx">
+"Also, I don't think you should be thanking
+ me."
+#
+<sprite "ta05a012.agf" 4 4 12>
+<name "Kyuriha" "!FA0125">
+"Huh?"
+#
+<name "Darx">
+"She's definitely going to try again."
+#
+<name "Darx">
+"Isn't that how she is?"
+#
+<sprite "ta05a014.agf" 4 4 12>
+<name "Kyuriha" "!FA0126">
+"..."
+#
+<name "Darx">
+"You better pray she doesn't find me a second
+ time."
+#
+<sprite "ta05a016.agf" 4 4 12>
+<name "Kyuriha" "!FA0127">
+"...I shall."
+#
+<removesprite -1 11>
+\x2B\x0A\x44\x02\x2A\x84\x01
+<exit>
+:CBFD
+<music 20>
+<background "ev025a00.agf" 10>
+I throw Rualtei down on some nearby debris.
+#
+She's already in a good position, so I just
+shove it into her from behind.
+#
+<name "Rualtei" "!RA0070">
+"Ah!"
+#
+<background "ev025a01.agf" 10>
+<name "Rualtei" "!RA0071">
+"Ah! S-Stop it!
+ Aaaaahhhh!!!"
+#
+The tip of my dick pierces straight into her
+pussy and forcefully through her hymen.
+#
+<name "Rualtei" "!RA0072">
+"Ngh...ah...ah..."
+#
+It hits the back of her pussy.
+#
+<name "Rualtei" "!RA0073">
+"Aah...ah..."
+#
+I move my hips and shift the tip of my dick a
+little. It feels like it's pressing against
+something other than her walls.
+#
+It must be her womb.
+#
+Now that I feel her womb, I start moving my 
+hips, driven by the desire to fill it with my
+semen.
+#
+<name "Rualtei" "!RA0074">
+"Aaagh!"
+#
+Just moving a little makes her yell in pain.
+#
+Well, I shoved it in without any foreplay, so
+that's not a surprise.
+#
+And I'm not about to stop no matter what sound
+she makes.
+#
+If anything, it stimulates my sadism and makes
+me thrust even harder.
+#
+<name "Rualtei" "!RA0075">
+"Aaaaahhhh!"
+#
+I pull back a little and then thrust in.
+#
+I repeat this, gradually moving further.
+#
+<name "Rualtei" "!RA0076">
+"Nnnngh! Aaaah! Ngh! Aaagh!"
+#
+She screams every time I move without trying at
+all to hold it in.
+#
+It's one way to try to escape the pain.
+#
+<name "Rualtei" "!RA0077">
+"Ah! Aah! Ahh! Aaaaaah!"
+#
+But I've still hardly moved since sticking it
+in her.
+#
+She's still tensing her whole body and trying
+to fight it.
+#
+It'd be easier for her if she relaxed, but I'm
+not going to tell her that.
+#
+<background "ev025a03.agf" 10>
+<name "Rualtei" "!RA0078">
+"Aah! Ah! Aaah! Ah! Aaaah!"
+#
+As I continue, her screams start to mix with
+moans.
+#
+I did think she was fairly young, but 
+physically, she's definitely a woman.
+#
+<name "Rualtei" "!RA0079">
+"Ah! Aah! Aah! Ah...
+ W-What?
+ Ah! Ah! Aah!"
+#
+But her mind isn't mature yet.
+#
+That's not unusual.
+#
+Angel women often don't even masturbate.
+#
+They like to have fun, but sex is considered
+sacred, so it's strictly forbidden.
+#
+It's a different culture, and they can live
+however they want.
+#
+But with someone like me attacking her this way,
+that culture does nothing but make things worse
+for them.
+#
+<name "Rualtei" "!RA0080">
+"Ah...aah...ah...ah...ah..."
+#
+Being attacked and having their first time
+taken by force turns into pure panic.
+#
+And because I'm forcing it on her, it's
+completely out of her control and there's no
+place in her head to calm down.
+#
+I mercilessly thrust my dick in the pussy of a
+girl going through that, and start to come for
+the first time.
+#
+I feel a heavy throb like a heartbeat as semen
+floods out of my dick.
+#
+It floods her narrow pussy and has nowhere to
+go but into her womb.
+#
+<background "ev025a04.agf" 10>
+<name "Rualtei" "!RA0081">
+"Ah...ah...ah...
+ Huh?"
+#
+I continue to come, buried deep inside her.
+#
+Thanks to me stopping, she's finally able to
+get a reprieve from the pleasure forcibly
+attacking her.
+#
+<name "Rualtei" "!RA0082">
+"Ah....aah...ah..."
+#
+As she recovers a little from her panic, she
+feels the sensation of something being poured
+into her pussy and womb.
+#
+<name "Rualtei" "!RA0083">
+"Ah..."
+#
+<name "Rualtei" "!RA0084">
+"Ah...ah..."
+#
+Her scream is deafening.
+#
+The scream of grief, knowing something 
+precious was stolen from her.
+#
+She probably feels defiled.
+#
+A huge sense of loss.
+#
+But this is just the beginning.
+#
+I'm not finished yet.
+#
+<background "ev025a05.agf" 10>
+<name "Rualtei" "!RA0085">
+"Ah! N-No! No! No!
+ Noooooo!!!!"
+#
+Unlike before, she struggles to escape with
+her whole body.
+#
+But she can't get away with me holding her
+down from behind.
+#
+<background "ev025a06.agf" 10>
+<name "Rualtei" "!RA0086">
+"I'll kill you!
+ I swear I'll kill you!
+ You'll pay!
+ You'll pay for this!"
+#
+She screams vengeance, but my answer is to come
+in her again.
+#
+<background "ev025a07.agf" 10>
+<name "Rualtei" "!RA0087">
+"Ah...ah...aaaah..."
+#
+<background "ev026a00.agf" 10>
+<name "Rualtei" "!RA0088">
+"Aah...ah...ah...
+ I-I'll kill you.
+ I swear...
+ You'll pay for this."
+#
+I stand up, still fucking her, and continue.
+#
+<background "ev026a01.agf" 10>
+<name "Rualtei" "!RA0089">
+"Aah! Ah!"
+#
+She tries to push me back with both hands, but
+doesn't have the strength left.
+#
+Every time she pushes me, I respond by thrusting
+hard into her walls.
+#
+<name "Rualtei" "!RA0090">
+"Ah! Aah! Ahh!"
+#
+I know she can tell I'm doing it in response
+to her fighting back, but I guess she can't
+stop herself.
+#
+<name "Rualtei" "!RA0091">
+"Ah! Ah! Ah!
+ Y-You'll pay..."
+#
+She won't accept me.
+#
+She'll resist me.
+#
+Her pride won't let her say or do anything 
+else.
+#
+<name "Rualtei" "!RA0092">
+"Aah..."
+#
+I don't know how much pride she has, but it's
+not going to do her any good.
+#
+By every measure, she's defeated.
+#
+And she's had her purity stolen from her.
+#
+<name "Rualtei" "!RA0093">
+"Aah...ah...
+ I-I'll kill you..."
+#
+Her cursing me, and her powerless fists 
+striking me only drive that home harder.
+#
+I come inside her again.
+#
+<background "ev026a02.agf" 10>
+<name "Rualtei" "!RA0094">
+"Ah...aah...ah...aah...ahhh..."
+#
+How many times now?
+#
+I'm not sure, because I haven't once taken it
+out since sticking it in her.
+#
+It's not like I was counting.
+#
+Well, let's call it ten.
+#
+After the tenth, tears fill her eyes.
+#
+<background "ev026a03.agf" 10>
+<name "Rualtei" "!RA0095">
+"Aah..."
+#
+Not from pain.
+#
+Frustration.
+#
+<name "Rualtei" "!RA0096">
+"Ah...ah...
+ N-No more..."
+#
+And begging.
+#
+Something may have broken inside her.
+#
+<name "Rualtei" "!RA0097">
+"Stop...
+ Please stop..."
+#
+But she only just started begging.
+#
+I won't stop.
+#
+Ending partway only makes more enemies.
+#
+If I wasn't going to go the whole way, I
+wouldn't have done it at all.
+#
+Completely crush your enemies.
+#
+So that they never turn their blades on you
+ever again.
+#
+<name "Rualtei" "!RA0098">
+"Ah! Aah! Ahh!
+ Aaaaaaaaaaahhhhh!"
+#
+I thrust violently into her, scraping through
+her pussy.
+#
+<name "Rualtei" "!RA0099">
+"Aah! Ah! Aah! Ahhh!"
+#
+And come.
+#
+<background "ev026a04.agf" 10>
+<name "Rualtei" "!RA0100">
+"Aaahh..."
+#
+And then again.
+#
+<name "Rualtei" "!RA0101">
+"Ah! Aah! Ahh! Ah! Aaaah..."
+#
+She changes.
+#
+<name "Rualtei" "!RA0102">
+"Aaah...aah...mmm...ah...ah...aah..."
+#
+From a terrified woman, to a woman seeking
+pleasure.
+#
+<name "Rualtei" "!RA0103">
+"Aah! Aah! Ah! Ah!
+ Ah...ah!"
+#
+As her body trembles, I keep moving.
+#
+<background "ev026a05.agf" 10>
+<name "Rualtei" "!RA0104">
+"Aaaaaaaaaaaahhhhhhh..."
+#
+At the same time as she has a huge orgasm,
+I come yet again.
+#
+<background "ev026a06.agf" 10>
+<name "Rualtei" "!RA0105">
+"Ah...ah...ah..."
+#
+<background "bg017a0.agf" 10>
+\x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 
+<sprite "ta34c000.agf" 4 4 11>
+<name "Company Maid" "!PC0025">
+"Are you finished?"
+#
+<name "Darx">
+"Yeah.
+ She passed out and isn't waking up."
+#
+<name "Company Maid" "!PC0026">
+"Then let's take this time to go back to the
+ city."
+#
+<name "Darx">
+"All right."
+#
+<removesprite -1 11>
+We'll take her back with us.
+#
+Kyuriha might have something to say, but I'll
+deal with that then.
+#
+<name "Darx">
+"Oh, that weapon she had.
+ You grabbed it?"
+#
+<sprite "ta34c000.agf" 4 4 11>
+<name "Company Maid" "!PC0027">
+"Yes, don't worry."
+#
+<removesprite -1 11>
+That thing was much bigger than she should
+have been able to handle, and was powerful.
+#
+...I'll have to ask Kyuriha about it too.
+#
+\x0A\x44\x02\x2B\x84\x01
+<exit>
+:EAFC
+\x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 
+<sprite "ta03a014.agf" 4 4 11>
+<name "Miartei" "!SA0059">
+"Nnngh..."
+#
+<removesprite -1 11>
+<sprite "ta34c000.agf" 4 4 11>
+<name "Company Maid" "!AC0053">
+"What now?"
+#
+<name "Darx">
+"Tie her up.
+ We're bringing her back."
+#
+<name "Company Maid" "!AC0054">
+"Not the usual right here?"
+#
+<name "Darx">
+"She's a friend of Kyuriha's.
+ I think this should be okay for now."
+#
+<removesprite -1 11>
+<exit>
+:ECC3
+<music 17>
+<background "ev031a00.agf" 10>
+<name "Kyuriha" "!FA0254">
+"I expected no less, Darx."
+#
+<name "Darx">
+"You were strong too."
+#
+<name "Kyuriha" "!FA0255">
+"Thank you for saying that and sparing my 
+ pride, but it's pointless in this position."
+#
+Her sash is undone, and she's nearly completely
+exposed.
+#
+But her attitude doesn't reflect that.
+#
+<name "Darx">
+"You're rather beautiful."
+#
+<name "Kyuriha" "!FA0256">
+"The rather is unnecessary."
+#
+It's not because she's not afraid.
+#
+It's because she's clearly anticipating what's
+about to come.
+#
+Her nipples are already stiff, and a faint
+steam is coming off her pussy.
+#
+<name "Darx">
+"Were you thinking about this while we were
+ fighting?"
+#
+<name "Kyuriha" "!FA0258">
+"I most certainly was not."
+#
+<name "Kyuriha" "!FA0259">
+"But when I realized I was going to lose...
+ It is true that the sight of Miartei and
+ Rualtei came to mind."
+#
+<name "Darx">
+"I see.
+ Then I'll give you what you want."
+#
+<name "Kyuriha" "!FA0260">
+"Oh, but first..."
+#
+<name "Darx">
+"What?"
+#
+<name "Kyuriha" "!FA0261">
+"Could you perhaps kiss me first?"
+#
+<name "Darx">
+"Hm?"
+#
+<name "Kyuriha" "!FA0262">
+"After you finish, I promise to serve you.
+ So please kiss me first."
+#
+<name "Darx">
+"..."
+#
+Does she have something hidden in her mouth?
+#
+The thought crosses my mind, but I immediately
+dismiss it.
+#
+And kiss her.
+#
+<name "Kyuriha" "!FA0263">
+"Mmm...mmm...mmmm..."
+#
+Not like a lover.
+Like an animal.
+#
+I suck on her lips and let my tongue run wild.
+#
+<name "Kyuriha" "!FA0264">
+"Mmmmmmmgh!"
+#
+<name "Kyuriha" "!FA0265">
+"Mmmm....mmm...ah...
+ Ah...aahh..."
+#
+<name "Darx">
+"Is that good?"
+#
+<background "ev031a01.agf" 10>
+<name "Kyuriha" "!FA0266">
+"I was hoping it would be a little more 
+ gentle."
+#
+But she smiles anyway.
+#
+<name "Kyuriha" "!FA0267">
+"Go ahead.
+ You are free to mark my body as vanquished."
+#
+I bring my dick to her.
+#
+No foreplay.
+#
+This isn't sex between lovers.
+#
+What is about to happen is the winner violating
+the defeated.
+#
+That's all.
+#
+<background "ev031a02.agf" 10>
+<name "Kyuriha" "!FA0268">
+"Ngh!"
+#
+I press the tip against her pussy.
+#
+<name "Kyuriha" "!FA0269">
+"Nnnngh!"
+#
+Her entrance gradually opens around my dick.
+#
+<name "Kyuriha" "!FA0270">
+"Ah!"
+#
+And once it opens wide enough for my dick, I
+sink inside her.
+#
+<name "Kyuriha" "!FA0271">
+"Ah...ah..."
+#
+I continue to go further in, but another 
+obstacle stands in my way.
+#
+Her hymen.
+#
+<name "Kyuriha" "!FA0272">
+"Aah!"
+#
+It doesn't break from the momentum of 
+insertion.
+#
+I hold her body in place and push hard with
+my hips.
+#
+Forcefully.
+#
+<name "Kyuriha" "!FA0273">
+"Aaah!
+ Aah! Nngh!"
+#
+I harder I push, the more she writhes.
+#
+But I don't let up.
+#
+<name "Kyuriha" "!FA0274">
+"Ah! Ah! Ah!"
+#
+I hear a painful sound, like tearing flesh,
+and at the same time, it feels like something
+snaps. My dick goes through her hymen and into
+the wall at the back of her pussy.
+#
+<background "ev031a03.agf" 10>
+<name "Kyuriha" "!FA0275">
+"Nnnngh!"
+#
+Her eyes are filled with pain.
+#
+<name "Kyuriha" "!FA0276">
+"Ah...ah..."
+#
+She freezes in place.
+#
+But I don't let her rest.
+#
+I grab her breasts.
+#
+<name "Kyuriha" "!FA0277">
+"Aah!"
+#
+I thought she'd be smaller, but there's a lot
+to rub here.
+#
+They're plenty big.
+#
+I grab them roughly, squeeze, massage, and kiss
+her as she continues to choke down her screams.
+#
+<background "ev031a04.agf" 10>
+<name "Kyuriha" "!FA0278">
+"Ah...
+ Ah...aah...mmm..."
+#
+She's shaken by the unexpected kiss.
+#
+She didn't expect that.
+#
+I play with her breasts as I continue kissing
+her.
+#
+Licking, chewing, sucking.
+#
+<name "Kyuriha" "!FA0279">
+"Aah...ah...aahh..."
+#
+As I lust over her body, my hips start to move,
+unable to resist.
+#
+<name "Kyuriha" "!FA0280">
+"Aah! Aah! Aah!"
+#
+Small and slowly at first, but gradually moving
+more and more, rubbing through her pussy.
+#
+<name "Kyuriha" "!FA0281">
+"Aaaaah!"
+#
+It's useless.
+#
+All I can think about is having her.
+#
+<music 18>
+<background "ev032a00.agf" 10>
+<name "Kyuriha" "!FA0282">
+"Mmmm!"
+#
+I hold her legs tight and thrust into her 
+defenseless pussy.
+#
+<name "Kyuriha" "!FA0283">
+"Ah! Aah! Ahh! Aaah!"
+#
+I can't stop.
+#
+I don't want to stop.
+#
+I just wildly indulge everything in this
+moment.
+#
+<name "Kyuriha" "!FA0284">
+"Aah! Ah! Ah! Aaaah!"
+#
+Every time my dick goes in and out, her blood
+and juices scatter all around us.
+#
+At the same time, her musk fills my head.
+#
+It spurs my lust even more.
+#
+<name "Kyuriha" "!FA0285">
+"Ah! Ah! Aah! Aaaaahh!"
+#
+She screams, then tries to choke her voice back
+when she realizes it.
+#
+I don't think there's any meaning to it.
+#
+I think maybe she's just ashamed to be making
+any noise at all.
+#
+But hearing her voice leak out arouses me even
+more.
+#
+<name "Kyuriha" "!FA0286">
+"Aaah! Aah! Aaaahhhh!
+ T-That's my... Aaah!
+ Don't! Aaah!"
+#
+I suddenly thrust deep into her pussy and stop
+moving.
+#
+<name "Kyuriha" "!FA0287">
+"Ah..."
+#
+And release my semen.
+#
+It shoots out from the tip with a throbbing
+feeling, filling her pussy and womb.
+#
+<background "ev032a01.agf" 10>
+<name "Kyuriha" "!FA0288">
+"Ah...ah..."
+#
+She must feel what's happening inside her.
+#
+<name "Kyuriha" "!FA0289">
+"Ah...
+ I-Inside me..."
+#
+At first, surprise.
+#
+And then regret, frustration, anger, fear, and
+a little delight.
+#
+<name "Kyuriha" "!FA0290">
+"Aah..."
+#
+Her face is a mix of complicated feelings.
+#
+<name "Darx">
+"...I'm not finished."
+#
+<name "Kyuriha" "!FA0291">
+"Ah...
+ Y-Yes..."
+#
+She nods obediently and accepts it.
+#
+<background "ev032a02.agf" 10>
+<name "Kyuriha" "!FA0292">
+"Aaah! Aah! Ah! Aah! Aaah!
+ Mmm! Aaah! Aaaah!"
+#
+I continue intensely.
+#
+Over and over again.
+#
+I continue lusting after her, never getting
+tired of her body.
+#
+<name "Kyuriha" "!FA0293">
+"Aah..."
+#
+And come again and again.
+#
+<background "ev032a03.agf" 10>
+<name "Kyuriha" "!FA0294">
+"Aaaahhhh!"
+#
+She also climaxes multiple times.
+#
+<name "Kyuriha" "!FA0295">
+"Ah...aah...ah..."
+#
+In the middle of it, we stop for a moment.
+#
+<name "Darx">
+"Kyuriha, do you remember when we first met?"
+#
+<background "ev032a04.agf" 10>
+<name "Kyuriha" "!FA0296">
+"Aahh...ah...
+ Yes... I remember..."
+#
+<name "Darx">
+"Would you believe me if I said that I had a
+ feeling you and I would end up like this?"
+#
+<name "Kyuriha" "!FA0297">
+"Haha...
+ Darx, you're such a... romantic..."
+#
+<name "Kyuriha" "!FA0298">
+"But truthfully... So did I.
+ I felt like... we would turn out... like
+ this."
+#
+<name "Darx">
+"Yeah."
+#
+<name "Kyuriha" "!FA0299">
+"Yes..."
+#
+<name "Darx">
+"Let's keep going."
+#
+<name "Kyuriha" "!FA0300">
+"As you please."
+#
+I continue with her until she passes out.
+#
+\x0A\x44\x02\x2C\x84\x01
+<exit>
+:1091B
+\x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 
+<sprite "ta02a018.agf" 4 4 11>
+<name "Macdo" "!ZA0181">
+"S-So strong..."
+#
+<name "Darx">
+"Pretty much.
+ Even an amateur can be dangerous when there's
+ a lot on the line."
+#
+<sprite "ta02a016.agf" 4 4 12>
+<name "Macdo" "!ZA0182">
+"Nngh..."
+#
+<name "Darx">
+"You knew what would happen if you challenged
+ me and you did it anyway."
+#
+<name "Darx">
+"I'm going to do whatever I want with your
+ body.
+ Don't hate me for it."
+#
+<sprite "ta02a017.agf" 4 4 12>
+<name "Macdo" "!ZA0183">
+"Ngh!"
+#
+<removesprite -1 11>
+<music 52>
+<background "ev015a00.agf" 10>
+The tip of my dick slides into her pussy.
+#
+<name "Macdo" "!ZA0184">
+"Nnnnnnngh..."
+#
+She glares at me, but she's wet, even without
+any foreplay.
+#
+So I reach the back of her pussy in no time.
+#
+<name "Macdo" "!ZA0185">
+"Nngh!"
+#
+I hold her tight and slam my hips into her.
+#
+<name "Macdo" "!ZA0186">
+"Ah! Aaah! Aaaah!"
+#
+Unlike the other times I've been with her, I'm
+violent.
+#
+She made us enemies.
+#
+I know where her weak points are, but I ignore
+them and just fuck her.
+#
+<name "Macdo" "!ZA0187">
+"Ah! Ahh! Aaaah!"
+#
+She glares at me, trying to endure it.
+#
+<name "Macdo" "!ZA0188">
+"Ah! Aah! Ah! Aaah! Ahh!"
+#
+But it doesn't matter.
+#
+All I want is to thrust my hips and pour my
+semen into the womb of the woman in front of
+me.
+#
+<name "Macdo" "!ZA0189">
+"Ah! Aah! Ah! Aah!"
+#
+Make her regret challenging me.
+#
+<name "Macdo" "!ZA0190">
+"Ah! Aah! Aah! Aahh!"
+#
+To teach her that I'm superior.
+#
+<name "Macdo" "!ZA0191">
+"Aah! Ah! Aah! Ah! Aah! Aah!"
+#
+I keep moving my hips, pounding against her
+body.
+#
+<background "ev015a01.agf" 10>
+<name "Macdo" "!ZA0192">
+"Mmmm...ah! Aah!
+ Ah! Ah! Aahh..."
+#
+She endures it.
+#
+<name "Macdo" "!ZA0193">
+"Aah! Aah! Ah! Ah!"
+#
+She endures it, but her body is loving it.
+#
+<name "Macdo" "!ZA0194">
+"Ah! Aah! Ah! Ngh!
+ Aah!"
+#
+Every time my dick moves in and out of her,
+she squeezes like it loves it.
+#
+<name "Macdo" "!ZA0195">
+"Mmm! Ah! Ah! Ah! Aah!"
+#
+It's because of what my other body did to her.
+#
+<name "Macdo" "!ZA0196">
+"Ah! Aah! Ahhh! Ah!
+ Aaahhhh!"
+#
+The broken balance between her body and mind.
+#
+<name "Macdo" "!ZA0197">
+"Aah! Ah! Aah! Ahh! Aah! Ahh!"
+#
+I tried to do something about it and be with
+her normally, but the relief never lasted.
+#
+<name "Macdo" "!ZA0198">
+"Mmm! Aah! Ah! Ah! Ah!
+ Aah! Ahhhh!"
+#
+So it's my responsibility as her first to
+finish what I started.
+#
+<name "Macdo" "!ZA0199">
+"Ah! Aah! Ah...ah...
+ Ah! Aaah!"
+#
+Her heart, her spirit, and her body all want
+to squeeze tight on my dick for pure pleasure.
+#
+<background "ev015a02.agf" 10>
+<name "Macdo" "!ZA0200">
+"Aaaaahhhhhhhhhhhhh!!!!!!"
+#
+I start to come for the first time as she has
+her own huge orgasm.
+#
+<background "ev015a03.agf" 10>
+<name "Macdo" "!ZA0201">
+"Ah...aaah...ah...ah..."
+#
+Her body wants more pleasure.
+#
+It'd be easier if she didn't fight it, but I
+know she will.
+#
+<music 20>
+<background "ev016a00.agf" 10>
+And she does.
+#
+<name "Macdo" "!ZA0202">
+"Mmm...ah...aah...ah...ah...
+ H-Haven't you done enough...
+ Nngh..."
+#
+<name "Macdo" "!ZA0203">
+"S-Stop...ah..."
+#
+She comes over and over, and her body is 
+completely captive to pleasure, but her anger
+with me hasn't subsided.
+#
+<background "ev016a01.agf" 10>
+<name "Macdo" "!ZA0204">
+"Ah...aah...
+ A-Again?
+ Nnnngh..."
+#
+I thrust my hips over and over, coming again
+and again.
+#
+<name "Macdo" "!ZA0205">
+"Ah...aah...ah...ah..."
+#
+And bring her to climax.
+#
+<background "ev016a02.agf" 10>
+<name "Macdo" "!ZA0206">
+"Aaaaahhhh..."
+#
+<background "ev016a01.agf" 10>
+She still resists.
+#
+Her mental strength is impressive.
+#
+If I really wanted to break her, I could give
+her to my other body and leave her in there
+for probably a month.
+#
+But that'd just be killing her.
+#
+That's not what I want.
+#
+<name "Darx">
+"Macdo."
+#
+<name "Macdo" "!ZA0207">
+"Aah...
+ W-What?"
+#
+<name "Darx">
+"Be my woman."
+#
+<name "Macdo" "!ZA0208">
+"...No."
+#
+<name "Darx">
+"I'll treat you well."
+#
+<name "Macdo" "!ZA0209">
+"Shut up."
+#
+<name "Darx">
+"..."
+#
+<name "Macdo" "!ZA0210">
+"A-Aah! Aahh!"
+#
+I thrust again and pour my semen into her womb.
+#
+<name "Darx">
+"Macdo, have my baby."
+#
+<name "Macdo" "!ZA0211">
+"Aah...ah...
+ I'd... sooner... die..."
+#
+<name "Darx">
+"No?"
+#
+<name "Macdo" "!ZA0212">
+"Of course not..."
+#
+<name "Darx">
+"I see."
+#
+I stop moving.
+#
+It's impossible.
+#
+If I don't take care of her now, she's going
+to end up my enemy.
+#
+I'll need to break or kill her.
+#
+...
+#
+Maybe I can just let her be my enemy the rest
+of my life?
+#
+Yeah.
+#
+What am I scared of?
+#
+A lot of women want to kill me.
+#
+Why do I care so much about her?
+#
+...Guilt.
+#
+Yeah, it's guilt.
+#
+<name "Darx">
+"Macdo."
+#
+<name "Macdo" "!ZA0213">
+"Mm...ah..."
+#
+<name "Darx">
+"I'm sorry."
+#
+<name "Macdo" "!ZA0214">
+"Hmph...
+ W-What... now?"
+#
+<name "Darx">
+"Yeah.
+ A little late, huh?
+ Well, just listen."
+#
+<name "Darx">
+"When I'm done, I'll let you go."
+#
+<name "Macdo" "!ZA0215">
+"..."
+#
+<name "Darx">
+"There's something I haven't told you about
+ my other body."
+#
+Yeah.
+#
+Something I should've apologized for, but
+didn't.
+#
+<name "Darx">
+"When it first grabbed you, the tentacles just
+ teased you, but didn't go inside you."
+#
+<name "Macdo" "!ZA0216">
+"..."
+#
+I don't mean to remind her and make her mad.
+#
+<music 22>
+<background "ev010a00.agf" 10>
+But I want her to remember.
+#
+<name "Darx">
+"My other body won't attack virgins."
+#
+<name "Macdo" "!ZA0217">
+"Huh?"
+#
+<name "Darx">
+"It only attacks women I've fucked."
+#
+<name "Macdo" "!ZA0218">
+"What are you..."
+#
+<name "Darx">
+"If it finds out the woman is a virgin, it
+ calls me.
+ Like, stick it in her already."
+#
+<name "Darx">
+"That's what happened with you too."
+#
+<name "Darx">
+"It called me, and I came.
+ And then I fucked you."
+#
+<name "Darx">
+"Front hole and back hole.
+ I fucked you first."
+#
+<name "Macdo" "!ZA0219">
+"Ah...aah..."
+#
+<music 20>
+<background "ev016a01.agf" 10>
+<name "Darx">
+"With the same thing in your pussy right now."
+#
+<name "Macdo" "!ZA0220">
+"Ah...ah..."
+#
+<name "Darx">
+"Back then, I was busy and took your virginity
+ without even thinking about it."
+#
+<name "Darx">
+"I'm sorry about that.
+ At the time, I thought you were just one of
+ the random frustrated girls who goes in there
+ every now and then."
+#
+<name "Darx">
+"Everyone who worked in the palace knew about
+ my body, so... huh?"
+#
+I'm surprised.
+#
+<music 17>
+<background "ev017a00.agf" 10>
+<name "Macdo" "!ZA0222">
+"Waaaaaaaaaahhhhhh!"
+#
+Because she suddenly starts bawling like a
+child.
+#
+It throws me completely out of whack.
+#
+<background "ev017b00.agf" 10>
+<name "Darx">
+"Huh?
+ H-Hey, are you okay?"
+#
+I'm flustered and not sure at all what to do.
+#
+I know anything is probably pointless.
+#
+I know that, but I try anyway.
+#
+Well, I've seen enough of hateful crying and
+anger, but never crying like a child before.
+#
+No woman I've been with has ever cried like
+this.
+#
+<name "Darx">
+"Calm down.
+ Calm down, okay?"
+#
+<name "Darx">
+"See? No more sex."
+#
+<name "Darx">
+"Settle down."
+#
+I try to treat her like I would one of my own
+crying children, but she won't stop.
+#
+Grrr...
+#
+This is new.
+#
+I have a weakness to crying women.
+#
+I see.
+#
+Maybe I've been unconsciously avoiding women
+like that.
+#
+I can't help but be curious about it, but I
+know I'm just trying to escape.
+#
+And no matter what I do, she won't stop 
+crying.
+#
+<background "bg017a0.agf" 10>
+\x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 \x2B
+<name "Darx">
+"Feeling better now?"
+#
+<sprite "ta02a000.agf" 4 4 11>
+<name "Macdo" "!ZA0223">
+"...Mm."
+#
+<name "Darx">
+"Um, so, well..."
+#
+<removesprite -1 11>
+I don't know what to say.
+#
+After she started crying, I eventually just
+hugged her normally until she stopped.
+#
+I don't know if it worked, or if she just got
+tired of crying, but it was eventually over.
+#
+After that, we cleaned up, and got dressed
+again.
+#
+<name "Darx">
+"Do you have all your clothes?"
+#
+Her clothes were ripped and torn from the fight
+and the act.
+#
+I had the maids get new clothes for her.
+#
+They had everything ready from the moment this
+all started because they're used to it.
+#
+I'll have to praise them later.
+#
+<sprite "ta02a009.agf" 4 4 11>
+<name "Macdo" "!ZA0224">
+"I-I'm fine."
+#
+<name "Darx">
+"Um, so... 
+ What now?"
+#
+<sprite "ta02a010.agf" 4 4 12>
+<name "Macdo" "!ZA0225">
+"I... am your woman."
+#
+<name "Darx">
+"Huh?"
+#
+<sprite "ta02a011.agf" 4 4 12>
+<name "Macdo" "!ZA0226">
+"I'll bear your child, if that's what you
+ want. So please forgive me for what I've
+ done."
+#
+<name "Darx">
+"...That's fine, but, um..."
+#
+<sprite "ta02a009.agf" 4 4 12>
+<name "Macdo" "!ZA0227">
+"You are suspicious of my change of heart?"
+#
+<name "Darx">
+"Well..."
+#
+<sprite "ta02a010.agf" 4 4 12>
+<name "Macdo" "!ZA0228">
+"I'm still... sorting things out.
+ I'll tell you the next time we share a bed."
+#
+<name "Darx">
+"...You're not my enemy then?"
+#
+<sprite "ta02a027.agf" 4 4 12>
+<name "Macdo" "!ZA0230">
+"I am on your side.
+ From now on."
+#
+<name "Darx">
+"...I see.
+ Well, that's good.
+ Next time, please tell me why."
+#
+<sprite "ta02a026.agf" 4 4 12>
+<name "Macdo" "!ZA0231">
+"Yeah."
+#
+<name "Darx">
+"And as far as proving myself Overlord..."
+#
+<sprite "ta02a004.agf" 4 4 12>
+<name "Macdo" "!ZA0232">
+"That will continue.
+ It is not a personal decision, but my job."
+#
+<sprite "ta02a005.agf" 4 4 12>
+<name "Macdo" "!ZA0233">
+"Of course, I'm on your side, but I won't
+ allow cheating."
+#
+<sprite "ta02a004.agf" 4 4 12>
+<name "Macdo" "!ZA0234">
+"I have faith you will be recognized as 
+ Overlord."
+#
+<name "Darx">
+"...When you put it like that, I have to keep
+ at it."
+#
+<sprite "ta02a005.agf" 4 4 12>
+<name "Macdo" "!ZA0235">
+"Good luck."
+#
+<name "Darx">
+"Yeah."
+#
+<name "Darx">
+"Anyway, time to go home?"
+#
+<sprite "ta02a004.agf" 4 4 12>
+<name "Macdo" "!ZA0236">
+"Mm."
+#
+<removesprite -1 11>
+\x2B\x0A\x44\x02\x2D\x84\x01
+<exit>
+:130F7
+\x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 \x2B
+<name "Darx">
+"Tch.
+ Where'd she go?"
+#
+<name "Company Maid" "!AC0068" "ka34d000.agf">
+"I'm sorry. 
+ She seems to have just disappeared."
+#
+<name "Darx">
+"Hmm."
+#
+<exit>
+:131CE
+\x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 \x2B
+<name "Darx">
+"Huh?"
+#
+<name "Darx">
+"What happened to the enemies?"
+#
+<name "Company Maid" "!PC0067" "ka34d000.agf">
+"Where did they go?"
+#
+<exit>
+:13294
+\x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 \x2B
+<name "Darx">
+"Disappeared again?"
+#
+<name "Darx">
+"So when we beat them, they vanish?"
+#
+<exit>
+:1330B
+\x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 \x2B
+<name "Darx">
+"Gone?"
+#
+<name "Company Maid" "!PC0069" "ka34d000.agf">
+"Yes, they disappeared."
+#
+<name "Darx">
+"What's going on?"
+#
+<exit>
+:133CD
+\x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 \x2B
+<name "Darx">
+"Knew it. Vanished."
+#
+<name "Darx">
+"What the hell is going on?"
+#
+<exit>
+:1344E
+\x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 \x2B
+<name "Darx">
+"Suisen... didn't disappear.
+ Is this the real thing?"
+#
+I'm wary of a fake, but it looks like like
+this one's real.
+#
+<name "Darx">
+"Is she alive?"
+#
+<name "Company Maid" "!PC0070" "ka34d000.agf">
+"Seems like it.
+ Though she is unconscious."
+#
+<name "Darx">
+"Tie her up so she can't resist.
+ We're taking her back."
+#
+<name "Company Maid" "!PC0071" "ka34d000.agf">
+"Sir."
+#
+<name "Guard Maid" "!DC0085" "ka34c000.agf">
+"...Huh?"
+#
+<name "Support Maid" "!AC0069" "ka34e000.agf">
+"What is it?"
+#
+<name "Guard Maid" "!DC0086" "ka34c000.agf">
+"I can't find her snake.
+ That one snake that's always with her."
+#
+<name "Support Maid" "!AC0070" "ka34e000.agf">
+"Oh. Maybe it ran away?"
+#
+<name "Guard Maid" "!DC0087" "ka34c000.agf">
+"Sorry for being so wary."
+#
+<name "Support Maid" "!AC0071" "ka34e000.agf">
+"Don't worry about it.
+ Just do your usual job.
+ I'll look around here for the snake."
+#
+<name "Guard Maid" "!DC0088" "ka34c000.agf">
+"Thank you."
+#
+<exit>
+:13893
+<music 9>
+<background "ev075b00.agf" 10>
+Wadatsumi falls.
+#
+<name "Darx">
+"Tie him up.
+ I have questions for him."
+#
+<name "Company Maid" "!PC0077">
+"Sir.
+ And Forzelotte..."
+#
+<name "Darx">
+"Yeah, you're right."
+#
+<background "ev075a00.agf" 10>
+She's wrapped up in my other body, but I'm able
+to free her almost disappointingly easily.
+#
+<name "Darx">
+"Are you okay?"
+#
+<name "Forzelotte" "!XA0024">
+"Mm."
+#
+<name "Darx">
+"Did they do anything sexy?"
+#
+<name "Forzelotte" "!XA0025">
+"I feel that there are more important 
+ questions...
+ But no. They just stopped me from moving."
+#
+<name "Darx">
+"Good."
+#
+<name "Forzelotte" "!XA0026">
+"Mm.
+ Thank you for your concern."
+#
+<name "Darx">
+"Don't mention it."
+#
+<name "Company Maid" "!PC0078">
+"Overlord, what should we do with your other
+ body?"
+#
+It's just sitting there, completely inert.
+#
+<name "Darx">
+"We can't just leave it here..."
+#
+<name "Company Maid" "!PC0079">
+"Can you not absorb it back into yourself?"
+#
+It is part of me, so I should be able to 
+bring it back.
+#
+<name "Darx">
+"...I don't want it."
+#
+<name "Forzelotte" "!XA0027">
+"It's a waste of so much mana, but is our only
+ choice to destroy it?"
+#
+<name "Darx">
+"Seems like it."
+#
+I still have a lot of questions, but there's
+no other choice.
+#
+I attack my other body.
+#
+It falls effortlessly.
+#
+Because it's back to its usual strength.
+#
+<name "Company Maid" "!PC0080">
+"That's a relief."
+#
+<name "Darx">
+"Yeah.
+ ...Hm?"
+#
+It should be dead, but it instantly regenerates
+from the wound.
+#
+<name "Darx">
+"What?"
+#
+I don't remember giving it that power.
+#
+I sense danger and brace myself.
+#
+At the same time, dozens of tentacles whip out
+from it and attack me.
+#
+<name "Darx">
+"Ngh!"
+#
+I slash one, but another immediately takes its
+place.
+#
+There's no end to them.
+#
+<name "Forzelotte" "!XA0028">
+"Darx!"
+#
+I hear her scream.
+#
+She's wrapped up in tentacles.
+#
+<name "Darx">
+"Forzelotte!"
+#
+<name "Forzelotte" "!XA0029">
+"Nnngh!"
+#
+She disappears into the writhing mass.
+#
+<name "Darx">
+"Tch!
+ Don't underestimate me!"
+#
+<background "ev075d00.agf" 10>
+<name "Wadatsumi" "!MA0044">
+"Wahahahahaha!
+ No! You will not!
+ Human!"
+#
+Wadatsumi is suddenly standing next to my body
+again.
+#
+<name "Darx">
+"Ah!"
+#
+<background "ev075d01.agf" 12>
+A tentacle stabs out and pierces him through
+the chest.
+#
+<name "Wadatsumi" "!MA0045">
+"Huh?"
+#
+Looks like that caught him by surprise.
+#
+He looks down at the tentacles coming out of
+his chest in disbelief.
+#
+And then dies with a groan.
+#
+<background "ev075a00.agf" 10>
+A quake rocks the entire area.
+#
+<name "Company Maid" "!PC0081">
+"Overlord!
+ It's going to collapse!
+ We have to retreat!"
+#
+<name "Darx">
+"Like hell!
+ Forze's still in there!"
+#
+<name "Forzelotte" "!XA0030">
+"I'll be fine.
+ Live."
+#
+<name "Darx">
+"Forze!"
+#
+<name "Forzelotte" "!XA0031">
+"It's just holding me, not doing anything, 
+ the same as before.
+ I don't think that it's going to do 
+ anything to me just yet."
+#
+<name "Forzelotte" "!XA0032">
+"Withdraw and regroup."
+#
+<name "Darx">
+"Sorry, but I can't do that!"
+#
+I swing my sword, aiming for where I think I
+can cut her loose.
+#
+<name "Darx">
+"There!"
+#
+<background "ev075e00.agf" 10>
+I find her hand, grab it, and pull her out in
+one motion.
+#
+<background "ev075a00.agf" 10>
+<name "Forzelotte" "!XA0033">
+"Ngh...
+ You are reckless."
+#
+<name "Darx">
+"Up and move."
+#
+I grab her and we run away as fast as we can.
+#
+\x0A\x44\x02\x2E\x84\x01\x0A\x04\x00\xA0\x84\x01\x2B 0x002B172B 
+:14645 - 1
+\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 \x2B
+<name "Darx">
+"Whew..."
+#
+The battle's over.
+#
+<music 9>
+<background "ev078a00.agf" 10>
+<name "Darx">
+"...I wish I could say, but I can't."
+#
+<name "Macdo" "!ZA5006">
+"We have to hit it all at once with an
+ overwhelming attack."
+#
+<name "Darx">
+"Macdo."
+#
+<name "Macdo" "!ZA5007">
+"If left alone, it'd likely destroy our new
+ branch."
+#
+<name "Darx">
+"So what's the overwhelming attack?"
+#
+<name "Macdo" "!ZA5008">
+"The Dynast's Mace."
+#
+<name "Macdo" "!ZA5010">
+"That Celestial weapon used by Rualtei that 
+ they call the Fulmination Rod.
+ If we remove the seal on it, it could work."
+#
+\xAD\x22\x00\x02 0  "味方ルーアルテ"  0 \x1A\x01\x0A\x43\x00\x4C\x00\x30\x00\x30\x00\x32\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x31\x00 :1499F: 
+<name "Darx">
+"That's it!"
+#
+<name "Darx">
+"Call Rualtei!"
+#
+<name "Rualtei" "!RA5003">
+"I-I'm already here..."
+#
+<name "Rualtei" "!RA5005">
+"I don't know how to break the seal."
+#
+\x18 :149F4: 
+:1499F
+<name "Rualtei" "!RA5007">
+"Wait.
+ I don't know how to break the seal."
+#
+:149F4
+<name "Rualtei" "!RA5008">
+"If my sister or Kyuriha or Suisen were
+ here..."
+#
+<name "Darx">
+"Macdo, you brought it up.
+ You know how to break the seal, right?"
+#
+<name "Macdo" "!ZA5011">
+"Of course."
+#
+<name "Darx">
+"What do we need to do?"
+#
+<name "Macdo" "!ZA5012">
+"You don't do anything.
+ I'll break the seal."
+#
+<name "Darx">
+"You can?"
+#
+<name "Macdo" "!ZA5013">
+"The Dynast's Mace was created by my family.
+ So was the seal."
+#
+<name "Macdo" "!ZA5015">
+"I've heard how to do it."
+#
+<name "Darx">
+"Ooh!"
+#
+<name "Macdo" "!ZA5016">
+"However, you'll have to use it."
+#
+<name "Darx">
+"Rualtei can't do it?"
+#
+<name "Macdo" "!ZA5017">
+"The Dynast's Mace is a weapon for humans."
+#
+<name "Darx">
+"I see."
+#
+<name "Macdo" "!ZA5018">
+"Okay, the rest is up to you."
+#
+<name "Darx">
+"Got it!"
+#
+I take the Fulmination Rod... the Dynast's Mace
+from her.
+#
+<name "Rualtei" "!RA5009">
+"Um, that's my weapon though..."
+#
+<name "Darx">
+"Thank you too.
+ You took good care of it."
+#
+<name "Rualtei" "!RA5010">
+"H-Hmph."
+#
+<name "Rualtei" "!RA5012">
+"D-Don't screw it up."
+#
+<name "Darx">
+"Leave it to me!"
+#
+Yeah.
+#
+I'm the Overlord.
+#
+I'm going to finish this here and now.
+#
+<background "bg017a0.agf" 10>
+\x2B\x0A\x04\x00\xA1\x84\x01\x0A\x44\x02\x2F\x84\x01\x2B 0x002B172B 
+:14EC0 - 1
+\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 \x2B
+<name "Dragon" "!ZF0005">
+"Grrrrr...
+ I lost?"
+#
+<name "Darx">
+"Are you one of the dragons that survived the
+ war between Celestia and the Netherworld?"
+#
+<name "Dragon" "!ZF0006">
+"Hm?
+ That would be my grandfather."
+#
+<name "Darx">
+"I see.
+ Of course, he'd be stronger than you, huh?"
+#
+<name "Dragon" "!ZF0007">
+"Of course he is.
+ Do you want me to call him?
+ He's still alive."
+#
+<name "Darx">
+"Hahahaha...
+ I think I'll pass.
+ Excuse me."
+#
+<name "Dragon" "!ZF0008">
+"Oh, you aren't going to kill me?"
+#
+<name "Darx">
+"You were holding back."
+#
+<name "Dragon" "!ZF0009">
+"...Would you be offended if I was?"
+#
+<name "Darx">
+"I shouldn't be mad at being trained."
+#
+<name "Dragon" "!ZF0010">
+"I see.
+ Then come again.
+ Next time, I will fight seriously."
+#
+<name "Darx">
+"I'll have to pass for now.
+ I've got a lot of pressing matters to attend
+ to."
+#
+<name "Dragon" "!ZF0011">
+"Hahaha.
+ Don't worry, I'll still be here, waiting for
+ the next hundred years."
+#
+<name "Darx">
+"If I live that long."
+#
+<exit>
+:1527F
+<music 7>
+<background "bg015a0.agf" 10>
+<name "Sister" "!WB0036">
+"Is this... the end for me?"
+#
+<name "Angie" "!TC0018">
+"Sister, hang in there!"
+#
+<name "Sister" "!WB0037">
+"Heheh...
+ And after I told you I couldn't lose..."
+#
+<name "Angie" "!TC0019">
+"Sister! You can do it!
+ Don't die!
+ Sister!!!!!!!"
+#
+<name "Narration" "!QB0051">
+"The defeated and fallen Sister.
+ Angie, who tried to stand strong for her,
+ but sadness brought her to her knees."
+#
+<name "Marrisanro" "!GB0051">
+"If it isn't Angie?
+ What's the matter?
+ Let me wipe those tears."
+#
+<name "Angie" "!TC0020">
+"You're..."
+#
+<name "Narration" "!QB0052">
+"Before the heartbroken Angie appears the
+ famous Marrisanro.
+ What does the future hold in this new 
+ encounter for Angie?"
+#
+\x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 \x2B
+<name "Commander Angel" "!QB0053">
+"Okay, that's the end of the first part.
+ What do you think?"
+#
+<name "Darx">
+"It was fun."
+#
+<name "Company Maid" "!PC0105" "ka34a000.agf">
+"I think it'll have some quite enthusiastic
+ support from certain people."
+#
+<name "Commander Angel" "!QB0054">
+"So, we're okay to surrender?"
+#
+<name "Company Maid" "!PC0106" "ka34a000.agf">
+"I think we have no choice."
+#
+<name "Darx">
+"No, that's my decision."
+#
+<name "Commander Angel" "!QB0055">
+"No then?"
+#
+<name "Darx">
+"No, I'll allow it..."
+#
+<name "Sister Angel" "!WB0038">
+"Yay!"
+#
+<name "Angie Angel" "!TC0021">
+"Art is balm for the body."
+#
+There's a big boom later in the city, but 
+that's another story.
+#
+<exit>
+:15883
+\x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 \x2B
+<name "Male Angel" "!ZD0014">
+"I'm sorry for everything.
+ I surrender."
+#
+<name "Darx">
+"You're pretty strong.
+ Why aren't you fighting?"
+#
+By my estimate, he'd probably be a match for
+Golan or Tojo.
+#
+<name "Male Angel" "!ZD0015">
+"Hahaha.
+ I never liked fighting."
+#
+<name "Male Angel" "!ZD0016">
+"I kept refusing my boss's orders, so I ended
+ up assigned here."
+#
+<name "Darx">
+"I see."
+#
+<name "Male Angel" "!ZD0017">
+"If I can ask, please don't do anything strange
+ to my men."
+#
+<name "Darx">
+"Don't worry, I won't.
+ I'll move all the ones who surrender to the
+ city. If they refuse, it's back to Celestia.
+ Staying here is the only thing not allowed."
+#
+<name "Company Maid" "!PC0144" "ka34e000.agf">
+"I have all the details about moving to the
+ city written down here."
+#
+<name "Male Angel" "!ZD0018">
+"Understood."
+#
+<exit>
+:15BD3
+\x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 \x2B
+<name "Defeated Demon" "!ZD5000">
+"I lost this time.
+ I admit it, you're strong."
+#
+<name "Defeated Demon" "!ZD5001">
+"However!
+ Wait until our next encounter!"
+#
+<name "Defeated Demon" "!ZD5003">
+"Next year!
+ Next year, I will win!
+ You bastard!"
+#
+<name "Defeated Demon" "!ZD5004">
+"Bye!"
+#
+<name "Darx">
+"...I'm just letting you go?"
+#
+<name "Defeated Demon" "!ZD5005">
+"Can't you?"
+#
+<exit>
+\x78

@@ -1,0 +1,44 @@
+﻿<music 40>
+<background "bg009a0.agf" 10>
+<sprite "ta34a000.agf" 2 4 11>
+<sprite "ta34b001.agf" 6 5 11>
+<name "Serving Maid" "!DC0069">
+"I think Darx is incredible."
+#
+<name "Cooking Maid" "!PC0053">
+"Just now?
+ I've thought he was incredible for a long
+ time."
+#
+<name "Serving Maid" "!DC0070">
+"I was newly impressed today."
+#
+<name "Cooking Maid" "!PC0054">
+"Did something happen?"
+#
+<name "Serving Maid" "!DC0071">
+"I saw Macdo fawning all over him."
+#
+<sprite "ta34a002.agf" 2 4 12>
+<name "Cooking Maid" "!PC0055">
+"...Aah, that is indeed just like him.
+ Incredible."
+#
+<name "Serving Maid" "!DC0072">
+"He won over Forzelotte, so I don't think it
+ was impossible, but Macdo really did hate
+ him quite a bit."
+#
+<name "Cooking Maid" "!PC0056">
+"And now she's all lovey-dovey..."
+#
+<name "Serving Maid" "!DC0074">
+"If she gets mad at us, let's try to have him
+ step in."
+#
+<sprite "ta34a000.agf" 2 4 12>
+<name "Cooking Maid" "!PC0057">
+"Yeah."
+#
+<removesprite -1 11>
+\x2B\x78\x78

@@ -1,0 +1,286 @@
+﻿\x15 :6: 
+:6
+\x78
+<music 4>
+<background "bg009a0.agf" 10>
+<sprite "ta34b004.agf" 2 4 11>
+<sprite "ta34b004.agf" 4 6 11>
+<sprite "ta34b004.agf" 6 5 11>
+<name "Praising Maid" "!AC0275">
+"Overlord, you're so cool!"
+#
+<name "Cheering Maid" "!DC0435">
+"I knew it!"
+#
+<name "Flattering Maid" "!PC0507">
+"That's so perfect of you."
+#
+<name "Darx">
+"R-Really?"
+#
+<removesprite -1 11>
+...
+#
+<sprite "ta34b000.agf" 2 4 11>
+<sprite "ta34b000.agf" 4 6 11>
+<sprite "ta34b000.agf" 6 5 11>
+<name "Praising Maid" "!AC0276">
+"The excessive praise plan worked."
+#
+<name "Cheering Maid" "!DC0436">
+"Yep."
+#
+<sprite "ta34b004.agf" 6 5 12>
+<name "Flattering Maid" "!PC0508">
+"But it really was perfect...
+ So cool."
+#
+<sprite "ta34b008.agf" 2 4 12>
+<name "Praising Maid" "!AC0277">
+"Ah! One of us is trying to be a genuine good
+ girl!"
+#
+<removesprite -1 11>
+<exit>
+<music 4>
+<background "bg009a0.agf" 10>
+<name "Darx">
+"Let's do this today."
+#
+<sprite "ta34b000.agf" 4 4 11>
+<name "Company Maid" "!DC0437">
+"That's very forceful."
+#
+<name "Darx">
+"Right?"
+#
+<removesprite -1 11>
+<exit>
+<music 4>
+<background "bg009a0.agf" 10>
+<sprite "ta34b000.agf" 4 4 11>
+<name "Company Maid" "!DC0438">
+"Are you prioritizing results?"
+#
+<name "Darx">
+"Yeah."
+#
+<removesprite -1 11>
+<exit>
+<music 4>
+<background "bg009a0.agf" 10>
+<name "Darx">
+"Sometimes I feel like using a weapon like
+ this."
+#
+<sprite "ta34b000.agf" 4 4 11>
+<name "Company Maid" "!DC0439">
+"An interesting type?"
+#
+<removesprite -1 11>
+<exit>
+<music 4>
+<background "bg009a0.agf" 10>
+<name "Darx">
+"Should I equip this?"
+#
+<sprite "ta34b002.agf" 4 4 11>
+<name "Company Maid" "!DC0440">
+"Um, that's a barrel."
+#
+<removesprite -1 11>
+<exit>
+<music 4>
+<background "bg009a0.agf" 10>
+<name "Darx">
+"Should I equip this?"
+#
+<sprite "ta34b000.agf" 4 4 11>
+<name "Company Maid" "!PC0509">
+"It's perfect for you."
+#
+<name "Darx">
+"Thanks."
+#
+<removesprite -1 11>
+<exit>
+<music 4>
+<background "bg009a0.agf" 10>
+<sprite "ta34b002.agf" 4 4 11>
+<name "Company Maid" "!PC0510">
+"If you're not equipping this armor...
+ does that mean you're not equipping any
+ armor?"
+#
+<name "Darx">
+"No, I don't think that's right."
+#
+<sprite "ta34b000.agf" 4 4 12>
+<name "Company Maid" "!PC0511">
+"Yeah, huh?
+ Hahahaha."
+#
+<removesprite -1 11>
+<exit>
+<music 4>
+<background "bg009a0.agf" 10>
+<sprite "ta34b002.agf" 4 4 11>
+<name "Company Maid" "!PC0512">
+"Armor is hard to take care of."
+#
+<name "Darx">
+"If you're not diligent, it can smell awful.
+ I appreciate it."
+#
+<sprite "ta34b000.agf" 4 4 12>
+<name "Company Maid" "!PC0513">
+"No, it's just part of my job."
+#
+<removesprite -1 11>
+<exit>
+<music 4>
+<background "bg009a0.agf" 10>
+<name "Darx">
+"Hmmm.
+ I think this is small enough that I could
+ also equip other things."
+#
+<sprite "ta34b000.agf" 4 4 11>
+<name "Company Maid" "!PC0514">
+"That would interfere with its effects and 
+ make it useless.
+ Please don't."
+#
+<name "Darx">
+"I-I see."
+#
+<removesprite -1 11>
+<exit>
+<music 4>
+<background "bg009a0.agf" 10>
+<name "Darx">
+"How do you equip this?"
+#
+<sprite "ta34b000.agf" 4 4 11>
+<name "Company Maid" "!PC0515">
+"Hold it in your hand."
+#
+<name "Darx">
+"It's a little much for one hand."
+#
+<name "Company Maid" "!PC0516">
+"Then tie it to your wrist with a rope."
+#
+<name "Darx">
+"If that's what works..."
+#
+<name "Darx">
+"This looks so dumb."
+#
+<sprite "ta34b005.agf" 4 4 12>
+<name "Company Maid" "!PC0517">
+"Effects, no appearance!"
+#
+<name "Darx">
+"Sorry, you're right."
+#
+<removesprite -1 11>
+<exit>
+<music 4>
+<background "bg009a0.agf" 10>
+<sprite "ta34b006.agf" 4 4 11>
+<name "Thinking Maid" "!DC0441">
+"Hmmm...
+ Hmmmmm..."
+#
+<removesprite -1 11>
+<sprite "ta34a000.agf" 2 4 11>
+<sprite "ta34b006.agf" 6 5 11>
+<name "Resting Maid" "!PC0518">
+"What is it?"
+#
+<name "Thinking Maid" "!DC0442">
+"I don't know how to equip this."
+#
+<name "Resting Maid" "!PC0519">
+"Hold it in your hand?"
+#
+<name "Thinking Maid" "!DC0443">
+"The Overlord was against that."
+#
+<name "Resting Maid" "!PC0520">
+"Tie it to your waist with a rope?"
+#
+<name "Thinking Maid" "!DC0444">
+"No, that wouldn't work well."
+#
+<name "Resting Maid" "!PC0521">
+"Then... just eat it?"
+#
+<sprite "ta34b004.agf" 6 5 12>
+<name "Thinking Maid" "!DC0445">
+"You're a genius."
+#
+<name "Darx">
+"Um, I'm not eating it."
+#
+<removesprite -1 11>
+<exit>
+<music 4>
+<background "bg009a0.agf" 10>
+<name "Darx">
+"How do you equip this?"
+#
+<sprite "ta34b000.agf" 4 4 11>
+<name "Company Maid" "!PC0522">
+"You'll think of something."
+#
+<name "Darx">
+"D-Don't rebuff me."
+#
+<removesprite -1 11>
+<exit>
+<music 4>
+<background "bg009a0.agf" 10>
+<sprite "ta34b001.agf" 4 4 11>
+<name "Company Maid" "!PC0523">
+"You can equip whatever you want, but...
+ why equip that?"
+#
+<name "Darx">
+"It feels like my soul is calling out for
+ it..."
+#
+<removesprite -1 11>
+<exit>
+<music 3>
+<background "bg010a0.agf" 10>
+<name "Demon" "!HC0189">
+"Ooh! This is for me!
+ Thank you so much!"
+#
+<name "Demon" "!HC0190">
+"Yahoo!"
+#
+<name "Darx">
+"It's nice to feel so appreciated."
+#
+<sprite "ta34b000.agf" 4 4 11>
+<name "Company Maid" "!PC0524">
+"Isn't it?"
+#
+<removesprite -1 11>
+<exit>
+<music 11>
+<background "bg013a0.agf" 10>
+<name "Working Demon" "!ZD0154">
+"The Overlord lended that to you?"
+#
+<name "Dungeon Guard" "!UA0184">
+"I-I'm jealous."
+#
+<name "Demon" "!ZE0248">
+"Heheheh."
+#
+<exit>
+\x78

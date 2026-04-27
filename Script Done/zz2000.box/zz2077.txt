@@ -1,0 +1,60 @@
+﻿<music 11>
+<background "bg008a0.agf" 10>
+<sprite "ta04a000.agf" 4 4 11>
+<name "Rualtei" "!RA0195">
+"Sister."
+#
+<removesprite -1 11>
+<sprite "ta03a004.agf" 2 4 11>
+<sprite "ta04a000.agf" 6 5 11>
+<name "Miartei" "!SA0140">
+"What is it?"
+#
+<name "Rualtei" "!RA0196">
+"You've been in a good mood lately..."
+#
+<sprite "ta03a005.agf" 2 4 12>
+<name "Miartei" "!SA0141">
+"Have I?
+ I haven't thought about it myself..."
+#
+<sprite "ta03a022.agf" 2 4 12>
+<name "Miartei" "!SA0142">
+"Perhaps it's because I have let go of the
+ things burdening me."
+#
+<sprite "ta04a012.agf" 6 5 12>
+<name "Rualtei" "!RA0197">
+"Are you okay with that?"
+#
+<sprite "ta03a011.agf" 2 4 12>
+<name "Miartei" "!SA0143">
+"Am I okay with what?"
+#
+<sprite "ta04a013.agf" 6 5 12>
+<name "Rualtei" "!RA0198">
+"Like being mad about living here, or missing
+ Celestia?"
+#
+<sprite "ta03a019.agf" 2 4 12>
+<name "Miartei" "!SA0144">
+"I would be lying if I said I had no regrets."
+#
+<sprite "ta03a020.agf" 2 4 12>
+<name "Miartei" "!SA0145">
+"But I am content."
+#
+<sprite "ta03a004.agf" 2 4 12>
+<name "Miartei" "!SA0146">
+"Are you not?"
+#
+<sprite "ta04a005.agf" 6 5 12>
+<name "Rualtei" "!RA0199">
+"N-No..."
+#
+<sprite "ta04a006.agf" 6 5 12>
+<name "Rualtei" "!RA0200">
+"I'm also happy that I can live with you."
+#
+<removesprite -1 11>
+\x2B\x78\x78

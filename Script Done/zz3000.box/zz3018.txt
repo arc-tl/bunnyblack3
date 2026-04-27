@@ -1,0 +1,61 @@
+﻿<music 22>
+<background "ev069a01.agf" 10>
+<name "Writhing Angel" "!QB0082">
+"Aah! Ah! Aah! Aah! Ahhhh!"
+#
+<name "Panting Angel" "!WB0073">
+"Mmm...mmm...aaah..."
+#
+<name "Resisting Angel" "!TC0072">
+"Ah! Aah! Ah! Ngh!
+ N-No more!"
+#
+My body continue violently raping their
+bodies.
+#
+<name "Rakia" "!ZC0327">
+"How is it?"
+#
+<name "Company Maid" "!PC0192">
+"No problems.
+ Same as always."
+#
+<name "Rakia" "!ZC0328">
+"I see.
+ What about the people going through it?"
+#
+<name "Company Maid" "!PC0193">
+"Mostly high marks."
+#
+<name "Rakia" "!ZC0329">
+"Such as?"
+#
+<name "Company Maid" "!PC0194">
+"It's skilled and never gets tired.
+ It remembers my weak spots.
+ It's intense."
+#
+<name "Company Maid" "!PC0195">
+"It doesn't look pretty, but that's how it
+ is."
+#
+<name "Rakia" "!ZC0330">
+"Seems like it.
+ Then, keep it up."
+#
+<name "Company Maid" "!PC0196">
+"Yes, ma'am.
+ The next shift is scheduled for 26 hours from
+ now."
+#
+<name "Rakia" "!ZC0331">
+"Understood."
+#
+<name "Rakia" "!ZC0332">
+"...Make sure you don't get caught."
+#
+<name "Company Maid" "!PC0197">
+"Hahaha.
+ I'll be careful."
+#
+\x78\x78

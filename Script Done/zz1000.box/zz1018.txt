@@ -1,0 +1,276 @@
+﻿<music 5>
+<background "bg011a0.agf" 10>
+<sprite "ta01a023.agf" 4 4 11>
+<name "Sofia" "!ZB0171">
+"Overlord, Overlord."
+#
+<name "Darx">
+"Hm?
+ What's all the commotion?"
+#
+<sprite "ta01a037.agf" 4 4 12>
+<name "Sofia" "!ZB0172">
+"I'm sorry.
+ You have a guest."
+#
+<name "Darx">
+"A guest?"
+#
+<name "Sofia" "!ZB0173">
+"She's been waiting for a while..."
+#
+<name "Darx">
+"Who's so important that it's got you in such
+ a panic?"
+#
+<name "Sofia" "!ZB0174">
+"Well, by important, I think it's more..."
+#
+<name "Darx">
+"Who is it?"
+#
+<removesprite -1 11>
+<music 3>
+<background "bg010a0.agf" 10>
+<sprite "ta05a003.agf" 4 4 11>
+<name "Kyuriha" "!FA0012">
+"My name is Kyuriha, of Celestia."
+#
+<sprite "ta05a017.agf" 4 4 12>
+<name "Kyuriha" "!FA0013">
+"It is an honor to meet you."
+#
+<name "Darx">
+"Yeah, same."
+#
+<sprite "ta05a004.agf" 4 4 12>
+<name "Kyuriha" "!FA0014">
+"Well then, Overlord Darx.
+ As to why I'm here..."
+#
+<name "Darx">
+"Let's hear it."
+#
+<sprite "ta05a003.agf" 4 4 12>
+<name "Kyuriha" "!FA0015">
+"Before I explain, how much do you understand
+ about the relationship between Celestia and
+ the Netherworld?"
+#
+<name "Darx">
+"A truce after some big war.
+ Or have I heard wrong?"
+#
+<name "Kyuriha" "!FA0016">
+"No, that understanding is correct."
+#
+<sprite "ta05a004.agf" 4 4 12>
+<name "Kyuriha" "!FA0017">
+"So I believe you understand how rare this
+ place is."
+#
+<name "Darx">
+"By rare, you mean angels and demons living
+ together?"
+#
+<sprite "ta05a003.agf" 4 4 12>
+<name "Kyuriha" "!FA0018">
+"Yes, and on top of that, ruled over by a
+ human."
+#
+<name "Darx">
+"Is that so rare?"
+#
+<sprite "ta05a017.agf" 4 4 12>
+<name "Kyuriha" "!FA0019">
+"There are the occasional stories and brief
+ occurrences, but just having children at all
+ is rare enough."
+#
+<name "Darx">
+"Haha..."
+#
+<name "Darx">
+"So, you're here to bitch about it?"
+#
+<sprite "ta05a004.agf" 4 4 12>
+<name "Kyuriha" "!FA0020">
+"Not at all.
+ The opposite."
+#
+<name "Darx">
+"Hm?"
+#
+<sprite "ta05a003.agf" 4 4 12>
+<name "Kyuriha" "!FA0021">
+"It is quite the interesting occurrence.
+ The God King, and each house's rulers, have
+ all taken an interest."
+#
+<name "Darx">
+"Oh?"
+#
+<sprite "ta05a004.agf" 4 4 12>
+<name "Kyuriha" "!FA0022">
+"We believe that the prospering of such a 
+ place would have a beneficial effect on the
+ truce between us.
+ I was sent to inspect your land."
+#
+<name "Darx">
+"I see."
+#
+<sprite "ta05a003.agf" 4 4 12>
+<name "Kyuriha" "!FA0023">
+"I also have the permission of the Great
+ Overlord of the Netherworld, Lord Aishies."
+#
+<sprite "ta05a017.agf" 4 4 12>
+<name "Kyuriha" "!FA0024">
+"Please allow me to stay here."
+#
+<name "Darx">
+"If you've got the okay from the Great 
+ Overlord, I can't exactly say no."
+#
+<removesprite -1 11>
+<sprite "ta01a028.agf" 4 4 11>
+<name "Sofia" "!ZB0175">
+"If you refuse, you'll be in huge trouble.
+ Please, let her."
+#
+<removesprite -1 11>
+<sprite "ta05a015.agf" 4 4 11>
+<name "Kyuriha" "!FA0025">
+"You have my thanks. I cannot say I will cause
+ you no troubles,  but I will endeavor to obey
+ however I can.
+ All I ask is your permission to be here."
+#
+<name "Darx">
+"One question before I decide."
+#
+<sprite "ta05a003.agf" 4 4 12>
+<name "Kyuriha" "!FA0026">
+"What is it?"
+#
+<name "Darx">
+"Are you my enemy?"
+#
+<sprite "ta05a004.agf" 4 4 12>
+<name "Kyuriha" "!FA0027">
+"...That is a very loaded question."
+#
+<name "Darx">
+"And what's your answer?"
+#
+<sprite "ta05a019.agf" 4 4 12>
+<name "Kyuriha" "!FA0028">
+"Right now, I am not your enemy.
+ And if I become your enemy, I will tell you
+ when I do."
+#
+<name "Darx">
+"Fine.
+ You can stay."
+#
+<sprite "ta05a003.agf" 4 4 12>
+<name "Kyuriha" "!FA0029">
+"Thank you very much."
+#
+<name "Darx">
+"Talk to Sofia for the rest, and if you have
+ any problems in the city."
+#
+<sprite "ta05a017.agf" 4 4 12>
+<name "Kyuriha" "!FA0030">
+"I understand."
+#
+<removesprite -1 11>
+<name "Darx">
+"Sofia, look after her."
+#
+<sprite "ta01a004.agf" 4 4 11>
+<name "Sofia" "!ZB0176">
+"Yes, sir.
+ Leave it to me."
+#
+<removesprite -1 11>
+<name "Darx">
+"Well, I'm sure we met like this for a reason.
+ Let's have dinner together some time."
+#
+<sprite "ta05a003.agf" 4 4 11>
+<name "Kyuriha" "!FA0031">
+"Yes, I look forward to it."
+#
+<removesprite -1 11>
+...
+#
+<music 14>
+<music 3>
+<name "Darx">
+"Now then..."
+#
+<name "Darx">
+"You there, maid.
+ Come here a minute."
+#
+<sprite "ta34a000.agf" 4 4 11>
+<name "Company Maid" "!AC0032">
+"Yes?
+ Can I help you?"
+#
+<name "Darx">
+"Sorry, who's this God King that Kyuriha
+ mentioned?"
+#
+<sprite "ta34a002.agf" 4 4 12>
+<name "Company Maid" "!AC0033">
+"...Are you seriously asking?"
+#
+<name "Darx">
+"I feel like I've heard that term somewhere
+ before..."
+#
+<sprite "ta34a000.agf" 4 4 12>
+<name "Company Maid" "!AC0034">
+"The God King is the ruler of Celestia."
+#
+<name "Company Maid" "!AC0035">
+"Think of him as the same as the Great
+ Overlord of the Netherworld."
+#
+<name "Darx">
+"I see.
+ So in other words, this big shot sent her to
+ check me out?"
+#
+<name "Company Maid" "!AC0036">
+"It seems like it...
+ You answered without knowing that?"
+#
+<name "Darx">
+"Oh, well, if I said I didn't know, Sofia
+ would have gotten mad."
+#
+<sprite "ta34a002.agf" 4 4 12>
+<name "Company Maid" "!AC0037">
+"Well, saying nothing was correct, I guess.
+ It might have caused an incident depending
+ on how you asked."
+#
+<name "Darx">
+"Right?"
+#
+<sprite "ta34a000.agf" 4 4 12>
+<name "Company Maid" "!AC0038">
+"I'll leave reports about Celestia on your
+ desk.
+ Please review them."
+#
+<name "Darx">
+"Thanks."
+#
+<removesprite -1 11>
+\x2B\x78\x78

@@ -1,0 +1,61 @@
+﻿<music 3>
+<background "bg010a0.agf" 10>
+<name "Darx">
+"Couldn't you bring up Ryumis in order to cow
+ Kyuriha?"
+#
+<sprite "ta03a013.agf" 4 4 11>
+<name "Miartei" "!SA0233">
+"P-Please don't.
+ She'll attack you."
+#
+<name "Darx">
+"Really?"
+#
+<sprite "ta03a014.agf" 4 4 12>
+<name "Miartei" "!SA0234">
+"Yes. Relentlessly and without mercy."
+#
+<sprite "ta03a019.agf" 4 4 12>
+<name "Miartei" "!SA0235">
+"Back in school, there was some jerk in our
+ class who made fun of Kyuriha being terrified
+ of Ryumis."
+#
+<sprite "ta03a020.agf" 4 4 12>
+<name "Miartei" "!SA0236">
+"Kyuriha, who was trying to be graceful and
+ refined, went back to her original personality
+ instantly."
+#
+<sprite "ta03a021.agf" 4 4 12>
+<name "Miartei" "!SA0237">
+"Her blow from the mounted position was...
+ It was so much that some of our classmates
+ refused to come back to school."
+#
+<name "Darx">
+"...What about the other person?"
+#
+<sprite "ta03a019.agf" 4 4 12>
+<name "Miartei" "!SA0238">
+"Mental breakdown.
+ Amnesia.
+ It's like she became a whole new person."
+#
+<sprite "ta03a020.agf" 4 4 12>
+<name "Miartei" "!SA0239">
+"She completely blocked out Kyuriha's existence
+ entirely.
+ Everybody in the class talked about it.
+ It was crazy."
+#
+<name "Darx">
+"I think I'll refrain from doing that then."
+#
+<sprite "ta03a019.agf" 4 4 12>
+<name "Miartei" "!SA0240">
+"That'd be best."
+#
+<removesprite -1 11>
+\x2B\x78\x78

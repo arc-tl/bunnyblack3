@@ -1,0 +1,37 @@
+﻿<music 13>
+<background "ev004a00.agf" 10>
+<name "Host Maid" "!PC0554">
+"It's the second gambling tournament!"
+#
+<name "Happy Citizen" "!ZD0169">
+"Yay!"
+#
+<name "Wealthy Citizen" "!UA0187">
+"I've been waiting for this!"
+#
+<name "Spirited Citizen" "!HC0193">
+"This time, I'm betting all the money I've
+ got!"
+#
+<name "Host Maid" "!PC0555">
+"U-Um...
+ Don't gamble so much it ruins your life.
+ Please just play for fun."
+#
+<name "Host Maid" "!PC0556">
+"You want to be able to laugh about it, even
+ if you don't make any money.
+ D-Don't bet too much."
+#
+<name "Host Maid" "!PC0557">
+"Betting your wife and kids is also 
+ off-limits, okay? Okay?
+ That's a promise between all of us."
+#
+<name "Helping Maid" "!DC0509">
+"They're being very careful this time."
+#
+<name "Dealer Maid" "!AC0306">
+"Because last time, someone lost the farm."
+#
+\x78\x78

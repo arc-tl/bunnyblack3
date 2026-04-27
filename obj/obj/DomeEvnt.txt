@@ -1,0 +1,351 @@
+//entry 0 -----------------------
+街視察
+dom_bz01.agf
+*
+*
+All buildings in the city will obtain a |large amount of experience.
+Additional residents obtained during |expeditions.
+住民＋
+*
+//entry 1 -----------------------
+学園視察
+dom_bz02.agf
+*
+*
+All buildings in the city will obtain a |large amount of experience.
+Attack increased during expeditions.
+攻撃力＋
+*
+//entry 2 -----------------------
+迷宮視察
+dom_bz03.agf
+*
+*
+All buildings in the city will obtain a |large amount of experience.
+Defense increased during expeditions.
+防御力＋
+*
+//entry 3 -----------------------
+ダークスの様子
+dom_cz22.agf
+*
+*
+Skip out on work and... try hard in other |ways.
+No bonuses.
+*
+*
+//entry 4 -----------------------
+ソフィアの様子
+dom_cz20.agf
+*
+*
+Skip work and visit Sofia.
+No bonuses.
+*
+*
+//entry 5 -----------------------
+マクドゥの様子
+dom_cz21.agf
+*
+*
+Skip work and visit Macdo.
+No bonuses.
+*
+*
+//entry 6 -----------------------
+祭り１
+dom_cz15.agf
+*
+*
+All buildings in the city will obtain a |small amount of experience.
+Spend some money to attract more residents.
+*
+*
+//entry 7 -----------------------
+祭り２
+dom_cz15.agf
+*
+*
+All buildings in the city will obtain a |small amount of experience.
+Spend some money to attract more residents.
+*
+*
+//entry 8 -----------------------
+祭り３
+dom_cz15.agf
+*
+*
+All buildings in the city will obtain a |small amount of experience.
+Spend some money to attract more residents.
+*
+*
+//entry 9 -----------------------
+祭り４
+dom_cz15.agf
+*
+*
+All buildings in the city will obtain a |small amount of experience.
+Spend some money to attract more residents.
+*
+*
+//entry 10 -----------------------
+お菓子会
+dom_cz08.agf
+*
+*
+All buildings in the city will obtain a |small amount of experience.
+Spend some money and food to attract more residents.
+*
+*
+//entry 11 -----------------------
+芋煮会
+dom_cz16.agf
+*
+*
+All buildings in the city will obtain a |small amount of experience.
+Attracts some residents.
+*
+*
+//entry 12 -----------------------
+清掃会１
+dom_cz03.agf
+住居
+*
+All buildings in the city will obtain a |small amount of experience.
+Spend some money to attract more residents.
+*
+*
+//entry 13 -----------------------
+清掃会２
+dom_cz03.agf
+住居
+*
+All buildings in the city will obtain a |small amount of experience.
+Spend some money to attract more residents.
+*
+*
+//entry 14 -----------------------
+バザー１
+dom_cz05.agf
+公園
+*
+All buildings in the city will obtain a |small amount of experience.
+Attracts some residents.
+*
+*
+//entry 15 -----------------------
+バザー２
+dom_cz05.agf
+公園
+*
+All buildings in the city will obtain a |small amount of experience.
+Attracts some residents.
+*
+*
+//entry 16 -----------------------
+バザー３
+dom_cz05.agf
+公園
+*
+All buildings in the city will obtain a |small amount of experience.
+Attracts some residents.
+*
+*
+//entry 17 -----------------------
+ファッションショー１
+dom_cz09.agf
+商店
+*
+All buildings in the city will obtain a |small amount of experience.
+Spend some money to attract more residents.
+*
+*
+//entry 18 -----------------------
+ファッションショー２
+dom_cz09.agf
+商店
+*
+All buildings in the city will obtain a |small amount of experience.
+Spend some money to attract more residents.
+*
+*
+//entry 19 -----------------------
+避難訓練１
+dom_cz10.agf
+警備砦
+*
+All buildings in the city will obtain a |small amount of experience.
+Attracts some residents.
+*
+*
+//entry 20 -----------------------
+避難訓練２
+dom_cz10.agf
+警備砦
+*
+All buildings in the city will obtain a |small amount of experience.
+Attracts some residents.
+*
+*
+//entry 21 -----------------------
+釣り大会１
+dom_cz01.agf
+池
+*
+All buildings in the city will obtain a |small amount of experience.
+Spend some money to attract more residents.
+*
+*
+//entry 22 -----------------------
+釣り大会２
+dom_cz01.agf
+池
+*
+All buildings in the city will obtain a |small amount of experience.
+Spend some money to attract more residents.
+*
+*
+//entry 23 -----------------------
+釣り大会３
+dom_cz01.agf
+池
+*
+All buildings in the city will obtain a |small amount of experience.
+Spend some money to attract more residents.
+*
+*
+//entry 24 -----------------------
+ゴミ拾い
+dom_cz17.agf
+*
+*
+All buildings in the city will obtain a |small amount of experience.
+Attracts some residents.
+*
+*
+//entry 25 -----------------------
+美術展
+dom_cz11.agf
+*
+*
+All buildings in the city will obtain a |small amount of experience.
+Spend some money to attract more residents.
+*
+*
+//entry 26 -----------------------
+福引
+dom_cz12.agf
+商店
+*
+All buildings in the city will obtain a |small amount of experience.
+Spend some money to attract more residents.
+*
+*
+//entry 27 -----------------------
+クイズ大会１
+dom_cz07.agf
+*
+*
+All buildings in the city will obtain a |small amount of experience.
+Spend some money to attract more residents.
+*
+*
+//entry 28 -----------------------
+クイズ大会２
+dom_cz07.agf
+*
+*
+All buildings in the city will obtain a |small amount of experience.
+Spend some money to attract more residents.
+*
+*
+//entry 29 -----------------------
+害虫駆除１
+dom_cz13.agf
+*
+*
+All buildings in the city will obtain a |small amount of experience.
+Attracts some residents.
+*
+*
+//entry 30 -----------------------
+害虫駆除２
+dom_cz13.agf
+*
+*
+All buildings in the city will obtain a |small amount of experience.
+Attracts some residents.
+*
+*
+//entry 31 -----------------------
+ギャンブル大会１
+dom_cz14.agf
+娯楽店
+*
+All buildings in the city will obtain a |small amount of experience.
+Spend some money to attract more residents.
+*
+*
+//entry 32 -----------------------
+ギャンブル大会２
+dom_cz14.agf
+娯楽店
+*
+All buildings in the city will obtain a |small amount of experience.
+Spend some money to attract more residents.
+*
+*
+//entry 33 -----------------------
+ギャンブル大会３
+dom_cz14.agf
+娯楽店
+*
+All buildings in the city will obtain a |small amount of experience.
+Spend some money to attract more residents.
+*
+*
+//entry 34 -----------------------
+料理コンテスト
+dom_cz02.agf
+*
+*
+All buildings in the city will obtain a |small amount of experience.
+Spend some money and food to attract some residents.
+*
+*
+//entry 35 -----------------------
+ドラゴンスレイヤー大会
+dom_cz06.agf
+スタジアム
+*
+All buildings in the city will obtain a |small amount of experience.
+Spend some money to attract more residents.
+*
+*
+//entry 36 -----------------------
+謎
+dom_cz23.agf
+*
+*
+All buildings in the city will obtain a |small amount of experience.
+Spend some money to attract more residents.
+*
+*
+//entry 37 -----------------------
+力比べ
+dom_cz24.agf
+*
+*
+All buildings in the city will obtain a |small amount of experience.
+Spend some money to attract more residents.
+*
+*
+//entry 38 -----------------------
+街の活性化
+dom_cz18.agf
+*
+*
+All buildings in the city will obtain a |small amount of experience.
+Spend some money to attract more residents.
+*
+*

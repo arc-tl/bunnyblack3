@@ -1,0 +1,94 @@
+﻿<music 3>
+<background "bg010a0.agf" 10>
+<sprite "ta20a000.agf" 4 4 11>
+<name "Raffino" "!EB0024">
+"Overlord, may I have a moment?"
+#
+<name "Darx">
+"Hm? What's up?"
+#
+<sprite "ta20a001.agf" 4 4 12>
+<name "Raffino" "!EB0025">
+"I just needed to talk for a second..."
+#
+<name "Darx">
+"What is it?"
+#
+<name "Darx">
+"Some problem with living in the city?"
+#
+<sprite "ta20a005.agf" 4 4 12>
+<name "Raffino" "!EB0026">
+"No, they've taken good care of us."
+#
+<sprite "ta20a004.agf" 4 4 12>
+<name "Raffino" "!EB0027">
+"It's like we were never your enemies at all."
+#
+<name "Darx">
+"No need for flattery.
+ Prove it with your actions."
+#
+<sprite "ta20a000.agf" 4 4 12>
+<name "Raffino" "!EB0028">
+"S-Sir.
+ Excuse me."
+#
+<name "Darx">
+"So, what did you want to talk about?
+ If it's not living in the city, then..."
+#
+<sprite "ta20a001.agf" 4 4 12>
+<name "Raffino" "!EB0029">
+"It's about my people who haven't been set
+ free yet."
+#
+<removesprite -1 11>
+When she came back with me, she convinced most
+of the people around her to come with her.
+#
+But there were a few who couldn't be 
+persuaded.
+#
+<name "Darx">
+"You want me to let them go?"
+#
+<sprite "ta20a002.agf" 4 4 11>
+<name "Raffino" "!EB0030">
+"Please.
+ They may not follow you, but I believe they'll
+ be respectful citizens of the city."
+#
+<sprite "ta20a017.agf" 4 4 12>
+<name "Raffino" "!EB0031">
+"I think they're just being stubborn because
+ of everything that's happened..."
+#
+<name "Darx">
+"Well, I don't mind letting them go.
+ It's not cheap to guard a prison anyway."
+#
+<sprite "ta20a004.agf" 4 4 12>
+<name "Raffino" "!EB0032">
+"Thank you very much."
+#
+<name "Darx">
+"However, you will explain to them exactly
+ what will happen to them if they harm the
+ city or bare their fangs at me."
+#
+<sprite "ta20a005.agf" 4 4 12>
+<name "Raffino" "!EB0033">
+"Understood."
+#
+<name "Darx">
+"Go tell them.
+ Tomorrow morning, they'll be set free."
+#
+<sprite "ta20a004.agf" 4 4 12>
+<name "Raffino" "!EB0034">
+"Yes, sir.
+ Thank you very much."
+#
+<removesprite -1 11>
+\x2B\x78\x78

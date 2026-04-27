@@ -1,0 +1,252 @@
+﻿\x1A\x01\x0A\x43\x00\x31\x00\x35\x00\x35\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x31\x00\x09\x00 :5D: \x1A\x01\x0D\x43\x00\x31\x00\x35\x00\x30\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x39\x00\x38\x00\x35\x00\x31\x00\x09\x00 :5D: \x16 :2C9: \xB1 "ミアルテ防衛隊Ｂ" \x15 :2C8: 
+:5D
+\x1A\x01\x0A\x43\x00\x31\x00\x35\x00\x35\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x31\x00\x09\x00 :BA: \x1A\x01\x0D\x43\x00\x31\x00\x35\x00\x30\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x39\x00\x38\x00\x35\x00\x32\x00\x09\x00 :BA: \x16 :3DB: \xB1 "ミアルテ防衛隊Ｃ" \x15 :2C8: 
+:BA
+\x1A\x01\x0A\x43\x00\x31\x00\x35\x00\x35\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x31\x00\x09\x00 :104: \x1A\x01\x0D\x43\x00\x31\x00\x35\x00\x30\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x39\x00\x38\x00\x35\x00\x33\x00\x09\x00 :104: \x16 :48D: \x15 :2C8: 
+:104
+\x1A\x01\x0A\x43\x00\x31\x00\x35\x00\x35\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x31\x00\x09\x00 :161: \x1A\x01\x0D\x43\x00\x31\x00\x35\x00\x30\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x39\x00\x38\x00\x35\x00\x34\x00\x09\x00 :161: \x16 :6DF: \xB1 "ミアルテ防衛隊Ｅ" \x15 :2C8: 
+:161
+\x1A\x01\x0A\x43\x00\x31\x00\x35\x00\x35\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x31\x00\x09\x00 :1BE: \x1A\x01\x0D\x43\x00\x31\x00\x35\x00\x30\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x39\x00\x38\x00\x35\x00\x35\x00\x09\x00 :1BE: \x16 :7CC: \xB1 "ミアルテ防衛隊Ｆ" \x15 :2C8: 
+:1BE
+\x1A\x01\x0A\x43\x00\x31\x00\x35\x00\x35\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x31\x00\x09\x00 :21B: \x1A\x01\x0D\x43\x00\x31\x00\x35\x00\x30\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x39\x00\x38\x00\x35\x00\x36\x00\x09\x00 :21B: \x16 :86D: \xB1 "ミアルテ防衛隊Ｇ" \x15 :2C8: 
+:21B
+\x1A\x01\x0A\x43\x00\x31\x00\x35\x00\x35\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x31\x00\x09\x00 :26B: \x1A\x01\x0D\x43\x00\x31\x00\x35\x00\x30\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x39\x00\x38\x00\x35\x00\x37\x00\x09\x00 :26B: \x0A\x04\x00\x86\x84\x01\x16 :971: \x15 :2C8: 
+:26B
+\x1A\x01\x0A\x43\x00\x31\x00\x35\x00\x35\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x31\x00\x09\x00 :2C2: \x1A\x01\x0D\x43\x00\x31\x00\x35\x00\x30\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x39\x00\x39\x00\x30\x00\x30\x00\x09\x00 :2C2: \x16 :ADE: \xB1 "真魔力塊隊" \x15 :2C8: 
+:2C2
+\x15 :2C8: 
+:2C8
+\x78
+:2C9
+\x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 \x2B
+<name "Darx">
+"Done yet?"
+#
+<name "Company Maid" "!DC0018" "ka34c001.agf">
+"I'm sorry.
+ Not yet."
+#
+<name "Darx">
+"Urgh."
+#
+<name "Angel Commander" "!GB0011">
+"Kill the intruders!"
+#
+<name "Darx">
+"Here's the reinforcements."
+#
+<exit>
+:3DB
+\x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 \x2B
+<name "Darx">
+"Destroyed yet?"
+#
+<name "Company Maid" "!DC0019" "ka34c001.agf">
+"Just a little longer."
+#
+<name "Darx">
+"Got it."
+#
+<exit>
+:48D
+\x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 \x2B
+<name "Company Maid" "!DC0020" "ka34c004.agf">
+"That did it!
+ It's completely broken!"
+#
+<name "Darx">
+"Good job."
+#
+<name "Company Maid" "!DC0021" "ka34c000.agf">
+"It's too broken to be able to fix, so we
+ should be okay now."
+#
+<name "Darx">
+"Okay.
+ ...Well, we can look around a little more."
+#
+<name "Company Maid" "!DC0022" "ka34c001.agf">
+"Huh?"
+#
+<name "Darx">
+"We can't be sure it's the only one."
+#
+<name "Company Maid" "!DC0023" "ka34c000.agf">
+"That's true."
+#
+<name "Darx">
+"There's such a thing as being too careful
+ though."
+#
+<exit>
+:6DF
+\x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 \x2B
+<name "Angel Commander" "!GB0012">
+"Defeat the intruders!"
+#
+<name "Angel Commander" "!GB0013">
+"Do not let them leave here alive!"
+#
+<name "Angel Soldier" "!LB0033">
+"Yeah!"
+#
+The enemy's here.
+#
+<exit>
+:7CC
+\x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 \x2B
+<name "Company Maid" "!DC0026" "ka34c008.agf">
+"Here come more!"
+#
+<name "Darx">
+"Right!"
+#
+More enemies.
+#
+<exit>
+:86D
+\x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 \x2B
+<name "Company Maid" "!DC0027" "ka34c001.agf">
+"We've almost got it!"
+#
+<name "Darx">
+"Just gotta hold out."
+#
+<name "Company Maid" "!DC0028" "ka34c000.agf">
+"Please."
+#
+More enemies.
+#
+<exit>
+:971
+\x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 \x2B
+<name "Company Maid" "!DC0029" "ka34c004.agf">
+"Overlord, we completely destroyed it!"
+#
+<name "Darx">
+"Good job!"
+#
+<name "Company Maid" "!DC0030" "ka34c000.agf">
+"Yes, sir!"
+#
+Whew.
+#
+This seems like a workshop and storage area.
+#
+It's hard to imagine that there'd be more
+anywhere else.
+#
+What's left is... Miartei.
+#
+<exit>
+:ADE
+\x2B\x6E 1  "bo1000.box" 
+<background "ev078a00.agf" 10>
+<name "Company Maid" "!PC0091">
+"We did it."
+#
+<name "Darx">
+"No, not yet."
+#
+<name "Company Maid" "!PC0092">
+"Huh?"
+#
+<name "Darx">
+"They're not done."
+#
+<name "Company Maid" "!PC0093">
+"What do you mean?"
+#
+<name "Darx">
+"They regenerate."
+#
+Just like I said, the tentacles start 
+regrowing.
+#
+<name "Company Maid" "!PC0094">
+"No way!"
+#
+<name "Darx">
+"Don't be so surprised.
+ More importantly, there's a snake over there.
+ Can you grab it?"
+#
+<name "Company Maid" "!PC0095">
+"Huh?
+ Oh, yes, sir."
+#
+<name "Darx">
+"That's the price for Suisen's intelligence.
+ Take good care of it."
+#
+<name "Company Maid" "!PC0096">
+"As long as it doesn't bite."
+#
+<name "Darx">
+"You should be okay... probably.
+ Maybe."
+#
+<name "Company Maid" "!PC0097">
+"That's no convincing."
+#
+<name "Darx">
+"Well, please do it."
+#
+<name "Darx">
+"I've got one more battle to fight."
+#
+The tentacles continue to regrow.
+#
+But not quite the same as before.
+#
+They lump together, wriggle, and grow to
+human size.
+#
+<background "ev078b00.agf" 10>
+To me.
+#
+<background "ev078c00.agf" 10>
+Dozens of me.
+#
+<name "Darx">
+"I thought so...
+ But isn't this many cheating?"
+#
+<name "Darx" "!BA0001">
+"Grrraaaaaggggh!"
+#
+I stand right before me.
+#
+Suisen's snake took control of my other body.
+#
+But my body didn't succumb to it.
+#
+That's what made it feel so wrong.
+#
+It grabbed Forzelotte, but didn't do anything
+to her, then it killed Wadatsumi.
+#
+All of it was my will.
+#
+Same as it going to the city and Forzelotte's
+Shrine.
+#
+It wasn't an attack.
+#
+It just wanted to go home.
+#
+Without any thought to the damage it would
+cause.
+#
+<name "Darx">
+"Well, I'm still to blame."
+#
+<name "Darx" "!BA0002">
+"Grraaaghhhhh!"
+#
+<name "Darx">
+"Let's do this."
+#
+\x0A\x44\x03\x07\x84\x01
+<exit>
+\x78

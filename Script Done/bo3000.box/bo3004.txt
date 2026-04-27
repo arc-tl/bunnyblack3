@@ -1,0 +1,100 @@
+﻿\x1A\x01\x09\x46\x00\x36\x00\x30\x00\x31\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :54: \x1A\x01\x0A\x43\x00\x30\x00\x36\x00\x30\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x31\x00\x09\x00 :54: \x0A\x04\x00\x20\x84\x01\x0A\x04\x02\x59\x84\x01\x0A\x04\x00\x78\x84\x01\x16 :5B: \x15 :5A: 
+:54
+\x15 :5A: 
+:5A
+\x78
+:5B
+<music 10>
+<background "ev072a00.agf" 10>
+Right now, the city has less than twenty
+people, including Sofia and me.
+#
+I thought there were a lot more when I first
+got here, but they were just here to help get
+things ready.
+#
+<name "Hoe Demon" "!ZD0001">
+"How's it going, Overlord?"
+#
+<name "Darx">
+"Well enough.
+ Oh, there's a big stone in the ground over
+ there I'll need help with."
+#
+<name "Hoe Demon" "!ZD0002">
+"If you can't handle it, it must be a boulder,
+ not a stone."
+#
+<name "Darx">
+"I guess?"
+#
+<name "Hoe Demon" "!ZD0003">
+"That's right.
+ When I'm done here, I'll come over to help."
+#
+<name "Darx">
+"Okay, I'll be waiting."
+#
+The people here used to live in Forzelotte's
+Shrine.
+They wanted to move to the new city I'm 
+building.
+#
+Macdo was keeping a close watch, so I couldn't
+do any major recruiting, but rumors got around
+like rumors do, and at least some people came.
+#
+Thankfully.
+#
+At the same time, there are those who wanted
+to come but weren't able to.
+#
+Some of them are in important positions, and
+some of them are ones I've fucked.
+#
+Almost all of the angels wanted to come here,
+but Macdo vetoed that.
+#
+I'm sure it's because she hates me...
+#
+But it's probably for the best that they're
+not allowed here just yet.
+#
+If the number of people living here suddenly
+jumped by a thousand, we would have to rely on
+Forzelotte's Shrine.
+#
+We can bring them here once things are more
+built and ready to support them.
+#
+<name "Housewife Demon" "!HC0004">
+"Overlord, the rope you wanted is done."
+#
+<name "Darx">
+"Thanks."
+#
+In any case, right now, I've started building
+this city not as the Overlord, but as just a
+man.
+#
+<name "Sofia" "!ZB0076">
+"I'm looking forward to the harvest."
+#
+<name "Darx">
+"Netherworld crops grow quickly, but we've
+ still got a long way to go."
+#
+<name "Sofia" "!ZB0077">
+"That is true."
+#
+<name "Darx">
+"For a while, we're just at the level of a 
+ small village. 
+ You take care of your Sofia things, and don't
+ hesitate to tell me if I'm messing up."
+#
+<name "Sofia" "!ZB0078">
+"Understood."
+#
+<exit>
+\x78

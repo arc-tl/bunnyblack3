@@ -1,0 +1,187 @@
+﻿<music 11>
+<background "bg001a3.agf" 10>
+My other body was gone, and the battle was 
+over.
+#
+As we expected, the damage was severe, and the
+people still in the independent areas asked for
+help from the city.
+They decided to join us.
+#
+And the Angels who had stayed behind to keep
+fighting slowly began to withdraw without 
+Wadatsumi leading them and pulling their
+strings.
+#
+But the truth might be that they suffered
+extensive damage from my tentacles and could
+no longer effectively fight.
+#
+There are still some people in the independent
+areas still resisting, but they're unlikely to
+seriously attack us, so it's not worth worrying
+too much about.
+#
+However, that doesn't mean we can celebrate.
+#
+My body's attack severely damaged the city and
+Forzelotte's Shrine.
+#
+In some places, it's even worse than when the
+castles fell.
+#
+It hurts my head trying to think about how long
+it's going to take to rebuild.
+#
+<name "Sofia" "!ZB0999">
+"Well, we'll manage."
+#
+<name "Darx">
+"...Yeah.
+ We'll manage."
+#
+<music 19>
+<background "ev035a00.agf" 10>
+<name "Kyuriha" "!FA0552">
+"Mm! Aah! Aaah!
+ Overlord!"
+#
+<name "Miartei" "!SA0268">
+"Aah! Aah!
+ T-That's my... Aaah!"
+#
+<name "Suisen" "!YA0310">
+"I-If you grab my breasts so much..."
+#
+<name "Miartei" "!SA0269">
+"Ah! Aah! Ah! Mmm!"
+#
+<name "Kyuriha" "!FA0553">
+"Mm! Aah!"
+#
+<name "Suisen" "!YA0311">
+"Ah! Ah! Ahh!"
+#
+I start to come inside Miartei.
+#
+<background "ev035a01.agf" 10>
+<name "Miartei" "!SA0270">
+"Mmmm..."
+#
+<name "Kyuriha" "!FA0554">
+"Aaah.
+ Me next."
+#
+<name "Suisen" "!YA0312">
+"Aah...mmm... 
+ H-Haven't you... my breasts...
+ Mm...aah..."
+#
+<name "Darx">
+"What? You want me to rub them harder?"
+#
+<name "Kyuriha" "!FA0555">
+"Aahh...mmm...
+ Suisen's become quite well-behaved as well."
+#
+<name "Miartei" "!SA0272">
+"Yes, she has."
+#
+<name "Suisen" "!YA0313">
+"That's not..."
+#
+<name "Kyuriha" "!FA0556">
+"We are all completely exposed to each other
+ here.
+ There's no point hiding it."
+#
+<name "Miartei" "!SA0273">
+"I feel the same way."
+#
+<name "Suisen" "!YA0314">
+"I, um...
+ It's just thanks for Sue..."
+#
+<name "Kyuriha" "!FA0557">
+"If you're so worried about her, then you
+ shouldn't be forcing her to do anything so
+ dangerous."
+#
+<name "Miartei" "!SA0274">
+"That's right."
+#
+<name "Suisen" "!YA0315">
+"He said it wouldn't be dangerous..."
+#
+<name "Kyuriha" "!FA0558">
+"You may be a merchant, but you do have your
+ weak points."
+#
+<name "Miartei" "!SA0275">
+"No wonder Gunguskar is beating you."
+#
+<name "Suisen" "!YA0316">
+"I haven't lost yet.
+ Anselm is hard at work rebuilding the city."
+#
+<name "Darx">
+"It's certainly been helpful."
+#
+<name "Suisen" "!YA0317">
+"See?"
+#
+<name "Sofia" "!ZB1000">
+"That's fine, but..."
+#
+<name "Miartei" "!SA0276">
+"Aah!"
+#
+<name "Darx">
+"W-What is it?"
+#
+<name "Sofia" "!ZB1001">
+"Don't give me that.
+ What do you think you're doing!?"
+#
+<name "Darx">
+"Huh?
+ Oh, uh, see?"
+#
+<name "Kyuriha" "!FA0559">
+"We were just improving relations between the
+ Overlord and Celestia."
+#
+<name "Miartei" "!SA0277">
+"That's right.
+ Suisen also said she wanted to formally
+ apologize."
+#
+<name "Suisen" "!YA0318">
+"I-I didn't exactly..."
+#
+<name "Sofia" "!ZB1002">
+"While Anselm has been very helpful, quite a
+ bit of work has been unable to progress due to
+ your absence.
+ Overlord, Kyuriha, and you too, Miartei."
+#
+<name "Sofia" "!ZB1003">
+"This is not the time to be flouncing around."
+#
+<name "Miartei" "!SA0278">
+"Eeeh? But..."
+#
+<name "Sofia" "!ZB1004">
+"I'm already mad.
+ Get dressed."
+#
+<name "Miartei" "!SA0279">
+"Y-Yes, ma'am."
+#
+<name "Rualtei" "!RA0249">
+"The image of my sister keeps falling apart."
+#
+I was able to build a cordial relationship with
+the three angels.
+#
+\x78\x78

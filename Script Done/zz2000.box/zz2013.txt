@@ -1,0 +1,66 @@
+﻿<music 13>
+<background "ev051a01.agf" 10>
+<name "Paniverna" "!DA0090">
+"Whew..."
+#
+<name "Manager" "!ZD0158">
+"Good work.
+ Your next set is in two hours."
+#
+<name "Paniverna" "!DA0091">
+"All right.
+ I need something to eat."
+#
+<name "Manager" "!ZD0159">
+"It's ready for you."
+#
+<name "Paniverna" "!DA0092">
+"And the Overlord?"
+#
+<name "Manager" "!ZD0160">
+"He's been invited."
+#
+<name "Darx">
+"I've been tied up.
+ I am the Overlord, you know?"
+#
+<name "Manager" "!ZD0161">
+"I'm sorry.
+ Please understand it's to keep her in good
+ spirits."
+#
+<name "Darx">
+"You realize that this isn't normal, right?
+ This is crazy?
+ You understand that too?"
+#
+<name "Manager" "!ZD0162">
+"I would tie up even the God King of Celestia
+ if that was Miss Paniverna's request."
+#
+<name "Darx">
+"R-Resistance is... useless?"
+#
+<name "Manager" "!ZD0163">
+"Well then, Miss Paniverna. I'll be back in an
+ hour and fifty minutes.
+ Enjoy yourself."
+#
+<name "Paniverna" "!DA0093">
+"Thank you."
+#
+<name "Darx">
+"...That's an excellent manager."
+#
+<name "Paniverna" "!DA0094">
+"Yes.
+ Now then, Overlord.♪"
+#
+<name "Darx">
+"I give up. I'll stay with you, just untie me.
+ I know there's no escape."
+#
+<name "Paniverna" "!DA0095">
+"Yep.♪"
+#
+\x78\x78

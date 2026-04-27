@@ -1,0 +1,70 @@
+﻿<music 18>
+<background "ev086a00.agf" 10>
+<name "Sofia" "!ZB0425">
+"Mm... G-Geez, Overlord, there's still
+ work..."
+#
+<name "Darx">
+"You say that, but you're holding on tight."
+#
+MY dick is already inside her.
+#
+<name "Sofia" "!ZB0426">
+"You forced me to..."
+#
+<name "Darx">
+"And made you this wet?"
+#
+She's already soaked.
+#
+<name "Sofia" "!ZB0427">
+"T-That's right."
+#
+<name "Darx">
+"And let me move so smoothly?"
+#
+<name "Sofia" "!ZB0428">
+"You forced me to."
+#
+<name "Darx">
+"I see."
+#
+<name "Darx">
+"So should I stop?"
+#
+<name "Sofia" "!ZB0429">
+"Huh?"
+#
+<name "Darx">
+"Let's stop.
+ Get off."
+#
+<name "Sofia" "!ZB0430">
+".........Overlord."
+#
+<name "Darx">
+"Yes?"
+#
+<name "Sofia" "!ZB0431">
+"Now I'm mad."
+#
+<name "Darx">
+"...Sorry.
+ Then I'll give it my all."
+#
+<background "ev086a01.agf" 10>
+<name "Sofia" "!ZB0432">
+"Huh? Ah, wait a minute, I'm not rea...
+ Aah! Ah! Aaah!"
+#
+She took the rest of the day off from work.
+#
+<name "Company Maid" "!PC0042">
+"Overlord, I'm sorry, but she has a very
+ important job, so please go easy on her."
+#
+<name "Darx">
+"Sorry.
+ I'll be better."
+#
+\x78\x78

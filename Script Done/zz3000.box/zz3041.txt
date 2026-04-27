@@ -1,0 +1,136 @@
+﻿<music 4>
+<background "bg009a0.agf" 10>
+<sprite "ta01a025.agf" 4 4 11>
+<name "Sofia" "!ZB0239">
+"...Huh?"
+#
+<removesprite -1 11>
+<sprite "ta34a000.agf" 4 4 11>
+<name "Company Maid" "!DC0052">
+"Sofia, did you hear what I said?"
+#
+<sprite "ta01a045.agf" 4 4 11>
+<name "Sofia" "!ZB0240">
+"Huh?
+ Oh...
+ S-Sorry..."
+#
+<removesprite -1 11>
+Sofia fainted.
+#
+<sprite "ta34a008.agf" 4 4 11>
+<name "Company Maid" "!DC0053">
+"Sofia!"
+#
+<removesprite -1 11>
+<music 3>
+<background "bg010a0.agf" 10>
+<sprite "ta34a001.agf" 4 4 11>
+<name "Company Maid" "!DC0054">
+"It looks like she's been working too hard.
+ She may need to rest for a while."
+#
+<name "Darx">
+"I see."
+#
+<removesprite -1 11>
+<sprite "ta08a016.agf" 4 4 11>
+<name "Rakia" "!ZC0168">
+"Forgive me, Darx.
+ This is our fault."
+#
+<name "Darx">
+"No, I was relying on her for too much too."
+#
+<sprite "ta08a015.agf" 4 4 12>
+<name "Rakia" "!ZC0169">
+"No. You should be relying on someone from
+ Gunguskar.
+ She collapsed because we were lax in the
+ management of this branch."
+#
+<name "Darx">
+"...I see.
+ Well, go easy on her, and give her a chance
+ to get better."
+#
+<sprite "ta08a016.agf" 4 4 12>
+<name "Rakia" "!ZC0170">
+"Yes."
+#
+<name "Darx">
+"I wish I could ask for her back as quickly as
+ possible, but I know I can't."
+#
+<name "Darx">
+"Just get her back on her feet before everything
+ goes to hell."
+#
+<sprite "ta08a000.agf" 4 4 12>
+<name "Rakia" "!ZC0171">
+"About that..."
+#
+<name "Darx">
+"I don't want a replacement for her."
+#
+<sprite "ta08a016.agf" 4 4 12>
+<name "Rakia" "!ZC0172">
+"...As you wish."
+#
+<removesprite -1 11>
+<music 11>
+<background "bg015a0.agf" 10>
+Five days later.
+#
+<music 3>
+<background "bg010a0.agf" 10>
+<sprite "ta01a036.agf" 4 4 11>
+<name "Sofia" "!ZB0241">
+"I'm sorry.
+ I just made more trouble."
+#
+<name "Darx">
+"Nah, don't sweat it.
+ More importantly, are you okay now?"
+#
+<sprite "ta01a004.agf" 4 4 12>
+<name "Sofia" "!ZB0242">
+"Yes.
+ I'm full of energy again."
+#
+<name "Darx">
+"I see.
+ Normally, I'd try to take care of as much as
+ I can for you, but..."
+#
+<name "Darx">
+"That's not an option.
+ Work's piling up."
+#
+<name "Darx">
+"I need your help."
+#
+<sprite "ta01a033.agf" 4 4 12>
+<name "Sofia" "!ZB0243">
+"Okay.
+ Leave it to me!"
+#
+<name "Darx">
+"And..."
+#
+<sprite "ta01a016.agf" 4 4 12>
+<name "Sofia" "!ZB0244">
+"Y-Yes?"
+#
+<name "Darx">
+"If you feel tired, get some rest.
+ Pushing yourself too hard until you collapse
+ will just make it all for nothing."
+#
+<sprite "ta01a034.agf" 4 4 12>
+<name "Sofia" "!ZB0245">
+"Yes, sir.
+ I'll take a break when I'm tired."
+#
+<removesprite -1 11>
+\x2B\x78\x78

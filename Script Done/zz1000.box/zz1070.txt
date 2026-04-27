@@ -1,0 +1,59 @@
+﻿<music 12>
+<background "ev074a00.agf" 10>
+<name "Rookie Adventurer" "!JA0047">
+"Sir, I heard that Ekate was in the deepest
+ part of this dungeon.
+ Isn't she dangerous?"
+#
+<name "Seasoned Adventurer" "!BC0069">
+"Hahaha.
+ Come on.
+ It's just a rumor."
+#
+<name "Rookie Adventurer" "!JA0048">
+"But a castle fell in the middle of this
+ forest. Maybe she moved to a different home
+ or something..."
+#
+<name "Seasoned Adventurer" "!BC0070">
+"No way.
+ Look around.
+ This place is just cruddy."
+#
+<name "Seasoned Adventurer" "!BC0071">
+"Low level monsters too."
+#
+<name "Seasoned Adventurer" "!BC0072">
+"There's no way Ekate would be somewhere like
+ this."
+#
+<name "Rookie Adventurer" "!JA0049">
+"Sir, when you talk to me about that, it just
+ makes me feel like you're forcing us to run
+ into Ekate."
+#
+<name "Seasoned Adventurer" "!BC0073">
+"Oh, you mean like that stuff.
+ Like how talking about getting married before
+ battle makes everybody think that you're 
+ going to die in that fight."
+#
+<name "Rookie Adventurer" "!JA0050">
+"Yes.
+ A jinx."
+#
+<name "Seasoned Adventurer" "!BC0074">
+"Hahaha.
+ I don't believe in jinxes."
+#
+<music 16>
+<background "ev049a00.agf" 10>
+<name "Seasoned Adventurer" "!BC0075">
+"Um...
+ From now on, I believe in jinxes."
+#
+<name "Rookie Adventurer" "!JA0051">
+"That means that we're gonna die.
+ Please let us make it home alive first."
+#
+\x78\x78

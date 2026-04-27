@@ -1,0 +1,33 @@
+﻿<music 3>
+<background "bg010a0.agf" 10>
+<name "Darx">
+"Hmmm..."
+#
+<name "Darx">
+"Normally, you're just normal."
+#
+<name "Tsulara" "!SB0188">
+"Yes."
+#
+<name "Tsulara" "!SB0189">
+"However, sometimes, um...
+ I guess you could say that my frustration
+ explodes?"
+#
+<name "Darx">
+"That certainly seems like it."
+#
+<name "Tsulara" "!SB0190">
+"Yes."
+#
+<name "Tsulara" "!SB0191">
+"My first would be my husband.
+ I swore that, but it was just a random man,
+ and what's more, the Overlord..."
+#
+<name "Tsulara" "!SB0192">
+"I feel like it must be fate."
+#
+She's certainly well-adjusted.
+#
+\x78\x78

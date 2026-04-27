@@ -1,0 +1,1570 @@
+﻿\x0B\x02\x02\x1E\x02\x02\x1E 1 \x1A\x01\x0B\x43\x00\x35\x00\x34\x00\x32\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x38\x00\x36\x00\x09\x00 :30: \x15 :156E: 
+:30
+\x2E\x22\x00\x00 1  7 \x1A\x01\x0A\x43\x00\x4C\x00\x30\x00\x30\x00\x30\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x31\x00 :108: \x16 :5C4: \x16 :64F: \x16 :6AC: \x16 :709: \x16 :794: \x16 :81F: \x16 :8AA: \x16 :907: \x16 :964: \x16 :9C1: \x16 :A4C: \x16 :AD7: \x16 :B62: \x16 :BED: \x16 :C4A: \x16 :CA7: \x16 :D32: \x16 :DBD: \x16 :E76: \x16 :F01: \x16 :F5E: \x16 :FE9: \x16 :10A2: \x16 :112D: \x16 :1214: \x16 :129F: \x16 :132A: \x16 :13E3: \x16 :149C: 
+:108
+\x1A\x01\x0A\x43\x00\x4C\x00\x30\x00\x30\x00\x30\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x32\x00 :1D2: \x16 :A4C: \x16 :64F: \x16 :AD7: \x16 :13E3: \x16 :BED: \x16 :C4A: \x16 :CA7: \x16 :D32: \x16 :E76: \x16 :B62: \x16 :907: \x16 :F01: \x16 :6AC: \x16 :149C: \x16 :F5E: \x16 :709: \x16 :FE9: \x16 :9C1: \x16 :964: \x16 :10A2: \x16 :8AA: \x16 :DBD: \x16 :112D: \x16 :81F: \x16 :1214: \x16 :129F: \x16 :794: \x16 :132A: \x16 :5C4: 
+:1D2
+\x1A\x01\x0A\x43\x00\x4C\x00\x30\x00\x30\x00\x30\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x33\x00 :29C: \x16 :709: \x16 :E76: \x16 :CA7: \x16 :6AC: \x16 :F01: \x16 :B62: \x16 :F5E: \x16 :964: \x16 :64F: \x16 :C4A: \x16 :907: \x16 :8AA: \x16 :BED: \x16 :D32: \x16 :A4C: \x16 :FE9: \x16 :9C1: \x16 :10A2: \x16 :112D: \x16 :794: \x16 :AD7: \x16 :DBD: \x16 :149C: \x16 :1214: \x16 :129F: \x16 :5C4: \x16 :132A: \x16 :13E3: \x16 :81F: 
+:29C
+\x1A\x01\x0A\x43\x00\x4C\x00\x30\x00\x30\x00\x30\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x34\x00 :366: \x16 :D32: \x16 :DBD: \x16 :A4C: \x16 :149C: \x16 :E76: \x16 :B62: \x16 :6AC: \x16 :132A: \x16 :964: \x16 :F01: \x16 :907: \x16 :F5E: \x16 :64F: \x16 :FE9: \x16 :C4A: \x16 :709: \x16 :10A2: \x16 :5C4: \x16 :BED: \x16 :9C1: \x16 :112D: \x16 :1214: \x16 :129F: \x16 :AD7: \x16 :81F: \x16 :8AA: \x16 :CA7: \x16 :13E3: \x16 :794: 
+:366
+\x1A\x01\x0A\x43\x00\x4C\x00\x30\x00\x30\x00\x30\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x35\x00 :430: \x16 :1214: \x16 :AD7: \x16 :F5E: \x16 :149C: \x16 :13E3: \x16 :132A: \x16 :C4A: \x16 :FE9: \x16 :794: \x16 :81F: \x16 :8AA: \x16 :129F: \x16 :112D: \x16 :5C4: \x16 :B62: \x16 :DBD: \x16 :D32: \x16 :64F: \x16 :907: \x16 :964: \x16 :9C1: \x16 :10A2: \x16 :A4C: \x16 :E76: \x16 :CA7: \x16 :6AC: \x16 :F01: \x16 :709: \x16 :BED: 
+:430
+\x1A\x01\x0A\x43\x00\x4C\x00\x30\x00\x30\x00\x30\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x36\x00 :4FA: \x16 :907: \x16 :8AA: \x16 :794: \x16 :709: \x16 :6AC: \x16 :64F: \x16 :81F: \x16 :5C4: \x16 :A4C: \x16 :AD7: \x16 :B62: \x16 :964: \x16 :DBD: \x16 :E76: \x16 :F01: \x16 :10A2: \x16 :112D: \x16 :1214: \x16 :9C1: \x16 :BED: \x16 :C4A: \x16 :CA7: \x16 :D32: \x16 :F5E: \x16 :FE9: \x16 :129F: \x16 :132A: \x16 :13E3: \x16 :149C: 
+:4FA
+\x1A\x01\x0A\x43\x00\x4C\x00\x30\x00\x30\x00\x30\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x37\x00 :5C4: \x16 :10A2: \x16 :112D: \x16 :1214: \x16 :A4C: \x16 :AD7: \x16 :B62: \x16 :BED: \x16 :149C: \x16 :C4A: \x16 :6AC: \x16 :709: \x16 :794: \x16 :DBD: \x16 :E76: \x16 :F01: \x16 :5C4: \x16 :64F: \x16 :81F: \x16 :8AA: \x16 :907: \x16 :964: \x16 :9C1: \x16 :CA7: \x16 :D32: \x16 :F5E: \x16 :FE9: \x16 :129F: \x16 :132A: \x16 :13E3: 
+:5C4
+\x1A\x01\x0A\x46\x00\x31\x00\x35\x00\x30\x00\x31\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :5F2: \x0A\x04
+#
+\xDD\x84\x01\x16 :156F: \x15 :156E: 
+:5F2
+\x1A\x01\x0A\x46\x00\x31\x00\x35\x00\x30\x00\x32\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :620: \x0A\x04
+#
+\xDE\x84\x01\x16 :161F: \x15 :156E: 
+:620
+\x1A\x01\x0A\x46\x00\x31\x00\x35\x00\x30\x00\x33\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :64E: \x0A\x04
+#
+\xDF\x84\x01\x16 :16F9: \x15 :156E: 
+:64E
+<exit>
+:64F
+\x1A\x01\x0A\x46\x00\x31\x00\x35\x00\x30\x00\x34\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :67D: \x0A\x04
+#
+\xE0\x84\x01\x16 :17E6: \x15 :156E: 
+:67D
+\x1A\x01\x0A\x46\x00\x31\x00\x35\x00\x30\x00\x35\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :6AB: \x0A\x04
+#
+\xE1\x84\x01\x16 :188C: \x15 :156E: 
+:6AB
+<exit>
+:6AC
+\x1A\x01\x0A\x46\x00\x31\x00\x35\x00\x30\x00\x36\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :6DA: \x0A\x04
+#
+\xE2\x84\x01\x16 :19B5: \x15 :156E: 
+:6DA
+\x1A\x01\x0A\x46\x00\x31\x00\x35\x00\x30\x00\x37\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :708: \x0A\x04
+#
+\xE3\x84\x01\x16 :1AE9: \x15 :156E: 
+:708
+<exit>
+:709
+\x1A\x01\x0A\x46\x00\x31\x00\x35\x00\x30\x00\x38\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :737: \x0A\x04
+#
+\xE4\x84\x01\x16 :1BA9: \x15 :156E: 
+:737
+\x1A\x01\x0A\x46\x00\x31\x00\x35\x00\x30\x00\x39\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :765: \x0A\x04
+#
+\xE5\x84\x01\x16 :1C53: \x15 :156E: 
+:765
+\x1A\x01\x0A\x46\x00\x31\x00\x35\x00\x31\x00\x30\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :793: \x0A\x04
+#
+\xE6\x84\x01\x16 :1D07: \x15 :156E: 
+:793
+<exit>
+:794
+\x1A\x01\x0A\x46\x00\x31\x00\x35\x00\x31\x00\x31\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :7C2: \x0A\x04
+#
+\xE7\x84\x01\x16 :1DB5: \x15 :156E: 
+:7C2
+\x1A\x01\x0A\x46\x00\x31\x00\x35\x00\x31\x00\x32\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :7F0: \x0A\x04
+#
+\xE8\x84\x01\x16 :1EAB: \x15 :156E: 
+:7F0
+\x1A\x01\x0A\x46\x00\x31\x00\x35\x00\x31\x00\x33\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :81E: \x0A\x04
+#
+\xE9\x84\x01\x16 :1F61: \x15 :156E: 
+:81E
+<exit>
+:81F
+\x1A\x01\x0A\x46\x00\x31\x00\x35\x00\x31\x00\x34\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :84D: \x0A\x04
+#
+\xEA\x84\x01\x16 :205B: \x15 :156E: 
+:84D
+\x1A\x01\x0A\x46\x00\x31\x00\x35\x00\x31\x00\x35\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :87B: \x0A\x04
+#
+\xEB\x84\x01\x16 :2131: \x15 :156E: 
+:87B
+\x1A\x01\x0A\x46\x00\x31\x00\x35\x00\x31\x00\x36\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :8A9: \x0A\x04
+#
+\xEC\x84\x01\x16 :21C9: \x15 :156E: 
+:8A9
+<exit>
+:8AA
+\x1A\x01\x0A\x46\x00\x31\x00\x35\x00\x31\x00\x37\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :8D8: \x0A\x04
+#
+\xED\x84\x01\x16 :229A: \x15 :156E: 
+:8D8
+\x1A\x01\x0A\x46\x00\x31\x00\x35\x00\x31\x00\x38\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :906: \x0A\x04
+#
+\xEE\x84\x01\x16 :2396: \x15 :156E: 
+:906
+<exit>
+:907
+\x1A\x01\x0A\x46\x00\x31\x00\x35\x00\x31\x00\x39\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :935: \x0A\x04
+#
+\xEF\x84\x01\x16 :2456: \x15 :156E: 
+:935
+\x1A\x01\x0A\x46\x00\x31\x00\x35\x00\x32\x00\x30\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :963: \x0A\x04
+#
+\xF0\x84\x01\x16 :2619: \x15 :156E: 
+:963
+<exit>
+:964
+\x1A\x01\x0A\x46\x00\x31\x00\x35\x00\x32\x00\x31\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :992: \x0A\x04
+#
+\xF1\x84\x01\x16 :276E: \x15 :156E: 
+:992
+\x1A\x01\x0A\x46\x00\x31\x00\x35\x00\x32\x00\x32\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :9C0: \x0A\x04
+#
+\xF2\x84\x01\x16 :290F: \x15 :156E: 
+:9C0
+<exit>
+:9C1
+\x1A\x01\x0A\x46\x00\x31\x00\x35\x00\x32\x00\x33\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :9EF: \x0A\x04
+#
+\xF3\x84\x01\x16 :2A93: \x15 :156E: 
+:9EF
+\x1A\x01\x0A\x46\x00\x31\x00\x35\x00\x32\x00\x34\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :A1D: \x0A\x04
+#
+\xF4\x84\x01\x16 :2B2B: \x15 :156E: 
+:A1D
+\x1A\x01\x0A\x46\x00\x31\x00\x35\x00\x32\x00\x35\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :A4B: \x0A\x04
+#
+\xF5\x84\x01\x16 :2BCD: \x15 :156E: 
+:A4B
+<exit>
+:A4C
+\x1A\x01\x0A\x46\x00\x31\x00\x35\x00\x32\x00\x36\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :A7A: \x0A\x04
+#
+\xF6\x84\x01\x16 :2DE8: \x15 :156E: 
+:A7A
+\x1A\x01\x0A\x46\x00\x31\x00\x35\x00\x32\x00\x37\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :AA8: \x0A\x04
+#
+\xF7\x84\x01\x16 :2E80: \x15 :156E: 
+:AA8
+\x1A\x01\x0A\x46\x00\x31\x00\x35\x00\x32\x00\x38\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :AD6: \x0A\x04
+#
+\xF8\x84\x01\x16 :2F67: \x15 :156E: 
+:AD6
+<exit>
+:AD7
+\x1A\x01\x0A\x46\x00\x31\x00\x35\x00\x32\x00\x39\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :B05: \x0A\x04
+#
+\xF9\x84\x01\x16 :30A6: \x15 :156E: 
+:B05
+\x1A\x01\x0A\x46\x00\x31\x00\x35\x00\x33\x00\x30\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :B33: \x0A\x04
+#
+\xFA\x84\x01\x16 :314C: \x15 :156E: 
+:B33
+\x1A\x01\x0A\x46\x00\x31\x00\x35\x00\x33\x00\x31\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :B61: \x0A\x04
+#
+\xFB\x84\x01\x16 :3206: \x15 :156E: 
+:B61
+<exit>
+:B62
+\x1A\x01\x0A\x46\x00\x31\x00\x35\x00\x33\x00\x32\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :B90: \x0A\x04
+#
+\xFC\x84\x01\x16 :32BE: \x15 :156E: 
+:B90
+\x1A\x01\x0A\x46\x00\x31\x00\x35\x00\x33\x00\x33\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :BBE: \x0A\x04
+#
+\xFD\x84\x01\x16 :339B: \x15 :156E: 
+:BBE
+\x1A\x01\x0A\x46\x00\x31\x00\x35\x00\x33\x00\x34\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :BEC: \x0A\x04
+#
+\xFE\x84\x01\x16 :347D: \x15 :156E: 
+:BEC
+<exit>
+:BED
+\x1A\x01\x0A\x46\x00\x31\x00\x35\x00\x33\x00\x35\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :C1B: \x0A\x04
+#
+\xFF\x84\x01\x16 :3539: \x15 :156E: 
+:C1B
+\x1A\x01\x0A\x46\x00\x31\x00\x35\x00\x33\x00\x36\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :C49: \x0A\x04\x06\x00\x84\x01\x16 :369F: \x15 :156E: 
+:C49
+<exit>
+:C4A
+\x1A\x01\x0A\x46\x00\x31\x00\x35\x00\x33\x00\x37\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :C78: \x0A\x04\x06\x01\x84\x01\x16 :3717: \x15 :156E: 
+:C78
+\x1A\x01\x0A\x46\x00\x31\x00\x35\x00\x33\x00\x38\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :CA6: \x0A\x04\x06\x02\x84\x01\x16 :382B: \x15 :156E: 
+:CA6
+<exit>
+:CA7
+\x1A\x01\x0A\x46\x00\x31\x00\x35\x00\x33\x00\x39\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :CD5: \x0A\x04\x06\x03\x84\x01\x16 :38DC: \x15 :156E: 
+:CD5
+\x1A\x01\x0A\x46\x00\x31\x00\x35\x00\x34\x00\x30\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :D03: \x0A\x04\x06\x04\x84\x01\x16 :3996: \x15 :156E: 
+:D03
+\x1A\x01\x0A\x46\x00\x31\x00\x35\x00\x34\x00\x31\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :D31: \x0A\x04\x06
+#
+\x84\x01\x16 :3A8B: \x15 :156E: 
+:D31
+<exit>
+:D32
+\x1A\x01\x0A\x46\x00\x31\x00\x35\x00\x34\x00\x32\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :D60: \x0A\x04\x06\x06\x84\x01\x16 :3C2E: \x15 :156E: 
+:D60
+\x1A\x01\x0A\x46\x00\x31\x00\x35\x00\x34\x00\x33\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :D8E: \x0A\x04\x06\x07\x84\x01\x16 :3D0D: \x15 :156E: 
+:D8E
+\x1A\x01\x0A\x46\x00\x31\x00\x35\x00\x34\x00\x34\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :DBC: \x0A\x04\x06\x08\x84\x01\x16 :3DE1: \x15 :156E: 
+:DBC
+<exit>
+:DBD
+\x1A\x01\x0A\x46\x00\x31\x00\x35\x00\x34\x00\x35\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :DEB: \x0A\x04\x06\x09\x84\x01\x16 :3EE6: \x15 :156E: 
+:DEB
+\x1A\x01\x0A\x46\x00\x31\x00\x35\x00\x34\x00\x36\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :E19: \x0A\x04\x06\x0A\x84\x01\x16 :3F82: \x15 :156E: 
+:E19
+\x1A\x01\x0A\x46\x00\x31\x00\x35\x00\x34\x00\x37\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :E47: \x0A\x04\x06\x0B\x84\x01\x16 :4026: \x15 :156E: 
+:E47
+\x1A\x01\x0A\x46\x00\x31\x00\x35\x00\x34\x00\x38\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :E75: \x0A\x04\x06\x0C\x84\x01\x16 :40D0: \x15 :156E: 
+:E75
+<exit>
+:E76
+\x1A\x01\x0A\x46\x00\x31\x00\x35\x00\x34\x00\x39\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :EA4: \x0A\x04\x06\x0D\x84\x01\x16 :41AC: \x15 :156E: 
+:EA4
+\x1A\x01\x0A\x46\x00\x31\x00\x35\x00\x35\x00\x30\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :ED2: \x0A\x04\x06\x0E\x84\x01\x16 :4220: \x15 :156E: 
+:ED2
+\x1A\x01\x0A\x46\x00\x31\x00\x35\x00\x35\x00\x31\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :F00: \x0A\x04\x06\x0F\x84\x01\x16 :42AD: \x15 :156E: 
+:F00
+<exit>
+:F01
+\x1A\x01\x0A\x46\x00\x31\x00\x35\x00\x35\x00\x32\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :F2F: \x0A\x04\x06\x10\x84\x01\x16 :431D: \x15 :156E: 
+:F2F
+\x1A\x01\x0A\x46\x00\x31\x00\x35\x00\x35\x00\x33\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :F5D: \x0A\x04\x06\x11\x84\x01\x16 :4391: \x15 :156E: 
+:F5D
+<exit>
+:F5E
+\x1A\x01\x0A\x46\x00\x31\x00\x35\x00\x35\x00\x34\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :F8C: \x0A\x04\x06\x12\x84\x01\x16 :4449: \x15 :156E: 
+:F8C
+\x1A\x01\x0A\x46\x00\x31\x00\x35\x00\x35\x00\x35\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :FBA: \x0A\x04\x06\x13\x84\x01\x16 :44FD: \x15 :156E: 
+:FBA
+\x1A\x01\x0A\x46\x00\x31\x00\x35\x00\x35\x00\x36\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :FE8: \x0A\x04\x06\x14\x84\x01\x16 :460F: \x15 :156E: 
+:FE8
+<exit>
+:FE9
+\x1A\x01\x0A\x46\x00\x31\x00\x35\x00\x35\x00\x37\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :1017: \x0A\x04\x06\x15\x84\x01\x16 :47D0: \x15 :156E: 
+:1017
+\x1A\x01\x0A\x46\x00\x31\x00\x35\x00\x35\x00\x38\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :1045: \x0A\x04\x06\x16\x84\x01\x16 :488A: \x15 :156E: 
+:1045
+\x1A\x01\x0A\x46\x00\x31\x00\x35\x00\x35\x00\x39\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :1073: \x0A\x04\x06
+<exit>
+\x84\x01\x16 :493F: \x15 :156E: 
+:1073
+\x1A\x01\x0A\x46\x00\x31\x00\x35\x00\x36\x00\x30\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :10A1: \x0A\x04\x06\x18\x84\x01\x16 :4A8D: \x15 :156E: 
+:10A1
+<exit>
+:10A2
+\x1A\x01\x0A\x46\x00\x31\x00\x35\x00\x36\x00\x31\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :10D0: \x0A\x04\x06\x19\x84\x01\x16 :4B3F: \x15 :156E: 
+:10D0
+\x1A\x01\x0A\x46\x00\x31\x00\x35\x00\x36\x00\x32\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :10FE: \x0A\x04\x06\x1A\x84\x01\x16 :4C52: \x15 :156E: 
+:10FE
+\x1A\x01\x0A\x46\x00\x31\x00\x35\x00\x36\x00\x33\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :112C: \x0A\x04\x06\x1B\x84\x01\x16 :4D4B: \x15 :156E: 
+:112C
+<exit>
+:112D
+\x1A\x01\x0A\x46\x00\x31\x00\x35\x00\x36\x00\x34\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :115B: \x0A\x04\x06\x1C\x84\x01\x16 :4DB1: \x15 :156E: 
+:115B
+\x1A\x01\x0A\x46\x00\x31\x00\x35\x00\x36\x00\x35\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :1189: \x0A\x04\x06\x1D\x84\x01\x16 :4E53: \x15 :156E: 
+:1189
+\x1A\x01\x0A\x46\x00\x31\x00\x35\x00\x36\x00\x36\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :11B7: \x0A\x04\x06\x1E\x84\x01\x16 :4F33: \x15 :156E: 
+:11B7
+\x1A\x01\x0A\x46\x00\x31\x00\x35\x00\x36\x00\x37\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :11E5: \x0A\x04\x06\x1F\x84\x01\x16 :4FE5: \x15 :156E: 
+:11E5
+\x1A\x01\x0A\x46\x00\x31\x00\x35\x00\x36\x00\x38\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :1213: \x0A\x04\x06\x20\x84\x01\x16 :5103: \x15 :156E: 
+:1213
+<exit>
+:1214
+\x1A\x01\x0A\x46\x00\x31\x00\x35\x00\x36\x00\x39\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :1242: \x0A\x04\x06\x21\x84\x01\x16 :5221: \x15 :156E: 
+:1242
+\x1A\x01\x0A\x46\x00\x31\x00\x35\x00\x37\x00\x30\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :1270: \x0A\x04\x06\x22\x84\x01\x16 :52D2: \x15 :156E: 
+:1270
+\x1A\x01\x0A\x46\x00\x31\x00\x35\x00\x37\x00\x31\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :129E: \x0A\x04\x06\x23\x84\x01\x16 :5388: \x15 :156E: 
+:129E
+<exit>
+:129F
+\x1A\x01\x0A\x46\x00\x31\x00\x35\x00\x37\x00\x32\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :12CD: \x0A\x04\x06\x24\x84\x01\x16 :5540: \x15 :156E: 
+:12CD
+\x1A\x01\x0A\x46\x00\x31\x00\x35\x00\x37\x00\x33\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :12FB: \x0A\x04\x06\x25\x84\x01\x16 :56C5: \x15 :156E: 
+:12FB
+\x1A\x01\x0A\x46\x00\x31\x00\x35\x00\x37\x00\x34\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :1329: \x0A\x04\x06\x26\x84\x01\x16 :58D2: \x15 :156E: 
+:1329
+<exit>
+:132A
+\x1A\x01\x0A\x46\x00\x31\x00\x35\x00\x37\x00\x35\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :1358: \x0A\x04\x06\x27\x84\x01\x16 :5B6D: \x15 :156E: 
+:1358
+\x1A\x01\x0A\x46\x00\x31\x00\x35\x00\x37\x00\x36\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :1386: \x0A\x04\x06\x28\x84\x01\x16 :5CC7: \x15 :156E: 
+:1386
+\x1A\x01\x0A\x46\x00\x31\x00\x35\x00\x37\x00\x37\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :13B4: \x0A\x04\x06\x29\x84\x01\x16 :5D7B: \x15 :156E: 
+:13B4
+\x1A\x01\x0A\x46\x00\x31\x00\x35\x00\x37\x00\x38\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :13E2: \x0A\x04\x06\x2A\x84\x01\x16 :5E53: \x15 :156E: 
+:13E2
+<exit>
+:13E3
+\x1A\x01\x0A\x46\x00\x31\x00\x35\x00\x37\x00\x39\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :1411: \x0A\x04\x06\x2B\x84\x01\x16 :60F9: \x15 :156E: 
+:1411
+\x1A\x01\x0A\x46\x00\x31\x00\x35\x00\x38\x00\x30\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :143F: \x0A\x04\x06\x2C\x84\x01\x16 :6293: \x15 :156E: 
+:143F
+\x1A\x01\x0A\x46\x00\x31\x00\x35\x00\x38\x00\x31\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :146D: \x0A\x04\x06\x2D\x84\x01\x16 :6416: \x15 :156E: 
+:146D
+\x1A\x01\x0A\x46\x00\x31\x00\x35\x00\x38\x00\x32\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :149B: \x0A\x04\x06\x2E\x84\x01\x16 :64CA: \x15 :156E: 
+:149B
+<exit>
+:149C
+\x1A\x01\x0A\x46\x00\x31\x00\x35\x00\x38\x00\x33\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :14CA: \x0A\x04\x06\x2F\x84\x01\x16 :661F: \x15 :156E: 
+:14CA
+\x1A\x01\x0A\x46\x00\x31\x00\x35\x00\x38\x00\x34\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :14F8: \x0A\x04\x06\x30\x84\x01\x16 :6711: \x15 :156E: 
+:14F8
+\x1A\x01\x0A\x46\x00\x31\x00\x35\x00\x38\x00\x35\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :1526: \x0A\x04\x06\x31\x84\x01\x16 :69BE: \x15 :156E: 
+:1526
+<exit>
+<music 4>
+<background "ev001a00.agf" 10>
+Seems busy again today.
+#
+\x15 :156E: 
+:156E
+\x78
+:156F
+<music 4>
+<background "ev001a00.agf" 10>
+<name "Dining Citizen" "!SB0080">
+"I'm always ready to eat a nice meat dish."
+#
+<name "Satisfied Citizen" "!RB0068">
+"Especially beef."
+#
+<exit>
+:161F
+<music 4>
+<background "ev001a00.agf" 10>
+<name "Dining Citizen" "!SB0081">
+"When you think of a beef dish, it's gotta be
+ steak!"
+#
+<name "Satisfied Citizen" "!RB0069">
+"It's quite a luxury to cut out and only cook
+ the tastiest parts!"
+#
+<exit>
+:16F9
+<music 4>
+<background "ev001a00.agf" 10>
+<name "Dining Citizen" "!SB0082">
+"Beef dishes have a weakness.
+ When a girl eats them, they feel too
+ powerful!"
+#
+<name "Satisfied Citizen" "!RB0070">
+"Is that even a real thing?"
+#
+<exit>
+:17E6
+<music 4>
+<background "ev001a00.agf" 10>
+<name "Dining Citizen" "!SB0083">
+"Don't underestimate pork."
+#
+<name "Satisfied Citizen" "!RB0071">
+"I like pigs more than cows."
+#
+<exit>
+:188C
+<music 4>
+<background "ev001a00.agf" 10>
+<name "Dining Citizen" "!SB0084">
+"I like pork dishes, but I hate seeing the
+ original."
+#
+<name "Satisfied Citizen" "!RB0072">
+"Seeing the original?"
+#
+<name "Dining Citizen" "!SB0085">
+"The head or feet."
+#
+<name "Satisfied Citizen" "!RB0073">
+"I see.
+ Agreed!"
+#
+<exit>
+:19B5
+<music 4>
+<background "ev001a00.agf" 10>
+<name "Dining Citizen" "!SB0086">
+"Mutton is delicious and flavorful."
+#
+<name "Satisfied Citizen" "!RB0074">
+"But when I cook it at home, I always worry
+ about the smell."
+#
+<name "Dining Citizen" "!SB0087">
+"If you cook it right, it won't smell bad.
+ Don't cut corners."
+#
+<exit>
+:1AE9
+<music 4>
+<background "ev001a00.agf" 10>
+<name "Dining Citizen" "!SB0088">
+"Did you know that the flavor of mutton
+ changes with the age of the sheep?"
+#
+<name "Satisfied Citizen" "!RB0075">
+"Lamb is delicious, but it's too expensive."
+#
+<exit>
+:1BA9
+<music 4>
+<background "ev001a00.agf" 10>
+<name "Dining Citizen" "!SB0089">
+"Chicken is consistent."
+#
+<name "Satisfied Citizen" "!RB0076">
+"Affordable too.
+ The dish of the common man."
+#
+<exit>
+:1C53
+<music 4>
+<background "ev001a00.agf" 10>
+<name "Dining Citizen" "!SB0090">
+"Chicken wings are... super tasty."
+#
+<name "Satisfied Citizen" "!RB0077">
+"Still though, you shouldn't eat them all the
+ time."
+#
+<exit>
+:1D07
+<music 4>
+<background "ev001a00.agf" 10>
+<name "Dining Citizen" "!SB0091">
+"It hardly feels like you've eaten after a
+ game hen."
+#
+<name "Satisfied Citizen" "!RB0078">
+"But they are tasty."
+#
+<exit>
+:1DB5
+<music 4>
+<background "ev001a00.agf" 10>
+<name "Cooking Maid" "!DC0197">
+"River fish need to be roasted."
+#
+<name "Chef Maid" "!AC0156">
+"It's dangerous to eat them raw, so make sure
+ they're cooked through."
+#
+<name "Cooking Maid" "!DC0198">
+"Yep."
+#
+<exit>
+:1EAB
+<music 4>
+<background "ev001a00.agf" 10>
+<name "Serving Maid" "!DC0199">
+"How do you get river fish?"
+#
+<name "Cooking Maid" "!AC0157">
+"A professional fishes them up from a nearby
+ river."
+#
+<exit>
+:1F61
+<music 4>
+<background "ev001a00.agf" 10>
+<name "Dining Citizen" "!SB0092">
+"River fish...
+ Yep, delicious!"
+#
+<name "Satisfied Citizen" "!RB0079">
+"But wouldn't this be free if you caught it
+ yourself?"
+#
+<name "Dining Citizen" "!SB0093">
+"I'm paying for the fishing and cooking."
+#
+<exit>
+:205B
+<music 4>
+<background "ev001a00.agf" 10>
+<name "Dining Citizen" "!SB0094">
+"Eel."
+#
+<name "Satisfied Citizen" "!RB0080">
+"A scent nobody can resist."
+#
+<name "Dining Citizen" "!SB0095">
+"I can't stop eating it."
+#
+<exit>
+:2131
+<music 4>
+<background "ev001a00.agf" 10>
+<name "Dining Citizen" "!SB0096">
+"An eel dish."
+#
+<name "Satisfied Citizen" "!RB0081">
+"The only problem is the price."
+#
+<exit>
+:21C9
+<music 4>
+<background "ev001a00.agf" 10>
+<name "Cooking Maid" "!DC0200">
+"Eel is very difficult to prepare."
+#
+<name "Chef Maid" "!AC0158">
+"The blood is poisonous, so don't touch it if
+ you don't know what you're doing."
+#
+<exit>
+:229A
+<music 4>
+<background "ev001a00.agf" 10>
+<name "Cooking Maid" "!DC0201">
+"Ocean fish are delicious and can be cooked
+ many different ways, but the problem is that
+ they're hard to get."
+#
+<name "Serving Maid" "!AC0159">
+"It's frustrating to have to rely on Rakia's
+ business."
+#
+<exit>
+:2396
+<music 4>
+<background "ev001a00.agf" 10>
+<name "Cooking Maid" "!DC0202">
+"That can't be a river fish.
+ It's too big."
+#
+<name "Serving Maid" "!AC0160">
+"Cooking is kind of like carpentry, isn't it?"
+#
+<exit>
+:2456
+<music 4>
+<background "ev001a00.agf" 10>
+<name "Cooking Citizen" "!SB0097">
+"Puffer fish cooking."
+#
+<name "Cooking Citizen" "!SB0098">
+"A delicious, but dangerous dish."
+#
+<name "Drinking Citizen" "!RB0082">
+"It's dangerous?"
+#
+<name "Cooking Citizen" "!SB0099">
+"There's poison in it."
+#
+<name "Drinking Citizen" "!RB0083">
+"...Doesn't that mean you shouldn't serve it
+ as food then?"
+#
+<name "Cooking Citizen" "!SB0100">
+"It's delicious, so it's okay."
+#
+<exit>
+:2619
+<music 4>
+<background "ev001a00.agf" 10>
+<name "Cooking Maid" "!AC0161">
+"Preparing blowfish is only for those who
+ know how."
+#
+<name "Serving Maid" "!DC0203">
+"The place where you find the poison is
+ different for each kind of blowfish.
+ What an annoying fish."
+#
+<name "Purchasing Maid" "!PC0223">
+"But it tastes so incredible..."
+#
+<name "Serving Maid" "!DC0204">
+"That makes it even more annoying."
+#
+<exit>
+:276E
+<music 4>
+<background "ev001a00.agf" 10>
+<name "Menu Reader" "!RB0084">
+"You can eat shark?"
+#
+<name "Gourmet Customer" "!SB0101">
+"You can't unless you cook it as soon as you
+ catch it.
+ It smells so bad."
+#
+<name "Menu Reader" "!RB0085">
+"Oh?"
+#
+<name "Gourmet Customer" "!SB0102">
+"What you want is the fin or the tail.
+ There are multiple ways to prepare them, but
+ the more time it takes, the more expensive
+ it'll be."
+#
+<exit>
+:290F
+<music 4>
+<background "ev001a00.agf" 10>
+<name "Cooking Maid" "!AC0162">
+"Catch that!
+ It's still alive!"
+#
+<name "Helping Maid" "!PC0224">
+"Tch! Gutsy!"
+#
+<name "Cooking Maid" "!AC0163">
+"I got it!"
+#
+<name "Purchasing Maid" "!DC0205">
+"Cooking shark is a struggle."
+#
+<name "Cooking Maid" "!AC0164">
+"Well, they should've just cut it up before
+ bringing it here."
+#
+<exit>
+:2A93
+<music 4>
+<background "ev001a00.agf" 10>
+<name "Cooking Citizen" "!SB0103">
+"Mollusks are tasty!"
+#
+<name "Dining Citizen" "!RB0086">
+"Agreed!"
+#
+<exit>
+:2B2B
+<music 4>
+<background "ev001a00.agf" 10>
+<name "Cooking Citizen" "!SB0104">
+"Scallops are super tasty!"
+#
+<name "Dining Citizen" "!RB0087">
+"Grilled is the best!"
+#
+<exit>
+:2BCD
+<music 4>
+<background "ev001a00.agf" 10>
+<name "Serving Maid" "!DC0206">
+"Shellfish, obviously, can only be gotten from
+ the ocean."
+#
+<name "Cooking Maid" "!AC0165">
+"Yes. So be thankful to that collapsed woman."
+#
+<name "Serving Maid" "!DC0207">
+"Why did she collapse?"
+#
+<name "Cooking Maid" "!AC0166">
+"Because she flew all the way to the ocean."
+#
+<name "Serving Maid" "!DC0208">
+"Wouldn't it have been easy to just use a
+ door?"
+#
+<name "Cooking Maid" "!AC0167">
+"...Even if you realized that, don't tell her
+ right now."
+#
+<name "Serving Maid" "!DC0209">
+"Sorry."
+#
+<exit>
+:2DE8
+<music 4>
+<background "ev001a00.agf" 10>
+<name "Enlightened Citizen" "!SB0105">
+"Eat your vegetables too."
+#
+<name "Obedient Citizen" "!RB0088">
+"Okaaay."
+#
+<exit>
+:2E80
+<music 4>
+<background "ev001a00.agf" 10>
+<name "Eating Guard" "!WB0126">
+"I feel like an herbivore when all I eat is a
+ salad."
+#
+<name "Resting Guard" "!TC0121">
+"I don't think an herbivore would be avoiding
+ the green peppers."
+#
+<exit>
+:2F67
+<music 4>
+<background "ev001a00.agf" 10>
+<name "Cooking Maid" "!AC0168">
+"Salad has to have a dressing.
+ I feel unlimited potential here."
+#
+<name "Purchasing Maid" "!DC0210">
+"Those possibilities exist next to countless
+ failures."
+#
+<name "Cooking Maid" "!AC0169">
+"Countless is rude.
+ I just mess up sometimes."
+#
+<exit>
+:30A6
+<music 4>
+<background "ev001a00.agf" 10>
+<name "Eating Citizen" "!ZE0047">
+"Who baked this bread?"
+#
+<name "Serving Maid" "!AC0170">
+"Whoever's turn it was."
+#
+<exit>
+:314C
+<music 4>
+<background "ev001a00.agf" 10>
+<name "New Citizen" "!ZE0048">
+"Isn't there anybody here who specifically
+ bakes bread?"
+#
+<name "Longtime Citizen" "!JA0024">
+"I think most people just make it at home."
+#
+<exit>
+:3206
+<music 4>
+<background "ev001a00.agf" 10>
+<name "Smiling Guard" "!QB0132">
+"Food between two long pieces of bread.
+ A simple lunch."
+#
+<name "Jealous Guard" "!TC0122">
+"Me too.
+ I want that too."
+#
+<exit>
+:32BE
+<music 4>
+<background "ev001a00.agf" 10>
+<name "Hardworking Maid" "!DC0211">
+"There's a lot of depth to pasta."
+#
+<name "Cooking Maid" "!AC0171">
+"I admit that it's deep, but does that matter
+ to people who can't even mix flour right?"
+#
+<exit>
+:339B
+<music 4>
+<background "ev001a00.agf" 10>
+<name "Chewing Citizen" "!ZD0025">
+"The pasta here is incredibly delicious!"
+#
+<name "Worried Citizen" "!UA0038">
+"Hey, don't say that so loud or your wife will
+ hear you."
+#
+<exit>
+:347D
+<music 4>
+<background "ev001a00.agf" 10>
+<name "Eating Guard" "!TC0123">
+"Spaghetti gets wrapped around your fork."
+#
+<name "Interrupting Guard" "!QB0133">
+"Don't take all of it!"
+#
+<exit>
+:3539
+<music 4>
+<background "ev001a00.agf" 10>
+<name "Sampling Citizen" "!RB0089">
+"Hamburger?"
+#
+<name "Cooking Citizen" "!SB0106">
+"It's meat that's been minced, packed
+ together, and then cooked."
+#
+<name "Sampling Citizen" "!RB0090">
+"It's tasty, but why do all that work?"
+#
+<name "Cooking Citizen" "!SB0107">
+"Because there's parts that are too hard to
+ eat unless you mince it up."
+#
+<exit>
+:369F
+<music 4>
+<background "ev001a00.agf" 10>
+<name "Regular Citizen" "!QB0134">
+"Hamburger is more affordable than real
+ beef."
+#
+<exit>
+:3717
+<music 4>
+<background "ev001a00.agf" 10>
+<name "Eating Citizen" "!QB0135">
+"Fried food is the best.♪"
+#
+<name "Drinking Citizen" "!WB0127">
+"If it's fried, I'm happy."
+#
+<name "Smiling Citizen" "!TC0124">
+"The sense of fullness after eating fried food
+ is unbeatable."
+#
+<name "Eating Citizen" "!QB0136">
+"But you do get fat."
+#
+<exit>
+:382B
+<music 4>
+<background "ev001a00.agf" 10>
+<name "Chef Maid" "!AC0172">
+"Be aware of the freshness of the oil.
+ Oil is one of the flavors too."
+#
+<name "Cooking Maid" "!DC0212">
+"Yes, ma'am."
+#
+<exit>
+:38DC
+<music 4>
+<background "ev001a00.agf" 10>
+<name "Serving Maid" "!AC0173">
+"Stew is a fundamental."
+#
+<name "Darx">
+"Stew and bread makes a meal."
+#
+<name "Darx">
+"Reminds me of my adventurer days."
+#
+<exit>
+:3996
+<music 4>
+<background "ev001a00.agf" 10>
+<name "Serving Maid" "!DC0213">
+"The Overlord sure loves stew."
+#
+<name "Secretary Maid" "!PC0225">
+"Maybe because you can't mess it up?"
+#
+<name "Cooking Maid" "!AC0174">
+"How rude.
+ We never mess up any dishes."
+#
+<exit>
+:3A8B
+<music 4>
+<background "ev001a00.agf" 10>
+<name "Thinking Citizen" "!WB0128">
+"Each family's stew has its own taste."
+#
+<name "Remembering Citizen" "!TC0125">
+"Um, each one does, but the taste changes
+ every day."
+#
+<name "Thinking Citizen" "!WB0129">
+"Really?"
+#
+<name "Remembering Citizen" "!TC0126">
+"My mom could never make it taste the same
+ way twice."
+#
+<name "Thinking Citizen" "!WB0130">
+"Well, it's nice to have variety, right?"
+#
+<exit>
+:3C2E
+<music 4>
+<background "ev001a00.agf" 10>
+<name "Cooking Maid" "!AC0175">
+"Even if you're a bad cook, you can still do 
+ it. That's what making stew is all about."
+#
+<name "Remembering Maid" "!DC0214">
+"Oh, um, if you're genuinely bad at it, you
+ can't handle even that."
+#
+<exit>
+:3D0D
+<music 4>
+<background "ev001a00.agf" 10>
+<name "Impressed Citizen" "!ZD0026">
+"Delicious!
+ What a delicious stew!
+ I love it!"
+#
+<name "Cooking Maid" "!AC0176">
+"The trick is to let it simmer for a long
+ time."
+#
+<exit>
+:3DE1
+<music 4>
+<background "ev001a00.agf" 10>
+<name "Resting Guard" "!TC0127">
+"Stew."
+#
+<name "Resting Guard" "!TC0128">
+"It's the same as our survival cooking."
+#
+<name "Honest Guard" "!QB0137">
+"It's not the same.
+ The taste is about two steps above that."
+#
+<exit>
+:3EE6
+<music 4>
+<background "ev001a00.agf" 10>
+<name "Cooking Citizen" "!SB0108">
+"This rice is delicious!"
+#
+<name "Agreeing Citizen" "!RB0091">
+"White rice is the best!"
+#
+<exit>
+:3F82
+<music 4>
+<background "ev001a00.agf" 10>
+<name "Cooking Citizen" "!SB0109">
+"Grilled salmon on white rice."
+#
+<name "Agreeing Citizen" "!RB0092">
+"An exquisite meal."
+#
+<exit>
+:4026
+<music 4>
+<background "ev001a00.agf" 10>
+<name "Cooking Citizen" "!SB0110">
+"This is for after getting drunk."
+#
+<name "Agreeing Citizen" "!RB0093">
+"No complaints about porridge."
+#
+<exit>
+:40D0
+<music 4>
+<background "ev001a00.agf" 10>
+<name "Thoughtful Maid" "!AC0177">
+"Heheheh... White rice.
+ Take it in your hands with salt, and...
+ Rice balls!"
+#
+<name "Surprised Maid" "!DC0215">
+"T-They're unexpectedly delicious!
+ How!?"
+#
+<exit>
+:41AC
+<music 4>
+<background "ev001a00.agf" 10>
+<name "Cooking Citizen" "!QB0138">
+"Why does chestnut rice taste so good?"
+#
+<exit>
+:4220
+<music 4>
+<background "ev001a00.agf" 10>
+<name "Troubled Citizen" "!WB0131">
+"I wish I could eat chestnut rice every day,
+ but it's only available when chestnuts are."
+#
+<exit>
+:42AD
+<music 4>
+<background "ev001a00.agf" 10>
+<name "Hardworking Citizen" "!TC0129">
+"Chestnut rice is what will power me today!"
+#
+<exit>
+:431D
+<music 4>
+<background "ev001a00.agf" 10>
+<name "Cooking Citizen" "!QB0139">
+"There's lots of kinds of mixed rice."
+#
+<exit>
+:4391
+<music 4>
+<background "ev001a00.agf" 10>
+<name "Cooking Citizen" "!WB0132">
+"Mixed rice tastes too good for it to be
+ fair!"
+#
+<name "Agreeing Citizen" "!TC0130">
+"You accidentally ate too much, didn't you?"
+#
+<exit>
+:4449
+<music 4>
+<background "ev001a00.agf" 10>
+<name "Hot Pot Citizen" "!QB0140">
+"I wouldn't mind eating hot pot every day."
+#
+<name "Eating Citizen" "!WB0133">
+"Every day would... definitely make you fat."
+#
+<exit>
+:44FD
+<music 4>
+<background "ev001a00.agf" 10>
+<name "Hot Pot Citizen" "!QB0141">
+"Hot pot is good when it's cold out."
+#
+<name "Listening Citizen" "!WB0134">
+"Yeah."
+#
+<name "Hot Pot Citizen" "!QB0142">
+"It's good when it's hot too."
+#
+<name "Listening Citizen" "!WB0135">
+"Ah, that I disagree with."
+#
+<exit>
+:460F
+<music 4>
+<background "ev001a00.agf" 10>
+<name "Thinking Citizen" "!SB0111">
+"Hot pot isn't good for only a small group."
+#
+<name "Hot Pot Citizen" "!QB0143">
+"Would you like to join us?"
+#
+<name "Thinking Citizen" "!SB0112">
+"Thank you very much."
+#
+<name "Neighboring Citizen" "!RB0094">
+"Didn't even hesitate a second."
+#
+<name "Hot Pot Citizen" "!QB0144">
+"Y-You can join us too."
+#
+<name "Neighboring Citizen" "!RB0095">
+"...Excuse me.
+ Then I'll accept your invitation."
+#
+<exit>
+:47D0
+<music 4>
+<background "ev001a00.agf" 10>
+<name "Cooking Citizen" "!SB0113">
+"There are a lot of really pretty egg dishes,
+ aren't there?"
+#
+<name "Dining Citizen" "!RB0096">
+"And delicious!
+ Nothing more to say!"
+#
+<exit>
+:488A
+<music 4>
+<background "ev001a00.agf" 10>
+<name "Resisting Citizen" "!QB0145">
+"Y-You can't eat raw eggs!
+ You have to cook them."
+#
+<name "Friend Citizen" "!WB0136">
+"Soft boiled is okay though."
+#
+<exit>
+:493F
+<music 4>
+<background "ev001a00.agf" 10>
+<name "Cooking Maid" "!AC0178">
+"Eggs are a fundamental of cooking.
+ Work hard to cook them."
+#
+<name "Apprentice Maid" "!DC0216">
+"Okay."
+#
+<name "Cooking Maid" "!AC0179">
+"Your mistakes will be your dinner.
+ Do it with gusto."
+#
+<name "Apprentice Maid" "!DC0217">
+"Y-Yes, ma'am.
+ I'll try real hard."
+#
+<exit>
+:4A8D
+<music 4>
+<background "ev001a00.agf" 10>
+<name "Cooking Maid" "!AC0180">
+"If you touch my special egg frying pan, I'll
+ kill you."
+#
+<name "Apprentice Maid" "!DC0218">
+"E-Excuse me."
+#
+<exit>
+:4B3F
+<music 4>
+<background "ev001a00.agf" 10>
+<name "Resting Angel" "!QB0146">
+"What an elegant teacup."
+#
+<name "Surprised Angel" "!WB0137">
+"I was surprised there are more kinds of tea
+ in the human world than in Celestia."
+#
+<name "Reflecting Angel" "!TC0131">
+"I'm ashamed that I used to think Celestia's 
+ was the best."
+#
+<exit>
+:4C52
+<music 4>
+<background "ev001a00.agf" 10>
+<name "Sniffing Citizen" "!SB0114">
+"Mm...
+ This tea... smells so nice."
+#
+<name "Calm Citizen" "!RB0097">
+"But isn't it too bitter to drink?"
+#
+<name "Sniffing Citizen" "!SB0115">
+"Indeed."
+#
+<exit>
+:4D4B
+<music 4>
+<background "ev001a00.agf" 10>
+<name "Sleepy Citizen" "!SB0116">
+"I need my tea in the morning..."
+#
+<exit>
+:4DB1
+<music 4>
+<background "ev001a00.agf" 10>
+<name "Coffee Woman" "!RB0098">
+"Whoa.
+ That's bitter."
+#
+<name "Woman's Friend" "!SB0117">
+"It's bitter, but kind of addictive."
+#
+<exit>
+:4E53
+<music 4>
+<background "ev001a00.agf" 10>
+<name "Drinking Citizen" "!RB0099">
+"Hmmmmm.
+ I wonder who came up with coffee."
+#
+<name "Thinking Citizen" "!SB0118">
+"Probably some sugar trader."
+#
+<name "Drinking Citizen" "!RB0100">
+"Hahaha..."
+#
+<exit>
+:4F33
+<music 4>
+<background "ev001a00.agf" 10>
+<name "Sleepy Guard" "!WB0138">
+"Coffee really wakes you up."
+#
+<name "Other Guard" "!TC0132">
+"It's a perfect morning drink."
+#
+<exit>
+:4FE5
+<music 4>
+<background "ev001a00.agf" 10>
+<name "Sampling Maid" "!DC0219">
+"Coffee can taste very differently depending
+ on how you brew it."
+#
+<name "Veteran Maid" "!AC0181">
+"Right, so hurry up and figure out how to
+ brew your own already."
+#
+<name "Sampling Maid" "!DC0220">
+"I-I'll try."
+#
+<exit>
+:5103
+<music 4>
+<background "ev001a00.agf" 10>
+<name "Rookie Maid" "!PC0226">
+"What are you doing?"
+#
+<name "Veteran Maid" "!AC0182">
+"Sorting beans.
+ If you don't sort them by size before
+ roasting, it'll taste bad."
+#
+<name "Rookie Maid" "!PC0227">
+"Oh? Coffee takes a lot of hard work."
+#
+<exit>
+:5221
+<music 4>
+<background "ev001a00.agf" 10>
+<name "Tea Citizen" "!SB0119">
+"Mmmmm...
+ Gree tea is delicious."
+#
+<name "Fellow Citizen" "!RB0101">
+"I prefer regular tea."
+#
+<exit>
+:52D2
+<music 4>
+<background "ev001a00.agf" 10>
+<name "Tea Citizen" "!SB0120">
+"Green tea is calming, but then I want
+ something sweet."
+#
+<name "Merchant Maid" "!AC0183">
+"I can take your order any time."
+#
+<exit>
+:5388
+<music 4>
+<background "ev001a00.agf" 10>
+<name "Remembering Angel" "!TC0133">
+"The green tea in Celestia was much richer."
+#
+<name "Merchant Maid" "!AC0184">
+"Huh?
+ Is that true?"
+#
+<name "Remembering Angel" "!TC0134">
+"Yeah."
+#
+<name "Merchant Maid" "!AC0185">
+"Grrrrrr...
+ Gunguskar cannot afford to be second best.
+ Tell me everything."
+#
+<name "Remembering Angel" "!TC0135">
+"O-Okay.
+ I'll tell you, so... settle down."
+#
+<exit>
+:5540
+<music 4>
+<background "ev001a00.agf" 10>
+<name "Happy Citizen" "!SB0121">
+"Prosciutto.♪ Prosciutto.♪
+ Super yummy."
+#
+<name "Darx">
+"It does have a good reputation.
+ I think it's tasty too, so why not make
+ more of it?"
+#
+<name "Tired Maid" "!DC0221">
+"It takes forever..."
+#
+<name "Exhausted Maid" "!AC0186">
+"I realized how incredble artisans are."
+#
+<name "Darx">
+"Aah, sorry.
+ Forget I said anything."
+#
+<exit>
+:56C5
+<music 4>
+<background "ev001a00.agf" 10>
+<name "Dining Citizen" "!RB0102">
+"Prosciutto is delicious!"
+#
+<name "Dining Citizen" "!RB0103">
+"But I'm sure you'd get bored of it if that
+ was all you ate."
+#
+<name "Merchant Maid" "!AC0187">
+"For those people, we've prepared a wide
+ variety of dishes using prosciutto."
+#
+<name "Dining Citizen" "!RB0104">
+"Oooh!"
+#
+<name "Merchant Maid" "!AC0188">
+"Which would you like?"
+#
+<name "Dining Citizen" "!RB0105">
+"...They're all so expensive."
+#
+<name "Merchant Maid" "!AC0189">
+"Prosciutto is expensive."
+#
+<exit>
+:58D2
+<music 4>
+<background "ev001a00.agf" 10>
+<name "Dreaming Guard" "!WB0139">
+"Prosciutto is eaten in thin slices, right?"
+#
+<name "Listening Guard" "!QB0147">
+"Yeah."
+#
+<name "Dreaming Guard" "!WB0140">
+"I've always dreamed of eating it without
+ cutting it like that."
+#
+<name "Listening Guard" "!QB0148">
+"...Then do it.
+ Go ahead."
+#
+<name "Dreaming Guard" "!WB0141">
+"Huh?
+ Are you sure?"
+#
+<name "Listening Guard" "!QB0149">
+"Yeah, go ahead."
+#
+<name "Dreaming Guard" "!WB0142">
+"Yay.
+ ............I-I can't bite through it."
+#
+<name "Listening Guard" "!QB0150">
+"That's why they cut it so thin."
+#
+<name "Dreaming Guard" "!WB0143">
+"Gah..."
+#
+<exit>
+:5B6D
+<music 4>
+<background "ev001a00.agf" 10>
+<name "Celebrating Citizen" "!SB0122">
+"Cake is sweets brought by God."
+#
+<name "Basking Citizen" "!RB0106">
+"It invites us to euphoria."
+#
+<name "Calm Maid" "!DC0222">
+"But the hell of the scales waits for later."
+#
+<name "Greedy Maid" "!AC0190">
+"Hey. Don't say things that'll hurt sales."
+#
+<exit>
+:5CC7
+<music 4>
+<background "ev001a00.agf" 10>
+<name "Indulgent Citizen" "!TC0136">
+"Today is a good day to eat cake."
+#
+<name "Friend Citizen" "!WB0144">
+"Is there ever a bad day?"
+#
+<exit>
+:5D7B
+<music 4>
+<background "ev001a00.agf" 10>
+<name "Sweet Tooth Citizen" "!SB0123">
+"Heheheh...
+ Now that I'm here, all the cake in your shop
+ is as good as gone."
+#
+<name "Merchant Maid" "!AC0191">
+"P-Please leave some for everybody else."
+#
+<exit>
+:5E53
+<music 4>
+<background "ev001a00.agf" 10>
+<name "Sweet Tooth Citizen" "!SB0124">
+"Heheheh...
+ Now that I'm here..."
+#
+<name "Interrupting Citizen" "!TC0137">
+"You think you're the only one who wants
+ cake?"
+#
+<name "Sweet Tooth Citizen" "!SB0125">
+"...The battle is on."
+#
+<name "Interrupting Citizen" "!TC0138">
+"Yes."
+#
+<name "Watching Citizen" "!RB0107">
+"An eating contest?"
+#
+<name "Interrupting Citizen" "!TC0139">
+"No, I wouldn't do something so uncivilized."
+#
+<name "Sweet Tooth Citizen" "!SB0126">
+"Prepare a cake with strawberries on it.
+ We will alternate bites with our forks."
+#
+<name "Interrupting Citizen" "!TC0140">
+"Whoever drops a strawberry onto the plate
+ first loses."
+#
+<name "Watching Citizen" "!RB0108">
+"...Eh.
+ That's so peaceful."
+#
+<exit>
+:60F9
+<music 4>
+<background "ev001a00.agf" 10>
+<name "Eating Guard" "!QB0151">
+"Dangos.♪ Dangos.♪"
+#
+<name "Tea Making Guard" "!WB0145">
+"Don't eat too much or it'll interfere with
+ work."
+#
+<name "Eating Guard" "!QB0152">
+"Don't worry. Don't worry.
+ Dangos don't count."
+#
+<name "Tea Making Guard" "!WB0146">
+"Last time you said that, you collapsed from
+ overeating."
+#
+<name "Eating Guard" "!QB0153">
+"Awwww...
+ This is the last one."
+#
+<exit>
+:6293
+<music 4>
+<background "ev001a00.agf" 10>
+<name "Remembering Angel" "!TC0141">
+"There was this shop in Celestia where the
+ dangos were super tasty."
+#
+<name "Merchant Maid" "!AC0192">
+"Grrrrrrr!"
+#
+<name "Worried Citizen" "!UA0039">
+"I-I'm sorry, but maybe you can sing the
+ praises of other shops out of earshot of the
+ workers here?"
+#
+<name "Agreeing Citizen" "!ZE0049">
+"They're scary when they're in a bad mood."
+#
+<exit>
+:6416
+<music 4>
+<background "ev001a00.agf" 10>
+<name "Cooking Maid" "!AC0193">
+"You have to get up early every day to make
+ mochi so you make dangos."
+#
+<name "Hardworking Maid" "!DC0223">
+"You'll get a real workout."
+#
+<exit>
+:64CA
+<music 4>
+<background "ev001a00.agf" 10>
+<name "Fixated Maid" "!DC0224">
+"...N-No way.
+ I hate the shape."
+#
+<name "Fixated Maid" "!DC0225">
+"It must be disposed of.
+ Mphmph..."
+#
+<name "Cooking Maid" "!AC0194">
+"I'm not saying not to put your artisan's
+ spirit into making dango, but just finish
+ them all on schedule."
+#
+<name "Fixated Maid" "!DC0226">
+"I-I'll try."
+#
+<exit>
+:661F
+<music 4>
+<background "ev001a00.agf" 10>
+<name "Rookie Maid" "!DC0227">
+"A fruit platter."
+#
+<name "Rookie Maid" "!DC0228">
+"A dish even a talentless cook can manage."
+#
+<name "Cooking Maid" "!AC0195">
+"It's just plating.
+ It's not really cooking."
+#
+<exit>
+:6711
+<music 4>
+<background "ev001a00.agf" 10>
+<name "Merchant Maid" "!DC0229">
+"A fruit platter for you?
+ Understood."
+#
+<name "Wealthy Citizen" "!SB0127">
+"Oh, if possible, can you have it brought out
+ by a male employee?"
+#
+<name "Merchant Maid" "!DC0230">
+"Yes, that's fine..."
+#
+...
+#
+<name "Handsome Employee" "!BC0059">
+"Thank you for waiting.
+ Your fruit platter."
+#
+<name "Wealthy Citizen" "!SB0128">
+"Eeek! Wonderful!♪"
+#
+<name "Friend Citizen" "!RB0109">
+"Sit.♪ Sit.♪"
+#
+...
+#
+<name "Merchant Maid" "!DC0231">
+"W-We're becoming a different kind of
+ restaurant..."
+#
+<name "Thinking Maid" "!AC0196">
+"The next time they ask for a male employee,
+ send the Overlord."
+#
+<exit>
+:69BE
+<music 4>
+<background "ev001a00.agf" 10>
+<name "Darx">
+"Your fruit platter.
+ Thank you for waiting."
+#
+<name "Wealthy Citizen" "!SB0129">
+"Eeek!♪"
+#
+<name "Serving Maid" "!AC0197">
+"I-It's going surprisingly well."
+#
+<name "Secretary Maid" "!PC0228">
+"The Overlord is kind to his family."
+#
+<name "Office Maid" "!DC0232">
+"But, um, there are a lot of complaints
+ coming from Forzelotte's Shrine..."
+#
+<name "Secretary Maid" "!PC0229">
+"Ekate, Paniverna, oh, and Kozelotte too.
+ This is pretty bad."
+#
+<name "Serving Maid" "!AC0198">
+"Ignore them.
+ I don't care about those complaints."
+#
+<name "Secretary Maid" "!PC0230">
+"Rakia too though."
+#
+<name "Serving Maid" "!AC0199">
+"The Overlord's serving days are finished as
+ of today."
+#
+<exit>
+\x78

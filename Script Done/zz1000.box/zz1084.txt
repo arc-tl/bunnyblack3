@@ -1,0 +1,36 @@
+﻿<music 3>
+<background "bg010a0.agf" 10>
+<name "Tsulara" "!SB0193">
+"My eyepatch?
+ Oh, that's just for style."
+#
+<name "Darx">
+"Why again?"
+#
+<name "Tsulara" "!SB0194">
+"Isn't it much cooler this way?"
+#
+<name "Darx">
+"...If you're a samurai, shouldn't you focus
+ on practicality?"
+#
+<name "Tsulara" "!SB0195">
+"Hahaha..."
+#
+...
+#
+<name "Tsulara" "!SB0196">
+"Actually, that eye has trouble with light
+ and can get in the way in a fight, so I felt
+ like it was better to cover it up."
+#
+<name "Tsulara" "!SB0197">
+"Well, that doesn't matter much in a dungeon."
+#
+<name "Tsulara" "!SB0198">
+"If you don't like it, I can take it off."
+#
+<name "Darx">
+"No, if you have a reason, it's fine."
+#
+\x78\x78

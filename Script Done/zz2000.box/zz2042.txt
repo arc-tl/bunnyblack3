@@ -1,0 +1,56 @@
+﻿<music 4>
+<background "bg009a0.agf" 10>
+<sprite "ta34b000.agf" 4 4 11>
+<name "Company Maid" "!PC0127">
+"There are three different kinds of angolamay
+ breast milk."
+#
+<sprite "ta34b004.agf" 4 4 12>
+<name "Company Maid" "!PC0128">
+"First, when they're not pregnant."
+#
+<name "Company Maid" "!PC0129">
+"During this time, the breast milk has an
+ aphrodisiac effect in order to attract a male.
+ The taste is rich and viscous.
+ It sells quite well."
+#
+<name "Company Maid" "!PC0130">
+"Next, when they're pregnant."
+#
+<name "Company Maid" "!PC0131">
+"Since the nutrients are going to the child
+ inside her, the taste of the breast milk is
+ diminished."
+#
+<name "Company Maid" "!PC0132">
+"However, it is also a raw material for some
+ drugs, so it can be sold, but not for a lot."
+#
+<name "Company Maid" "!PC0133">
+"Finally, from after they give birth until 
+ around six months later."
+#
+<name "Company Maid" "!PC0134">
+"This is breast milk for the child."
+#
+<name "Company Maid" "!PC0135">
+"Of course, since it's for a child, it is 
+ packed with nutrients."
+#
+<name "Company Maid" "!PC0136">
+"This fetches the highest price, but since it's
+ for their baby, it's not easy to come by."
+#
+<sprite "ta34b000.agf" 4 4 12>
+<name "Company Maid" "!PC0137">
+"The end.
+ That's all you need to know about angolamay
+ breast milk."
+#
+<removesprite -1 11>
+<name "Yahnu" "!NB0022" "ka24a014.agf">
+"I-It's a little embarrassing to have it
+ spelled out right in front of you."
+#
+\x78\x78

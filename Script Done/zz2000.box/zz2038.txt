@@ -1,0 +1,35 @@
+﻿<music 4>
+<background "ev001a00.agf" 10>
+<name "Eating Citizen" "!JA0170">
+"The first cooking tournament?"
+#
+<name "Drinking Citizen" "!ZH0135">
+"What's that?"
+#
+<name "Sweet Tooth Citizen" "!SB0262">
+"A cooking competition, obviously."
+#
+<name "Eating Citizen" "!JA0171">
+"I see.
+ Then I'll wow them with my special stew!"
+#
+<name "Drinking Citizen" "!ZH0136">
+"No way. My clam chowder will be the winner!"
+#
+<name "Sweet Tooth Citizen" "!SB0263">
+"Hahahahaha!
+ You think you can defeat my roasted chicken?"
+#
+<name "Eating Citizen" "!JA0172">
+"This will be fun."
+#
+...
+#
+<name "Planning Maid" "!DC0510">
+"B-But I was going to ask them to cook with
+ a certain theme ingredient..."
+#
+Everyone brought their best recipe and
+competed over that.
+#
+\x78\x78

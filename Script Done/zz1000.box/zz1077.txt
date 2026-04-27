@@ -1,0 +1,202 @@
+﻿<music 3>
+<background "bg010a0.agf" 10>
+<sprite "ta34c001.agf" 4 4 11>
+<name "Company Maid" "!DC0254">
+"Um, Overlord, we have a little problem in
+ the Temple of Darx."
+#
+<name "Darx">
+"What's the matter?"
+#
+<name "Company Maid" "!DC0255">
+"There's someone doing magical experiments
+ there."
+#
+<name "Darx">
+"Magical experiments?"
+#
+<removesprite -1 11>
+I can believe that.
+#
+Or rather, it's not uncommon.
+#
+<name "Darx">
+"But you're asking me for help so...
+ Something dangerous?"
+#
+<sprite "ta34c001.agf" 4 4 11>
+<name "Company Maid" "!DC0256">
+"Yes. They're conducting large-scale magic in
+ an enclosed space. It's been okay so far,
+ but if it escalates, it could lead to the
+ collapse of the Temple of Darx."
+#
+<name "Darx">
+"That bad?"
+#
+<name "Company Maid" "!DC0257">
+"The Temple of Darx is under Darx City, so
+ there would be consequences..."
+#
+<name "Darx">
+"So I need to drive them out?"
+#
+<name "Company Maid" "!DC0258">
+"That's a possibility, but I have a perfect
+ product for this."
+#
+<name "Darx">
+"Hm?"
+#
+<name "Company Maid" "!DC0259">
+"For now, we're calling it darn dopper.
+ We'd like you to test out the prototype."
+#
+<name "Darx">
+"Oh?"
+#
+<removesprite -1 11>
+<music 12>
+<background "ev083a00.agf" 10>
+<name "Wizard Adventurer" "!HC0088">
+"Heheheh..."
+#
+<name "Darx">
+"Her?"
+#
+<name "Company Maid" "!DC0260">
+"Yes.
+ She's definitely the one."
+#
+<name "Company Maid" "!DC0261">
+"Do you know how to use the darn dopper?"
+#
+<name "Darx">
+"Yeah."
+#
+<name "Company Maid" "!DC0262">
+"Then I'll leave you to it."
+#
+<name "Darx">
+"Roger."
+#
+<name "Wizard Adventurer" "!HC0089">
+"Now then, let's blow some stuff up again."
+#
+<name "Wizard Adventurer" "!HC0090">
+"Hm?
+ Another adventurer?"
+#
+<name "Wizard Adventurer" "!HC0091">
+"You look pretty crazy."
+#
+<name "Wizard Adventurer" "!HC0092">
+"Oh, it's not safe to be here.
+ I'm gonna let loose some magic."
+#
+<name "Wizard Adventurer" "!HC0093">
+"So get your butt out of here."
+#
+<name "Darx">
+"Sorry, but I'm an enemy."
+#
+<name "Wizard Adventurer" "!HC0094">
+"...You have got to be kidding me."
+#
+<name "Darx">
+"Yeah, don't hold back."
+#
+<name "Wizard Adventurer" "!HC0095">
+"You really are an enemy then?"
+#
+<name "Darx">
+"That's right.
+ Your magic experiments here are a problem.
+ I was sent to drive you out."
+#
+<name "Wizard Adventurer" "!HC0096">
+"Hmmm?"
+#
+<name "Wizard Adventurer" "!HC0097">
+"Then explode."
+#
+Before she can cast a spell, I use the darn
+dopper.
+#
+<background "ev083b00.agf" 10>
+Her clothes disappear.
+#
+No, they fall apart.
+#
+Like all the sewing came undone.
+#
+<name "Wizard Adventurer" "!HC0098">
+"...Huh?"
+#
+It's enough to interrupt her spell chant too.
+#
+<name "Wizard Adventurer" "!HC0099">
+"Huh?
+ Uh?
+ Huh?"
+#
+She doesn't realize what happened for a few
+moments before letting out a huge scream.
+#
+I can't stop laughing.
+#
+She tries to hold up the cloth around her and
+cover herself, but it keeps slipping from her
+hands.
+#
+<background "ev083b01.agf" 10>
+<name "Wizard Adventurer" "!HC0100">
+"What just...
+ Huh? Huuuh?
+ Eeeeeh!?"
+#
+I beat a hasty retreat, laughing the whole 
+way.
+#
+<name "Darx">
+"How was that?"
+#
+<name "Company Maid" "!DC0263">
+"It was spectacular."
+#
+<name "Darx">
+"Hahahahaha...
+ But what's the theory behind it?
+ I can't imagine it's just to instantly
+ destroy clothing."
+#
+<name "Company Maid" "!DC0264">
+"The makers said they reduced the friction of
+ materials to zero or something like that...
+ I'm sorry.
+ I'm not sure the details."
+#
+<name "Darx">
+"Does this work on things like demons too?"
+#
+<name "Company Maid" "!DC0265">
+"It doesn't have any effect on clothing made
+ with mana, so it's useless against demons."
+#
+<name "Darx">
+"I-I see...
+ Too bad."
+#
+<name "Company Maid" "!DC0266">
+"Hahaha..."
+#
+<name "Darx">
+"Well, that's fine.
+ Once this comes out for sale, I'll be sure to
+ buy a ton of it."
+#
+<name "Company Maid" "!DC0267">
+"Umm... I'll be sure to tell the creators
+ that."
+#
+\x78\x78

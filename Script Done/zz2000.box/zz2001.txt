@@ -1,0 +1,43 @@
+﻿<music 10>
+<background "ev056a00.agf" 10>
+<name "Marialis" "!LA0064">
+"Brenda, Frenda, Mylene, how is the situation
+ there?"
+#
+<name "Brenda" "!QB0085">
+"All clear!"
+#
+<name "Frenda" "!WB0076">
+"Nothing to report!"
+#
+<name "Mylene" "!TC0075">
+"There were traces of a human camp.
+ I think approximately two days old."
+#
+<name "Marialis" "!LA0065">
+"Adventurers then.
+ Can you track them?"
+#
+<name "Mylene" "!TC0076">
+"That's my specialty.
+ Leave it to me."
+#
+<name "Marialis" "!LA0066">
+"Hopefully they just left.
+ If it looks like they've gone deeper, be sure
+ to report."
+#
+<name "Mylene" "!TC0077">
+"Yes, ma'am."
+#
+<name "Marialis" "!LA0067">
+"Brenda, Frenda, expand your patrol areas.
+ Focus on the edges near Mylene's area."
+#
+<name "Brenda" "!QB0086">
+"Roger."
+#
+<name "Frenda" "!WB0077">
+"Understood."
+#
+\x78\x78

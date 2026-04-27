@@ -1,0 +1,83 @@
+﻿<music 40>
+<background "bg004a0.agf" 10>
+<name "Golan" "!CA0062" "ka32a000.agf">
+"Hahahahaha!
+ You drinking?"
+#
+<name "Tojo" "!KA0102" "ka33a000.agf">
+"Of course.
+ This is one of the rare chances I get to have
+ a drink."
+#
+<name "Meryl" "!HA0089" "ka12a000.agf">
+"Excuse me.
+ Please pass that food over here."
+#
+<name "Marialis" "!LA0123" "ka15a000.agf">
+"Yep.
+ Ah, this is delicious too."
+#
+<name "Meryl" "!HA0090" "ka12a000.agf">
+"Thank you."
+#
+<name "Golan" "!CA0063" "ka32a000.agf">
+"Hey!
+ There's no beer!"
+#
+<name "Tojo" "!KA0103" "ka33a000.agf">
+"For me too, please."
+#
+<name "Cooking Citizen" "!HC0200">
+"Another dish is ready.
+ Serve it right away."
+#
+<name "Darx">
+"Ummmm..."
+#
+<name "Sofia" "!ZB1029" "ka01a000.agf">
+"Oh, it's Mr. Over too long of an introductory
+ speech lord.
+ What is it?"
+#
+<name "Darx">
+"Oh, so you haven't forgotten that I'm the
+ Overlord.
+ Thank goodness."
+#
+<name "Sofia" "!ZB1030" "ka01a000.agf">
+"Of course you are.
+ What are you talking about?"
+#
+<name "Darx">
+"I see. So why am I pouring everybody's drinks
+ and serving them food?"
+#
+<name "Sofia" "!ZB1031" "ka01a000.agf">
+"It's an all-out party."
+#
+<name "Darx">
+"Hahaha..."
+#
+<name "Darx">
+"Really emphasizing the all-out then."
+#
+<name "Sofia" "!ZB1032" "ka01a000.agf">
+"Is that so?
+ Then please keep that in mind."
+#
+<name "Darx">
+"Yea, I will."
+#
+<name "Golan" "!CA0064" "ka32a000.agf">
+"Hey! The food's late!"
+#
+<name "Kasha" "!TB0009" "ka30a000.agf">
+"Over here too, please!"
+#
+The next day, we had to have a bit of a talk.
+#
+About what all-out means.
+#
+And that it is not literal.
+#
+\x78\x78

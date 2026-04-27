@@ -1,0 +1,37 @@
+﻿<music 3>
+<background "bg010a0.agf" 10>
+<sprite "ta34b000.agf" 4 4 11>
+<name "Office Maid" "!PC0314">
+"Huh?
+ Where's the Overlord?"
+#
+<removesprite -1 11>
+<sprite "ta34a000.agf" 2 4 11>
+<sprite "ta34b000.agf" 6 5 11>
+<name "Secretary Maid" "!AC0241">
+"The usual place."
+#
+<removesprite -1 11>
+<music 20>
+<background "ev085a00.agf" 10>
+<name "Panting Adventurer" "!LB0138">
+"Ah! Aah! Ah! Aaaah!"
+#
+<name "Office Maid" "!PC0315">
+"He's been here a long time.
+ Is he okay?"
+#
+<name "Secretary Maid" "!AC0242">
+"I think so..."
+#
+<name "Office Maid" "!PC0316">
+"Should we ask Rakia?"
+#
+<name "Secretary Maid" "!AC0243">
+"Yeah...
+ Oh, but we have to tell Sofia first."
+#
+<name "Office Maid" "!PC0317">
+"Yeah."
+#
+\x78\x78

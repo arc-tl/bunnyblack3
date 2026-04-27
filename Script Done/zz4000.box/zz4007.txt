@@ -1,0 +1,45 @@
+﻿<music 11>
+<background "ev080a00.agf" 10>
+<name "Macdo" "!ZA5019">
+"Did Great Overlord Aishies send me here 
+ because of the Dynast's Mace?"
+#
+<name "Macdo" "!ZA5020">
+"The Dynast's Mace...
+#
+<name "Macdo" "!ZA5021">
+"A human weapon, created by the Netherworld."
+#
+<name "Macdo" "!ZA5023">
+"The full power of that weapon can only be used
+ by a human with the favor of my Markmalta
+ family."
+#
+<name "Macdo" "!ZA5024">
+"My favor is... Well, I do believe he had it...
+ That's not in question."
+#
+<name "Macdo" "!ZA5025">
+"It's not, but...
+ Was this some kind of matchmaking or setup?
+ It felt more like a breeding..."
+#
+<name "Macdo" "!ZA5026">
+"..."
+#
+<name "Macdo" "!ZA5027">
+"I should stop thinking."
+#
+<name "Macdo" "!ZA5028">
+"I don't have the answers, and I doubt that
+ the Great Overlord will tell me."
+#
+<name "Macdo" "!ZA5029">
+"Well, I think the answer is that I haven't
+ been ordered to return to the Netherworld."
+#
+<name "Macdo" "!ZA5031">
+"For now, I will enjoy seeing where Overlord
+ Darx's fate takes him."
+#
+\x78\x78

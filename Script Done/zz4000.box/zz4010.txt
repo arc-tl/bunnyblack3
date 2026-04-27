@@ -1,0 +1,260 @@
+﻿<music 5>
+<background "bg011a0.agf" 10>
+<name "Darx">
+"Let's see...
+ Another book?"
+#
+It must've come from some adventurer.
+#
+<name "Darx">
+"Well, whatever."
+#
+<background "bg017a0.agf" 10>
+<music 17>
+<background "ev102a00.agf" 10>
+<name "Yuki" "!LC0001">
+"Onii-chan..."
+#
+Hm?
+What's the matter?
+#
+<name "Yuki" "!LC0002">
+"You know, I've felt funny since yesterday."
+#
+Yeah, I know
+You're sick, right?
+#
+That's why you stayed home today.
+#
+<name "Yuki" "!LC0003">
+"Yeah, but, um..."
+#
+What is it?
+#
+<name "Yuki" "!LC0004">
+"Um..."
+#
+Speak up.
+#
+<name "Yuki" "!LC0005">
+"It's what you did to me last night."
+#
+It was an expression of love.
+#
+<name "Yuki" "!LC0006">
+"But, it's... w-what lovers do."
+#
+Who told you that?
+#
+<name "Yuki" "!LC0007">
+"A-A girl in my class told me."
+#
+You're growing up, huh?
+#
+<name "Yuki" "!LC0008">
+"Right? Isn't that what lovers do?"
+#
+Yeah, that's right.
+#
+Lovers and... husband and wife.
+#
+<name "Yuki" "!LC0009">
+"Husband and wife."
+#
+Hm?
+#
+Why are your cheeks red?
+#
+<name "Yuki" "!LC0010">
+"T-That's cause..."
+#
+They're really red.
+#
+<name "Yuki" "!LC0011">
+"G-Geez. Don't stare so hard."
+#
+Sorry about that.
+#
+Come on, go to sleep.
+#
+<name "Yuki" "!LC0012">
+"Mm..."
+#
+What's the matter?
+#
+<name "Yuki" "!LC0013">
+"Um, Onii-chan..."
+#
+<name "Yuki" "!LC0014">
+"A-Are you going to do what you did yesterday
+ again?"
+#
+You want me to?
+#
+<name "Yuki" "!LC0015">
+"T-That's not what I mean.
+ But, um, i-if you wanted to..."
+#
+I want to.
+#
+<name "Yuki" "!LC0016">
+"Ah."
+#
+You want me to do the same thing as yesterday,
+the same way?
+#
+<name "Yuki" "!LC0017">
+"Y-Yeah."
+#
+<music 18>
+<background "ev103a00.agf" 10>
+<name "Yuki" "!LC0018">
+"Like this?"
+#
+Yeah, that looks good.
+#
+I'm going to touch you.
+#
+<name "Yuki" "!LC0019">
+"Ah...mm...
+ Yeah."
+#
+<name "Yuki" "!LC0020">
+"Mm...ahh..."
+#
+She spreads herlegs on her own, showing me her
+pussy.
+#
+And I spread her entrance with my fingers.
+#
+<name "Yuki" "!LC0021">
+"Ah...mmm...mmm... 
+ Onii-chan...
+ When you're so gentle... aah!"
+#
+What?
+#
+<name "Yuki" "!LC0022">
+"Ah...aah...ah..."
+#
+I push my finger into her open pussy, all the
+way in to her womb.
+#
+The wounds from yesterday seem to be okay.
+#
+<name "Yuki" "!LC0023">
+"Mm...ah! Aaah!"
+#
+Yesterday, Yuki and I become one.
+#
+Not out of nowhere.
+#
+After six months of careful planning.
+#
+She slowly got used to it, and I could finally
+stretch her open just far enough.
+#
+I never put anything inside her besides my
+finger and tongue.
+#
+Until yesterday.
+#
+I was going to wait a little longer, but I 
+couldn't hold back after seeing her come so
+hard in front of me.
+#
+Aah, it turns me on just remembering it.
+#
+<name "Yuki" "!LC0024">
+"Ah... Onii-chan..."
+#
+She must feel the same way.
+#
+I can tell.
+#
+<name "Yuki" "!LC0025">
+"Mm...ah...aahh..."
+#
+I carefully lick her pussy with my tongue.
+#
+<name "Yuki" "!LC0026">
+"Aah...ah...aaah..."
+#
+I've been doing this for the last six months.
+#
+<name "Yuki" "!LC0027">
+"Mm...ah... M-More...
+ Yes...
+ Mm...aah...ahhh..."
+#
+I already know where she likes it.
+#
+I slide my tongue deep into her and tease her
+with the tip.
+#
+<name "Yuki" "!LC0028">
+"Aaaaaaahhhhhh!!!!"
+#
+She orgasms surprisingly easily.
+#
+<name "Yuki" "!LC0029">
+"Ah...aah...ah..."
+#
+And just like yesterday, has a little accident.
+#
+<name "Yuki" "!LC0030">
+"Ah...
+ No, d-don't look..."
+#
+But she doesn't try to close her legs.
+#
+So I take off my pants, just like yesterday,
+and slowly bury it inside her pussy.
+#
+<name "Yuki" "!LC0031">
+"Aaaaah!
+#
+The night between us lasted even longer than
+yesterday.
+#
+<background "bg017a0.agf" 10>
+<music 5>
+<background "bg011a0.agf" 10>
+<name "Darx">
+"Hmm..."
+#
+<name "Darx">
+"Hmmmmmmmmmm..."
+#
+<sprite "ta34a000.agf" 4 4 11>
+<name "Secretary Maid" "!AC0312">
+"Oh, Overlord?
+ Is something the matter?"
+#
+<name "Darx">
+"You're lucky you came in right now."
+#
+<sprite "ta34a002.agf" 4 4 12>
+<name "Secretary Maid" "!AC0313">
+"Huh?"
+#
+<name "Darx">
+"Come on.
+ Come here, my lady."
+#
+<name "Secretary Maid" "!AC0314">
+"Um, huh?
+ That's the bed... huh?"
+#
+<removesprite -1 11>
+We both enjoy ourselves.
+#
+<sprite "ta01a108.agf" 4 4 11>
+<name "Sofia" "!ZB1019">
+"P-Please don't have sex with the maids while
+ they're working."
+#
+<removesprite -1 11>
+Sofia had some issues with it.
+#
+\x78\x78

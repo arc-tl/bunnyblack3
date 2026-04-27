@@ -1,0 +1,88 @@
+﻿<music 41>
+<background "ev046a00.agf" 10>
+<name "Kozelotte" "!NA0173">
+"Father."
+#
+<name "Darx">
+"Hey."
+#
+<name "Forzelotte" "!XA0296">
+"Mm.
+ Obligatory family time?"
+#
+<name "Darx">
+"Something like that."
+#
+<name "Energetic Girl" "!HC0195">
+"It's Daddy!"
+#
+<name "Running Girl" "!SB0264">
+"Daddy! Daddy!"
+#
+<name "Graceful Girl" "!RB0175">
+"Father."
+#
+<name "Energetic Girl" "!HC0196">
+"Hahaha..."
+#
+<name "Forzelotte" "!XA0297">
+"Darx, are you able to remember all your 
+ children's names?"
+#
+<name "Darx">
+"Don't worry.
+ Fina, Maria, Elinitei, Meniaus." 
+#
+<name "Darx">
+"The cute one over there is Kozelotte.
+ The sleeping one if Oldeus."
+#
+<name "Forzelotte" "!XA0298">
+"Mm.
+ As I expected."
+#
+<name "Darx">
+"I was worried about that for a while too, but
+ when it's your own kids, you remember."
+#
+<name "Darx">
+"I know all of them."
+#
+<name "Darx">
+"Panitte and Panitto are a little difficult
+ though...
+ Hm?"
+#
+I look down to who's pulling on my sleeves.
+#
+<name "Energetic Girl" "!HC0197">
+"Daddy, I'm cute too."
+#
+<name "Darx">
+"Yeah, you are.
+ Sorry, sorry."
+#
+I hug Fina tight.
+#
+<name "Running Girl" "!SB0265">
+"Me too, Daddy."
+#
+<name "Graceful Girl" "!RB0176">
+"Me too, me too."
+#
+I hug them all, one after another.
+#
+<name "Kozelotte" "!NA0174">
+"Hahaha...
+ Me too."
+#
+<name "Forzelotte" "!XA0299">
+"...Me too."
+#
+<name "Darx">
+"I-I knew it'd turn out like this..."
+#
+I'm crushed under their affection, but the
+weight is pure happiness.
+#
+\x78\x78

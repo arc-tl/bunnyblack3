@@ -1,0 +1,87 @@
+﻿<music 16>
+<background "ev023a00.agf" 10>
+<name "Rualtei" "!RA0021">
+"Hey! W-What the heck!?"
+#
+All of a sudden, a huge slime wraps around
+her.
+#
+<name "Rualtei" "!RA0022">
+"Ngh! Aah...ah..."
+#
+It must have been hiding in a tree.
+#
+It's very large.
+#
+For an inexperienced adventurer, this would
+be the end.
+#
+There's nothing they can do.
+#
+But Rualtei is not an inexperienced 
+adventurer.
+#
+<name "Rualtei" "!RA0023">
+"Y-You damn thing!"
+#
+She gathers light all over her body and
+unleashes it.
+#
+<music 7>
+<background "ev023b00.agf" 10>
+The huge slime evaporates.
+#
+Not blown off, evaporated.
+#
+That alone is enough to display Rualtei's
+strength.
+#
+<name "Rualtei" "!RA0024">
+"Okay."
+#
+But nobody would praise her for it.
+#
+Because getting ambushed by a slime is 
+shameful on its own.
+#
+<name "Rualtei" "!RA0025">
+"Oooh. So gross.
+ What the hell?
+ Geez."
+#
+<name "Rualtei" "!RA0026">
+"Well, that's what happens when you jump on
+ me."
+#
+<name "Rualtei" "!RA0027">
+"Hm?"
+#
+<background "ev023c00.agf" 10>
+<name "Rualtei" "!RA0028">
+"Huh?"
+#
+<background "ev023d00.agf" 10>
+<name "Rualtei" "!RA0029">
+"Hey!
+ Huh?
+ What?
+ My clothes!"
+#
+<background "ev023e00.agf" 10>
+<name "Rualtei" "!RA0030">
+"Eeeeeek!"
+#
+The giant slime was the modified one that
+Sofia accidentally let go.
+#
+It only melts clothing, just like the Overlord
+prefers.
+#
+<name "Rualtei" "!RA0031">
+"G-Geez!
+ What the hell!?"
+#
+Rualtei tries to cover herself with leaves
+and runs away.
+#
+\x78\x78

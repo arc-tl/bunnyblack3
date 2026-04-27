@@ -1,0 +1,47 @@
+﻿<music 11>
+<background "bg013a0.agf" 10>
+<name "Darx">
+"Marialis."
+#
+<sprite "ta15a003.agf" 4 4 11>
+<name "Marialis" "!LA5034">
+"Yes?"
+#
+<name "Darx">
+"Let's have sex!"
+#
+<sprite "ta15a013.agf" 4 4 12>
+<name "Marialis" "!LA5035">
+"Huh?"
+#
+<removesprite -1 11>
+<music 17>
+<background "ev091a00.agf" 10>
+<name "Marialis" "!LA5036">
+"Honestly.
+ You're so pushy."
+#
+<name "Darx">
+"You say that, but you totally accepted it."
+#
+<name "Marialis" "!LA5037">
+"Hahaha...
+ That's how I was trained."
+#
+<name "Darx">
+"Hm?
+ Trained how?"
+#
+<name "Marialis" "!LA5038">
+"Honestly.
+ You already know."
+#
+<name "Darx">
+"Then can I see the results of that training?"
+#
+<name "Marialis" "!LA5040">
+"Yes.
+ To your heart's desire.
+ Please."
+#
+\x78\x78

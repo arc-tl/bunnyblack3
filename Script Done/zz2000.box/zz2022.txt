@@ -1,0 +1,15 @@
+﻿<music 11>
+<background "bg013a0.agf" 10>
+<name "Knowing Citizen" "!KB0283">
+"I hear they're having another fashion show."
+#
+<name "Shop Keeper" "!CB0189">
+"Oh. Then maybe we should do something to cash
+ in on it too."
+#
+<name "Knowing Citizen" "!KB0284">
+"Yeah."
+#
+The fashion show energized the city.
+#
+\x78\x78

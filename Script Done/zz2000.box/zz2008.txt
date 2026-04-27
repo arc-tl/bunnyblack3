@@ -1,0 +1,65 @@
+﻿<music 18>
+<background "ev058b00.agf" 10>
+<name "Filliane" "!GA0045">
+"Aaah...aah...ah...mmm..."
+#
+<name "Darx">
+"I'll do it as many times as you want."
+#
+<name "Filliane" "!GA0046">
+"Aah... 
+ Y-Yes..."
+#
+<name "Guard" "!WB0124">
+"Mmm..."
+#
+<name "Darx">
+"...Hold on.
+ Time out."
+#
+I go to the girl who woke up and give her all
+I've got.
+#
+<name "Guard" "!WB0125">
+"Ah! Aah! Ah! Aah! Aaaah!"
+#
+After she passes out, I come back to them.
+#
+And resume.
+#
+<name "Filliane" "!GA0047">
+"U-Um, what was that?"
+#
+<name "Darx">
+"I have to stick it in the ones who wake up."
+#
+<name "Filliane" "!GA0048">
+"H-Hahaha...
+ Then I'll keep my voice down to not disturb
+ them."
+#
+<name "Darx">
+"You think you can?"
+#
+<name "Filliane" "!GA0049">
+"Mm...mmm!
+ Ah! Aaah!"
+#
+<name "Marialis" "!LA0109">
+"Ah, My Lord.
+ Me too."
+#
+<name "Darx">
+"All right."
+#
+I continue to enjoy myself with them, and with
+the ones who wake up.
+#
+<background "ev058b01.agf" 10>
+<name "Sofia" "!ZB0683">
+"Three whole days...
+ Unbelievable."
+#
+There was some anger over it.
+#
+\x78\x78

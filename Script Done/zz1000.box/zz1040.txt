@@ -1,0 +1,106 @@
+﻿<music 30>
+<background "bg029a0.agf" 10>
+<name "Company Maid" "!AC0107" "ka34c000.agf">
+"Control complete."
+#
+<name "Support Maid" "!DC0127" "ka34d000.agf">
+"Congratulations.
+ It's no exaggeration to say that you have
+ completely conquered this place."
+#
+<name "Darx">
+"I see.
+ All right."
+#
+<name "Company Maid" "!AC0108" "ka34c000.agf">
+"However, maybe there's a little more?
+ Like riches, treasure, or money?"
+#
+<name "Support Maid" "!DC0128" "ka34d000.agf">
+"You're too transparent."
+#
+<name "Company Maid" "!AC0109" "ka34c000.agf">
+"Hahaha..."
+#
+<name "Support Maid" "!DC0129" "ka34d000.agf">
+"Still, there certainly is nothing.
+ I feel bad after how hard you worked."
+#
+<name "Darx">
+"Don't worry about it.
+ That's just how things are."
+#
+<name "Support Maid" "!DC0130" "ka34d000.agf">
+"No, no.
+ Overlord, even if there's nothing here, you
+ have us."
+#
+<name "Darx">
+"Hm?
+ Are you going to do something?"
+#
+<name "Support Maid" "!DC0131" "ka34d000.agf">
+"Leave it to us."
+#
+<name "Darx">
+"Huh?"
+#
+<music 8>
+<background "ev088a00.agf" 10>
+<name "Support Maid" "!DC0132">
+"I knew you could do it, Overlord."
+#
+<name "Company Maid" "!AC0110">
+"You did it, Overlord."
+#
+<name "Battle Maid" "!PC0145">
+"You're wonderful, Overlord."
+#
+<name "Support Maid" "!DC0133">
+"Come on, drink up."
+#
+<name "Company Maid" "!AC0111">
+"Yay!"
+#
+<name "Darx">
+"You guys just wanted to have a party..."
+#
+<name "Battle Maid" "!PC0146">
+"Don't worry about it.
+ Here's some naked women for you."
+#
+<name "Darx">
+"You're probably thinking that if you give me
+ women, you can get away with anything."
+#
+<name "Support Maid" "!DC0135">
+"I'm not thinking anything."
+#
+<name "Company Maid" "!AC0112">
+"More or less."
+#
+<name "Battle Maid" "!PC0147">
+"Hahahaha..."
+#
+<name "Darx">
+"...Put at least some clothes on."
+#
+<background "ev088b00.agf" 10>
+<name "Support Maid" "!DC0136">
+"Then banquet wear."
+#
+<name "Darx">
+"..."
+#
+<name "Support Maid" "!DC0137">
+"How's that?"
+#
+<name "Darx">
+"Apparently I will allow anything."
+#
+It turned into an impromptu party.
+#
+In the middle of enemy territory, but we could
+afford it.
+#
+\x78\x78

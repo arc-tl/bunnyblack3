@@ -1,0 +1,34 @@
+﻿<music 22>
+<background "ev070a01.agf" 10>
+<name "Enduring Fighter" "!RB0065">
+"Ah...aah...aaah...aah...aaah...aah..."
+#
+<name "Screaming Priestess" "!LB0094">
+"Aah! Ah! No! Noooo..."
+#
+<name "Crying Wizard" "!GB0087">
+"Stop... No more...
+ Stop... P-Please...
+ Aaaah..."
+#
+...
+#
+<name "Macdo" "!ZA0456">
+"Humans are so fragile."
+#
+<name "Macdo" "!ZA0457">
+"They fall apart in no time."
+#
+<name "Macdo" "!ZA0458">
+"Well, it'd be wrong to compare them to demons
+ or angels."
+#
+<name "Macdo" "!ZA0459">
+"Still, those tentacles...
+ It seems like they go berserk when given
+ humans..."
+#
+<name "Macdo" "!ZA0460">
+"Is it because of their origin?"
+#
+\x78\x78

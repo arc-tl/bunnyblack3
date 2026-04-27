@@ -1,0 +1,17 @@
+﻿<music 11>
+<background "bg013a0.agf" 10>
+<name "Miartei" "!SA0159">
+"Haha..."
+#
+<removesprite -1 11>
+<sprite "ta04a002.agf" 4 4 11>
+<name "Rualtei" "!RA0205">
+"Lately, she's gone back to how she used to
+ be."
+#
+<sprite "ta04a005.agf" 4 4 12>
+<name "Rualtei" "!RA0206">
+"...Isn't a good thing?"
+#
+<removesprite -1 11>
+\x2B\x78\x78

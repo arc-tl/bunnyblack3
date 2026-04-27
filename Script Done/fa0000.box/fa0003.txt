@@ -1,0 +1,234 @@
+﻿\x1A\x01\x0A\x46\x00\x32\x00\x34\x00\x33\x00\x33\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :46: \x1A\x01\x08\x46\x00\x32\x00\x31\x00\x35\x00\x20\x00\x6F\x00\x6E\x00\x09\x00 :46: \x0A\x04\x09\x81\x84\x01\x16 :710: \x15 :DE: 
+:46
+\x1A\x01\x0A\x46\x00\x32\x00\x34\x00\x33\x00\x34\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :8E: \x1A\x01\x09\x46\x00\x32\x00\x34\x00\x33\x00\x33\x00\x20\x00\x6F\x00\x6E\x00\x09\x00 :8E: \x0A\x04\x09\x82\x84\x01\x16 :FFD: \x15 :DE: 
+:8E
+\x1A\x01\x0C\x43\x00\x30\x00\x36\x00\x30\x00\x20\x00\x3C\x00\x3D\x00\x20\x00\x31\x00\x35\x00\x30\x00\x09\x00 :C6: \x0A\x04\x00\x93\x84\x01\x16 :DF: \x15 :DE: \x18 :D8: 
+:C6
+\x0A\x04\x00\x93\x84\x01\x16 :34A: \x15 :DE: 
+:D8
+\x15 :DE: 
+:DE
+\x78
+:DF
+<music 3>
+<background "bg010a0.agf" 10>
+<sprite "ta01a025.agf" 4 4 11>
+<name "Sofia" "!ZB0764">
+"You weren't able to reach the goal."
+#
+<name "Darx">
+"Yeah."
+#
+<removesprite -1 11>
+<sprite "ta02a028.agf" 4 4 11>
+<name "Macdo" "!ZA0461">
+"Unfortunately, I cannot accept you as
+ Overlord."
+#
+<name "Darx">
+"...I understand."
+#
+<sprite "ta02a000.agf" 4 4 12>
+<name "Macdo" "!ZA0462">
+"I will give you credit for not backing down."
+#
+<removesprite -1 11>
+<music 9>
+<background "ev090a00.agf" 10>
+<background "ev090a01.agf" 10>
+\x2B\x2A -1 
+<background "ev090a02.agf" 10>
+<background "bg017a0.agf" 10>
+\x2B\x7A
+<exit>
+:34A
+<music 3>
+<background "bg010a0.agf" 10>
+<name "Darx">
+"I failed."
+#
+<sprite "ta01a036.agf" 4 4 11>
+<name "Sofia" "!ZB0766">
+"I-I'm sorry, Overlord."
+#
+<name "Darx">
+"...I wasn't good enough."
+#
+<removesprite -1 11>
+<sprite "ta02a028.agf" 4 4 11>
+<name "Macdo" "!ZA0463">
+"I will give you credit for what you did
+ accomplish."
+#
+<name "Darx">
+"Macdo."
+#
+<sprite "ta02a000.agf" 4 4 12>
+<name "Macdo" "!ZA0464">
+"It's too bad.
+ Oh, I don't know what you're thinking, but
+ it'd be better not to put up a useless
+ fight."
+#
+<sprite "ta02a001.agf" 4 4 12>
+<name "Macdo" "!ZA0465">
+"Even if you survive, the women you care for
+ will likely die."
+#
+<name "Darx">
+"..."
+#
+<sprite "ta02a003.agf" 4 4 12>
+<name "Macdo" "!ZA0466">
+"Wait for the Great Lord to summon you."
+#
+<removesprite -1 11>
+<music 9>
+<background "ev090a00.agf" 10>
+<background "ev090a01.agf" 10>
+\x2B\x2A -1 
+<background "ev090a02.agf" 10>
+<background "bg017a0.agf" 10>
+\x2B\x7A
+<exit>
+:710
+<music 3>
+<background "bg010a0.agf" 10>
+<name "Darx">
+"...We failed?"
+#
+<sprite "ta01a025.agf" 4 4 11>
+<name "Sofia" "!ZB0767">
+"You won't be accepted as Overlord now."
+#
+<name "Darx">
+"..."
+#
+<sprite "ta01a010.agf" 4 4 12>
+<name "Sofia" "!ZB0768">
+"Overlord, I'll try to do something."
+#
+<name "Darx">
+"Huh?
+ Something?"
+#
+<sprite "ta01a012.agf" 4 4 12>
+<name "Sofia" "!ZB0769">
+"I'll beg Macdo to take my life as payment."
+#
+<name "Darx">
+"Wait.
+ Even if you did that, I'd just fail next
+ time."
+#
+<name "Darx">
+"If we couldn't do it together, there's no way
+ I could do it without you."
+#
+<sprite "ta01a024.agf" 4 4 12>
+<name "Sofia" "!ZB0770">
+"Overlord."
+#
+<removesprite -1 11>
+<sprite "ta02a028.agf" 4 4 11>
+<name "Macdo" "!ZA0467">
+"Aah, enough already."
+#
+<name "Darx">
+"Macdo."
+#
+<sprite "ta02a005.agf" 4 4 12>
+<name "Macdo" "!ZA0468">
+"Don't be so upset.
+ Just take a breath."
+#
+<name "Darx">
+"W-What?"
+#
+<sprite "ta02a004.agf" 4 4 12>
+<name "Macdo" "!ZA0469">
+"I'm not going to disqualify you just because
+ you failed one time."
+#
+<removesprite -1 11>
+<sprite "ta01a025.agf" 2 5 11>
+<sprite "ta02a004.agf" 6 4 11>
+<name "Sofia" "!ZB0771">
+"Huh?"
+#
+<sprite "ta02a028.agf" 6 4 12>
+<name "Macdo" "!ZA0470">
+"Troubles were bound to happen."
+#
+<sprite "ta01a005.agf" 2 5 12>
+<name "Sofia" "!ZB0772">
+"Then..."
+#
+<removesprite -1 11>
+<sprite "ta02a000.agf" 4 4 11>
+<name "Macdo" "!ZA0471">
+"This is the one and only time I'll overlook
+ it."
+#
+<sprite "ta02a001.agf" 4 4 12>
+<name "Macdo" "!ZA0472">
+"There will be no second chances."
+#
+<name "Darx">
+"Ooh!"
+#
+<removesprite -1 11>
+<sprite "ta01a033.agf" 4 4 11>
+<name "Sofia" "!ZB0773">
+"You did it, Overlord."
+#
+<removesprite -1 11>
+<sprite "ta02a016.agf" 4 4 11>
+<name "Macdo" "!ZA0473">
+"No, you haven't done anything yet.
+ Furthermore..."
+#
+<sprite "ta02a000.agf" 4 4 12>
+<name "Macdo" "!ZA0474">
+"The conditions will be even more difficult
+ next time."
+#
+<sprite "ta02a001.agf" 4 4 12>
+<name "Macdo" "!ZA0475">
+"You still have to convince me."
+#
+<name "Darx">
+"Yeah!
+ Leave it to me!"
+#
+<removesprite -1 11>
+We got a second chance.
+#
+<exit>
+:FFD
+<music 3>
+<background "bg010a0.agf" 10>
+<name "Darx">
+"No excuses now."
+#
+<sprite "ta01a024.agf" 4 4 11>
+<name "Sofia" "!ZB0774">
+"Yeah."
+#
+<name "Darx">
+"Let's force her to recognize me."
+#
+<sprite "ta01a036.agf" 4 4 12>
+<name "Sofia" "!ZB0775">
+"Yes."
+#
+<removesprite -1 11>
+<music 9>
+<background "ev090a00.agf" 10>
+<background "ev090a01.agf" 10>
+\x2B\x2A -1 
+<background "ev090a02.agf" 10>
+<background "bg017a0.agf" 10>
+\x2B\x7A
+<exit>
+\x78

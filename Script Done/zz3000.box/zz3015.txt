@@ -1,0 +1,47 @@
+﻿<music 5>
+<background "bg011a0.agf" 10>
+<sprite "ta34a001.agf" 4 4 11>
+<name "Company Maid" "!DC0167">
+"Um, Overlord."
+#
+<name "Darx">
+"Hm?"
+#
+<name "Company Maid" "!DC0168">
+"That mass of tentacles is your body, right?"
+#
+<name "Darx">
+"Yeah."
+#
+<name "Company Maid" "!DC0169">
+"Why didn't you make it look like you?"
+#
+<name "Darx">
+"The one who taught me how to make it told me
+ not to make it look like myself.
+ It'd be impossible to tell which one was the
+ real me."
+#
+<sprite "ta34a000.agf" 4 4 12>
+<name "Company Maid" "!DC0170">
+"Oh, I see."
+#
+<name "Darx">
+"I don't know about monsters or demons, but
+ humans have to take care of their bodies, so
+ I had to do what I was told."
+#
+<name "Company Maid" "!DC0171">
+"Indeed."
+#
+<name "Darx">
+"It's not that I can't do it at all.
+ Tentacles were just easiest."
+#
+<sprite "ta34a004.agf" 4 4 12>
+<name "Company Maid" "!DC0172">
+"I-I understand.
+ Hahaha..."
+#
+<removesprite -1 11>
+\x2B\x78\x78

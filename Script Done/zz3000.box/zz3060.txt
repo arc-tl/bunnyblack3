@@ -1,0 +1,58 @@
+﻿<music 39>
+<background "bg002a0.agf" 10>
+<sprite "ta08a004.agf" 4 4 11>
+<name "Rakia" "!ZC0197">
+"Um, Darx."
+#
+<name "Darx">
+"Hm?"
+#
+<sprite "ta08a005.agf" 4 4 12>
+<name "Rakia" "!ZC0198">
+"I heard about Macdo."
+#
+<name "Darx">
+"Oh?"
+#
+<sprite "ta08a026.agf" 4 4 12>
+<name "Rakia" "!ZC0199">
+"First, incredible!"
+#
+<name "Darx">
+"Hahaha."
+#
+<sprite "ta08a011.agf" 4 4 12>
+<name "Rakia" "!ZC0200">
+"Second, how could you not tell me?"
+#
+<name "Darx">
+"Hahahaha..."
+#
+<sprite "ta08a004.agf" 4 4 12>
+<name "Rakia" "!ZC0201">
+"Just what did you do to her?"
+#
+<name "Darx">
+"Just untied something that was knotted up."
+#
+<sprite "ta08a012.agf" 4 4 12>
+<name "Rakia" "!ZC0202">
+"Huh?"
+#
+<name "Darx">
+"Don't worry, I didn't do anything 
+ underhanded."
+#
+<sprite "ta08a004.agf" 4 4 12>
+<name "Rakia" "!ZC0203">
+"Yes, I believe that."
+#
+<name "Darx">
+"Well, that's all I can tell you."
+#
+<sprite "ta08a023.agf" 4 4 12>
+<name "Rakia" "!ZC0204">
+"Drinks are on me."
+#
+<removesprite -1 11>
+\x2B\x78\x78

@@ -1,0 +1,2251 @@
+﻿\xC3 "Mayor" \x22\x00\x01\x22\x00\x00\x1A\x01\x0A\x46\x00\x31\x00\x31\x00\x30\x00\x31\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :5F: \x1A\x01\x0E\x43\x00\x4C\x00\x30\x00\x30\x00\x30\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x31\x00\x34\x00\x38\x00\x09\x00\x09\x00 :5F: \x0A\x04\x04\x4D\x84\x01\x16 :1D59: \x15 :124F: 
+:5F
+\x1A\x01\x0A\x46\x00\x31\x00\x31\x00\x30\x00\x32\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :E1: \x1A\x01\x0E\x43\x00\x4C\x00\x30\x00\x30\x00\x30\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x31\x00\x35\x00\x30\x00\x09\x00\x09\x00 :E1: \x1A\x01\x08\x46\x00\x32\x00\x33\x00\x31\x00\x20\x00\x6F\x00\x6E\x00\x09\x00 :E1: \x1A\x01\x08\x46\x00\x32\x00\x33\x00\x34\x00\x20\x00\x6F\x00\x6E\x00\x09\x00 :E1: \x0A\x04\x04\x4E\x84\x01\x16 :1E8B: \x15 :124F: 
+:E1
+\x1A\x01\x0A\x46\x00\x31\x00\x31\x00\x30\x00\x33\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :133: \x1A\x01\x0E\x43\x00\x4C\x00\x30\x00\x30\x00\x30\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x31\x00\x35\x00\x32\x00\x09\x00\x09\x00 :133: \x0A\x04\x04\x4F\x84\x01\x16 :2044: \x15 :124F: 
+:133
+\x1A\x01\x0A\x46\x00\x31\x00\x31\x00\x30\x00\x34\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :1B5: \x1A\x01\x0E\x43\x00\x4C\x00\x30\x00\x30\x00\x30\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x31\x00\x35\x00\x31\x00\x09\x00\x09\x00 :1B5: \x1A\x01\x08\x46\x00\x32\x00\x33\x00\x34\x00\x20\x00\x6F\x00\x6E\x00\x09\x00 :1B5: \x1A\x01\x08\x46\x00\x32\x00\x33\x00\x32\x00\x20\x00\x6F\x00\x6E\x00\x09\x00 :1B5: \x0A\x04\x04\x50\x84\x01\x16 :2160: \x15 :124F: 
+:1B5
+\x1A\x01\x0A\x46\x00\x31\x00\x31\x00\x30\x00\x35\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :207: \x1A\x01\x0E\x43\x00\x4C\x00\x30\x00\x30\x00\x30\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x31\x00\x35\x00\x38\x00\x09\x00\x09\x00 :207: \x0A\x04\x04\x51\x84\x01\x16 :2341: \x15 :124F: 
+:207
+\x1A\x01\x0A\x46\x00\x31\x00\x31\x00\x30\x00\x36\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :259: \x1A\x01\x0E\x43\x00\x4C\x00\x30\x00\x30\x00\x30\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x31\x00\x35\x00\x37\x00\x09\x00\x09\x00 :259: \x0A\x04\x04\x52\x84\x01\x16 :256F: \x15 :124F: 
+:259
+\x1A\x01\x0A\x46\x00\x31\x00\x31\x00\x30\x00\x37\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :2AB: \x1A\x01\x0E\x43\x00\x4C\x00\x30\x00\x30\x00\x30\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x31\x00\x35\x00\x39\x00\x09\x00\x09\x00 :2AB: \x0A\x04\x04\x53\x84\x01\x16 :2930: \x15 :124F: 
+:2AB
+\x1A\x01\x0A\x46\x00\x31\x00\x31\x00\x30\x00\x38\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :2FD: \x1A\x01\x0E\x43\x00\x4C\x00\x30\x00\x30\x00\x30\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x31\x00\x30\x00\x34\x00\x09\x00\x09\x00 :2FD: \x0A\x04\x04\x54\x84\x01\x16 :2DF3: \x15 :124F: 
+:2FD
+\x1A\x01\x0A\x46\x00\x31\x00\x31\x00\x30\x00\x39\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :34F: \x1A\x01\x0E\x43\x00\x4C\x00\x30\x00\x30\x00\x30\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x31\x00\x32\x00\x32\x00\x09\x00\x09\x00 :34F: \x0A\x04\x04\x55\x84\x01\x16 :3096: \x15 :124F: 
+:34F
+\xC3 "Deputy Mayor" \x22\x00\x01\x22\x00\x00\x1A\x01\x0A\x46\x00\x31\x00\x31\x00\x31\x00\x30\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :3B2: \x1A\x01\x0E\x43\x00\x4C\x00\x30\x00\x30\x00\x30\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x31\x00\x34\x00\x39\x00\x09\x00\x09\x00 :3B2: \x0A\x04\x04\x56\x84\x01\x16 :32CA: \x15 :124F: 
+:3B2
+\x1A\x01\x0A\x46\x00\x31\x00\x31\x00\x31\x00\x31\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :41C: \x1A\x01\x0E\x43\x00\x4C\x00\x30\x00\x30\x00\x30\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x31\x00\x35\x00\x34\x00\x09\x00\x09\x00 :41C: \x1A\x01\x08\x46\x00\x32\x00\x33\x00\x31\x00\x20\x00\x6F\x00\x6E\x00\x09\x00 :41C: \x0A\x04\x04\x57\x84\x01\x16 :34A2: \x15 :124F: 
+:41C
+\x1A\x01\x0A\x46\x00\x31\x00\x31\x00\x31\x00\x32\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :46E: \x1A\x01\x0E\x43\x00\x4C\x00\x30\x00\x30\x00\x30\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x31\x00\x35\x00\x38\x00\x09\x00\x09\x00 :46E: \x0A\x04\x04\x58\x84\x01\x16 :368A: \x15 :124F: 
+:46E
+\x1A\x01\x0A\x46\x00\x31\x00\x31\x00\x31\x00\x33\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :4C0: \x1A\x01\x0E\x43\x00\x4C\x00\x30\x00\x30\x00\x30\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x31\x00\x35\x00\x37\x00\x09\x00\x09\x00 :4C0: \x0A\x04\x04\x59\x84\x01\x16 :38E0: \x15 :124F: 
+:4C0
+\x1A\x01\x0A\x46\x00\x31\x00\x31\x00\x31\x00\x34\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :512: \x1A\x01\x0E\x43\x00\x4C\x00\x30\x00\x30\x00\x30\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x31\x00\x35\x00\x39\x00\x09\x00\x09\x00 :512: \x0A\x04\x04\x5A\x84\x01\x16 :3B19: \x15 :124F: 
+:512
+\x1A\x01\x0A\x46\x00\x31\x00\x31\x00\x31\x00\x35\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :560: \x1A\x01\x0C\x43\x00\x4C\x00\x30\x00\x30\x00\x30\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x31\x00\x09\x00\x09\x00 :560: \x0A\x04\x04\x5B\x84\x01\x16 :3D84: \x15 :124F: 
+:560
+\xC3 "Farm Manager" \x22\x00\x01\x22\x00\x00\x1A\x01\x0A\x46\x00\x31\x00\x31\x00\x31\x00\x36\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :5C3: \x1A\x01\x0E\x43\x00\x4C\x00\x30\x00\x30\x00\x30\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x31\x00\x35\x00\x36\x00\x09\x00\x09\x00 :5C3: \x0A\x04\x04\x5C\x84\x01\x16 :3F98: \x15 :124F: 
+:5C3
+\x1A\x01\x0A\x46\x00\x31\x00\x31\x00\x31\x00\x37\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :611: \x1A\x01\x0C\x43\x00\x4C\x00\x30\x00\x30\x00\x30\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x31\x00\x09\x00\x09\x00 :611: \x0A\x04\x04\x5D\x84\x01\x16 :409D: \x15 :124F: 
+:611
+\x1A\x01\x0A\x46\x00\x31\x00\x31\x00\x31\x00\x38\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :65F: \x1A\x01\x0C\x43\x00\x4C\x00\x30\x00\x30\x00\x30\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x31\x00\x09\x00\x09\x00 :65F: \x0A\x04\x04\x5E\x84\x01\x16 :46AC: \x15 :124F: 
+:65F
+\xC3 "Trade Captain" \x22\x00\x01\x22\x00\x00\x1A\x01\x0A\x46\x00\x31\x00\x31\x00\x31\x00\x39\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :6C2: \x1A\x01\x0E\x43\x00\x4C\x00\x30\x00\x30\x00\x30\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x31\x00\x34\x00\x38\x00\x09\x00\x09\x00 :6C2: \x0A\x04\x04\x5F\x84\x01\x16 :4A6E: \x15 :124F: 
+:6C2
+\x1A\x01\x0A\x46\x00\x31\x00\x31\x00\x32\x00\x30\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :710: \x1A\x01\x0C\x43\x00\x4C\x00\x30\x00\x30\x00\x30\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x31\x00\x09\x00\x09\x00 :710: \x0A\x04\x04\x60\x84\x01\x16 :4B97: \x15 :124F: 
+:710
+\xC3 "Forge Overseer" \x22\x00\x01\x22\x00\x00\x1A\x01\x0A\x46\x00\x31\x00\x31\x00\x32\x00\x31\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :773: \x1A\x01\x0E\x43\x00\x4C\x00\x30\x00\x30\x00\x30\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x31\x00\x35\x00\x35\x00\x09\x00\x09\x00 :773: \x0A\x04\x04\x61\x84\x01\x16 :4CFF: \x15 :124F: 
+:773
+\x1A\x01\x0A\x46\x00\x31\x00\x31\x00\x32\x00\x32\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :7C1: \x1A\x01\x0C\x43\x00\x4C\x00\x30\x00\x30\x00\x30\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x31\x00\x09\x00\x09\x00 :7C1: \x0A\x04\x04\x62\x84\x01\x16 :4DDE: \x15 :124F: 
+:7C1
+\xC3 "Security Chief" \x22\x00\x01\x22\x00\x00\x1A\x01\x0A\x46\x00\x31\x00\x31\x00\x32\x00\x33\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :824: \x1A\x01\x0E\x43\x00\x4C\x00\x30\x00\x30\x00\x30\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x31\x00\x34\x00\x39\x00\x09\x00\x09\x00 :824: \x0A\x04\x04\x63\x84\x01\x16 :4EE3: \x15 :124F: 
+:824
+\x1A\x01\x0A\x46\x00\x31\x00\x31\x00\x32\x00\x34\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :876: \x1A\x01\x0E\x43\x00\x4C\x00\x30\x00\x30\x00\x30\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x31\x00\x35\x00\x33\x00\x09\x00\x09\x00 :876: \x0A\x04\x04\x64\x84\x01\x16 :5016: \x15 :124F: 
+:876
+\x1A\x01\x0A\x46\x00\x31\x00\x31\x00\x32\x00\x35\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :8C4: \x1A\x01\x0C\x43\x00\x4C\x00\x30\x00\x30\x00\x30\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x31\x00\x09\x00\x09\x00 :8C4: \x0A\x04\x04\x65\x84\x01\x16 :51EC: \x15 :124F: 
+:8C4
+\xC3 "School Dean" \x22\x00\x01\x22\x00\x00\x1A\x01\x0A\x46\x00\x31\x00\x31\x00\x32\x00\x36\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :927: \x1A\x01\x0E\x43\x00\x4C\x00\x30\x00\x30\x00\x30\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x31\x00\x35\x00\x32\x00\x09\x00\x09\x00 :927: \x0A\x04\x04\x66\x84\x01\x16 :535D: \x15 :124F: 
+:927
+\x1A\x01\x0A\x46\x00\x31\x00\x31\x00\x32\x00\x37\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :979: \x1A\x01\x0E\x43\x00\x4C\x00\x30\x00\x30\x00\x30\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x31\x00\x35\x00\x36\x00\x09\x00\x09\x00 :979: \x0A\x04\x04\x67\x84\x01\x16 :5547: \x15 :124F: 
+:979
+\xC3 "Morale Officer" \x22\x00\x01\x22\x00\x00\x1A\x01\x0A\x46\x00\x31\x00\x31\x00\x32\x00\x38\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :9DC: \x1A\x01\x0E\x43\x00\x4C\x00\x30\x00\x30\x00\x30\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x31\x00\x35\x00\x32\x00\x09\x00\x09\x00 :9DC: \x0A\x04\x04\x68\x84\x01\x16 :57A1: \x15 :124F: 
+:9DC
+\x1A\x01\x0A\x46\x00\x31\x00\x31\x00\x32\x00\x39\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :A2E: \x1A\x01\x0E\x43\x00\x4C\x00\x30\x00\x30\x00\x30\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x31\x00\x35\x00\x33\x00\x09\x00\x09\x00 :A2E: \x0A\x04\x04\x69\x84\x01\x16 :5A35: \x15 :124F: 
+:A2E
+\xC3 "Health Captain" \x22\x00\x01\x22\x00\x00\x1A\x01\x0A\x46\x00\x31\x00\x31\x00\x33\x00\x30\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :A91: \x1A\x01\x0E\x43\x00\x4C\x00\x30\x00\x30\x00\x30\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x31\x00\x35\x00\x35\x00\x09\x00\x09\x00 :A91: \x0A\x04\x04\x6A\x84\x01\x16 :5B46: \x15 :124F: 
+:A91
+\x1A\x01\x0A\x46\x00\x31\x00\x31\x00\x33\x00\x31\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :AE3: \x1A\x01\x0E\x43\x00\x4C\x00\x30\x00\x30\x00\x30\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x31\x00\x34\x00\x38\x00\x09\x00\x09\x00 :AE3: \x0A\x04\x04\x6B\x84\x01\x16 :5CFA: \x15 :124F: 
+:AE3
+\xC3 "Dungeon Master" \x22\x00\x01\x22\x00\x00\x1A\x01\x0A\x46\x00\x31\x00\x31\x00\x33\x00\x32\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :B44: \x1A\x01\x0E\x43\x00\x4C\x00\x30\x00\x30\x00\x30\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x31\x00\x34\x00\x38\x00\x09\x00\x09\x00 :B44: \x0A\x04\x04\x6C\x84\x01\x16 :5EB2: \x15 :124F: 
+:B44
+\x1A\x01\x0A\x46\x00\x31\x00\x31\x00\x33\x00\x33\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :B96: \x1A\x01\x0E\x43\x00\x4C\x00\x30\x00\x30\x00\x30\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x31\x00\x35\x00\x31\x00\x09\x00\x09\x00 :B96: \x0A\x04\x04\x6D\x84\x01\x16 :6132: \x15 :124F: 
+:B96
+\x1A\x01\x0A\x46\x00\x31\x00\x31\x00\x33\x00\x34\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :BE8: \x1A\x01\x0E\x43\x00\x4C\x00\x30\x00\x30\x00\x30\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x31\x00\x34\x00\x39\x00\x09\x00\x09\x00 :BE8: \x0A\x04\x04\x6E\x84\x01\x16 :62DA: \x15 :124F: 
+:BE8
+\x1A\x01\x0A\x46\x00\x31\x00\x31\x00\x33\x00\x35\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :C6A: \x1A\x01\x0E\x43\x00\x4C\x00\x30\x00\x30\x00\x30\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x31\x00\x35\x00\x30\x00\x09\x00\x09\x00 :C6A: \x1A\x01\x08\x46\x00\x32\x00\x33\x00\x31\x00\x20\x00\x6F\x00\x6E\x00\x09\x00 :C6A: \x1A\x01\x08\x46\x00\x32\x00\x33\x00\x32\x00\x20\x00\x6F\x00\x6E\x00\x09\x00 :C6A: \x0A\x04\x04\x6F\x84\x01\x16 :64EB: \x15 :124F: 
+:C6A
+\x1A\x01\x0A\x46\x00\x31\x00\x31\x00\x33\x00\x36\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :CBC: \x1A\x01\x0E\x43\x00\x4C\x00\x30\x00\x30\x00\x30\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x31\x00\x35\x00\x38\x00\x09\x00\x09\x00 :CBC: \x0A\x04\x04\x70\x84\x01\x16 :66EC: \x15 :124F: 
+:CBC
+\x1A\x01\x0A\x46\x00\x31\x00\x31\x00\x33\x00\x37\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :D0E: \x1A\x01\x0E\x43\x00\x4C\x00\x30\x00\x30\x00\x30\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x31\x00\x35\x00\x37\x00\x09\x00\x09\x00 :D0E: \x0A\x04\x04\x71\x84\x01\x16 :680B: \x15 :124F: 
+:D0E
+\x1A\x01\x0A\x46\x00\x31\x00\x31\x00\x33\x00\x38\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :D60: \x1A\x01\x0E\x43\x00\x4C\x00\x30\x00\x30\x00\x30\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x31\x00\x35\x00\x39\x00\x09\x00\x09\x00 :D60: \x0A\x04\x04\x72\x84\x01\x16 :6A09: \x15 :124F: 
+:D60
+\x1A\x01\x0A\x46\x00\x31\x00\x31\x00\x33\x00\x39\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :DAE: \x1A\x01\x0C\x43\x00\x4C\x00\x30\x00\x30\x00\x30\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x31\x00\x09\x00\x09\x00 :DAE: \x0A\x04\x04\x73\x84\x01\x16 :6EDE: \x15 :124F: 
+:DAE
+\x1A\x01\x0A\x46\x00\x31\x00\x31\x00\x34\x00\x30\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :DFC: \x1A\x01\x0C\x43\x00\x4C\x00\x30\x00\x30\x00\x30\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x31\x00\x09\x00\x09\x00 :DFC: \x0A\x04\x04\x74\x84\x01\x16 :7176: \x15 :124F: 
+:DFC
+\xC3 "Dungeon Keeper" \x22\x00\x01\x22\x00\x00\x1A\x01\x0A\x46\x00\x31\x00\x31\x00\x34\x00\x30\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :E61: \x1A\x01\x0E\x43\x00\x4C\x00\x30\x00\x30\x00\x30\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x31\x00\x35\x00\x36\x00\x09\x00\x09\x00 :E61: \x0A\x04\x04\x74\x84\x01\x16 :7511: \x15 :124F: 
+:E61
+\x1A\x01\x0A\x46\x00\x31\x00\x31\x00\x34\x00\x30\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :EB3: \x1A\x01\x0E\x43\x00\x4C\x00\x30\x00\x30\x00\x30\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x31\x00\x35\x00\x33\x00\x09\x00\x09\x00 :EB3: \x0A\x04\x04\x74\x84\x01\x16 :76E9: \x15 :124F: 
+:EB3
+\x1A\x01\x0A\x46\x00\x31\x00\x31\x00\x34\x00\x30\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :F05: \x1A\x01\x0E\x43\x00\x4C\x00\x30\x00\x30\x00\x30\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x31\x00\x35\x00\x34\x00\x09\x00\x09\x00 :F05: \x0A\x04\x04\x74\x84\x01\x16 :78D2: \x15 :124F: 
+:F05
+\x1A\x01\x0A\x46\x00\x31\x00\x31\x00\x34\x00\x30\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :F57: \x1A\x01\x0E\x43\x00\x4C\x00\x30\x00\x30\x00\x30\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x31\x00\x35\x00\x38\x00\x09\x00\x09\x00 :F57: \x0A\x04\x04\x74\x84\x01\x16 :7C2F: \x15 :124F: 
+:F57
+\x1A\x01\x0A\x46\x00\x31\x00\x31\x00\x34\x00\x30\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :FA9: \x1A\x01\x0E\x43\x00\x4C\x00\x30\x00\x30\x00\x30\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x31\x00\x35\x00\x37\x00\x09\x00\x09\x00 :FA9: \x0A\x04\x04\x74\x84\x01\x16 :7F94: \x15 :124F: 
+:FA9
+\x1A\x01\x0A\x46\x00\x31\x00\x31\x00\x34\x00\x30\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :FFB: \x1A\x01\x0E\x43\x00\x4C\x00\x30\x00\x30\x00\x30\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x31\x00\x35\x00\x39\x00\x09\x00\x09\x00 :FFB: \x0A\x04\x04\x74\x84\x01\x16 :81F7: \x15 :124F: 
+:FFB
+\xC3 "Raid Commander" \x22\x00\x01\x22\x00\x00\x1A\x01\x0A\x46\x00\x31\x00\x31\x00\x35\x00\x39\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :105C: \x1A\x01\x0C\x43\x00\x4C\x00\x30\x00\x30\x00\x30\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x31\x00\x09\x00\x09\x00 :105C: \x0A\x04\x04\x87\x84\x01\x16 :99B8: \x15 :124F: 
+:105C
+\xC3 "Support Captain" \x22\x00\x01\x22\x00\x00\x1A\x01\x0A\x46\x00\x31\x00\x31\x00\x36\x00\x30\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :10BD: \x1A\x01\x0C\x43\x00\x4C\x00\x30\x00\x30\x00\x30\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x31\x00\x09\x00\x09\x00 :10BD: \x0A\x04\x04\x88\x84\x01\x16 :9E44: \x15 :124F: 
+:10BD
+\xC3 "1st Floor Boss" \x22\x00\x01\x22\x00\x00\x16 :1250: \xC3 "2nd Floor Boss" \x22\x00\x01\x22\x00\x00\x16 :1250: \xC3 "3rd Floor Boss" \x22\x00\x01\x22\x00\x00\x16 :1250: \xC3 "4th Floor Boss" \x22\x00\x01\x22\x00\x00\x16 :1250: \xC3 "5th Floor Boss" \x22\x00\x01\x22\x00\x00\x16 :1250: \xC3 "6th Floor Boss" \x22\x00\x01\x22\x00\x00\x16 :1250: \xC3 "7th Floor Boss" \x22\x00\x01\x22\x00\x00\x16 :1250: \xC3 "メンバー１" \x22\x00\x01\x22\x00\x00\xC3 "メンバー２" \x22\x00\x01\x22\x00\x00\xC3 "メンバー３" \x22\x00\x01\x22\x00\x00\xC3 "メンバー４" \x22\x00\x01\x22\x00\x00\xC3 "メンバー５" \x22\x00\x01\x22\x00\x00\xC3 "メンバー６" \x22\x00\x01\x22\x00\x00\xC3 "リザーブ１" \x22\x00\x01\x22\x00\x00\xC3 "リザーブ２" \x22\x00\x01\x22\x00\x00\xC3 "リザーブ３" \x22\x00\x01\x22\x00\x00\xC3 "リザーブ４" \x22\x00\x01\x22\x00\x00\xC3 "リザーブ５" \x22\x00\x01\x22\x00\x00\x16 :1938: \x16 :1655: \x15 :124F: 
+:124F
+\x78
+:1250
+\x1A\x01\x0A\x46\x00\x31\x00\x31\x00\x34\x00\x37\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :12A2: \x1A\x01\x0E\x43\x00\x4C\x00\x30\x00\x30\x00\x30\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x31\x00\x34\x00\x38\x00\x09\x00\x09\x00 :12A2: \x0A\x04\x04\x7B\x84\x01\x16 :83AC: \x15 :124F: 
+:12A2
+\x1A\x01\x0A\x46\x00\x31\x00\x31\x00\x34\x00\x38\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :12F4: \x1A\x01\x0E\x43\x00\x4C\x00\x30\x00\x30\x00\x30\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x31\x00\x35\x00\x31\x00\x09\x00\x09\x00 :12F4: \x0A\x04\x04\x7C\x84\x01\x16 :85D5: \x15 :124F: 
+:12F4
+\x1A\x01\x0A\x46\x00\x31\x00\x31\x00\x34\x00\x39\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :1346: \x1A\x01\x0E\x43\x00\x4C\x00\x30\x00\x30\x00\x30\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x31\x00\x34\x00\x39\x00\x09\x00\x09\x00 :1346: \x0A\x04\x04\x7D\x84\x01\x16 :87B2: \x15 :124F: 
+:1346
+\x1A\x01\x0A\x46\x00\x31\x00\x31\x00\x35\x00\x30\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :13C8: \x1A\x01\x0E\x43\x00\x4C\x00\x30\x00\x30\x00\x30\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x31\x00\x35\x00\x30\x00\x09\x00\x09\x00 :13C8: \x1A\x01\x08\x46\x00\x32\x00\x33\x00\x30\x00\x20\x00\x6F\x00\x6E\x00\x09\x00 :13C8: \x1A\x01\x08\x46\x00\x32\x00\x33\x00\x34\x00\x20\x00\x6F\x00\x6E\x00\x09\x00 :13C8: \x0A\x04\x04\x7E\x84\x01\x16 :8907: \x15 :124F: 
+:13C8
+\x1A\x01\x0A\x46\x00\x31\x00\x31\x00\x35\x00\x31\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :141A: \x1A\x01\x0E\x43\x00\x4C\x00\x30\x00\x30\x00\x30\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x31\x00\x35\x00\x32\x00\x09\x00\x09\x00 :141A: \x0A\x04\x04\x7F\x84\x01\x16 :8AB9: \x15 :124F: 
+:141A
+\x1A\x01\x0A\x46\x00\x31\x00\x31\x00\x35\x00\x32\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :146C: \x1A\x01\x0E\x43\x00\x4C\x00\x30\x00\x30\x00\x30\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x31\x00\x35\x00\x33\x00\x09\x00\x09\x00 :146C: \x0A\x04\x04\x80\x84\x01\x16 :8C8E: \x15 :124F: 
+:146C
+\x1A\x01\x0A\x46\x00\x31\x00\x31\x00\x35\x00\x33\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :14BE: \x1A\x01\x0E\x43\x00\x4C\x00\x30\x00\x30\x00\x30\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x31\x00\x35\x00\x34\x00\x09\x00\x09\x00 :14BE: \x0A\x04\x04\x81\x84\x01\x16 :8E51: \x15 :124F: 
+:14BE
+\x1A\x01\x0A\x46\x00\x31\x00\x31\x00\x35\x00\x34\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :1510: \x1A\x01\x0E\x43\x00\x4C\x00\x30\x00\x30\x00\x30\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x31\x00\x35\x00\x36\x00\x09\x00\x09\x00 :1510: \x0A\x04\x04\x82\x84\x01\x16 :902C: \x15 :124F: 
+:1510
+\x1A\x01\x0A\x46\x00\x31\x00\x31\x00\x35\x00\x35\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :1562: \x1A\x01\x0E\x43\x00\x4C\x00\x30\x00\x30\x00\x30\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x31\x00\x35\x00\x38\x00\x09\x00\x09\x00 :1562: \x0A\x04\x04\x83\x84\x01\x16 :912A: \x15 :124F: 
+:1562
+\x1A\x01\x0A\x46\x00\x31\x00\x31\x00\x35\x00\x36\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :15B4: \x1A\x01\x0E\x43\x00\x4C\x00\x30\x00\x30\x00\x30\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x31\x00\x35\x00\x37\x00\x09\x00\x09\x00 :15B4: \x0A\x04\x04\x84\x84\x01\x16 :92CE: \x15 :124F: 
+:15B4
+\x1A\x01\x0A\x46\x00\x31\x00\x31\x00\x35\x00\x37\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :1606: \x1A\x01\x0E\x43\x00\x4C\x00\x30\x00\x30\x00\x30\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x31\x00\x35\x00\x39\x00\x09\x00\x09\x00 :1606: \x0A\x04\x04\x85\x84\x01\x16 :957B: \x15 :124F: 
+:1606
+\x1A\x01\x0A\x46\x00\x31\x00\x31\x00\x35\x00\x38\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :1654: \x1A\x01\x0C\x43\x00\x4C\x00\x30\x00\x30\x00\x30\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x31\x00\x09\x00\x09\x00 :1654: \x0A\x04\x04\x86\x84\x01\x16 :9851: \x15 :124F: 
+:1654
+<exit>
+:1655
+\x1A\x01\x0A\x46\x00\x31\x00\x31\x00\x36\x00\x37\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :16A7: \x1A\x01\x0E\x43\x00\x4C\x00\x30\x00\x30\x00\x30\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x31\x00\x35\x00\x38\x00\x09\x00\x09\x00 :16A7: \x0A\x04\x04\x8F\x84\x01\x16 :A67B: \x15 :124F: 
+:16A7
+\x1A\x01\x0A\x46\x00\x31\x00\x31\x00\x36\x00\x38\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :16F9: \x1A\x01\x0E\x43\x00\x4C\x00\x30\x00\x30\x00\x30\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x31\x00\x35\x00\x37\x00\x09\x00\x09\x00 :16F9: \x0A\x04\x04\x90\x84\x01\x16 :A882: \x15 :124F: 
+:16F9
+\x1A\x01\x0A\x46\x00\x31\x00\x31\x00\x36\x00\x39\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :174B: \x1A\x01\x0E\x43\x00\x4C\x00\x30\x00\x30\x00\x30\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x31\x00\x35\x00\x39\x00\x09\x00\x09\x00 :174B: \x0A\x04\x04\x91\x84\x01\x16 :A9A9: \x15 :124F: 
+:174B
+\x1A\x01\x0A\x46\x00\x31\x00\x31\x00\x36\x00\x31\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :179D: \x1A\x01\x0E\x43\x00\x4C\x00\x30\x00\x30\x00\x30\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x31\x00\x30\x00\x30\x00\x09\x00\x09\x00 :179D: \x0A\x04\x04\x89\x84\x01\x16 :A024: \x15 :124F: 
+:179D
+\x1A\x01\x0A\x46\x00\x31\x00\x31\x00\x36\x00\x32\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :17EF: \x1A\x01\x0E\x43\x00\x4C\x00\x30\x00\x30\x00\x30\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x31\x00\x30\x00\x31\x00\x09\x00\x09\x00 :17EF: \x0A\x04\x04\x8A\x84\x01\x16 :A167: \x15 :124F: 
+:17EF
+\x1A\x01\x0A\x46\x00\x31\x00\x31\x00\x36\x00\x33\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :1841: \x1A\x01\x0E\x43\x00\x4C\x00\x30\x00\x30\x00\x30\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x31\x00\x30\x00\x32\x00\x09\x00\x09\x00 :1841: \x0A\x04\x04\x8B\x84\x01\x16 :A21C: \x15 :124F: 
+:1841
+\x1A\x01\x0A\x46\x00\x31\x00\x31\x00\x36\x00\x34\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :1893: \x1A\x01\x0E\x43\x00\x4C\x00\x30\x00\x30\x00\x30\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x31\x00\x30\x00\x33\x00\x09\x00\x09\x00 :1893: \x0A\x04\x04\x8C\x84\x01\x16 :A318: \x15 :124F: 
+:1893
+\x1A\x01\x0A\x46\x00\x31\x00\x31\x00\x36\x00\x35\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :18E5: \x1A\x01\x0E\x43\x00\x4C\x00\x30\x00\x30\x00\x30\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x31\x00\x32\x00\x39\x00\x09\x00\x09\x00 :18E5: \x0A\x04\x04\x8D\x84\x01\x16 :A45E: \x15 :124F: 
+:18E5
+\x1A\x01\x0A\x46\x00\x31\x00\x31\x00\x36\x00\x36\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :1937: \x1A\x01\x0E\x43\x00\x4C\x00\x30\x00\x30\x00\x30\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x31\x00\x34\x00\x34\x00\x09\x00\x09\x00 :1937: \x0A\x04\x04\x8E\x84\x01\x16 :A59C: \x15 :124F: 
+:1937
+<exit>
+:1938
+\x1A\x01\x0A\x46\x00\x31\x00\x31\x00\x37\x00\x33\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :198A: \x1A\x01\x0E\x43\x00\x4C\x00\x30\x00\x30\x00\x30\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x31\x00\x34\x00\x38\x00\x09\x00\x09\x00 :198A: \x0A\x04\x04\x95\x84\x01\x16 :AEE6: \x15 :124F: 
+:198A
+\x1A\x01\x0A\x46\x00\x31\x00\x31\x00\x37\x00\x34\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :19DC: \x1A\x01\x0E\x43\x00\x4C\x00\x30\x00\x30\x00\x30\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x31\x00\x35\x00\x31\x00\x09\x00\x09\x00 :19DC: \x0A\x04\x04\x96\x84\x01\x16 :B002: \x15 :124F: 
+:19DC
+\x1A\x01\x0A\x46\x00\x31\x00\x31\x00\x37\x00\x35\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :1A2E: \x1A\x01\x0E\x43\x00\x4C\x00\x30\x00\x30\x00\x30\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x31\x00\x34\x00\x39\x00\x09\x00\x09\x00 :1A2E: \x0A\x04\x04\x97\x84\x01\x16 :B143: \x15 :124F: 
+:1A2E
+\x1A\x01\x0A\x46\x00\x31\x00\x31\x00\x37\x00\x36\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :1AC8: \x1A\x01\x0E\x43\x00\x4C\x00\x30\x00\x30\x00\x30\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x31\x00\x35\x00\x30\x00\x09\x00\x09\x00 :1AC8: \x1A\x01\x08\x46\x00\x32\x00\x33\x00\x31\x00\x20\x00\x6F\x00\x6E\x00\x09\x00 :1AC8: \x1A\x01\x08\x46\x00\x32\x00\x33\x00\x32\x00\x20\x00\x6F\x00\x6E\x00\x09\x00 :1AC8: \x1A\x01\x08\x46\x00\x32\x00\x33\x00\x34\x00\x20\x00\x6F\x00\x6E\x00\x09\x00 :1AC8: \x0A\x04\x04\x98\x84\x01\x16 :B268: \x15 :124F: 
+:1AC8
+\x1A\x01\x0A\x46\x00\x31\x00\x31\x00\x37\x00\x37\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :1B1A: \x1A\x01\x0E\x43\x00\x4C\x00\x30\x00\x30\x00\x30\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x31\x00\x35\x00\x32\x00\x09\x00\x09\x00 :1B1A: \x0A\x04\x04\x99\x84\x01\x16 :B4D8: \x15 :124F: 
+:1B1A
+\x1A\x01\x0A\x46\x00\x31\x00\x31\x00\x37\x00\x38\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :1B6C: \x1A\x01\x0E\x43\x00\x4C\x00\x30\x00\x30\x00\x30\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x31\x00\x35\x00\x33\x00\x09\x00\x09\x00 :1B6C: \x0A\x04\x04\x9A\x84\x01\x16 :B5F9: \x15 :124F: 
+:1B6C
+\x1A\x01\x0A\x46\x00\x31\x00\x31\x00\x37\x00\x39\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :1BBE: \x1A\x01\x0E\x43\x00\x4C\x00\x30\x00\x30\x00\x30\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x31\x00\x35\x00\x34\x00\x09\x00\x09\x00 :1BBE: \x0A\x04\x04\x9B\x84\x01\x16 :B749: \x15 :124F: 
+:1BBE
+\x1A\x01\x0A\x46\x00\x31\x00\x31\x00\x38\x00\x30\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :1C10: \x1A\x01\x0E\x43\x00\x4C\x00\x30\x00\x30\x00\x30\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x31\x00\x35\x00\x35\x00\x09\x00\x09\x00 :1C10: \x0A\x04\x04\x9C\x84\x01\x16 :B9FB: \x15 :124F: 
+:1C10
+\x1A\x01\x0A\x46\x00\x31\x00\x31\x00\x38\x00\x31\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :1C62: \x1A\x01\x0E\x43\x00\x4C\x00\x30\x00\x30\x00\x30\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x31\x00\x35\x00\x36\x00\x09\x00\x09\x00 :1C62: \x0A\x04\x04\x9D\x84\x01\x16 :BBE6: \x15 :124F: 
+:1C62
+\x1A\x01\x0A\x46\x00\x31\x00\x31\x00\x37\x00\x30\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :1CB4: \x1A\x01\x0E\x43\x00\x4C\x00\x30\x00\x30\x00\x30\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x31\x00\x31\x00\x34\x00\x09\x00\x09\x00 :1CB4: \x0A\x04\x04\x92\x84\x01\x16 :AB8F: \x15 :124F: 
+:1CB4
+\x1A\x01\x0A\x46\x00\x31\x00\x31\x00\x37\x00\x31\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :1D06: \x1A\x01\x0E\x43\x00\x4C\x00\x30\x00\x30\x00\x30\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x31\x00\x33\x00\x30\x00\x09\x00\x09\x00 :1D06: \x0A\x04\x04\x93\x84\x01\x16 :ACF6: \x15 :124F: 
+:1D06
+\x1A\x01\x0A\x46\x00\x31\x00\x31\x00\x37\x00\x32\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :1D58: \x1A\x01\x0E\x43\x00\x4C\x00\x30\x00\x30\x00\x30\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x31\x00\x32\x00\x31\x00\x09\x00\x09\x00 :1D58: \x0A\x04\x04\x94\x84\x01\x16 :AE40: \x15 :124F: 
+:1D58
+<exit>
+:1D59
+<music 3>
+<background "bg010a0.agf" 10>
+<sprite "ta16a001.agf" 4 4 11>
+<name "Farren" "!FB0146">
+"Mayor?"
+#
+<name "Darx">
+"It's in your hands."
+#
+<sprite "ta16a003.agf" 4 4 12>
+<name "Farren" "!FB0147">
+"...I'll do my best for you."
+#
+<name "Darx">
+"Yeah."
+#
+<removesprite -1 11>
+<exit>
+:1E8B
+<music 3>
+<background "bg010a0.agf" 10>
+<sprite "ta21a015.agf" 4 4 11>
+<name "Ish" "!AB0069">
+"Lotta's the mayor?"
+#
+<removesprite -1 11>
+<sprite "ta20a015.agf" 2 4 11>
+<sprite "ta21a015.agf" 6 5 11>
+<name "Raffino" "!EB0075">
+"Isn't that reckless?"
+#
+<removesprite -1 11>
+<sprite "ta18a019.agf" 4 4 11>
+<name "Lotta" "!HB0090">
+"That's not true.
+ I'll try really hard."
+#
+<removesprite -1 11>
+<exit>
+:2044
+<music 3>
+<background "bg010a0.agf" 10>
+<sprite "ta20a004.agf" 4 4 11>
+<name "Raffino" "!EB0076">
+"I shall fulfill my duties as mayor."
+#
+<sprite "ta20a005.agf" 4 4 12>
+<name "Raffino" "!EB0077">
+"Leave everything to me."
+#
+<removesprite -1 11>
+<exit>
+:2160
+<music 3>
+<background "bg010a0.agf" 10>
+<sprite "ta19a003.agf" 4 4 11>
+<name "Ao" "!WA0149">
+"Leave it to me.
+ I will develop this city."
+#
+<removesprite -1 11>
+<sprite "ta20a017.agf" 4 4 11>
+<name "Raffino" "!EB0078">
+"Grrr.
+ She's keeping him all to herself.
+ No fair."
+#
+<removesprite -1 11>
+<sprite "ta20a017.agf" 2 4 11>
+<sprite "ta22a002.agf" 6 5 11>
+<name "Nein" "!QA0104">
+"Yeah, yeah!"
+#
+<removesprite -1 11>
+<exit>
+:2341
+<music 3>
+<background "bg010a0.agf" 10>
+<sprite "ta04a000.agf" 4 4 11>
+<name "Rualtei" "!RA0227">
+"Mayor?
+ It's a small job, but I can do it."
+#
+<name "Darx">
+"Yeah, I'm counting on you."
+#
+<removesprite -1 11>
+<background "bg008a0.agf" 10>
+<sprite "ta04a002.agf" 4 4 11>
+<name "Rualtei" "!RA0228">
+"Mayor..."
+#
+<sprite "ta04a001.agf" 4 4 12>
+<name "Rualtei" "!RA0229">
+"I'm now the mayor..."
+#
+<sprite "ta04a005.agf" 4 4 12>
+<name "Rualtei" "!RA0230">
+"Okay!
+ Let's do it!"
+#
+<removesprite -1 11>
+<exit>
+:256F
+<music 3>
+<background "bg010a0.agf" 10>
+<sprite "ta04a006.agf" 4 4 11>
+<name "Rualtei" "!RA0233">
+"Congratulations on your appointment to mayor,
+ Sister."
+#
+<removesprite -1 11>
+<sprite "ta03a004.agf" 2 4 11>
+<sprite "ta04a006.agf" 6 5 11>
+<name "Miartei" "!SA0244">
+"Thank you.
+ It's a lesser position than the one I held 
+ when I was in Celestia, but I'll do my best
+ for you."
+#
+<name "Darx">
+"What were you in Celestia?"
+#
+<sprite "ta04a005.agf" 6 5 12>
+<name "Rualtei" "!RA0232">
+"She was the general of the Holy Light.
+ She also managed 17 towns and fortresses.
+ Impressive, isn't it?"
+#
+<sprite "ta03a006.agf" 2 4 12>
+<name "Miartei" "!SA0247">
+"It was 18.
+ Actually though, I quit liked the research
+ division..."
+#
+<name "Darx">
+"Miartei, I have very high expectations for
+ you, so give it your best."
+#
+<sprite "ta03a022.agf" 2 4 12>
+<name "Miartei" "!SA0248">
+"Y-Yes, sir.
+ Leave it to me."
+#
+<removesprite -1 11>
+<exit>
+:2930
+<music 3>
+<background "bg010a0.agf" 10>
+<sprite "ta03a014.agf" 4 4 11>
+<name "Miartei" "!SA0249">
+"Um, Kyuriha is the mayor?
+ Overlord?"
+#
+<name "Darx">
+"What's the matter?"
+#
+<sprite "ta03a015.agf" 4 4 12>
+<name "Miartei" "!SA0250">
+"What's the matter?
+ You gave Kyuriha that kind of authority..."
+#
+<removesprite -1 11>
+<sprite "ta05a013.agf" 4 4 11>
+<name "Kyuriha" "!FA0529">
+"Mi-ar-tei..."
+#
+<removesprite -1 11>
+<sprite "ta05a013.agf" 2 5 11>
+<sprite "ta03a016.agf" 6 4 11>
+<name "Miartei" "!SA0251">
+"Eep!"
+#
+<sprite "ta05a017.agf" 2 5 12>
+<name "Kyuriha" "!FA0530">
+"I, of course, would never think of doing 
+ anything to trouble him."
+#
+<removesprite 6 11>
+<removesprite -1 11>
+<sprite "ta05a003.agf" 4 4 11>
+<name "Kyuriha" "!FA0531">
+"Darx, please be absolutely confident of my
+ loyalty."
+#
+<name "Darx">
+"Yeah, please."
+#
+<sprite "ta05a019.agf" 4 4 12>
+<name "Kyuriha" "!FA0532">
+"Yes.
+ Then, Miartei, this way.
+ We need to talk."
+#
+<removesprite -1 11>
+<sprite "ta03a015.agf" 4 4 11>
+<name "Miartei" "!SA0252">
+"Aah! Overlord! Save me!"
+#
+<removesprite -1 11>
+<exit>
+:2DF3
+<music 3>
+<background "bg010a0.agf" 10>
+<sprite "ta34a000.agf" 4 4 11>
+<name "Company Maid" "!AC0412">
+"Are they the right choice for mayor?"
+#
+<name "Darx">
+"I think it'll work out."
+#
+<name "Company Maid" "!AC0413">
+"What if it doesn't?"
+#
+<name "Darx">
+"We'll figure it out."
+#
+<sprite "ta34a002.agf" 4 4 12>
+<name "Company Maid" "!AC0414">
+"Um, we?"
+#
+<name "Darx">
+"We'll figure the mayor out."
+#
+<name "Company Maid" "!AC0415">
+"Ah, I-I see."
+#
+<name "Darx">
+"Of course, I won't turn down any help from
+ Gunguskar."
+#
+<sprite "ta34a000.agf" 4 4 12>
+<name "Company Maid" "!AC0257">
+"...We'll do our best."
+#
+<removesprite -1 11>
+<exit>
+:3096
+<music 3>
+<background "bg010a0.agf" 10>
+<sprite "ta34a000.agf" 4 4 11>
+<name "Company Maid" "!AC0258">
+"The mayor is... doing some work."
+#
+<name "Darx">
+"Just having one makes a difference in 
+ providing stability."
+#
+<name "Company Maid" "!AC0259">
+"It's probably easier to talk to the mayor
+ than it is to you."
+#
+<name "Darx">
+"Huh? Really?"
+#
+<name "Company Maid" "!AC0260">
+"Maybe not for Forzelotte's group, but for the
+ immigrants..."
+#
+<name "Darx">
+"Ah, we should do something about that."
+#
+<name "Company Maid" "!AC0261">
+"Well, the mayor will have to think about it."
+#
+<removesprite -1 11>
+<exit>
+:32CA
+<music 3>
+<background "bg010a0.agf" 10>
+<sprite "ta17a004.agf" 4 4 11>
+<name "Tamaga" "!PB0109">
+"I will serve the mayor, no matter who it is."
+#
+<name "Darx">
+"Sounds promising.
+ I'm counting on you."
+#
+<sprite "ta17a003.agf" 4 4 12>
+<name "Tamaga" "!PB0110">
+"Yes, sir."
+#
+<name "Darx">
+"Okay, that deserves a head pat."
+#
+<sprite "ta17a111.agf" 4 4 12>
+<name "Tamaga" "!PB0111">
+"If you don't mind, I'd prefer stroking the
+ neck.
+ ...Ah, yes. Like that."
+#
+<removesprite -1 11>
+<exit>
+:34A2
+<music 3>
+<background "bg010a0.agf" 10>
+<sprite "ta22a003.agf" 4 4 11>
+<name "Nein" "!QA0105">
+"Even upside down, I can still help!"
+#
+<removesprite -1 11>
+<sprite "ta21a011.agf" 2 4 11>
+<sprite "ta22a003.agf" 6 5 11>
+<name "Ish" "!AB0070">
+"You say that, but... 
+ You do sit in a chair when you work, right?"
+#
+<sprite "ta22a010.agf" 6 5 12>
+<name "Nein" "!QA0106">
+"Yeah. I can't do paperwork upside down."
+#
+<removesprite -1 11>
+<exit>
+:368A
+<music 3>
+<background "bg010a0.agf" 10>
+<sprite "ta04a012.agf" 4 4 11>
+<name "Rualtei" "!RA0234">
+"There's a... deputy mayor?"
+#
+<removesprite -1 11>
+<sprite "ta01a004.agf" 2 5 11>
+<sprite "ta04a012.agf" 6 4 11>
+<name "Sofia" "!ZB0963">
+"It's necessary."
+#
+<sprite "ta04a013.agf" 6 4 12>
+<name "Rualtei" "!RA0235">
+"Really?"
+#
+<sprite "ta01a033.agf" 2 5 12>
+<name "Sofia" "!ZB0964">
+"Really."
+#
+<sprite "ta04a010.agf" 6 4 12>
+<name "Rualtei" "!RA0236">
+"...Then I'll do my best."
+#
+<removesprite -1 11>
+<exit>
+:38E0
+<music 4>
+<background "bg009a0.agf" 10>
+<sprite "ta03a012.agf" 4 4 11>
+<name "Miartei" "!SA0253">
+"Deputy mayor...
+ What an invisible job."
+#
+<sprite "ta03a011.agf" 4 4 12>
+<name "Miartei" "!SA0254">
+"Will this be enough to earn his praise?"
+#
+<removesprite -1 11>
+<sprite "ta34b000.agf" 2 5 11>
+<sprite "ta03a012.agf" 6 4 11>
+<name "Company Maid" "!DC0422">
+"He looks at whatever catches his eye."
+#
+<sprite "ta03a004.agf" 6 4 12>
+<name "Miartei" "!SA0255">
+"I-I see.
+ I'll do my best."
+#
+<removesprite -1 11>
+<exit>
+:3B19
+<music 4>
+<background "bg009a0.agf" 10>
+<sprite "ta05a014.agf" 4 4 11>
+<name "Kyuriha" "!FA0533">
+"Deputy mayor.
+ It's practically the same job as mayor, but
+ without any of the prestige."
+#
+<sprite "ta05a015.agf" 4 4 12>
+<name "Kyuriha" "!FA0534">
+"That's what a deputy mayor is."
+#
+<removesprite -1 11>
+<sprite "ta01a035.agf" 4 4 11>
+<name "Sofia" "!ZB0965">
+"Overlord, I don't think she's happy about it.
+ Please try to motivate her."
+#
+<removesprite -1 11>
+<name "Darx">
+"Roger."
+#
+<sprite "ta05a116.agf" 4 4 11>
+<name "Kyuriha" "!FA0535">
+"Huh?
+ Ah! Aah! Aahhhhhh!"
+#
+<removesprite -1 11>
+I motivated her.
+#
+<exit>
+:3D84
+<music 14>
+<background "bg008a0.agf" 10>
+<name "Pondering Citizen" "!GB0219">
+"Deputy mayor."
+#
+<name "Pondering Citizen" "!GB0220">
+"Uh, what kind of work does one do?"
+#
+<name "Thinking Citizen" "!ZH0121">
+"J-Just like the name suggests...
+ They help out the mayor."
+#
+<name "Pondering Citizen" "!GB0221">
+"What else?"
+#
+<name "Thinking Citizen" "!ZH0122">
+"Um, I guess they act as mayor if something
+ happens to them?"
+#
+<name "Pondering Citizen" "!GB0222">
+"Oh? Then it's a big deal."
+#
+<name "Thinking Citizen" "!ZH0123">
+"W-Well, I think it is.
+ Much more than being just a regular citizen."
+#
+<exit>
+:3F98
+<music 3>
+<background "bg010a0.agf" 10>
+<name "Yahnu" "!NB0041" "ka24a000.agf">
+"Farm manager?
+ I won't let you down.
+ I'll do my absolute best."
+#
+<name "Darx">
+"Don't overdo it."
+#
+<name "Yahnu" "!NB0042" "ka24a003.agf">
+"Yes, sir."
+#
+<exit>
+:409D
+<music 4>
+<background "bg009a0.agf" 10>
+<name "Dark Shadow" "!BC0152">
+"Haaahahahaha!
+ Dark Shadow of the golden field!"
+#
+<name "Dark Shadow" "!BC0153">
+"I am here to become the farm manager!
+ Um... Excuse me.
+ Who's in charge here?"
+#
+<sprite "ta34b002.agf" 4 4 11>
+<name "Company Maid" "!DC0423">
+"Uhh..."
+#
+<name "Company Maid" "!DC0424">
+"What should we do?"
+#
+<sprite "ta34a000.agf" 2 4 11>
+<sprite "ta34b000.agf" 6 5 11>
+<name "Experienced Maid" "!AC0262">
+"Humor him and send him away."
+#
+<sprite "ta34b000.agf" 6 5 12>
+<name "Company Maid" "!DC0425">
+"O-Okay."
+#
+<removesprite -1 11>
+<name "Hansble Beagle" "!UA0102">
+"Excuse me.
+ I'm Hansble Beagle of the double reaping.
+ I'd like to speak with someone about the farm
+ manager..."
+#
+<sprite "ta34a000.agf" 4 4 11>
+<name "Experienced Maid" "!AC0263">
+"Same thing."
+#
+<removesprite -1 11>
+<sprite "ta34a000.agf" 2 4 11>
+<sprite "ta34b000.agf" 6 5 11>
+<name "Company Maid" "!DC0426">
+"Okay."
+#
+<removesprite -1 11>
+<background "bg015a0.agf" 10>
+...
+#
+<background "bg009a0.agf" 10>
+<sprite "ta34b002.agf" 4 4 11>
+<name "Company Maid" "!DC0427">
+"I'm sorry.
+ I couldn't do it.
+ They were too strong.
+ And they know so much about farming."
+#
+<removesprite -1 11>
+<sprite "ta34a000.agf" 2 4 11>
+<sprite "ta34b002.agf" 6 5 11>
+<name "Experienced Maid" "!AC0264">
+"Then give them advisor positions."
+#
+<name "Company Maid" "!DC0428">
+"Y-Yes, ma'am."
+#
+<removesprite -1 11>
+<exit>
+:46AC
+<music 3>
+<background "bg010a0.agf" 10>
+<sprite "ta34a000.agf" 4 4 11>
+<name "Company Maid" "!AC0265">
+"The main job of the farm manager is to ensure
+ that the farmers can do their jobs without
+ issue."
+#
+<name "Company Maid" "!AC0266">
+"And purchasing product.
+ Managing and monitoring distribution is their
+ secondary duty."
+#
+<name "Darx">
+"Ah, yeah.
+ Got it.
+ And why are you telling me this?"
+#
+<sprite "ta34a001.agf" 4 4 12>
+<name "Company Maid" "!AC0267">
+"It's not their job to protect your personal
+ garden."
+#
+<name "Darx">
+"But I was worried about it when I'm away."
+#
+<name "Company Maid" "!AC0268">
+"If you need help, we can do that.
+ Please don't interfere with the farm manager's
+ actual work."
+#
+<name "Darx">
+"W-Was it that bad?"
+#
+<sprite "ta34a002.agf" 4 4 12>
+<name "Company Maid" "!AC0269">
+"They were up watching it all night, scared
+ that something might wither."
+#
+<name "Darx">
+"...I-I didn't think things through."
+#
+<removesprite -1 11>
+<exit>
+:4A6E
+<music 3>
+<background "bg010a0.agf" 10>
+<sprite "ta16a003.agf" 4 4 11>
+<name "Farren" "!FB0148">
+"They say it's unexpected, but don't worry,
+ I'm good at handling money."
+#
+<sprite "ta16a019.agf" 4 4 12>
+<name "Farren" "!FB0149">
+"Leave the job of trade captain to me."
+#
+<removesprite -1 11>
+<exit>
+:4B97
+<music 4>
+<background "ev003a00.agf" 10>
+<name "Company Maid" "!PC0494">
+"This matter should go to the trade captain.
+ Yes, they're not here right now."
+#
+<name "Company Maid" "!PC0495">
+"Yes, just like that...
+ Thank you very much!"
+#
+...
+#
+<name "Company Maid" "!PC0496">
+"I can just let the trade captain handle
+ everything!
+ Happiness!"
+#
+<name "Sympathetic Maid" "!DC0429">
+"But the trade captain is crying."
+#
+<exit>
+:4CFF
+<music 3>
+<background "bg010a0.agf" 10>
+<name "Hibi" "!DB0044" "ka23a002.agf">
+"I like crafting things, so I think I can
+ handle it."
+#
+<name "Darx">
+"I'm counting on you."
+#
+<name "Hibi" "!DB0045" "ka23a003.agf">
+"Yeah."
+#
+<exit>
+:4DDE
+<music 3>
+<background "bg010a0.agf" 10>
+<name "Darx">
+"What exactly does the forge overseer do?"
+#
+<sprite "ta01a004.agf" 4 4 11>
+<name "Sofia" "!ZB0966">
+"They oversee the forges."
+#
+<name "Darx">
+"Thank you for the concise answer."
+#
+<removesprite -1 11>
+<exit>
+:4EE3
+<music 14>
+<background "bg013a0.agf" 10>
+<sprite "ta17a005.agf" 4 4 11>
+<name "Tamaga" "!PB0112">
+"I will tolerate no lawbreaking."
+#
+<removesprite -1 11>
+<name "Darx">
+"She's a weirdly good fit for security chief."
+#
+<sprite "ta01a004.agf" 4 4 11>
+<name "Sofia" "!ZB0967">
+"Yeah."
+#
+<removesprite -1 11>
+<exit>
+:5016
+<music 14>
+<background "bg013a0.agf" 10>
+<sprite "ta21a009.agf" 4 4 11>
+<name "Ish" "!AB0071">
+"Hahahahaha!"
+#
+<removesprite -1 11>
+<sprite "ta01a025.agf" 4 4 11>
+<name "Sofia" "!ZB0968">
+"Isn't this like putting a thief in charge of
+ security?"
+#
+<name "Darx">
+"No, she can handle it.
+ Definitely.
+ Probably."
+#
+<removesprite -1 11>
+<sprite "ta21a009.agf" 4 4 11>
+<name "Ish" "!AB0072">
+"Hahahahahaha!"
+#
+<removesprite -1 11>
+...P-Probably!
+#
+<exit>
+:51EC
+<music 14>
+<background "bg008a0.agf" 10>
+<name "Security Officer" "!ZD0147">
+"Being the security chief of this city...
+ Seems like the short end of the stick, or am
+ I wrong?"
+#
+<name "Tactful Citizen" "!UA0176">
+"I-It's not... not like that."
+#
+<name "Security Officer" "!ZD0148">
+"Right?"
+#
+<name "Security Officer" "!ZD0149">
+"Seriously. I was worried."
+#
+<name "Tactful Citizen" "!UA0177">
+"Hahaha..."
+#
+<exit>
+:535D
+<music 3>
+<background "bg010a0.agf" 10>
+<sprite "ta20a004.agf" 4 4 11>
+<name "Raffino" "!EB0079">
+"The dean.
+ That sounds important."
+#
+<sprite "ta20a005.agf" 4 4 12>
+<name "Raffino" "!EB0080">
+"No, it must be important."
+#
+<sprite "ta20a006.agf" 4 4 12>
+<name "Raffino" "!EB0081">
+"I've got to work hard at this."
+#
+<name "Darx">
+"I can see you're fired up, but please put away
+ the bow and arrows.
+ There's no need for those at school."
+#
+<removesprite -1 11>
+<exit>
+:5547
+<music 3>
+<background "bg010a0.agf" 10>
+<name "Yahnu" "!NB0043" "ka24a003.agf">
+"Yes.
+ I'm in charge of the school.
+ I understand."
+#
+<name "Yahnu" "!NB0044" "ka24a008.agf">
+"My job?
+ Yes, I know."
+#
+<name "Yahnu" "!NB0049" "ka24a004.agf">
+"My job is not to teach.
+ I am to prepare an environment where educators
+ can work, and those who want to learn are able
+ to do so."
+#
+<name "Yahnu" "!NB0050" "ka24a003.agf">
+"Is there an issue?"
+#
+<name "Darx">
+"None at all.
+ Keep it up."
+#
+<name "Yahnu" "!NB0051" "ka24a000.agf">
+"Yes, sir."
+#
+<exit>
+:57A1
+<music 3>
+<background "bg010a0.agf" 10>
+<sprite "ta20a001.agf" 4 4 11>
+<name "Raffino" "!EB0082">
+"Merry maker?"
+#
+<sprite "ta20a000.agf" 4 4 12>
+<name "Raffino" "!EB0083">
+"Providing entertainment in the city.
+ And putting a stop to it when things go too
+ far."
+#
+<name "Darx">
+"Yeah.
+ I'm counting on you."
+#
+<sprite "ta20a006.agf" 4 4 12>
+<name "Raffino" "!EB0084">
+"Leave it to me.
+ By the way, could you consider building a
+ recreation center for shooting bows?"
+#
+<name "Darx">
+"Talk to Gunguskar and make a formal request."
+#
+<sprite "ta20a016.agf" 4 4 12>
+<name "Raffino" "!EB0085">
+"Eeeeh..."
+#
+<removesprite -1 11>
+<exit>
+:5A35
+<music 3>
+<background "bg010a0.agf" 10>
+<sprite "ta21a001.agf" 4 4 11>
+<name "Ish" "!AB0075">
+"Merry maker..."
+#
+<sprite "ta21a005.agf" 4 4 12>
+<name "Ish" "!AB0076">
+"In other words, just play!"
+#
+<name "Darx">
+"Wrong!"
+#
+<removesprite -1 11>
+<exit>
+:5B46
+<music 3>
+<background "bg010a0.agf" 10>
+<name "Hibi" "!DB0046" "ka23a002.agf">
+"I can't... just freeze everything?"
+#
+<name "Sofia" "!ZB0969">
+"Why did you think that'd be okay?
+ And why did you do it?"
+#
+<name "Hibi" "!DB0048" "ka23a010.agf">
+"Um..."
+#
+<name "Sofia" "!ZB0970">
+"After we finish defrosting the victims, please
+ apologize."
+#
+<name "Hibi" "!DB0049" "ka23a011.agf">
+"Oooh..."
+#
+<exit>
+:5CFA
+<music 3>
+<background "bg010a0.agf" 10>
+<sprite "ta16a019.agf" 4 4 11>
+<name "Farren" "!FB0150">
+"I can't... just burn everything?"
+#
+<removesprite -1 11>
+<sprite "ta01a036.agf" 2 5 11>
+<sprite "ta16a019.agf" 6 4 11>
+<name "Sofia" "!ZB0971">
+"I want ten pages on why you though that was a
+ good idea."
+#
+<sprite "ta16a020.agf" 6 4 12>
+<name "Farren" "!FB0151">
+"Awww..."
+#
+<removesprite -1 11>
+<exit>
+:5EB2
+<music 3>
+<background "bg010a0.agf" 10>
+<sprite "ta16a003.agf" 4 4 11>
+<name "Farren" "!FB0152">
+"Dungeon master?
+ I won't let you down.
+ I'm used to this kind of dungeon."
+#
+<name "Darx">
+"I'm counting on you."
+#
+<sprite "ta16a001.agf" 4 4 12>
+<name "Farren" "!FB0153">
+"Yes. 
+ And, um..."
+#
+<name "Darx">
+"Hm?"
+#
+<sprite "ta16a018.agf" 4 4 12>
+<name "Farren" "!FB0157">
+"How about a reward for every hundred 
+ adventurers I drive off?"
+#
+<name "Darx">
+"I-I'll think about it."
+#
+<sprite "ta16a019.agf" 4 4 12>
+<name "Farren" "!FB0158">
+"Thank you very much."
+#
+<removesprite -1 11>
+<exit>
+:6132
+<music 3>
+<background "bg010a0.agf" 10>
+<sprite "ta19a004.agf" 4 4 11>
+<name "Ao" "!WA0150">
+"Dungeon master?
+ I'll do my best."
+#
+<sprite "ta19a003.agf" 4 4 12>
+<name "Ao" "!WA0151">
+"Oh, that's right.
+ Can I hire my old people?"
+#
+<name "Darx">
+"Do whatever you want."
+#
+<sprite "ta19a016.agf" 4 4 12>
+<name "Ao" "!WA0152">
+"Yay!
+ Okay, let's do it!"
+#
+<removesprite -1 11>
+<exit>
+:62DA
+<music 3>
+<background "bg010a0.agf" 10>
+<sprite "ta17a003.agf" 4 4 11>
+<name "Tamaga" "!PB0113">
+"Overlord."
+#
+<name "Darx">
+"Hm?"
+#
+<sprite "ta17a004.agf" 4 4 12>
+<name "Tamaga" "!PB0114">
+"Thank you for appointing me dungeon master."
+#
+<sprite "ta17a017.agf" 4 4 12>
+<name "Tamaga" "!PB0115">
+"Not a single adventurer will go back alive.
+ Leave it to us."
+#
+<name "Darx">
+"Um, I appreciate the enthusiasm, but please
+ go easy on the adventurers.
+ It's complicated."
+#
+<removesprite -1 11>
+<exit>
+:64EB
+<music 3>
+<background "bg010a0.agf" 10>
+<sprite "ta18a003.agf" 4 4 11>
+<name "Lotta" "!HB0091">
+"Heheheh.
+ Let's do it!"
+#
+<removesprite -1 11>
+<sprite "ta22a011.agf" 4 4 11>
+<name "Nein" "!QA0107">
+"I'm worried."
+#
+<removesprite -1 11>
+<sprite "ta21a014.agf" 2 4 11>
+<sprite "ta22a011.agf" 6 5 11>
+<name "Ish" "!AB0077">
+"Very worried."
+#
+<removesprite -1 11>
+<sprite "ta18a010.agf" 4 4 11>
+<name "Lotta" "!HB0092">
+"Rrr!
+ It'll be fine!"
+#
+<removesprite -1 11>
+<exit>
+:66EC
+<music 3>
+<background "bg010a0.agf" 10>
+<sprite "ta04a002.agf" 4 4 11>
+<name "Rualtei" "!RA0237">
+"Well, I guess I'll try."
+#
+<name "Darx">
+"Please."
+#
+<sprite "ta04a000.agf" 4 4 12>
+<name "Rualtei" "!RA0238">
+"Y-Yeah."
+#
+<removesprite -1 11>
+<exit>
+:680B
+<music 3>
+<background "bg010a0.agf" 10>
+<sprite "ta03a004.agf" 4 4 11>
+<name "Miartei" "!SA0256">
+"Managing the dungeon.
+ Please leave it to me.
+ I shall thoroughly exterminate all who stand
+ in our way."
+#
+<name "Darx">
+"I'm counting on you."
+#
+<removesprite -1 11>
+<sprite "ta04a006.agf" 4 4 11>
+<name "Rualtei" "!RA0239">
+"She's so wonderful."
+#
+<removesprite -1 11>
+<sprite "ta03a022.agf" 2 4 11>
+<sprite "ta04a006.agf" 6 5 11>
+<name "Miartei" "!SA0257">
+"Heheh.
+ I'll do my best."
+#
+<removesprite -1 11>
+<exit>
+:6A09
+<music 14>
+<background "bg008a0.agf" 10>
+<sprite "ta05a003.agf" 4 4 11>
+<name "Kyuriha" "!FA0536">
+"Let me tell you all about adventurers."
+#
+<sprite "ta05a004.agf" 4 4 12>
+<name "Kyuriha" "!FA0537">
+"First, you start out by intentionally 
+ pretending to lose to make them 
+ overconfident."
+#
+<sprite "ta05a017.agf" 4 4 12>
+<name "Kyuriha" "!FA0538">
+"Then, you set up treasures so that the deeper
+ they go, the greater the reward."
+#
+<sprite "ta05a019.agf" 4 4 12>
+<name "Kyuriha" "!FA0539">
+"Once you've lured them deep enough in, that's
+ when the fun begins."
+#
+<sprite "ta05a018.agf" 4 4 12>
+<name "Kyuriha" "!FA0540">
+"That's when you fight them seriously.
+ However, you must not kill them.
+ There's no fun in killing them."
+#
+<sprite "ta05a017.agf" 4 4 12>
+<name "Kyuriha" "!FA0541">
+"Once they're running, you must intimidate,
+ belittle, and grind them mercilessly beneath
+ your heel."
+#
+<sprite "ta05a020.agf" 4 4 12>
+<name "Kyuriha" "!FA0542">
+"Heheheh... We should all enjoy watching them
+ weep. Oh, and don't forget to leave enough
+ food scattered around.
+ You can't forget to keep hope alive."
+#
+<removesprite -1 11>
+<name "Guard Demon" "!BC0154" "ka42a000.agf">
+"Overlord, I'm scared of the new dungeon
+ master."
+#
+<exit>
+:6EDE
+<music 4>
+<background "bg009a0.agf" 10>
+<name "Working Demon" "!MB0133">
+"Dungeon master...
+ Just how important is it?"
+#
+<name "Knowledgable Demon" "!KB0265">
+"You're from Forzelotte's Shrine, right?"
+#
+<name "Working Demon" "!MB0134">
+"Yeah."
+#
+<name "Knowledgable Demon" "!KB0266">
+"It's about the same as Ekate, Golan, and
+ Tojo.
+ You know what I mean?"
+#
+<name "Working Demon" "!MB0135">
+"Ooh!
+ T-That's pretty great!"
+#
+<name "Knowledgable Demon" "!KB0267">
+"Right?"
+#
+<name "Working Demon" "!MB0136">
+"I just said hi to them in the bathroom like
+ it was nothing."
+#
+<name "Knowledgable Demon" "!KB0268">
+"Look for a chance to apologize."
+#
+<name "Working Demon" "!MB0137">
+"I-I'll do that."
+#
+<exit>
+:7176
+<music 4>
+<background "bg009a0.agf" 10>
+<name "Working Demon" "!MB0138">
+"If the dungeon master is at the same level as
+ Ekate, Golan, and Tojo...
+　The dungeon lord above them must be super
+ great."
+#
+<name "Knowledgable Demon" "!KB0269">
+"Yeah."
+#
+<name "Working Demon" "!MB0139">
+"The Overlord is the one above that."
+#
+<name "Knowledgable Demon" "!KB0270">
+"Yeah."
+#
+<name "Working Demon" "!MB0140">
+"But he was doing something for a maid."
+#
+<name "Knowledgable Demon" "!KB0271">
+"S-So then are the maids at the top?"
+#
+<name "Working Demon" "!MB0141">
+"I see."
+#
+<music 3>
+<background "bg010a0.agf" 10>
+<sprite "ta01a028.agf" 4 4 11>
+<name "Sofia" "!ZB0972">
+"Uhh... Don't do their chores."
+#
+<name "Darx">
+"I-I was just lending a hand.
+ It wasn't..."
+#
+<sprite "ta01a036.agf" 4 4 12>
+<name "Sofia" "!ZB0973">
+"Please don't create misunderstandings."
+#
+<name "Darx">
+"Y-Yes, ma'am."
+#
+<removesprite -1 11>
+<exit>
+:7511
+<music 3>
+<background "bg010a0.agf" 10>
+<name "Yahnu" "!NB0052" "ka24a003.agf">
+"Dungeon keeper?
+ Not bad.
+ I'll work really hard."
+#
+<name "Yahnu" "!NB0053" "ka24a002.agf">
+"By the way, when the dungeon master does bad
+ things, how far am I allowed to go?"
+#
+<name "Yahnu" "!NB0054" "ka24a001.agf">
+"Yes, yes. Oh, I see.
+ I understand.
+ I can't help but be excited."
+#
+<name "Sofia" "!ZB0974">
+"...It must be hard to be dungeon master."
+#
+<exit>
+:76E9
+<music 3>
+<background "bg010a0.agf" 10>
+<sprite "ta21a009.agf" 4 4 11>
+<name "Ish" "!AB0078">
+"Hahahaha!"
+#
+<sprite "ta21a003.agf" 4 4 12>
+<name "Ish" "!AB0079">
+"Dungeon keeper.
+ I don't have to listen to anybody but the
+ dungeon master."
+#
+<sprite "ta21a004.agf" 4 4 12>
+<name "Ish" "!AB0080">
+"I hope it's someone easygoing."
+#
+<removesprite -1 11>
+<sprite "ta01a036.agf" 4 4 11>
+<name "Sofia" "!ZB0975">
+"...This may be a problem."
+#
+<removesprite -1 11>
+<exit>
+:78D2
+<music 3>
+<background "bg010a0.agf" 10>
+<sprite "ta22a003.agf" 4 4 11>
+<name "Nein" "!QA0108">
+"I'll try my best to help."
+#
+<removesprite -1 11>
+<sprite "ta22a003.agf" 2 5 11>
+<sprite "ta34a000.agf" 6 4 11>
+<name "Company Maid" "!PC0497">
+"Are you always going to be upside down while
+ helping?"
+#
+<sprite "ta22a004.agf" 2 5 12>
+<name "Nein" "!QA0109">
+"It's a job inside the dungeon, so I'll be
+ upside down.
+ This is my fighting stance."
+#
+<name "Company Maid" "!PC0498">
+"G-Good luck.
+ And here."
+#
+<sprite "ta22a001.agf" 2 5 12>
+<name "Nein" "!QA0110">
+"Pants?"
+#
+<name "Company Maid" "!PC0499">
+"From the Overlord.
+ When you're in the dungeon, it's okay to wear
+ pants."
+#
+<sprite "ta22a003.agf" 2 5 12>
+<name "Nein" "!QA0111">
+"Oh, okay.
+ Thank you.
+ I'll be sure to put them on."
+#
+<removesprite -1 11>
+<exit>
+:7C2F
+<music 11>
+<background "bg013a0.agf" 10>
+<sprite "ta04a001.agf" 4 4 11>
+<name "Rualtei" "!RA0240">
+"Dungeon keeper?"
+#
+<sprite "ta04a005.agf" 4 4 12>
+<name "Rualtei" "!RA0241">
+"Meaning...
+ I'm supposed to get mad when the dungeon
+ master makes a mistake?"
+#
+<name "Working Demon" "!BC0155" "ka42a000.agf">
+"That would make you their boss."
+#
+<name "Working Demon" "!BC0156" "ka42a000.agf">
+"Your main job is to help the dungeon master.
+ If they make a mistake, it's your job to
+ cover for them."
+#
+<sprite "ta04a012.agf" 4 4 12>
+<name "Rualtei" "!RA0242">
+"What exactly do I do?"
+#
+<name "Working Demon" "!BC0157" "ka42a000.agf">
+"M-Maybe start by getting a job from the 
+ dungeon master and doing it?"
+#
+<sprite "ta04a013.agf" 4 4 12>
+<name "Rualtei" "!RA0243">
+"Okaaay."
+#
+<removesprite -1 11>
+<exit>
+:7F94
+<music 3>
+<background "bg010a0.agf" 10>
+<sprite "ta03a011.agf" 4 4 11>
+<name "Miartei" "!SA0258">
+"Dungeon keeper?
+ If you would just let me be dungeon
+ master..."
+#
+<name "Darx">
+"I think you can handle this."
+#
+<sprite "ta03a012.agf" 4 4 12>
+<name "Miartei" "!SA0259">
+"...Pardon me.
+ I didn't mean to imply that I'm dissatisfied
+ with your decision."
+#
+<name "Darx">
+"I'll forgive you once I rub your breasts."
+#
+<sprite "ta03a022.agf" 4 4 12>
+<name "Miartei" "!SA0260">
+"Ah!
+ Just my breasts is enough to satisfy you?"
+#
+<name "Darx">
+"..."
+#
+<removesprite -1 11>
+I ended up going all the way.
+#
+<exit>
+:81F7
+<music 3>
+<background "bg010a0.agf" 10>
+<sprite "ta05a003.agf" 4 4 11>
+<name "Kyuriha" "!FA0543">
+"An assistant?
+ Leave it to me.
+ That's my specialty."
+#
+<sprite "ta05a004.agf" 4 4 12>
+<name "Kyuriha" "!FA0544">
+"Yes, don't be concerned.
+ There's no need to be so anxious."
+#
+<sprite "ta05a017.agf" 4 4 12>
+<name "Kyuriha" "!FA0545">
+"I'll be sure to hold back."
+#
+<removesprite -1 11>
+That's worrying.
+#
+<exit>
+:83AC
+<music 3>
+<background "bg010a0.agf" 10>
+<sprite "ta16a004.agf" 4 4 11>
+<name "Farren" "!FB0159">
+"Floor boss?
+ Roger that."
+#
+<sprite "ta16a003.agf" 4 4 12>
+<name "Farren" "!FB0160">
+"I'll take care of it, no problem."
+#
+<name "Darx">
+"I'm counting on you."
+#
+<sprite "ta16a001.agf" 4 4 12>
+<name "Farren" "!FB0161">
+"Yes, so, um..."
+#
+<name "Darx">
+"Hm?"
+#
+<sprite "ta16a019.agf" 4 4 12>
+<name "Farren" "!FB0162">
+"Make sure you keep an eye on me, okay?"
+#
+<name "Darx">
+"Yeah."
+#
+<removesprite -1 11>
+<exit>
+:85D5
+<music 3>
+<background "bg010a0.agf" 10>
+<sprite "ta19a003.agf" 4 4 11>
+<name "Ao" "!WA0153">
+"Floor boss?
+ So the front line.
+ Roger.
+ I'll do my best."
+#
+<name "Darx">
+"Yeah.
+ I'm leaving it to you."
+#
+<sprite "ta19a004.agf" 4 4 12>
+<name "Ao" "!WA0154">
+"Yeah.
+ Adventurers are trash who can't do anything on
+ their own.
+ I'm gonna beat them to a pulp."
+#
+<name "Darx">
+"...I used to be an adventurer.
+ Try to be a little more tactful."
+#
+<removesprite -1 11>
+<exit>
+:87B2
+<music 3>
+<background "bg010a0.agf" 10>
+<sprite "ta17a003.agf" 4 4 11>
+<name "Tamaga" "!PB0116">
+"I shall protect the floor to the death.
+ Leave it to me."
+#
+<name "Darx">
+"Um, keep it in moderation.
+ Don't go overboard."
+#
+<sprite "ta17a004.agf" 4 4 12>
+<name "Tamaga" "!PB0117">
+"I won't let you down."
+#
+<removesprite -1 11>
+<exit>
+:8907
+<music 3>
+<background "bg010a0.agf" 10>
+<sprite "ta18a004.agf" 4 4 11>
+<name "Lotta" "!HB0093">
+"Yep. Leave it to me."
+#
+<removesprite -1 11>
+<name "Yahnu" "!NB0055" "ka24a003.agf">
+"If it's just that, it should be safe."
+#
+<name "Raffino" "!EB0086" "ka20a000.agf">
+"Yeah.
+ It's not the worst if she messes up."
+#
+<sprite "ta18a014.agf" 4 4 11>
+<name "Lotta" "!HB0094">
+"I-I'm not gonna mess up!"
+#
+<removesprite -1 11>
+<exit>
+:8AB9
+<music 3>
+<background "bg010a0.agf" 10>
+<sprite "ta20a004.agf" 4 4 11>
+<name "Raffino" "!EB0087">
+"Floor boss?
+ Leave it to me."
+#
+<name "Darx">
+"You know how to handle it, right?"
+#
+<sprite "ta20a005.agf" 4 4 12>
+<name "Raffino" "!EB0088">
+"Yes. Don't do too much, don't do too little."
+#
+<name "Darx">
+"That's right.
+ I'm counting on you."
+#
+<sprite "ta20a020.agf" 4 4 12>
+<name "Raffino" "!EB0089">
+"For you."
+#
+<removesprite -1 11>
+<exit>
+:8C8E
+<music 3>
+<background "bg010a0.agf" 10>
+<sprite "ta21a001.agf" 4 4 11>
+<name "Ish" "!AB0081">
+"Floor boss means...
+ I can run wild?"
+#
+<sprite "ta21a003.agf" 4 4 12>
+<name "Ish" "!AB0082">
+"That's good, right?"
+#
+<sprite "ta21a009.agf" 4 4 12>
+<name "Ish" "!AB0083">
+"Yay!
+ Hahahahaha!
+ I'm gonna go all out!"
+#
+<name "Darx">
+"...D-Don't overdo it."
+#
+<removesprite -1 11>
+<exit>
+:8E51
+<music 3>
+<background "bg010a0.agf" 10>
+<sprite "ta22a001.agf" 4 4 11>
+<name "Nein" "!QA0112">
+"I accept the duty of floor boss."
+#
+<name "Darx">
+"Good luck."
+#
+<sprite "ta22a003.agf" 4 4 12>
+<name "Nein" "!QA0113">
+"Yes."
+#
+<name "Imagining Maid" "!DC0430" "ka34a000.agf">
+"New adventurers will be surprised by her."
+#
+<name "Agreeing Maid" "!PC0500" "ka34b000.agf">
+"Probably."
+#
+<removesprite -1 11>
+<exit>
+:902C
+<music 3>
+<background "bg010a0.agf" 10>
+<name "Yahnu" "!NB0056" "ka24a000.agf">
+"Defending the first floor.
+ I think this is perfect for me."
+#
+<name "Darx">
+"I'm counting on you."
+#
+<name "Yahnu" "!NB0057" "ka24a002.agf">
+"Yes, sir."
+#
+<exit>
+:912A
+<music 14>
+<background "bg008a0.agf" 10>
+<sprite "ta04a000.agf" 4 4 11>
+<name "Rualtei" "!RA0244">
+"This job is beneath me."
+#
+<name "Working Demon" "!BC0158" "ka42a000.agf">
+"You say that, but you're going to do a good
+ job of it, aren't you?"
+#
+<sprite "ta04a012.agf" 4 4 12>
+<name "Rualtei" "!RA0245">
+"I-I never don't do a good job!"
+#
+<removesprite -1 11>
+<exit>
+:92CE
+<music 3>
+<background "bg010a0.agf" 10>
+<sprite "ta03a003.agf" 4 4 11>
+<name "Miartei" "!SA0261">
+"Protecting a floor..."
+#
+<sprite "ta03a014.agf" 4 4 12>
+<name "Miartei" "!SA0262">
+"I'm not sure I can hold back."
+#
+<name "Working Demon" "!BC0159" "ka42a000.agf">
+"W-We'll support you."
+#
+<sprite "ta03a019.agf" 4 4 12>
+<name "Miartei" "!SA0263">
+"Thank you very much."
+#
+<name "Working Demon" "!BC0160" "ka42a000.agf">
+"Overlord, cheer her on."
+#
+<name "Darx">
+"You can do it, Miartei."
+#
+<sprite "ta03a005.agf" 4 4 12>
+<name "Miartei" "!SA0264">
+"Y-Yes!
+ I can do it!"
+#
+<removesprite -1 11>
+<exit>
+:957B
+<music 4>
+<background "bg009a0.agf" 10>
+<sprite "ta05a004.agf" 4 4 11>
+<name "Kyuriha" "!FA0546">
+"Floor boss...
+ That sounds quite fun!"
+#
+<removesprite -1 11>
+<sprite "ta05a004.agf" 2 4 11>
+<sprite "ta03a012.agf" 6 5 11>
+<name "Miartei" "!SA0265">
+"T-This is surprising."
+#
+<sprite "ta05a017.agf" 2 4 12>
+<name "Kyuriha" "!FA0547">
+"You have some responsibility, but also the
+ freedom to do whatever you want.
+ And if you skip work sometimes, nobody will
+ get mad."
+#
+<removesprite 6 11>
+<removesprite -1 11>
+<sprite "ta05a018.agf" 4 4 11>
+<name "Kyuriha" "!FA0548">
+"This is the paradise I've been searching for."
+#
+<name "Working Demon" "!BC0161" "ka42a000.agf">
+"That makes it harder for us...
+ Please go easy on us."
+#
+<removesprite -1 11>
+<exit>
+:9851
+<music 14>
+<background "bg008a0.agf" 10>
+<name "Celebrating Citizen" "!GB0223">
+"Hooray! Hooray!"
+#
+<name "Practicing Citizen" "!SB0255">
+"Is it okay to feel this way?"
+#
+<name "Commanding Citizen" "!ZD0150">
+"Yeah, it's perfect."
+#
+<name "Preparing Citizen" "!ZE0245">
+"Heheheh...
+ Let's surprised them with a party for 
+ becoming floor boss."
+#
+<name "Gathered Citizen" "!ZF0147">
+"Yeah!"
+#
+<exit>
+:99B8
+<music 4>
+<background "bg009a0.agf" 10>
+<name "Working Demon" "!ZH0124">
+"The dungeon's raid commander seems like 
+ they're working hard."
+#
+<name "Dungeon Guard" "!MB0142">
+"You get nice equipment and good pay, so they
+ have to give it their best."
+#
+<name "Working Demon" "!ZH0125">
+"I guess, but even if I had that equipment and
+ pay, I couldn't do the job."
+#
+<name "Dungeon Guard" "!MB0143">
+"What? You scared?
+ I could do it.
+ I hope the Overlord appoints me."
+#
+<name "Working Demon" "!ZH0126">
+"Hahaha.
+ Knock it off.
+ Nothing's worth having to roam around the
+ dungeon looking for strong enemies."
+#
+<name "Dungeon Guard" "!MB0144">
+"Really?
+ Actually, that excites me."
+#
+<name "Working Demon" "!ZH0127">
+"Oh?
+ Then you can have this."
+#
+<name "Dungeon Guard" "!MB0145">
+"What is it?"
+#
+<name "Working Demon" "!ZH0128">
+"A transfer order to the raid squad."
+#
+<name "Dungeon Guard" "!MB0146">
+"Huh? Hey...
+ O-Oh, it's a joke..."
+#
+<name "Working Demon" "!ZH0129">
+"Hahahaha."
+#
+<name "Dungeon Guard" "!MB0147">
+"Hahahahaha..."
+#
+<name "Working Demon" "!ZH0130">
+"Sorry, it's real."
+#
+<name "Dungeon Guard" "!MB0148">
+"Nooooooo!!!"
+#
+<exit>
+:9E44
+<music 4>
+<background "bg009a0.agf" 10>
+<name "Grateful Demon" "!MB0149">
+"The support squad's always helping out."
+#
+<name "Agreeing Demon" "!CB0180">
+"Yeah, I can't thank them enough."
+#
+<name "Support Member" "!UA0178">
+"Um, I can tell your grateful, so please can
+ we go home soon..."
+#
+<name "Grateful Demon" "!MB0150">
+"If you're worried about the price, it's my
+ treat."
+#
+<name "Agreeing Demon" "!CB0181">
+"Right.
+ Okay, let's drink!"
+#
+<name "Support Member" "!UA0179">
+"Awww..."
+#
+<exit>
+:A024
+<music 3>
+<background "bg010a0.agf" 10>
+<name "Minion Demon" "!HC0186">
+"Leave it to me."
+#
+<name "Darx">
+"We sure are carefree."
+#
+<name "Minion Demon" "!HC0187">
+"I-I didn't mean..."
+#
+<name "Darx">
+"Hahaha.
+ I'm saying don't overdo it."
+#
+<name "Minion Demon" "!HC0188">
+"Yes, sir.
+ I won't overdo it, but I will give it my
+ all."
+#
+<exit>
+:A167
+<music 3>
+<background "bg010a0.agf" 10>
+<name "Minion Demon" "!SB0256">
+"We'll do our best not to betray your
+ expectations."
+#
+<name "Darx">
+"I'm counting on you."
+#
+<name "Minion Demon" "!SB0257">
+"Yes, sir."
+#
+<exit>
+:A21C
+<music 3>
+<background "bg010a0.agf" 10>
+<name "Minion Demon" "!RB0170">
+"I'll do my best with the precisely the 
+ authority you've given me."
+#
+<name "Darx">
+"It's okay to test your boundaries a little."
+#
+<name "Minion Demon" "!RB0171">
+"That's not right.
+ When you do things, you've gotta do them
+ exactly right."
+#
+<exit>
+:A318
+<music 3>
+<background "bg010a0.agf" 10>
+<name "Minion Demon" "!LB0177">
+"Um..."
+#
+<name "Darx">
+"What is it?
+ Are you not happy with that position?"
+#
+<name "Minion Demon" "!LB0179">
+"When you called me...
+ I thought it was to be with you at night."
+#
+<name "Darx">
+"U-Um... 
+ T-Then, later."
+#
+<name "Minion Demon" "!LB0180">
+"Yes!"
+#
+<exit>
+:A45E
+<music 3>
+<background "bg010a0.agf" 10>
+<name "Minion Demon" "!GB0224">
+"Yay! The Overlord noticed me!"
+#
+<name "Minion Demon" "!GB0225">
+"Uh, no, no.
+ Don't get carried away."
+#
+<name "Minion Demon" "!GB0226">
+"Pull yourself together."
+#
+<name "Darx">
+"I'm counting on you."
+#
+<name "Minion Demon" "!GB0227">
+"Y-Yes, sir!
+ I'll do my best!"
+#
+<exit>
+:A59C
+<music 3>
+<background "bg010a0.agf" 10>
+<name "Minion Demon" "!TC0184">
+"I will work myself to the bones for you!"
+#
+<name "Darx">
+"...You don't have bones though?"
+#
+<name "Minion Demon" "!TC0185">
+"Don't worry about the little stuff."
+#
+<exit>
+:A67B
+<music 3>
+<background "bg010a0.agf" 10>
+<sprite "ta04a002.agf" 4 4 11>
+<name "Rualtei" "!RA0246">
+"Maybe this is better than just sitting around
+ in the city."
+#
+<name "Darx">
+"Some of our enemies are from Celestia.
+ Tell me if it's too difficult."
+#
+<sprite "ta04a005.agf" 4 4 12>
+<name "Rualtei" "!RA0247">
+"Don't worry it.
+ I'll handle it just fine."
+#
+<name "Darx">
+"I see.
+ I'll be counting on you."
+#
+<sprite "ta04a026.agf" 4 4 12>
+<name "Rualtei" "!RA0248">
+"Yes, I won't disappont you."
+#
+<removesprite -1 11>
+<exit>
+:A882
+<music 3>
+<background "bg010a0.agf" 10>
+<sprite "ta03a005.agf" 4 4 11>
+<name "Miartei" "!SA0266">
+"No matter who the enemy is, I will slay them
+ all."
+#
+<name "Darx">
+"I'm looking forward to it."
+#
+<sprite "ta03a004.agf" 4 4 12>
+<name "Miartei" "!SA0267">
+"Yes."
+#
+<removesprite -1 11>
+<exit>
+:A9A9
+<music 3>
+<background "bg010a0.agf" 10>
+<sprite "ta05a003.agf" 4 4 11>
+<name "Kyuriha" "!FA0549">
+"It's an honor to be working besides you."
+#
+<name "Darx">
+"There could be angels among our enemies..."
+#
+<sprite "ta05a006.agf" 4 4 12>
+<name "Kyuriha" "!FA0550">
+"Your enemies are my enemies."
+#
+<name "Darx">
+"I'll be counting on you."
+#
+<sprite "ta05a017.agf" 4 4 12>
+<name "Kyuriha" "!FA0551">
+"I will not disappoint."
+#
+<removesprite -1 11>
+<exit>
+:AB8F
+<music 14>
+<background "bg008a0.agf" 10>
+<name "Minion Demon" "!ZD0151">
+"I shall protect your life!"
+#
+<name "Minion Demon" "!ZD0152">
+"How?
+ That's obvious!"
+#
+<name "Minion's Child" "!UA0180">
+"Yeah, you're so cool."
+#
+<name "Minion Demon" "!ZD0153">
+"Heheh...
+ You'll gonna be just like me when you grow
+ up."
+#
+<name "Minion's Child" "!UA0181">
+"Yep.
+ I definitely will be."
+#
+<exit>
+:ACF6
+<music 14>
+<background "bg013a0.agf" 10>
+<name "Minion Demon" "!UA0182">
+"I was chosen by the Overlord, so I'll try so
+ hard it'll kill me!"
+#
+<name "Comrade" "!ZF0148">
+"Ooh!
+ That's the spirit!"
+#
+<name "Minion Demon" "!UA0183">
+"If I fall, the rest is up to you."
+#
+<name "Comrade" "!ZF0149">
+"Yeah!"
+#
+<name "Comrade" "!ZF0150">
+"Wait, but that's up to the Overlord."
+#
+<exit>
+:AE40
+<music 14>
+<background "bg008a0.agf" 10>
+<name "Minion Demon" "!ZE0246">
+"Okay!
+ I'm at the Overlord's side!"
+#
+<name "Minion Demon" "!ZE0247">
+"I'm gonna work hard and climb the ladder!"
+#
+<exit>
+:AEE6
+<music 3>
+<background "bg010a0.agf" 10>
+<sprite "ta16a000.agf" 4 4 11>
+<name "Farren" "!FB0163">
+"I'll be at your side."
+#
+<name "Darx">
+"Yeah, I'm counting on you."
+#
+<sprite "ta16a003.agf" 4 4 12>
+<name "Farren" "!FB0164">
+"Haha!"
+#
+<removesprite -1 11>
+<exit>
+:B002
+<music 3>
+<background "bg010a0.agf" 10>
+<sprite "ta19a001.agf" 4 4 11>
+<name "Ao" "!WA0155">
+"I'll be with the Overlord.
+ Which means... there'll be a chance for this
+ and that..."
+#
+<sprite "ta19a016.agf" 4 4 12>
+<name "Ao" "!WA0156">
+"I better do my best."
+#
+<removesprite -1 11>
+Is it my imagination, or is my spine tingling?
+#
+<exit>
+:B143
+<music 3>
+<background "bg010a0.agf" 10>
+<sprite "ta17a004.agf" 4 4 11>
+<name "Tamaga" "!PB0118">
+"I shall protect your life."
+#
+<name "Darx">
+"I'm counting on you."
+#
+<sprite "ta17a003.agf" 4 4 12>
+<name "Tamaga" "!PB0119">
+"I won't let you down."
+#
+<removesprite -1 11>
+<exit>
+:B268
+<music 3>
+<background "bg010a0.agf" 10>
+<sprite "ta18a004.agf" 4 4 11>
+<name "Lotta" "!HB0095">
+"Yeeep!
+ I'll do my best!"
+#
+<removesprite -1 11>
+<sprite "ta20a020.agf" 4 4 11>
+<name "Raffino" "!EB0090">
+"It should be okay if she's with the
+ Overlord."
+#
+<removesprite -1 11>
+<sprite "ta21a020.agf" 4 4 11>
+<name "Ish" "!AB0084">
+"Yeah."
+#
+<removesprite -1 11>
+<sprite "ta22a003.agf" 4 4 11>
+<name "Nein" "!QA0116">
+"If she messes up, the Overlord can cover for
+ her."
+#
+<removesprite -1 11>
+<sprite "ta18a014.agf" 4 4 11>
+<name "Lotta" "!HB0096">
+"I-I'm not a useless little girl!"
+#
+<removesprite -1 11>
+<exit>
+:B4D8
+<music 3>
+<background "bg010a0.agf" 10>
+<sprite "ta20a000.agf" 4 4 11>
+<name "Raffino" "!EB0091">
+"I shall accompany you."
+#
+<name "Darx">
+"I'm counting on your bow."
+#
+<sprite "ta20a001.agf" 4 4 12>
+<name "Raffino" "!EB0092">
+"Sir!"
+#
+<removesprite -1 11>
+<exit>
+:B5F9
+<music 3>
+<background "bg010a0.agf" 10>
+<sprite "ta21a001.agf" 4 4 11>
+<name "Ish" "!AB0085">
+"I'm with you, Overlord!"
+#
+<name "Darx">
+"Yeah. I'll be counting on you."
+#
+<sprite "ta21a004.agf" 4 4 12>
+<name "Ish" "!AB0086">
+"Hahaha!
+ Leave it to me.
+ I'll go all out!"
+#
+<removesprite -1 11>
+<exit>
+:B749
+<music 3>
+<background "bg010a0.agf" 10>
+<sprite "ta22a001.agf" 4 4 11>
+<name "Nein" "!QA0117">
+"At the Overlord's side...
+ Could this be a path to the top?"
+#
+<removesprite -1 11>
+<sprite "ta22a001.agf" 2 5 11>
+<sprite "ta34a000.agf" 6 4 11>
+<name "Company Maid" "!PC0503">
+"No, it's too hard to talk about it like that."
+#
+<sprite "ta22a010.agf" 2 5 12>
+<name "Nein" "!QA0118">
+"It's so hard that you have to say that?
+ Hard...
+ Hard, huh?"
+#
+<name "Company Maid" "!PC0504">
+"Ah, it's definitely not whatever you're
+ imagining."
+#
+<sprite "ta22a103.agf" 2 5 12>
+<name "Nein" "!QA0119">
+"Hard could be fun."
+#
+<removesprite -1 11>
+<exit>
+:B9FB
+<music 3>
+<background "bg010a0.agf" 10>
+<name "Hibi" "!DB0050" "ka23a010.agf">
+"We might go somewhere hot.
+ I don't like that."
+#
+<sprite "ta34a000.agf" 4 4 11>
+<name "Company Maid" "!PC0505">
+"On the other hand, you might go somewhere
+ cold."
+#
+<name "Hibi" "!DB0051" "ka23a003.agf">
+"That'd be nice.♪"
+#
+<name "Company Maid" "!PC0506">
+"Well, it depends on the Overlord's mood.
+#
+<name "Hibi" "!DB0052" "ka23a011.agf">
+"Aww..."
+#
+<removesprite -1 11>
+<exit>
+:BBE6
+<music 3>
+<background "bg010a0.agf" 10>
+<name "Yahnu" "!NB0058" "ka24a000.agf">
+"Working alongside the Overlord?"
+#
+<name "Darx">
+"Does it bother you?"
+#
+<name "Yahnu" "!NB0059" "ka24a014.agf">
+"No, I just imagined that you'd unexpectedly
+ rub my breasts."
+#
+<name "Darx">
+"Don't worry, I won't."
+#
+<name "Yahnu" "!NB0060" "ka24a015.agf">
+"You won't?
+ Is that so?"
+#
+<name "Darx">
+"Should I?"
+#
+<name "Yahnu" "!NB0061" "ka24a004.agf">
+"You can do whatever you want."
+#
+<name "Darx">
+"..."
+#
+I did it.
+#
+<exit>
+\x78

@@ -1,0 +1,54 @@
+﻿<music 39>
+<background "bg002a0.agf" 10>
+<sprite "ta12a001.agf" 4 4 11>
+<name "Meryl" "!HA0009">
+"Macdo, I want to go to the city and report to
+ the Overlord.
+ Do you mind?"
+#
+<removesprite -1 11>
+<sprite "ta12a000.agf" 2 4 11>
+<sprite "ta02a001.agf" 6 5 11>
+<name "Macdo" "!ZA0316">
+"Just report?"
+#
+<sprite "ta12a001.agf" 2 4 12>
+<name "Meryl" "!HA0010">
+"If possible, I'd like to meet with him to 
+ discuss each group's situation as well as
+ bring any messages they may have for him and
+ vice versa."
+#
+<sprite "ta02a000.agf" 6 5 12>
+<name "Macdo" "!ZA0317">
+"That's fine.
+ So long as it's concerning matters here, I
+ don't care if you go to the city."
+#
+<sprite "ta02a028.agf" 6 5 12>
+<name "Macdo" "!ZA0318">
+"And in the future for similar things, you 
+ don't need my permission."
+#
+<sprite "ta12a000.agf" 2 4 12>
+<name "Meryl" "!HA0011">
+"All right."
+#
+<sprite "ta02a001.agf" 6 5 12>
+<name "Macdo" "!ZA0319">
+"However, I want you to avoid giving him 
+ anything like advice as far as running the
+ city is concerned."
+#
+<sprite "ta12a001.agf" 2 4 12>
+<name "Meryl" "!HA0012">
+"I don't believe he needs my help, but I
+ understand.
+ I'll be careful to hold my tongue."
+#
+<sprite "ta02a000.agf" 6 5 12>
+<name "Macdo" "!ZA0320">
+"Thank you."
+#
+<removesprite -1 11>
+\x2B\x78\x78

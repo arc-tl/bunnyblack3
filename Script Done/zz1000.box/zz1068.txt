@@ -1,0 +1,58 @@
+﻿<music 12>
+<background "ev049a00.agf" 10>
+<name "エカテー" "!TA0057"><name "Ekate" "!TA0057">
+"You'll go no further."
+#
+<name "Warrior Adventurer" "!ZD0055">
+"A-Aiee!
+#
+<name "Thief Adventurer" "!UA0070">
+"Damn it. I can't believe we ran into Ekate
+ here."
+#
+<name "Wizard Adventurer" "!ZE0074">
+"Let's give up.
+ Don't fight her.
+ I'm running."
+#
+Ekate played her role as the final boss.
+#
+<music 10>
+<name "Ekate" "!TA0058">
+"Heheheh..."
+#
+<name "Guard Demon" "!GB0111">
+"Thank you for the hard work driving them
+ off."
+#
+<name "Ekate" "!TA0059">
+"I didn't do anything.
+ It wasn't hard at all."
+#
+<name "Guard Demon" "!GB0112">
+"That's right.
+ That's what I expect of you."
+#
+<name "Ekate" "!TA0060">
+"I guess.
+ Then since the annoyances are gone, shall we
+ get back to training?"
+#
+<name "Guard Demon" "!GB0113">
+"Y-Yes, ma'am.
+ Okay, I'll call the people hiding back out."
+#
+And she trained the other people in the 
+dungeon too.
+#
+<name "Company Maid" "!AC0224">
+"Um, is this okay?"
+#
+<name "Rakia" "!ZC0470">
+"I-It would be a bad idea to interfere with
+ her fun and games."
+#
+<name "Company Maid" "!AC0225">
+"Understood."
+#
+\x78\x78

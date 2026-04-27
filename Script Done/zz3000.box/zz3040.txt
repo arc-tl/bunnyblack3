@@ -1,0 +1,42 @@
+﻿<music 17>
+<background "ev091a03.agf" 10>
+<name "Marialis" "!LA5045">
+"Mm... Overlord.♪"
+#
+<music 11>
+<background "bg013a0.agf" 10>
+<sprite "ta01a004.agf" 4 4 11>
+<name "Sofia" "!ZB5028">
+"Well done, Overlord."
+#
+<name "Darx">
+"Hm?
+ Oh...
+ Did something happen?"
+#
+<sprite "ta01a036.agf" 4 4 12>
+<name "Sofia" "!ZB5029">
+"I would say it has, but it hasn't happened
+ yet."
+#
+<name "Darx">
+"Huh?"
+#
+<name "Sofia" "!ZB5030">
+"There's a line over there...
+ It's quite a few people."
+#
+<name "Darx">
+"U-Um..."
+#
+<sprite "ta01a033.agf" 4 4 12>
+<name "Sofia" "!ZB5031">
+"Outdoor play is rare, so nobody wants to miss
+ their chance.
+ Good luck."
+#
+<name "Darx">
+"..."
+#
+<removesprite -1 11>
+\x2B\x78\x78

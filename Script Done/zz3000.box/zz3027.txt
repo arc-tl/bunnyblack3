@@ -1,0 +1,40 @@
+﻿<music 18>
+<background "ev034a03.agf" 10>
+<name "Darx">
+"Kyuriha."
+#
+<name "Kyuriha" "!FA0341">
+"What is it?"
+#
+<name "Darx">
+"You have wings in your hair.
+ Do you fly with them?"
+#
+<name "Kyuriha" "!FA0342">
+"No, my flying wings are on my back.
+ I can bring them in and out."
+#
+<name "Darx">
+"Then what are the hair wings for?"
+#
+<name "Kyuriha" "!FA0343">
+"Fashion."
+#
+<name "Darx">
+"..."
+#
+<name "Kyuriha" "!FA0344">
+"It's not bed hair."
+#
+<name "Darx">
+"I-I see.
+ That must've been a weird question."
+#
+<name "Kyuriha" "!FA0345">
+"Hardly.
+ One more time, please."
+#
+<name "Darx">
+"Yeah."
+#
+\x78\x78

@@ -1,0 +1,83 @@
+﻿<music 4>
+<background "bg009a0.agf" 10>
+<sprite "ta34c000.agf" 4 4 11>
+<name "Spirited Maid" "!AC0293">
+"There are many kinds of bugs, but the pests
+ cause damage to homes and crops."
+#
+<name "Spirited Maid" "!AC0294">
+"We've had reports that pests are increasing,
+ so all citizens must work together to
+ exterminate them."
+#
+<sprite "ta34c004.agf" 4 4 12>
+<name "Spirited Maid" "!AC0295">
+"That's why you're all gathered here!"
+#
+<name "Participating Citizen" "!RB0173">
+"Yeah!"
+#
+<sprite "ta34c000.agf" 4 4 12>
+<name "Spirited Maid" "!AC0296">
+"You have your weapons!"
+#
+<name "Participating Citizen" "!RB0174">
+"Yeah!"
+#
+<name "Spirited Maid" "!AC0297">
+"The most likely hiding spots are written
+ here!
+ Now get to exterminating every single last
+ one of them!"
+#
+<removesprite -1 11>
+<sprite "ta34b006.agf" 4 4 11>
+<name "Restrained Maid" "!DC0507">
+"Um, it feels a little sad to be trying to
+ kill every last one."
+#
+<removesprite -1 11>
+<sprite "ta34b006.agf" 2 4 11>
+<sprite "ta34c002.agf" 6 5 11>
+<name "Spirited Maid" "!AC0298">
+"Imagine the very last one falling on your
+ forehead."
+#
+<sprite "ta34b005.agf" 2 4 12>
+<name "Restrained Maid" "!DC0508">
+"I'll kill it!"
+#
+<sprite "ta34c000.agf" 6 5 12>
+<name "Spirited Maid" "!AC0299">
+"Good!
+ Let's get to work!"
+#
+<removesprite -1 11>
+The citizens work hard to exterminate the
+pests.
+#
+The sight of them at work is bone-chilling,
+and if I make the mistake of feeling sorry
+for the pests, I feel like I might be
+exterminated too.
+#
+Terrifying.
+#
+<sprite "ta34c001.agf" 4 4 11>
+<name "Spirited Maid" "!AC0300">
+"Overlord, are you slacking off?"
+#
+<name "Darx">
+"N-No..."
+#
+<sprite "ta34c004.agf" 4 4 12>
+<name "Spirited Maid" "!AC0301">
+"Then hurry up. 
+ Find your target, and then destroy.
+ Work hard."
+#
+<name "Darx">
+"R-Roger that."
+#
+<removesprite -1 11>
+\x2B\x78\x78

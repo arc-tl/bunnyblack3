@@ -1,0 +1,14 @@
+﻿<music 21>
+<background "ev082a03.agf" 10>
+It's been a few days, and that priestess is
+refusing to be released.
+#
+<name "Darx">
+"Haven't you had enough?"
+#
+<name "Fanatical Adventurer" "!GB0129">
+"I can't go back after what was done to me.
+ Please, take me in."
+#
+There's nothing in her eyes now but desire.#
+\x78\x78

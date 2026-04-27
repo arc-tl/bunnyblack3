@@ -1,0 +1,99 @@
+﻿<music 11>
+<background "bg008a0.agf" 10>
+<sprite "ta15a003.agf" 4 4 11>
+<name "Marialis" "!LA0124">
+"There are many theories about why Celestia
+ treats bloodlines as so important, but the
+ most believed is elemental specialization."
+#
+<name "Darx">
+"Elemental specialization?
+ Like... fire, or water?"
+#
+<sprite "ta15a004.agf" 4 4 12>
+<name "Marialis" "!LA0125">
+"That's right."
+#
+<sprite "ta15a003.agf" 4 4 12>
+<name "Marialis" "!LA0126">
+"For Celestia, the war with the Netherworld was
+ set the moment Celestia was created. In
+ our limited world, you need to be individually
+ powerful to fight the vast Netherworld."
+#
+<sprite "ta15a005.agf" 4 4 12>
+<name "Marialis" "!LA0127">
+"So the theory is that it became important to
+ bring people together by their element to
+ attempt to focus power, which became a focus
+ on pedigree."
+#
+<sprite "ta15a004.agf" 4 4 12>
+<name "Marialis" "!LA0128">
+"The evidence of this is that Celestia is ruled
+ by the Holy Light and the eight lineages.
+ They're the same as the elements of magic, 
+ plus the Holy Spirit as elemental-less."
+#
+<name "Darx">
+"I see."
+#
+<sprite "ta15a005.agf" 4 4 12>
+<name "Marialis" "!LA0129">
+"That's why Celestia prizes bloodlines so
+ much."
+#
+<name "Darx">
+"Oh, a question."
+#
+<sprite "ta15a003.agf" 4 4 12>
+<name "Marialis" "!LA0130">
+"What is it?"
+#
+<name "Darx">
+"Why was it set that Celestia had to go to
+ war with the Netherworld?"
+#
+<sprite "ta15a004.agf" 4 4 12>
+<name "Marialis" "!LA0131">
+"Celestia was originally part of the
+ Netherworld."
+#
+<sprite "ta15a003.agf" 4 4 12>
+<name "Marialis" "!LA0132">
+"Celestia was created by dividing part of the
+ Netherworld and moving it into another world."
+#
+<sprite "ta15a004.agf" 4 4 12>
+<name "Marialis" "!LA0133">
+"For those in the Netherworld, Celestia is a
+ part of their land, so they believe it belongs
+ to them."
+#
+<sprite "ta15a003.agf" 4 4 12>
+<name "Marialis" "!LA0134">
+"For those in Celestia, Celestia is the land
+ that they took themselves, and they won't
+ hand control of it to anybody."
+#
+<sprite "ta15a005.agf" 4 4 12>
+<name "Marialis" "!LA0135">
+"Well, that's the root cause of the conflict
+ between Celestia and the Netherworld."
+#
+<sprite "ta15a004.agf" 4 4 12>
+<name "Marialis" "!LA0136">
+"By the way, that's an ancient story that's 
+ been handed down for centuries that Celestia
+ was part of it.
+ Only the truly old know if it's true."
+#
+<name "Darx">
+"I see."
+#
+<sprite "ta15a020.agf" 4 4 12>
+<name "Marialis" "!LA0137">
+"Okay, the end."
+#
+<removesprite -1 11>
+\x2B\x78\x78

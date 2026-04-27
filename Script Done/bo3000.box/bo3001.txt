@@ -1,0 +1,1042 @@
+﻿\x1A\x01\x09\x46\x00\x37\x00\x39\x00\x36\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :A6: \x1A\x01\x08\x46\x00\x31\x00\x34\x00\x30\x00\x20\x00\x6F\x00\x6E\x00\x09\x00 :A6: \x1A\x01\x09\x46\x00\x31\x00\x34\x00\x31\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :A6: \x1A\x01\x09\x46\x00\x32\x00\x31\x00\x35\x00\x35\x00\x20\x00\x6F\x00\x6E\x00\x09\x00 :A6: \x1A\x01\x0D\x43\x00\x30\x00\x36\x00\x30\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x43\x00\x37\x00\x32\x00\x30\x00\x09\x00 :A6: \x0B\x02\x02\xD0\x02\x02\xD0 3 \x0A\x04\x03\x1C\x84\x01\x16 :552F: \x15 :F7A: 
+:A6
+\x1A\x01\x09\x46\x00\x37\x00\x39\x00\x37\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :14A: \x1A\x01\x08\x46\x00\x37\x00\x39\x00\x36\x00\x20\x00\x6F\x00\x6E\x00\x09\x00 :14A: \x1A\x01\x08\x46\x00\x31\x00\x34\x00\x30\x00\x20\x00\x6F\x00\x6E\x00\x09\x00 :14A: \x1A\x01\x09\x46\x00\x31\x00\x34\x00\x31\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :14A: \x1A\x01\x0D\x43\x00\x30\x00\x36\x00\x30\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x43\x00\x37\x00\x32\x00\x30\x00\x09\x00 :14A: \x0B\x02\x02\xD0\x02\x02\xD0 3 \x0A\x04\x03\x1D\x84\x01\x16 :55FD: \x15 :F7A: 
+:14A
+\x1A\x01\x09\x46\x00\x37\x00\x39\x00\x38\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :1EE: \x1A\x01\x08\x46\x00\x37\x00\x39\x00\x37\x00\x20\x00\x6F\x00\x6E\x00\x09\x00 :1EE: \x1A\x01\x08\x46\x00\x31\x00\x34\x00\x30\x00\x20\x00\x6F\x00\x6E\x00\x09\x00 :1EE: \x1A\x01\x09\x46\x00\x31\x00\x34\x00\x31\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :1EE: \x1A\x01\x0D\x43\x00\x30\x00\x36\x00\x30\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x43\x00\x37\x00\x32\x00\x30\x00\x09\x00 :1EE: \x0B\x02\x02\xD0\x02\x02\xD0 3 \x0A\x04\x03\x1E\x84\x01\x16 :56D7: \x15 :F7A: 
+:1EE
+\x1A\x01\x09\x46\x00\x37\x00\x39\x00\x36\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :23E: \x1A\x01\x08\x46\x00\x33\x00\x30\x00\x38\x00\x20\x00\x6F\x00\x6E\x00\x09\x00 :23E: \x0B\x02\x02\xD5\x02\x00\x3C 2 \x0A\x04\x03\x1C\x84\x01\x16 :573B: \x15 :F7A: 
+:23E
+\x1A\x01\x09\x46\x00\x37\x00\x39\x00\x37\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :2C8: \x1A\x01\x08\x46\x00\x33\x00\x30\x00\x38\x00\x20\x00\x6F\x00\x6E\x00\x09\x00 :2C8: \x1A\x01\x08\x46\x00\x32\x00\x31\x00\x35\x00\x20\x00\x6F\x00\x6E\x00\x09\x00 :2C8: \x1A\x01\x0D\x43\x00\x30\x00\x36\x00\x30\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x43\x00\x37\x00\x32\x00\x35\x00\x09\x00 :2C8: \x0B\x02\x02\xD5\x02\x00\x3C 3 \x0A\x04\x03\x1D\x84\x01\x16 :5851: \x15 :F7A: 
+:2C8
+\x1A\x01\x09\x46\x00\x37\x00\x39\x00\x38\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :32E: \x1A\x01\x08\x46\x00\x33\x00\x30\x00\x38\x00\x20\x00\x6F\x00\x6E\x00\x09\x00 :32E: \x1A\x01\x0D\x43\x00\x30\x00\x36\x00\x30\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x43\x00\x37\x00\x32\x00\x35\x00\x09\x00 :32E: \x0A\x04\x03\x1E\x84\x01\x16 :599F: \x15 :F7A: 
+:32E
+\x1A\x01\x09\x46\x00\x37\x00\x35\x00\x31\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :381: \xBF\x22\x00\x00 0 \x00\x00\x1A\x01\x0A\x43\x00\x4C\x00\x30\x00\x30\x00\x30\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x31\x00 :381: \x0A\x04\x02\xEF\x84\x01\x16 :FF5: \x15 :F7A: 
+:381
+\x1A\x01\x09\x46\x00\x37\x00\x35\x00\x32\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :3DC: \xBF\x22\x00\x00 0 \x00\x00\x1A\x01\x0B\x43\x00\x4C\x00\x30\x00\x30\x00\x30\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x32\x00\x09\x00 :3DC: \x0A\x04\x02\xF0\x84\x01\x0A\x04\x02\xEF\x84\x01\x16 :1C89: \x15 :F7A: 
+:3DC
+\x1A\x01\x09\x46\x00\x37\x00\x35\x00\x33\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :4B5: \x1A\x01\x09\x46\x00\x33\x00\x30\x00\x38\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :4B5: \x1A\x01\x09\x46\x00\x32\x00\x37\x00\x39\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :4B5: \x1A\x01\x0A\x43\x00\x36\x00\x30\x00\x30\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x35\x00\x09\x00 :4B5: \x0A\x04\x01\x2D\x84\x01\x0A\x04\x01
+<exit>
+\x84\x01\x0A\x04\x00\xCD\x84\x01\x0A\x04\x02\xF1\x84\x01\x16 :1D41: \x8A 0  0  0  0  "Volcano Caverns can now be explored." \x15 :F7A: 
+:4B5
+\x1A\x01\x09\x46\x00\x37\x00\x35\x00\x34\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :5C0: \x1A\x01\x09\x46\x00\x33\x00\x30\x00\x38\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :5C0: \x1A\x01\x08\x46\x00\x32\x00\x32\x00\x31\x00\x20\x00\x6F\x00\x6E\x00\x09\x00 :5C0: \x1A\x01\x09\x46\x00\x31\x00\x39\x00\x30\x00\x32\x00\x20\x00\x6F\x00\x6E\x00\x09\x00 :5C0: \x1A\x01\x0B\x43\x00\x30\x00\x36\x00\x30\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x32\x00\x33\x00\x09\x00 :5C0: \x1A\x01\x0B\x43\x00\x36\x00\x30\x00\x30\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x31\x00\x30\x00\x09\x00 :5C0: \x0A\x04\x02\xF2\x84\x01\x0A\x04\x01\x13\x84\x01\x16 :389A: \x8A 0  0  0  0  "A new door in the Arboreal Garden can|now be used." \x15 :F7A: 
+:5C0
+\x1A\x01\x09\x46\x00\x37\x00\x35\x00\x35\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :6C5: \x1A\x01\x09\x46\x00\x33\x00\x30\x00\x38\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :6C5: \x1A\x01\x08\x46\x00\x32\x00\x32\x00\x31\x00\x20\x00\x6F\x00\x6E\x00\x09\x00 :6C5: \x1A\x01\x09\x46\x00\x31\x00\x39\x00\x30\x00\x32\x00\x20\x00\x6F\x00\x6E\x00\x09\x00 :6C5: \x1A\x01\x0B\x43\x00\x30\x00\x36\x00\x30\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x32\x00\x38\x00\x09\x00 :6C5: \x1A\x01\x0B\x43\x00\x36\x00\x30\x00\x30\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x31\x00\x33\x00\x09\x00 :6C5: \x0A\x04\x02\xF3\x84\x01\x0A\x04\x01\x2E\x84\x01\x16 :3CAB: \x8A 0  0  0  0  "Shrine of Death can now be explored." \x15 :F7A: 
+:6C5
+\x1A\x01\x09\x46\x00\x37\x00\x35\x00\x39\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :7E2: \x1A\x01\x09\x46\x00\x33\x00\x30\x00\x38\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :7E2: \x1A\x01\x08\x46\x00\x32\x00\x32\x00\x31\x00\x20\x00\x6F\x00\x6E\x00\x09\x00 :7E2: \x1A\x01\x09\x46\x00\x31\x00\x39\x00\x30\x00\x32\x00\x20\x00\x6F\x00\x6E\x00\x09\x00 :7E2: \x1A\x01\x08\x46\x00\x33\x00\x30\x00\x32\x00\x20\x00\x6F\x00\x6E\x00\x09\x00 :7E2: \x1A\x01\x0B\x43\x00\x30\x00\x36\x00\x30\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x33\x00\x33\x00\x09\x00 :7E2: \x1A\x01\x0B\x43\x00\x36\x00\x30\x00\x30\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x31\x00\x36\x00\x09\x00 :7E2: \x0A\x04\x02\xF7\x84\x01\x0A\x04\x01\x18\x84\x01\x16 :45E0: \x8A 0  0  0  0  "A new door in the Shrine of Death can|now be used." \x15 :F7A: 
+:7E2
+\x1A\x01\x09\x46\x00\x37\x00\x36\x00\x31\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :8AB: \x1A\x01\x09\x46\x00\x33\x00\x30\x00\x38\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :8AB: \x1A\x01\x08\x46\x00\x32\x00\x33\x00\x31\x00\x20\x00\x6F\x00\x6E\x00\x09\x00 :8AB: \x1A\x01\x08\x46\x00\x33\x00\x30\x00\x32\x00\x20\x00\x6F\x00\x6E\x00\x09\x00 :8AB: \x0A\x04\x02\xF9\x84\x01\x0A\x04\x01\x19\x84\x01\x16 :47E4: \x8A 0  0  0  0  "A new door in the Shrine of Death can|now be used." \x15 :F7A: 
+:8AB
+\x1A\x01\x09\x46\x00\x37\x00\x36\x00\x30\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :95A: \x1A\x01\x09\x46\x00\x33\x00\x30\x00\x38\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :95A: \x1A\x01\x0B\x43\x00\x30\x00\x36\x00\x30\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x35\x00\x30\x00\x09\x00 :95A: \x0A\x04\x02\xF8\x84\x01\x0A\x04\x01\x2F\x84\x01\x16 :471C: \x8A 0  0  0  0  "Royal Web can now be explored." \x15 :F7A: 
+:95A
+\x1A\x01\x09\x46\x00\x37\x00\x36\x00\x32\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :A65: \x1A\x01\x09\x46\x00\x33\x00\x30\x00\x38\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :A65: \x1A\x01\x08\x46\x00\x32\x00\x33\x00\x30\x00\x20\x00\x6F\x00\x6E\x00\x09\x00 :A65: \x1A\x01\x08\x46\x00\x32\x00\x33\x00\x31\x00\x20\x00\x6F\x00\x6E\x00\x09\x00 :A65: \x1A\x01\x08\x46\x00\x32\x00\x33\x00\x32\x00\x20\x00\x6F\x00\x6E\x00\x09\x00 :A65: \x1A\x01\x08\x46\x00\x32\x00\x33\x00\x33\x00\x20\x00\x6F\x00\x6E\x00\x09\x00 :A65: \x1A\x01\x08\x46\x00\x32\x00\x33\x00\x34\x00\x20\x00\x6F\x00\x6E\x00\x09\x00 :A65: \x0A\x04\x02\xFA\x84\x01\x0A\x04\x01\x1A\x84\x01\x16 :47E4: \x8A 0  0  0  0  "A new door in the Shrine of Death can|now be used." \x15 :F7A: 
+:A65
+\x1A\x01\x09\x46\x00\x37\x00\x36\x00\x33\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :B14: \x1A\x01\x09\x46\x00\x33\x00\x30\x00\x38\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :B14: \x1A\x01\x08\x46\x00\x32\x00\x33\x00\x35\x00\x20\x00\x6F\x00\x6E\x00\x09\x00 :B14: \x0A\x04\x02\xFB\x84\x01\x0A\x04\x01\x32\x84\x01\x0A\x04\x01\x22\x84\x01\x16 :47E4: \x8A 0  0  0  0  "Stoneleaf Vein can now be explored." \x15 :F7A: 
+:B14
+\x1A\x01\x09\x46\x00\x37\x00\x36\x00\x34\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :BC3: \x1A\x01\x09\x46\x00\x33\x00\x30\x00\x38\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :BC3: \x1A\x01\x08\x46\x00\x32\x00\x33\x00\x37\x00\x20\x00\x6F\x00\x6E\x00\x09\x00 :BC3: \x0A\x04\x02\xFC\x84\x01\x0A\x04\x01\x14\x84\x01\x16 :47E4: \x8A 0  0  0  0  "A new door in the Arboreal Garden can|now be used." \x15 :F7A: 
+:BC3
+\x1A\x01\x09\x46\x00\x33\x00\x30\x00\x34\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :C68: \x1A\x01\x09\x46\x00\x33\x00\x30\x00\x38\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :C68: \x1A\x01\x08\x46\x00\x35\x00\x32\x00\x37\x00\x20\x00\x6F\x00\x6E\x00\x09\x00 :C68: \x0A\x04\x01\x30\x84\x01\x16 :3DEC: \x8A 0  0  0  0  "Thunder Nimbus can now be explored." \x15 :F7A: 
+:C68
+\x1A\x01\x09\x46\x00\x33\x00\x30\x00\x35\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :D2B: \x1A\x01\x09\x46\x00\x33\x00\x30\x00\x38\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :D2B: \x1A\x01\x08\x46\x00\x35\x00\x32\x00\x37\x00\x20\x00\x6F\x00\x6E\x00\x09\x00 :D2B: \x1A\x01\x0B\x43\x00\x30\x00\x36\x00\x30\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x34\x00\x30\x00\x09\x00 :D2B: \x0A\x04\x01\x31\x84\x01\x16 :40DF: \x8A 0  0  0  0  "Lucent Crown can now be explored." \x15 :F7A: 
+:D2B
+\x1A\x01\x09\x46\x00\x37\x00\x39\x00\x32\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :DA7: \x1A\x01\x09\x46\x00\x33\x00\x30\x00\x38\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :DA7: \x1A\x01\x0B\x43\x00\x36\x00\x30\x00\x30\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x32\x00\x35\x00\x09\x00 :DA7: \x1A\x01\x08\x46\x00\x33\x00\x30\x00\x33\x00\x20\x00\x6F\x00\x6E\x00\x09\x00 :DA7: \x0A\x04\x03\x18\x84\x01\x16 :48AE: \x15 :F7A: 
+:DA7
+\x1A\x01\x09\x46\x00\x37\x00\x39\x00\x33\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :E0B: \x1A\x01\x09\x46\x00\x33\x00\x30\x00\x38\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :E0B: \x1A\x01\x0B\x43\x00\x36\x00\x30\x00\x30\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x31\x00\x35\x00\x09\x00 :E0B: \x0A\x04\x03\x19\x84\x01\x16 :4B3F: \x15 :F7A: 
+:E0B
+\x0B\x02\x02\x1C\x02\x02\x1C 1 \x1A\x01\x09\x46\x00\x33\x00\x30\x00\x38\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :F74: \x1A\x01\x0A\x43\x00\x35\x00\x34\x00\x30\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x31\x00\x35\x00 :E56: \x0A\x02\x02\x1C 1 
+:E56
+\x1A\x01\x0A\x43\x00\x30\x00\x35\x00\x35\x00\x20\x00\x21\x00\x3D\x00\x20\x00\x30\x00\x09\x00 :EC2: \x1A\x01\x0A\x43\x00\x30\x00\x35\x00\x38\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x30\x00\x09\x00 :EC2: \x0C\x22\x00\x00\x02\x00\x39\x02\x00\x38\x1A\x01\x0B\x43\x00\x4C\x00\x30\x00\x30\x00\x30\x00\x20\x00\x3C\x00\x3D\x00\x20\x00\x33\x00\x09\x00 :EC2: \x16 :4F14: \x15 :F7A: 
+:EC2
+\x1A\x01\x09\x43\x00\x35\x00\x34\x00\x30\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x31\x00 :EE8: \x16 :4D9B: \x15 :F7A: 
+:EE8
+\x1A\x01\x09\x43\x00\x35\x00\x34\x00\x30\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x34\x00 :F26: \x1A\x01\x08\x46\x00\x30\x00\x35\x00\x30\x00\x20\x00\x6F\x00\x6E\x00\x09\x00 :F26: \x16 :4E54: \x15 :F7A: 
+:F26
+\x1A\x01\x09\x43\x00\x35\x00\x34\x00\x30\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x37\x00 :F4C: \x16 :4FE7: \x15 :F7A: 
+:F4C
+\x1A\x01\x0A\x43\x00\x35\x00\x34\x00\x30\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x31\x00\x30\x00 :F74: \x16 :50A0: \x15 :F7A: 
+:F74
+\x15 :F7A: 
+:F7A
+\x6E 0  "ha1000.box" \x78\x16 :423A: \x1A\x01\x09\x46\x00\x37\x00\x39\x00\x34\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :FC9: \x0A\x04\x03\x1A\x84\x01\x16 :5150: \x15 :F7A: 
+:FC9
+\x1A\x01\x09\x46\x00\x37\x00\x39\x00\x35\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :FF5: \x0A\x04\x03\x1B\x84\x01\x16 :53D5: \x15 :F7A: 
+:FF5
+<music 42>
+<background "bg005a0.agf" 10>
+<name "Darx">
+"Uh..."
+#
+<music 11>
+<background "bg008a1.agf" 10>
+<sprite "ta01a014.agf" 4 4 11>
+<name "Sofia" "!ZB0140">
+"What is it?"
+#
+<name "Darx">
+"I have to do this on my own?"
+#
+<sprite "ta01a016.agf" 4 4 12>
+<name "Sofia" "!ZB0141">
+"Is there a problem?"
+#
+<name "Darx">
+"Um... Can't I get something like... 
+ fighters or mercenaries?"
+#
+<sprite "ta01a029.agf" 4 4 12>
+<name "Sofia" "!ZB0142">
+"This is a brand new city.
+ There's no mercenaries to hire."
+#
+<name "Darx">
+"W-What about mercenaries from Gunguskar?"
+#
+<sprite "ta01a028.agf" 4 4 12>
+<name "Sofia" "!ZB0143">
+"I'm sorry.
+ They're not in the plans."
+#
+<name "Darx">
+"Rakia's place had them."
+#
+<sprite "ta01a029.agf" 4 4 12>
+<name "Sofia" "!ZB0144">
+"T-This is a different situation."
+#
+<name "Darx">
+"...Meaning what?"
+#
+<sprite "ta01a015.agf" 4 4 12>
+<name "Sofia" "!ZB0145">
+"Forzelotte's Shrine was built for the 
+ Netherworld, and is somewhere likely to be
+ attacked by humans and angels.
+ Gunguskar needs to be able to defend itself."
+#
+<name "Darx">
+"I feel like we could be attacked here too..."
+#
+<sprite "ta01a028.agf" 4 4 12>
+<name "Sofia" "!ZB0146">
+"This is a new town and a branch office.
+ And it wasn't founded by the Netherworld.
+ If something happens, it gets wiped out.
+ And... that's the end of that."
+#
+<name "Darx">
+"..."
+#
+<sprite "ta01a036.agf" 4 4 12>
+<name "Sofia" "!ZB0147">
+"I'm sorry.
+ If you want mercenaries, you'll have to pay
+ quite a lot for them."
+#
+<name "Darx">
+"Grr..."
+#
+<name "Darx">
+"Ah!"
+#
+<name "Darx">
+"Since I'm allowed to move around with the
+ Doors, I can just hire mercenaries from
+ Rakia's shop."
+#
+<sprite "ta01a037.agf" 4 4 12>
+<name "Sofia" "!ZB0148">
+"I'm sorry. 
+ That won't work."
+#
+<name "Darx">
+"It won't?"
+#
+<sprite "ta01a026.agf" 4 4 12>
+<name "Sofia" "!ZB0149">
+"Mercenary contracts with any store, not just
+ Rakia's, would violate the rules about
+ proving yourself."
+#
+<sprite "ta01a024.agf" 4 4 12>
+<name "Sofia" "!ZB0150">
+"If that was allowed, then you could just
+ recruit talented people to handle things
+ from all over."
+#
+<sprite "ta01a026.agf" 4 4 12>
+<name "Sofia" "!ZB0151">
+"Mercenary contracts are only allowed with the
+ city itself."
+#
+<name "Darx">
+"Then if I want people to fight with me..."
+#
+<sprite "ta01a005.agf" 4 4 12>
+<name "Sofia" "!ZB0152">
+"I think you'll have to wait for volunteers
+ from people living in the city, or to force
+ your enemies to join your side."
+#
+<name "Darx">
+"...Out of curiosity, are there any
+ volunteers?"
+#
+<sprite "ta01a036.agf" 4 4 12>
+<name "Sofia" "!ZB0153">
+"N-Not yet."
+#
+<name "Darx">
+"Thought so."
+#
+<sprite "ta01a024.agf" 4 4 12>
+<name "Sofia" "!ZB0154">
+"We still only have a few citizens."
+#
+<name "Darx">
+"All right.
+ So when there's any applicants, you'll handle
+ it?"
+#
+<sprite "ta01a033.agf" 4 4 12>
+<name "Sofia" "!ZB0155">
+"Yes.
+ Leave that to us."
+#
+<name "Darx">
+"All right.
+ I'm off then."
+#
+<sprite "ta01a004.agf" 4 4 12>
+<name "Sofia" "!ZB0156">
+"Good luck.
+ Take care."
+#
+<removesprite -1 11>
+<exit>
+:1C89
+<music 11>
+<background "bg008a0.agf" 10>
+<name "Darx">
+"Okay, let's go."
+#
+<sprite "ta01a004.agf" 4 4 11>
+<name "Sofia" "!ZB0157">
+"Take care."
+#
+<removesprite -1 11>
+<exit>
+:1D41
+<music 42>
+<background "bg005a0.agf" 10>
+<name "Darx">
+"All right.
+ Where to this time?"
+#
+<sprite "ta14a005.agf" 4 4 11>
+<name "Paniverna" "!DA0001">
+"Overlord.
+ It's been a while."
+#
+This is Paniverna, one of the three leaders of
+Castle Baldaquin.
+#
+She's one of my wives, and is in charge of
+guarding the royal palace right now.
+#
+<name "Darx">
+"How have you been?"
+#
+<sprite "ta14a006.agf" 4 4 12>
+<name "Paniverna" "!DA0002">
+"Well enough, but because we're not allowed to
+ go check on how things are going, a lot of
+ people are grumbling."
+#
+<name "Darx">
+"I see."
+#
+<sprite "ta14a018.agf" 4 4 12>
+<name "Paniverna" "!DA0003">
+"Of course, I'm unhappy about it too."
+#
+<name "Darx">
+"...Sorry."
+#
+<sprite "ta14a019.agf" 4 4 12>
+<name "Paniverna" "!DA0004">
+"There was somebody who wanted to kill this
+ Macdo women, but I stopped them.
+ Should I get out of their way?"
+#
+<name "Darx">
+"Hahaha...
+ None of that.
+ It'd just cause more problems."
+#
+<sprite "ta14a005.agf" 4 4 12>
+<name "Paniverna" "!DA0005">
+"If you say so."
+#
+<name "Darx">
+"Yeah.
+ So, just here by chance?"
+#
+<sprite "ta14a006.agf" 4 4 12>
+<name "Paniverna" "!DA0006">
+"No. I was told that when you made it here,
+ I was supposed to show you somewhere." 
+#
+<name "Darx">
+"By who?"
+#
+<sprite "ta14a005.agf" 4 4 12>
+<name "Paniverna" "!DA0007">
+"Macdo."
+#
+<name "Darx">
+"..."
+#
+<sprite "ta14a001.agf" 4 4 12>
+<name "Paniverna" "!DA0008">
+"What?
+ That's quite the look."
+#
+<name "Darx">
+"It's nothing. Just grateful you took on a job
+ like this, and annoyed that one of my top
+ people is being forced to play errand girl."
+#
+<removesprite -1 11>
+Her rank is Dungeon Master.
+#
+With me gone and the Dungeon Lord taking my
+place, that puts her right at the very top of
+the pecking order.
+#
+<sprite "ta14a006.agf" 4 4 11>
+<name "Paniverna" "!DA0009">
+"Well, I also wanted a chance to talk to you."
+#
+<sprite "ta14a005.agf" 4 4 12>
+<name "Paniverna" "!DA0010">
+"It's nice to see you again after so long."
+#
+<name "Darx">
+"I guess, but if Macdo is behind this, then
+ I assume she's up to something."
+#
+<sprite "ta14a022.agf" 4 4 12>
+<name "Paniverna" "!DA0011">
+"You'll be fine.
+ After all, you conquered Castle Baldaquin."
+#
+<name "Darx">
+"I sure hope so."
+#
+<sprite "ta14a006.agf" 4 4 12>
+<name "Paniverna" "!DA0012">
+"I'm supposed to show you to the disputed area
+ of Forzelotte's Shrine.
+ Basically, where the forces who don't obey
+ you are."
+#
+<sprite "ta14a005.agf" 4 4 12>
+<name "Paniverna" "!DA0013">
+"Macdo's plan is to expand the area we control
+ while also developing the city.
+ At least, I think."
+#
+<name "Darx">
+"I see."
+#
+Well, that does make sense.
+#
+<sprite "ta14a006.agf" 4 4 12>
+<name "Paniverna" "!DA0014">
+"Rakia was there too, so I don't think that
+ she has anything up her sleeve, but don't be
+ careless."
+#
+<name "Darx">
+"Right."
+#
+<sprite "ta14a005.agf" 4 4 12>
+<name "Paniverna" "!DA0015">
+"Ah, the Door's here."
+#
+<name "Darx">
+"Got it."
+#
+<sprite "ta14a018.agf" 4 4 12>
+<name "Paniverna" "!DA0017">
+"I wish I could go with you, but..."
+#
+<name "Darx">
+"Not allowed, right?"
+#
+<sprite "ta14a020.agf" 4 4 12>
+<name "Paniverna" "!DA0018">
+"Yeah."
+#
+<name "Darx">
+"The sentiment's enough."
+#
+<removesprite -1 11>
+Well, just gotta do it then.
+#
+<sprite "ta14a013.agf" 4 4 11>
+<name "Paniverna" "!DA0019">
+"I forgot to report one other thing."
+#
+<name "Darx">
+"Hm?"
+#
+<sprite "ta14a005.agf" 4 4 12>
+<name "Paniverna" "!DA0020">
+"This job here?
+ I took it from someone else."
+#
+<name "Darx">
+"Huh?"
+#
+<sprite "ta14a006.agf" 4 4 12>
+<name "Paniverna" "!DA0021">
+"Wouldn't it make more sense to have someone
+ who guards the Hall of Doors deliver a 
+ message or guide you around instead of the
+ me, the royal palace's guard?"
+#
+<name "Darx">
+"Yeah, that's true...
+ Oh."
+#
+<removesprite -1 11>
+The one who guards the Hall of Doors.
+#
+Ekate.
+#
+Another dependable ally, and one of my wives.
+#
+<name "Darx">
+"Come to think of it, I would think that she'd
+ rush right here when I came."
+#
+But she's not here?
+#
+<sprite "ta14a005.agf" 4 4 11>
+<name "Paniverna" "!DA0022">
+"I told you already, didn't I?"
+#
+<name "Darx">
+"Huh?"
+#
+<sprite "ta14a006.agf" 4 4 12>
+<name "Paniverna" "!DA0023">
+"That I stopped someone who was trying to kill
+ Macdo."
+#
+<name "Darx">
+"...Oh, it was Ekate?"
+#
+<sprite "ta14a022.agf" 4 4 12>
+<name "Paniverna" "!DA0024">
+"I think I was getting through to her at the
+ start, but then she snapped..."
+#
+<name "Darx">
+"S-So you really had to stop her then."
+#
+<removesprite -1 11>
+Ekate is strong enough that she could 
+undoubtedly be an Overlord somewhere else.
+#
+She does her job well, but hates anything and
+everything complicated.
+#
+She likes to be in the field, but hates the
+work behind it, and is fiercely free-spirited.
+#
+Her name has come up several times as a 
+possible Dungeon Master, but she's always
+turned it down.
+#
+Even being put in charge of protecting the 
+Hall of Doors is something she hates, but I
+was able to force her into doing.
+#
+At the same time, guarding the Hall of Doors
+is the most important job in Forzelotte's
+Shrine.
+#
+The person responsible for it has to be ready
+to kill.
+#
+<name "Darx">
+"Did Macdo put up a good fight?"
+#
+<sprite "ta14a006.agf" 4 4 11>
+<name "Paniverna" "!DA0025">
+"Hahaha..."
+#
+<sprite "ta14a018.agf" 4 4 12>
+<name "Paniverna" "!DA0026">
+"We knew what Ekate was up to, so Ultinia,
+ Izana, Golan, Tojo, Logius, and I worked
+ together to stop her."
+#
+<name "Darx">
+"Good."
+#
+Those are my top troops.
+#
+<sprite "ta14a019.agf" 4 4 12>
+<name "Paniverna" "!DA0027">
+"Logius fought hard and showed a lot of guts,
+ and managed to keep her mostly in check."
+#
+<sprite "ta14a018.agf" 4 4 12>
+<name "Paniverna" "!DA0029">
+"As for the damage, aside from a few 
+ buildings, Logius, Ultinia, Golan, and Tojo
+ were hurt."
+#
+<name "Darx">
+"Are they okay?"
+#
+<sprite "ta14a005.agf" 4 4 12>
+<name "Paniverna" "!DA0030">
+"They may be hurt, but all four still went
+ right back to work, so they seem well
+ enough."
+#
+<name "Darx">
+"And what about Ekate?"
+#
+<sprite "ta14a018.agf" 4 4 12>
+<name "Paniverna" "!DA0031">
+"She saw an opening and got away.
+ She's in the wind."
+#
+<name "Darx">
+"U-Uh..."
+#
+<sprite "ta14a019.agf" 4 4 12>
+<name "Paniverna" "!DA0032">
+"For now, I'm guarding the Hall of Doors."
+#
+<name "Darx">
+"I-I see."
+#
+<sprite "ta14a005.agf" 4 4 12>
+<name "Paniverna" "!DA0033">
+"Meryl and Rakia's people are secretly
+ guarding Macdo, but we're a little scared of
+ a possible ambush by Ekate right now."
+#
+<name "Darx">
+"Yeah."
+#
+Just thinking about it makes my knees tremble.
+#
+<sprite "ta14a006.agf" 4 4 12>
+<name "Paniverna" "!DA0034">
+"I'll report to you if we find her, so 
+ hopefully you'll be able to do something
+ after that, if you would please?"
+#
+<name "Darx">
+"I'll do what I can.
+ I'm counting on you."
+#
+<sprite "ta14a005.agf" 4 4 12>
+<name "Paniverna" "!DA0035">
+"Yep.
+ Give her my regards if you find her."
+#
+<name "Darx">
+"Will do."
+#
+<removesprite -1 11>
+...
+#
+I haven't even left yet and I'm already
+exhausted.
+#
+\x0A\x44\x01\xE2\x84\x01\x0A\x44\x02\x30\x84\x01
+<exit>
+:389A
+<music 42>
+<background "bg005a0.agf" 10>
+<name "Door Guard" "!KB0001" "ka49a000.agf">
+"Overlord.
+ Long time, no see."
+#
+<name "Darx">
+"Hey.
+ Been a while."
+#
+This is one of the guards here.
+#
+<name "Door Guard" "!KB0002" "ka49a000.agf">
+"I hate to be brief, but Rakia told me to
+ show you something as soon as you came."
+#
+<name "Darx">
+"Hm?"
+#
+<name "Door Guard" "!KB0003" "ka49a000.agf">
+"The destination list."
+#
+<name "Darx">
+"If you're talking about the Arboreal Garden,
+ I know."
+#
+<name "Door Guard" "!KB0004" "ka49a000.agf">
+"But you haven't used this Door yet."
+#
+<name "Darx">
+"Meaning... it'll be dangerous?"
+#
+<name "Door Guard" "!KB0007" "ka49a000.agf">
+"It is what it is."
+#
+<name "Darx">
+"..."
+#
+<name "Door Guard" "!KB0008" "ka49a000.agf">
+"But I'm sure you'll be okay."
+#
+<name "Darx">
+"I hope so."
+#
+<name "Door Guard" "!KB0009" "ka49a000.agf">
+"Have faith.
+ Oh, this here is the Door.
+ Good luck."
+#
+<name "Darx">
+"Thanks."
+#
+<exit>
+:3CAB
+<music 42>
+<background "bg005a0.agf" 10>
+<name "Door Guard" "!KB0010" "ka49a000.agf">
+"Overlord, you have a new possible
+ destination."
+#
+<name "Darx">
+"Same as before?"
+#
+<name "Door Guard" "!KB0011" "ka49a000.agf">
+"Yes.
+ This is a uncontrolled area.
+ Please be careful."
+#
+<name "Darx">
+"Got it."
+#
+<exit>
+:3DEC
+<music 42>
+<background "bg005a0.agf" 10>
+<name "Door Guard" "!KB0012" "ka49a000.agf">
+"Overlord, I can show you to the new
+ destination."
+#
+<name "Darx">
+"Where to this time?"
+#
+<name "Door Guard" "!KB0013" "ka49a000.agf">
+"The Thunder Nimbus."
+#
+<name "Darx">
+"The Thunder Numbus?"
+#
+<name "Door Guard" "!KB0014" "ka49a000.agf">
+"It's a Celestial castle that fell, same as
+ Castle Baldaquin."
+#
+<name "Darx">
+"Wasn't that place off-limits?"
+#
+<name "Door Guard" "!KB0015" "ka49a000.agf">
+"Yes, but more and more people have made camp
+ there, and it's leading to security
+ problems..."
+#
+<name "Door Guard" "!KB0016" "ka49a000.agf">
+"I look forward to hearing of your victory."
+#
+<name "Darx">
+"I'll do my best."
+#
+<exit>
+:40DF
+<music 42>
+<background "bg005a0.agf" 10>
+<name "Door Guard" "!KB0017" "ka49a000.agf">
+"I can show you to a new Door."
+#
+<name "Darx">
+"Where to now?"
+#
+<name "Door Guard" "!KB0018" "ka49a000.agf">
+"The Lucent Crown Wall."
+#
+<name "Darx">
+"Oh?"
+#
+It's another one of the fallen angel castles
+like Baldaquin and the Thunder Nimbus.
+#
+<exit>
+:423A
+<music 42>
+<background "bg005a0.agf" 10>
+<name "Door Guard" "!KB0019" "ka49a000.agf">
+"Seems like some of those angel fighters are
+ hard at work over there."
+#
+<name "Darx">
+"Some, huh?"
+#
+<name "Darx">
+"Didn't they go back when rescue from Celestia
+ came?"
+#
+After the fifth castle fell on us, the angels
+who had joined our side opened negotiations.
+That gave us a chance to finally end the war
+with them.
+#
+The big shots took care of the rest, and a 
+place was set up for relief and rescue.
+#
+Celestia came and picked up the random angels
+we were fighting with all over and brought 
+them home.
+#
+<name "Door Guard" "!KB0020" "ka49a000.agf">
+"I think the units that weren't collected are
+ more of the guerrilla fighters."
+#
+<name "Darx">
+"Can't we talke to them and get them out of
+ here?"
+#
+<name "Door Guard" "!KB0021" "ka49a000.agf">
+"We've tried to open negotiations several
+ times, but nothing's worked.
+ It's like they don't want to listen."
+#
+<name "Darx">
+"What a headache."
+#
+<name "Door Guard" "!KB0022" "ka49a000.agf">
+"Yes."
+#
+<exit>
+:45E0
+<music 42>
+<background "bg005a0.agf" 10>
+<name "Door Guard" "!KB0023" "ka49a000.agf">
+"Overlord, I can report that a new Door has
+ been constructed."
+#
+<name "Darx">
+"I see."
+#
+<name "Door Guard" "!KB0024" "ka49a000.agf">
+"Keep up the hard work."
+#
+<name "Darx">
+"Yeah."
+#
+<exit>
+:471C
+<music 42>
+<background "bg005a0.agf" 10>
+<name "Door Guard" "!KB0025" "ka49a000.agf">
+"Overlord, you've got permission to use a new
+ Door.
+ Let me show you the way."
+#
+<name "Darx">
+"Please."
+#
+<exit>
+:47E4
+<music 42>
+<background "bg005a0.agf" 10>
+<name "Door Guard" "!KB0026" "ka49a000.agf">
+"Overlord, a new Door is available for you to
+ use.
+ Let me show you."
+#
+<name "Darx">
+"Yeah, please."
+#
+<exit>
+:48AE
+<music 42>
+<background "bg005a0.agf" 10>
+<name "Darx">
+"So... Who names all these dungeons anyway?"
+#
+<name "Door Guard" "!KB0027" "ka49a000.agf">
+"I heard they were named a long time ago."
+#
+<name "Darx">
+"Really?"
+#
+<name "Door Guard" "!KB0028" "ka49a000.agf">
+"Yes. By the way, if human adventurers call it
+ the same thing, it's from ancient awareness
+ campaigns."
+#
+<name "Door Guard" "!KB0029" "ka49a000.agf">
+"It's definitely not named after what humans
+ call it."
+#
+<name "Door Guard" "!KB0030" "ka49a000.agf">
+"So they say."
+#
+<name "Darx">
+"I-I see."
+#
+I guess I can accept that.
+#
+<exit>
+:4B3F
+<music 42>
+<background "bg005a0.agf" 10>
+<name "Darx">
+"It's not too bad coming here, but it'd be a
+ lot easier if there was a new Door connecting
+ right to the city."
+#
+<name "Door Guard" "!KB0031" "ka49a000.agf">
+"That wouldn't work unless you had strong
+ enough people to guard the Door there."
+#
+<name "Darx">
+"Ah, I see."
+#
+You have to be careful about enemies getting
+access to the Doors.
+#
+<name "Door Guard" "!KB0032" "ka49a000.agf">
+"That's why, even if one Door is invaded, 
+ we're extremely well fortified here."
+#
+<name "Darx">
+"You're right.
+ I wasn't thinking.
+ Forget I said anything."
+#
+<name "Door Guard" "!KB0033" "ka49a000.agf">
+"Yes, sir."
+#
+<exit>
+:4D9B
+<background "bg005a0.agf" 10>
+<sprite "ta34a000.agf" 4 4 11>
+<name "Company Maid" "!AC0361">
+"You're leaving?
+ Take care."
+#
+<name "Darx">
+"Yeah."
+#
+<removesprite -1 11>
+<exit>
+:4E54
+<background "bg005a0.agf" 10>
+<sprite "ta34a000.agf" 4 4 11>
+<name "Company Maid" "!AC0362">
+"Leave the support to us."
+#
+<name "Darx">
+"Yeah.
+ I'm counting on you."
+#
+<removesprite -1 11>
+<exit>
+:4F14
+<background "bg005a0.agf" 10>
+<sprite "ta34a000.agf" 4 4 11>
+<name "Company Maid" "!AC0363">
+"The due date is getting close.
+ Good luck."
+#
+<name "Darx">
+"Yeah."
+#
+<removesprite -1 11>
+<exit>
+:4FE7
+<background "bg005a0.agf" 10>
+<sprite "ta34a000.agf" 4 4 11>
+<name "Company Maid" "!AC0364">
+"Good luck, Overlord."
+#
+<name "Darx">
+"I'll try."
+#
+<removesprite -1 11>
+<exit>
+:50A0
+<background "bg005a0.agf" 10>
+<sprite "ta34a000.agf" 4 4 11>
+<name "Company Maid" "!AC0365">
+"We'll take care of things while you're gone."
+#
+<name "Darx">
+"Yeah."
+#
+<removesprite -1 11>
+<exit>
+:5150
+<background "bg005a0.agf" 10>
+<name "Darx">
+"You're back?"
+#
+<sprite "ta13a000.agf" 4 4 11>
+<name "Ekate" "!TA0076">
+"Yeah."
+#
+<name "Darx">
+"Sorry.
+ Once things calm down, we can rethink things.
+ Please just concentrate on protecting this
+ place for now."
+#
+<sprite "ta13a004.agf" 4 4 12>
+<name "Ekate" "!TA0077">
+"I know.
+ Leave it to me."
+#
+<name "Darx">
+"Good girl.
+ I can count on you, Ekate."
+#
+<sprite "ta13a005.agf" 4 4 12>
+<name "Ekate" "!TA0078">
+"Hahaha."
+#
+<name "Darx">
+"Want to sneak off for a minute?"
+#
+<sprite "ta13a006.agf" 4 4 12>
+<name "Ekate" "!TA0079">
+"Yep.♪"
+#
+<removesprite -1 11>
+<exit>
+<exit>
+:53D5
+<background "bg005a0.agf" 10>
+<sprite "ta13a008.agf" 4 4 11>
+<name "Ekate" "!TA0080">
+"This is as far as you go!"
+#
+<name "Demon Guard" "!GB0114">
+"So cool!
+ Just like I thought!"
+#
+<removesprite -1 11>
+<sprite "ta12a005.agf" 4 4 11>
+<name "Meryl" "!HA0079">
+"Please limit your playtime."
+#
+<removesprite -1 11>
+<exit>
+:552F
+<music 42>
+<background "bg005a0.agf" 10>
+<sprite "ta08a012.agf" 4 4 11>
+<name "Rakia" "!ZC0214">
+"Darx, there isn't much time."
+#
+<name "Darx">
+"Yeah, I'll hurry."
+#
+<removesprite -1 11>
+<exit>
+:55FD
+<music 3>
+<background "bg010a0.agf" 10>
+<sprite "ta01a025.agf" 4 4 11>
+<name "Sofia" "!ZB0539">
+"Overlord, please rescue Forzelotte as soon as
+ possible."
+#
+<name "Darx">
+"I know."
+#
+<removesprite -1 11>
+<exit>
+:56D7
+<music 9>
+\x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 \x2B
+<name "Forzelotte" "!XA0014" "ka10a015.agf">
+"Nnngh..."
+#
+<exit>
+:573B
+<music 42>
+<background "bg005a0.agf" 10>
+<sprite "ta08a002.agf" 4 4 11>
+<name "Rakia" "!ZC0215">
+"Darx."
+#
+<name "Darx">
+"Sorry to bother you."
+#
+<sprite "ta08a023.agf" 4 4 12>
+<name "Rakia" "!ZC0216">
+"It's fine.
+ Be safe."
+#
+<removesprite -1 11>
+<exit>
+:5851
+<music 42>
+<background "bg005a0.agf" 10>
+<sprite "ta02a000.agf" 4 4 11>
+<name "Darx">
+"Macdo..."
+#
+<name "Darx">
+"An Overlord can at least handle this, right?"
+#
+<sprite "ta02a004.agf" 4 4 12>
+<name "Macdo" "!ZA0315">
+"...Indeed.
+ Show me."
+#
+<name "Darx">
+"Yeah."
+#
+<removesprite -1 11>
+<exit>
+:599F
+<music 41>
+<background "bg003a0.agf" 10>
+<name "Darx">
+"Forzelotte, please take care of things here."
+#
+<sprite "ta10a005.agf" 4 4 11>
+<name "Forzelotte" "!XA0036">
+"I understand."
+#
+<name "Darx">
+"And say hi to Kozelotte for me."
+#
+<sprite "ta10a006.agf" 4 4 12>
+<name "Forzelotte" "!XA0037">
+"Mmhmm."
+#
+<removesprite -1 11>
+<exit>
+\x78

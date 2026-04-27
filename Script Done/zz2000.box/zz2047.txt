@@ -1,0 +1,86 @@
+﻿<music 3>
+<background "bg010a0.agf" 10>
+<sprite "ta21a114.agf" 4 4 11>
+<name "Ish" "!AB0029">
+"O-Overlord... you called me?"
+#
+<name "Darx">
+"Yeah, I did.
+ You took a while to get here."
+#
+<sprite "ta21a119.agf" 4 4 12>
+<name "Ish" "!AB0030">
+"W-Well, um... ah..."
+#
+<removesprite -1 11>
+Her legs are quivering.
+#
+Well, of course.
+#
+A piece of my other body is buried inside her
+pussy right now.
+#
+It's big enough to fill her, and I can vibrate
+it when I want to call her to me.
+#
+This is the sixth time I've called her today.
+#
+<sprite "ta21a119.agf" 4 4 11>
+<name "Ish" "!AB0031">
+"Ooh...
+ P-Please, no more..."
+#
+<name "Darx">
+"I'm not mad at you.
+ I just wanted to see you."
+#
+<name "Darx">
+"Oh, I need you to pick up that paper over
+ there and bring it to me."
+#
+<name "Ish" "!AB0032">
+"Ooh..."
+#
+<removesprite -1 11>
+She's not a citizen in the city yet.
+#
+I haven't accepted her.
+#
+Right now, she's still technically a prisoner.
+#
+<sprite "ta21a114.agf" 4 4 11>
+<name "Ish" "!AB0033">
+"Y-Yes, sir...
+ This one?"
+#
+<name "Darx">
+"Yeah. Thanks.
+ You can go."
+#
+<sprite "ta21a115.agf" 4 4 11>
+<name "Ish" "!AB0034">
+"Ooh...
+ Y-Yes, sir."
+#
+<removesprite -1 11>
+She staggers out of the room.
+#
+...
+#
+<sprite "ta34a002.agf" 4 4 11>
+<name "Company Maid" "!DC0114">
+"Isn't this unusually cruel, even for you?"
+#
+<name "Darx">
+"Hmph."
+#
+<name "Darx">
+"Well, I'll let her be a citizen soon.
+ But until then..."
+#
+<sprite "ta34a000.agf" 4 4 12>
+<name "Company Maid" "!DC0115">
+"It's a relief to hear that."
+#
+<removesprite -1 11>
+\x2B\x78\x78

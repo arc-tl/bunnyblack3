@@ -1,0 +1,1743 @@
+﻿\x1A\x01\x09\x46\x00\x37\x00\x30\x00\x31\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :32: \x0A\x04\x02\xBD\x84\x01\x0A\x04\x00\x78\x84\x01\x16 :2CD: \x15 :2CC: 
+:32
+\x1A\x01\x09\x46\x00\x37\x00\x30\x00\x32\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :9C: \x1A\x01\x0A\x43\x00\x36\x00\x30\x00\x30\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x35\x00\x09\x00 :9C: \x1A\x01\x0D\x43\x00\x32\x00\x30\x00\x30\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x33\x00\x30\x00\x30\x00\x30\x00\x09\x00 :9C: \x0A\x04\x02\xBE\x84\x01\x16 :9F7: \x15 :2CC: 
+:9C
+\x1A\x01\x09\x46\x00\x37\x00\x30\x00\x33\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :120: \x1A\x01\x08\x46\x00\x37\x00\x30\x00\x32\x00\x20\x00\x6F\x00\x6E\x00\x09\x00 :120: \x1A\x01\x0A\x43\x00\x36\x00\x30\x00\x30\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x35\x00\x09\x00 :120: \x1A\x01\x0E\x43\x00\x32\x00\x30\x00\x31\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x31\x00\x30\x00\x30\x00\x30\x00\x30\x00\x09\x00 :120: \x0A\x04\x02\xBF\x84\x01\x16 :2262: \x15 :2CC: 
+:120
+\x1A\x01\x09\x46\x00\x37\x00\x30\x00\x34\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :1A4: \x1A\x01\x08\x46\x00\x37\x00\x30\x00\x33\x00\x20\x00\x6F\x00\x6E\x00\x09\x00 :1A4: \x1A\x01\x0A\x43\x00\x36\x00\x30\x00\x30\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x35\x00\x09\x00 :1A4: \x1A\x01\x0E\x43\x00\x32\x00\x30\x00\x32\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x35\x00\x30\x00\x30\x00\x30\x00\x30\x00\x09\x00 :1A4: \x0A\x04\x02\xC0\x84\x01\x16 :33BA: \x15 :2CC: 
+:1A4
+\x1A\x01\x09\x46\x00\x37\x00\x30\x00\x35\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :226: \x1A\x01\x08\x46\x00\x37\x00\x30\x00\x34\x00\x20\x00\x6F\x00\x6E\x00\x09\x00 :226: \x1A\x01\x0A\x43\x00\x36\x00\x30\x00\x30\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x35\x00\x09\x00 :226: \x1A\x01\x0D\x43\x00\x32\x00\x30\x00\x33\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x35\x00\x30\x00\x30\x00\x30\x00\x09\x00 :226: \x0A\x04\x02\xC1\x84\x01\x16 :4F8C: \x15 :2CC: 
+:226
+\x1A\x01\x09\x46\x00\x37\x00\x30\x00\x36\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :270: \x1A\x01\x0B\x43\x00\x36\x00\x30\x00\x32\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x31\x00\x30\x00\x09\x00 :270: \x0A\x04\x02\xC2\x84\x01\x16 :70AE: \x15 :2CC: 
+:270
+\x1A\x01\x09\x46\x00\x37\x00\x30\x00\x37\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :2BA: \x1A\x01\x0B\x43\x00\x36\x00\x30\x00\x32\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x32\x00\x30\x00\x09\x00 :2BA: \x0A\x04\x02\xC3\x84\x01\x16 :7202: \x15 :2CC: 
+:2BA
+\x16 :73B1: \x15 :2CC: \x15 :2CC: 
+:2CC
+\x78
+:2CD
+<music 3>
+<background "bg010a0.agf" 10>
+<sprite "ta01a024.agf" 4 4 11>
+<name "Sofia" "!ZB0079">
+"U-Um..."
+#
+<name "Darx">
+"What is it?"
+#
+<sprite "ta01a026.agf" 4 4 12>
+<name "Sofia" "!ZB0080">
+"Rakia told me that you, um... need someone
+ at night."
+#
+<name "Darx">
+"What did she tell you exactly?"
+#
+<sprite "ta01a025.agf" 4 4 12>
+<name "Sofia" "!ZB0081">
+"Um, that you need to have sex with women
+ regularly to release mana..."
+#
+<name "Darx">
+"That's true, but I can control it pretty well
+ now.
+ I won't need to have sex for a while."
+#
+<removesprite -1 11>
+I can also leave that to my other body.
+#
+<sprite "ta01a025.agf" 4 4 11>
+<name "Sofia" "!ZB0082">
+"So about needing to find someone..."
+#
+<name "Darx">
+"Not for a while."
+#
+<sprite "ta01a004.agf" 4 4 12>
+<name "Sofia" "!ZB0083">
+"I see.
+ I understand."
+#
+<sprite "ta01a033.agf" 4 4 12>
+<name "Sofia" "!ZB0084">
+"Then please tell me when you do need 
+ someone."
+#
+<name "Darx">
+"Yeah, I'll do that."
+#
+<removesprite -1 11>
+Well, I can handle that myself if push comes
+to shove.
+#
+...
+#
+<name "Darx">
+"Oh, question."
+#
+<sprite "ta01a004.agf" 4 4 11>
+<name "Sofia" "!ZB0085">
+"Yes?"
+#
+<name "Darx">
+"Were you suggesting yourself?"
+#
+<sprite "ta01a037.agf" 4 4 12>
+<name "Sofia" "!ZB0086">
+"Huh? Oh, n-no.
+ Please don't suggest anything strange."
+#
+<name "Darx">
+"I see.
+ I was just saying that I'd be happy to do it
+ with you if that's what you wanted."
+#
+<sprite "ta01a010.agf" 4 4 12>
+<name "Sofia" "!ZB0087">
+"I-It's not."
+#
+<name "Darx">
+"Sorry, but tell me if you want to."
+#
+<sprite "ta01a013.agf" 4 4 12>
+<name "Sofia" "!ZB0088">
+"I-I will not!
+ Excuse me!"
+#
+<removesprite -1 11>
+<exit>
+:9F7
+<music 5>
+<background "bg011a0.agf" 10>
+<name "Darx">
+"Okay, let's get to work...
+ Hm?"
+#
+<name "Darx">
+"What's this?"
+#
+<sprite "ta34a000.agf" 4 4 11>
+<name "Secretary Maid" "!AC0308">
+"Oh, that belonged to an adventurer who came to
+ the Temple of Darx.
+ I believe the person in charge thought you
+ would like it.
+#
+<name "Darx">
+"It's for me?
+#
+<removesprite -1 11>
+<name "Darx">
+"Well, maybe I'll read it and see."
+#
+I open the book.
+#
+<background "bg017a0.agf" 10>
+<music 9>
+<background "ev100a00.agf" 10>
+Tch!
+#
+What the hell!?
+#
+Damn it!
+Damn it!
+Damn it!!!
+#
+Six months of work is ruined!
+#
+This was a 2,000,000Ｂ job too...
+#
+And in the end, all I get is this girl?
+#
+Don't fuck with me.
+#
+Even if I sold her to a brothel, she's not
+worth 2,000,000Ｂ!
+#
+I could ransom her...
+#
+That won't work.
+#
+The moment she wakes up and makes any noise,
+it's all over.
+#
+This is bad.
+#
+Shit.
+#
+Damn it.
+#
+Where did I go wrong?
+#
+I... I...
+#
+<name "Fahlry" "!WC0001">
+"..."
+#
+D-D-Don't scare me like that!
+#
+Damn it.
+#
+Calm down.
+#
+What happened?
+#
+I was tricked.
+#
+By who?
+#
+The big shot in this city is posing as a
+merchant.
+#
+But he's connected to the underworld.
+#
+Once I found that out, there was no turning
+back.
+#
+My only choice was to swindle them.
+#
+That was all working.
+#
+I'm a swindler too.
+#
+I know what I'm doing.
+#
+It was after that.
+#
+Yeah.
+Everything had almost worked out, and then this
+girl got in the way.
+#
+Fahlry.
+#
+The daughter of the merchant I was trying to
+steal from.
+#
+Thinking back...
+#
+I think she might've been suspicious of me all
+along.
+#
+Urgh, I don't care anymore.
+#
+My scheme failed.
+#
+They found out and ran.
+#
+But I wasn't wary enough of making enemies of
+people connected to the underworld.
+#
+They're relentless.
+#
+I was finally able to slip into one of their
+hideouts.
+#
+The only reason I could is because I took this
+girl hostage.
+#
+But it won't last long.
+#
+I know that.
+#
+Any way you look at it, I'm cornered.
+#
+They're going to kill me.
+#
+No.
+#
+I don't want to be killed.
+#
+I don't want to die!
+#
+What do I do!?
+#
+What can I do?
+#
+I have a little money.
+#
+A change of clothes, spoiled wine, a rusty
+knife.
+#
+And... her.
+#
+...
+#
+<name "Fahlry" "!WC0002">
+"Mm..."
+#
+...
+#
+There's nothing left...
+Or rather...
+#
+I reach for her body as evil thoughts begin to
+fill my head.
+#
+<music 52>
+<background "ev101a00.agf" 10>
+I tie her to the bed and rip off her clothes.
+#
+Yeah...
+#
+I move her underwear out of the way and look
+at her pussy.
+My dick is already straining painfully.
+#
+I'm still frustrated about this girl getting in
+my way.
+#
+I'm gonna stick it in her.
+#
+I know I'm just being a savage brute, but I
+don't care anymore.
+#
+I'm desperate.
+#
+I need to escape.
+#
+It doesn't matter either way.
+#
+I'm going to fuck her.
+#
+<background "ev101a01.agf" 10>
+<name "Fahlry" "!WC0003">
+"Mm...ah...
+ Huh?"
+#
+She wakes up.
+#
+I take that as a signal and thrust my dick into
+her.
+#
+<background "ev101a02.agf" 10>
+<name "Fahlry" "!WC0004">
+"A-Aah!"
+#
+No carressing or anything.
+#
+Just shoving it into her hole.
+#
+All her tightness is pain for her.
+#
+<name "Fahlry" "!WC0005">
+"Ah!!!"
+#
+I grind and twist my dick into her as she
+screams.
+#
+Forcefully.
+#
+All the way.
+#
+<name "Fahlry" "!WC0006">
+"Ngggh!"
+#
+The tip of my dick hits an obstacle partway.
+#
+Her hymen?
+#
+I laugh and pierce straight through it.
+#
+<name "Fahlry" "!WC0007">
+"Nnh!!!"
+#
+I continue burying it in her despite the fleshy
+ripping sound.
+#
+<name "Fahlry" "!WC0008">
+"A-Ah!"
+#
+And finally it hits the back of her pussy.
+#
+<background "ev101a03.agf" 10>
+<name "Fahlry" "!WC0009">
+"Ah...ah...ah..."
+#
+Tears fill her eyes.
+#
+The black part of my heart turns even blacker
+seeing them.
+#
+I start moving my hips in a frenzy.
+#
+<name "Fahlry" "!WC0010">
+"Aah! Ah! Ah!"
+#
+Unlike a whore, her virgin pussy is narrow
+and tight.
+#
+It's a bit of a shame to not caress her, but
+as long as she's suffering, this is probably
+better.
+#
+<name "Fahlry" "!WC0011">
+"S-Stop! Stop it!
+ Ah!"
+#
+I slam her pussy harder.
+#
+<name "Fahlry" "!WC0012">
+"Ah! Aaah! Ahhh!"
+#
+Liquid starts to gush out of her pussy, letting
+me move smoother.
+#
+<name "Fahlry" "!WC0013">
+"Ah! Aah! Aaah!"
+#
+It's not love juices from arousal.
+#
+Just liquid to protect her defenseless pussy.
+#
+Well, it helps me, so it's her body being
+stupid.
+#
+<name "Fahlry" "!WC0014">
+"Ah! Aah!
+ Stop it! Stop it!
+ Ah! Aaah!"
+#
+I thrust faster.
+#
+Attacking her like an animal.
+#
+She's tied up and can't move.
+#
+She ruined my job.
+#
+I laugh as I poke her womb with my dick.
+#
+<name "Fahlry" "!WC0015">
+"Aaah!"
+#
+Her face twists in pain.
+#
+Seeing that makes me start to come.
+#
+<background "ev101a04.agf" 10>
+<name "Fahlry" "!WC0016">
+"Ah...ah...ah...ah...ah..."
+#
+Semen pours out of my dick right into her
+womb.
+#
+<name "Fahlry" "!WC0017">
+"Ah...ah...
+ H-How could you..."
+#
+It's cruel.
+#
+Cruel?
+#
+That's true.
+#
+But this is just the beginning.
+#
+I'm not finished.
+#
+<name "Fahlry" "!WC0018">
+"Ah...ah..."
+#
+I laugh and continue fucking her.
+#
+<background "ev101a05.agf" 10>
+<name "Fahlry" "!WC0019">
+"Ah...ah...aah...ah..."
+#
+I spray semen all over her body.
+#
+And into her pussy over and over again.
+#
+Until the people coming to kill me stop me.
+#
+<background "bg017a0.agf" 10>
+<music 5>
+<background "bg011a0.agf" 10>
+<sprite "ta34a000.agf" 4 4 11>
+<name "Secretary Maid" "!AC0309">
+"How was it?"
+#
+<name "Darx">
+"It's a bit, um..."
+#
+<name "Secretary Maid" "!AC0310">
+"It wasn't to your liking?"
+#
+<name "Darx">
+"I did like it, I guess."
+#
+<removesprite -1 11>
+Though I'd curious about how the people around
+me see me...
+#
+<name "Darx">
+"Anyway, come here a minute."
+#
+<sprite "ta34a002.agf" 4 4 11>
+<name "Secretary Maid" "!AC0311">
+"Huh?"
+#
+<removesprite -1 11>
+I enjoy some bed bondage play.
+#
+\x0A\x44\x03\x15\x84\x01
+<exit>
+:2262
+<music 5>
+<background "bg011a0.agf" 10>
+<name "Darx">
+"Let's see...
+ Another book?"
+#
+It must've come from some adventurer.
+#
+<name "Darx">
+"Well, whatever."
+#
+<background "bg017a0.agf" 10>
+<music 17>
+<background "ev102a00.agf" 10>
+<name "Yuki" "!LC0001">
+"Onii-chan..."
+#
+Hm?
+What's the matter?
+#
+<name "Yuki" "!LC0002">
+"You know, I've felt funny since yesterday."
+#
+Yeah, I know
+You're sick, right?
+#
+That's why you stayed home today.
+#
+<name "Yuki" "!LC0003">
+"Yeah, but, um..."
+#
+What is it?
+#
+<name "Yuki" "!LC0004">
+"Um..."
+#
+Speak up.
+#
+<name "Yuki" "!LC0005">
+"It's what you did to me last night."
+#
+It was an expression of love.
+#
+<name "Yuki" "!LC0006">
+"But, it's... w-what lovers do."
+#
+Who told you that?
+#
+<name "Yuki" "!LC0007">
+"A-A girl in my class told me."
+#
+You're growing up, huh?
+#
+<name "Yuki" "!LC0008">
+"Right? Isn't that what lovers do?"
+#
+Yeah, that's right.
+#
+Lovers and... husband and wife.
+#
+<name "Yuki" "!LC0009">
+"Husband and wife."
+#
+Hm?
+#
+Why are your cheeks red?
+#
+<name "Yuki" "!LC0010">
+"T-That's cause..."
+#
+They're really red.
+#
+<name "Yuki" "!LC0011">
+"G-Geez. Don't stare so hard."
+#
+Sorry about that.
+#
+Come on, go to sleep.
+#
+<name "Yuki" "!LC0012">
+"Mm..."
+#
+What's the matter?
+#
+<name "Yuki" "!LC0013">
+"Um, Onii-chan..."
+#
+<name "Yuki" "!LC0014">
+"A-Are you going to do what you did yesterday
+ again?"
+#
+You want me to?
+#
+<name "Yuki" "!LC0015">
+"T-That's not what I mean.
+ But, um, i-if you wanted to..."
+#
+I want to.
+#
+<name "Yuki" "!LC0016">
+"Ah."
+#
+You want me to do the same thing as yesterday,
+the same way?
+#
+<name "Yuki" "!LC0017">
+"Y-Yeah."
+#
+<music 18>
+<background "ev103a00.agf" 10>
+<name "Yuki" "!LC0018">
+"Like this?"
+#
+Yeah, that looks good.
+#
+I'm going to touch you.
+#
+<name "Yuki" "!LC0019">
+"Ah...mm...
+ Yeah."
+#
+<name "Yuki" "!LC0020">
+"Mm...ahh..."
+#
+She spreads herlegs on her own, showing me her
+pussy.
+#
+And I spread her entrance with my fingers.
+#
+<name "Yuki" "!LC0021">
+"Ah...mmm...mmm... 
+ Onii-chan...
+ When you're so gentle... aah!"
+#
+What?
+#
+<name "Yuki" "!LC0022">
+"Ah...aah...ah..."
+#
+I push my finger into her open pussy, all the
+way in to her womb.
+#
+The wounds from yesterday seem to be okay.
+#
+<name "Yuki" "!LC0023">
+"Mm...ah! Aaah!"
+#
+Yesterday, Yuki and I become one.
+#
+Not out of nowhere.
+#
+After six months of careful planning.
+#
+She slowly got used to it, and I could finally
+stretch her open just far enough.
+#
+I never put anything inside her besides my
+finger and tongue.
+#
+Until yesterday.
+#
+I was going to wait a little longer, but I 
+couldn't hold back after seeing her come so
+hard in front of me.
+#
+Aah, it turns me on just remembering it.
+#
+<name "Yuki" "!LC0024">
+"Ah... Onii-chan..."
+#
+She must feel the same way.
+#
+I can tell.
+#
+<name "Yuki" "!LC0025">
+"Mm...ah...aahh..."
+#
+I carefully lick her pussy with my tongue.
+#
+<name "Yuki" "!LC0026">
+"Aah...ah...aaah..."
+#
+I've been doing this for the last six months.
+#
+<name "Yuki" "!LC0027">
+"Mm...ah... M-More...
+ Yes...
+ Mm...aah...ahhh..."
+#
+I already know where she likes it.
+#
+I slide my tongue deep into her and tease her
+with the tip.
+#
+<name "Yuki" "!LC0028">
+"Aaaaaaahhhhhh!!!!"
+#
+She orgasms surprisingly easily.
+#
+<name "Yuki" "!LC0029">
+"Ah...aah...ah..."
+#
+And just like yesterday, has a little accident.
+#
+<name "Yuki" "!LC0030">
+"Ah...
+ No, d-don't look..."
+#
+But she doesn't try to close her legs.
+#
+So I take off my pants, just like yesterday,
+and slowly bury it inside her pussy.
+#
+<name "Yuki" "!LC0031">
+"Aaaaah!
+#
+The night between us lasted even longer than
+yesterday.
+#
+<background "bg017a0.agf" 10>
+<music 5>
+<background "bg011a0.agf" 10>
+<name "Darx">
+"Hmm..."
+#
+<name "Darx">
+"Hmmmmmmmmmm..."
+#
+<sprite "ta34a000.agf" 4 4 11>
+<name "Secretary Maid" "!AC0312">
+"Oh, Overlord?
+ Is something the matter?"
+#
+<name "Darx">
+"You're lucky you came in right now."
+#
+<sprite "ta34a002.agf" 4 4 12>
+<name "Secretary Maid" "!AC0313">
+"Huh?"
+#
+<name "Darx">
+"Come on.
+ Come here, my lady."
+#
+<name "Secretary Maid" "!AC0314">
+"Um, huh?
+ That's the bed... huh?"
+#
+<removesprite -1 11>
+We both enjoy ourselves.
+#
+<sprite "ta01a108.agf" 4 4 11>
+<name "Sofia" "!ZB1019">
+"P-Please don't have sex with the maids while
+ they're working."
+#
+<removesprite -1 11>
+Sofia had some issues with it.
+#
+\x0A\x44\x03\x16\x84\x01
+<exit>
+:33BA
+<music 5>
+<background "bg011a0.agf" 10>
+<name "Darx">
+"Hm?
+ A book?"
+#
+<name "Darx">
+"Huh?
+ This seems a little different from usual."
+#
+<name "Darx">
+"Someone explain..."
+#
+<name "Darx">
+"Nobody's here."
+#
+<name "Darx">
+"Hm?
+ Is there a description at the start?"
+#
+<name "Darx">
+"Um, I need to get some things set up first?
+ What a weird book." 
+#
+<background "bg017a0.agf" 10>
+<music 17>
+<background "ev104a00.agf" 10>
+<name "Maru" "!GC0001">
+"Protagonist..."
+#
+<name "Protagonist" "!UB0001">
+"Maru... Y-You're so pretty."
+#
+Maru shows her beautiful breasts in front of
+me.
+#
+Okay, so now I...
+  --Maul her breasts!      →Pg 16
+　　--Stick it straight in!  →Pg 24
+#
+Pg 16 - Maul her breasts!
+#
+<name "Maru" "!GC0002">
+"Aah! T-That's... Not just my breasts...
+ Ah...mmm... D-Don't pinch...
+ Aaah! You're pulling too...
+ Aaah! Don't lift them up!"
+#
+I focus solely on her breasts.
+#
+After all, they're the best.
+#
+I imagined them for so long...
+No, they're even more than I imagined.
+#
+<name "Maru" "!GC0003">
+"Mm! Aah! Protagonist!
+ Mm! Ah!"
+#
+My obsession with her chest is making her
+squirm.
+#
+Ooooh! I-I can see her panties!
+#
+N-N-N-Now what!?
+#
+Okay, so now I...
+  --Don't panic, kiss her!  → Pg 31
+  --Take off her panties!   → Pg 37
+#
+Pg 37 - Take off her panties!
+#
+<name "Maru" "!GC0006">
+"Ah! Don't!
+ P-Protagonist, you pervert!"
+#
+<name "Maru" "!GC0007">
+"I definitely don't want that!"
+#
+<name "Protagonist" "!UB0002">
+"Huh?
+ N-No way!"
+#
+<name "Maru" "!GC0008">
+"I'm leaving!
+ Good bye!"
+#
+Maru left.
+#
+I guess I was too impatient.
+#
+                 Bad End
+#
+        Add an × to the failure column
+         To continue, return to pg 22
+#
+Pg 22 - Retry
+#
+<name "Maru" "!GC0009">
+"Protagonist...
+ I can't take it anymore."
+#
+<name "Protagonist" "!UB0003">
+"Yeah, me either."
+#
+<name "Maru" "!GC0010">
+"Mm...aah...
+ You're just touching my breasts so much..."
+ Aaah!"
+#
+<name "Protagonist" "!UB0004">
+"Can I touch them more?"
+#
+<name "Maru" "!GC0011">
+"Mm...
+ Not just the right, the other too..."
+#
+<name "Protagonist" "!UB0005">
+"Yeah, okay."
+#
+I enjoy her breasts.
+#
+Yeah, her boobs are the best.
+#
+Hm?
+#
+My breast attack is making something white
+appear between her legs...
+#
+I can see her panties!
+#
+Ah, don't panic.
+#
+This isn't the time for panic.
+#
+I tear my eyes away and look at her face.
+#
+<name "Maru" "!GC0012">
+"Protagonist..."
+#
+I kiss her.
+#
+I kiss Maru.
+#
+<name "Maru" "!GC0013">
+"Mmmmm!"
+#
+<name "Maru" "!GC0015">
+"Ah...mmm..."
+#
+<name "Protagonist" "!UB0006">
+"I love you, Maru."
+#
+  Dice time!
+    Roll a six sided die,
+       and go to the indicated page.
+#
+...A six.
+#
+  --1 or 2  → Pg 41
+　　--3       → Pg 42
+  --4 or 5  → Pg 43
+  --6       → Pg 44
+#
+Pg 44 - Dice Time: 6
+#
+<name "Maru" "!GC0016">
+"Ah... M-Me too...
+ I love you... too..."
+#
+<name "Protagonist" "!UB0007">
+"Thank you..."
+#
+<name "Maru" "!GC0017">
+"Oh, um, well..."
+#
+<name "Protagonist" "!UB0008">
+"Hm?"
+#
+<name "Maru" "!GC0018">
+"Your thing is...
+ It's gotten really big..."
+#
+W-Well, it'd be weirder if it didn't.
+#
+<name "Maru" "!GC0019">
+"Protagonist."
+#
+She's staring a hole in my pants.
+#
+Okay, so now I...
+  -- Use her breasts    → Pg 47
+  -- Stick it right in! → Pg 51
+#
+<music 18>
+<background "ev105a00.agf" 10>
+Pg 51 - Stick it right in!
+#
+Ooooohhhhh!
+#
+I take off her panties and spread her pussy
+with my fingers.
+#
+It smells of her musk.
+#
+She's waiting for it too.
+#
+There's more than enough love juice.
+#
+I know I should be caressing her, but I can't
+resist!
+#
+I'll stick it straight in!
+#
+<name "Maru" "!GC0020">
+"Nnnngh!"
+#
+The tip of my dick slides into her.
+#
+Oooh!
+So warm and pleasant.
+#
+The unimaginable sensation feels like I could
+come right away, but I hold out.
+#
+How could I come just from putting it in!
+#
+Now's the time to show my guts.
+#
+<name "Maru" "!GC0021">
+"Aaah! Ah!"
+#
+My dick hits her hymen.
+#
+I did it!
+I'm going to be her first man!
+#
+Ah! Crap!
+Oh no!
+#
+I want to come.
+#
+I'm going to come.
+#
+Ah...ah...ah...
+#
+Okay, so now I...
+  -- Ejaculate  → Pg 54
+  -- Endure it  → Pg 55
+#
+Pg 55 - Endure it
+#
+But I endure it!
+#
+I have to endure it!
+#
+<name "Maru" "!GC0022">
+"Ah! Aah! Ah!"
+#
+And I put strength into my hips and push the
+tip of my dick even deeper.
+#
+<name "Maru" "!GC0023">
+"Nnngh..."
+#
+Her hymen puts up a strong fight, but all of
+a sudden, I hear a dull sound and my dick 
+slides deep into her.
+#
+<name "Maru" "!GC0024">
+"Nnngh!"
+#
+I broke through.
+#
+I continue pushing deeper and deeper.
+#
+And then I reach it.
+#
+Her womb.
+#
+<name "Maru" "!GC0025">
+"Ah...aah...ah...
+ Protagonist..."
+#
+<name "Protagonist" "!UB0009">
+"Maru..."
+#
+Okay, so now I...
+  -- Give in to instinct  → Pg 65
+  -- Think straight       → Pg 60
+#
+Pg 65 - Give in to instinct
+#
+I start bouncing my hips like crazy.
+#
+Violating her pussy.
+#
+I want to come already.
+#
+I can't take it.
+#
+I ignore all reason.
+#
+I'm just a male animal, focused on
+reproducing.
+#
+But I haven't forgotten.
+#
+This is between Maru and me.
+#
+Yeah, I can't be the only one feeling good.
+#
+My instincts are screaming at me to take care
+of her.
+#
+And yet...
+#
+<name "Maru" "!GC0026">
+"Aah! Ah! P-Protagonist...
+ I don't care!
+ Just move without holding back!"
+#
+I-If you say that...
+#
+I pound my hips violently, all my feelings
+rush to ejaculation at once.
+#
+I can't stop now.
+#
+No hesitation.
+#
+<name "Maru" "!GC0027">
+"Aah! Ah! Ah...
+ Aaaaaaaahhhhhhhh!!!!"
+#
+I successfully let out a huge amount of semen
+into her.
+#
+I'm so moved by it.
+#
+<name "Maru" "!GC0028">
+"Ah...ah...ah...
+ Protagonis..."
+#
+<name "Protagonist" "!UB0010">
+"Maru..."
+#
+...
+#
+Okay, so now I...
+  -- Keep going       → Pg 68
+  -- Talk about love  → Pg 97
+#
+Pg 68 - Keep going
+#
+I hug her body.
+#
+<name "Maru" "!GC0029">
+"Protagonist..."
+#
+I lust for her body just like a monkey who had
+discovered sex.
+#
+And I performed a bunch of firsts.
+#
+<background "bg017a0.agf" 10>
+<music 5>
+<background "bg011a0.agf" 10>
+<name "Darx">
+"Hmm.
+ I managed to reach the ending.
+ Good."
+#
+<name "Darx">
+"Looking at the sheet though, I failed eight
+ times.
+ That was pretty hard."
+#
+<name "Darx">
+"Well, that's why it feels like an
+ accomplishment."
+#
+<name "Darx">
+"..."
+#
+<name "Darx">
+"Grrrr...
+ Maybe I should've chosen this one at that
+ split..."
+#
+I was addicted to it.
+#
+<name "Darx">
+"So it's bad to choose by which sends you to
+ the furthest page."
+#
+\x0A\x44\x03\x17\x84\x01
+<exit>
+:4F8C
+<music 5>
+<background "bg011a0.agf" 10>
+<name "Darx">
+"A new book?"
+#
+<sprite "ta34b000.agf" 4 4 11>
+<name "Cleaning Maid" "!PC0563">
+"It's a book."
+#
+<name "Darx">
+"Not a text book or anything serious though."
+#
+<removesprite -1 11>
+Like usual, it's a romance book.
+#
+<name "Darx">
+"Sometimes I wonder why adventurers have these
+ kinds of books."
+#
+I mumble as I open it up.
+#
+<background "bg017a0.agf" 10>
+<music 49>
+<background "ev106a00.agf" 10>
+<name "Natsu" "!DD0001">
+"Ahahaha..."
+#
+<name "Natsu" "!DD0002">
+"It's been a long time since I took a bath
+ with you."
+#
+<name "Akihiko" "!JB0001">
+"Don't get so worked up.
+ Be careful."
+#
+<name "Natsu" "!DD0003">
+"But you haven't been coming in with me
+ recently."
+#
+<name "Akihiko" "!JB0002">
+"Well, you're at that age, so of course not."
+#
+<name "Akihiko" "!JB0003">
+"I thought you hated me."
+#
+<name "Natsu" "!DD0004">
+"I don't hate you."
+#
+<name "Natsu" "!DD0005">
+"I'm with my beloved brother."
+#
+<name "Akihiko" "!JB0004">
+"...I see.
+ Thank you."
+#
+<name "Natsu" "!DD0006">
+"Yep."
+#
+<name "Natsu" "!DD0007">
+"So just like usual."
+#
+<name "Akihiko" "!JB0005">
+"Just like usual."
+#
+<name "Natsu" "!DD0008">
+"Yep."
+#
+<name "Akihiko" "!JB0006">
+"Why don't we stop?"
+#
+<name "Natsu" "!DD0009">
+"Eeeh? Why?"
+#
+<name "Akihiko" "!JB0007">
+"Why..."
+#
+<name "Natsu" "!DD0010">
+"It feels good, doesn't it?"
+#
+<name "Akihiko" "!JB0008">
+"Well..."
+#
+<name "Natsu" "!DD0011">
+"I feel good."
+#
+<name "Akihiko" "!JB0009">
+"Maybe, but, um..."
+#
+<name "Natsu" "!DD0012">
+"Onii-chan."
+#
+<name "Akihiko" "!JB0010">
+"D-Don't press your breasts against me."
+#
+<name "Natsu" "!DD0013">
+"Hahaha...
+ They've gotten a little bigger, haven't they?"
+#
+<name "Akihiko" "!JB0011">
+"Mm...
+ I guess?"
+#
+<name "Natsu" "!DD0014">
+"They have.
+ See?"
+#
+<name "Akihiko" "!JB0012">
+"Yeah, you're right.
+ But just a little."
+#
+<name "Natsu" "!DD0015">
+"There might be other places that are growing
+ up too."
+#
+<name "Akihiko" "!JB0013">
+"..."
+#
+<name "Natsu" "!DD0016">
+"So, okay?
+ Just like usual."
+#
+<name "Akihiko" "!JB0014">
+"...All right."
+#
+I try to refuse, but her invitation is enough
+to make my dick start getting big.
+#
+Of course, we're both completely naked in the
+bathroom.
+#
+She's looking right at it too.
+#
+<music 50>
+\x2B
+<background "ev107a00.agf" 10>
+<name "Natsu" "!DD0017">
+"Haha...
+ It's all squirmy."
+#
+<name "Akihiko" "!JB0015">
+"Come on. 
+ Don't mess around."
+#
+<name "Natsu" "!DD0018">
+"'Kay."
+#
+She comes over and sits in my lap.
+#
+She puts both her legs on my thighs and then
+lowers herself.
+#
+Straddling my dick between her legs.
+#
+It's dangerous to stay like this, so I grab
+her by the chest and hold her in place.
+#
+<name "Akihiko" "!JB0016">
+"Okay.
+ Just do it like normal."
+#
+<name "Natsu" "!DD0019">
+"'Kay."
+#
+She slowly moves her hips, rubbing my dick
+against herself.
+#
+She's spreading her legs, so it's not against
+her thighs.
+#
+Just rubbing her entrance against my dick.
+#
+That's all it is.
+#
+<name "Akihiko" "!JB0017">
+"That's right.
+ That's good movement."
+#
+<name "Natsu" "!DD0020">
+"Mm...
+ Sometimes you have to change the rhythm
+ though, right?"
+#
+<name "Akihiko" "!JB0018">
+"Yeah, that's right.
+ You remembered well."
+#
+<name "Natsu" "!DD0021">
+"Hahaha...
+ Mm... 
+ Y-You also need to hold by breasts tight."
+#
+<name "Akihiko" "!JB0019">
+"Yeah."
+#
+<name "Natsu" "!DD0022">
+"Mm...ah...
+ Your hands really are the best."
+#
+<name "Akihiko" "!JB0020">
+"Hm?"
+#
+<name "Natsu" "!DD0023">
+"It feels better having you rub me than doing
+ it myself."
+#
+<name "Akihiko" "!JB0021">
+"Well, I guess so."
+#
+<name "Natsu" "!DD0024">
+"That's why my breasts are only for you.
+ You can rub them whenever you want."
+#
+<name "Akihiko" "!JB0022">
+"Thank you, but what if you find someone you
+ like more?"
+#
+<name "Natsu" "!DD0025">
+"Someone I like more, like a boyfriend?"
+#
+<name "Akihiko" "!JB0023">
+"Yeah."
+#
+<name "Natsu" "!DD0026">
+"You're enough for me."
+#
+<name "Akihiko" "!JB0024">
+"I'm happy to hear that, but..."
+#
+<name "Natsu" "!DD0027">
+"Mm!"
+#
+All the time we're talking, her hips don't stop
+moving.
+#
+My swollen dick is covered in the juices 
+pouring out of her.
+#
+<name "Natsu" "!DD0028">
+"Mm...mm..."
+#
+She's done this so much, and is stimulating my
+dick more and more.
+#
+<name "Natsu" "!DD0029">
+"Ah...mmm...ahhh...ah...aaah..."
+#
+She's just moaning now.
+#
+Same as usual.
+#
+It's been a few years since we started playing
+with each other in the bath like this.
+#
+I tried to stop several times.
+#
+But I always succumb to her temptation.
+#
+No, that's just an excuse.
+#
+I can't stay away from her.
+#
+<name "Natsu" "!DD0030">
+"Mm...mmm...aah...ah...ah...
+ O-Onii-chan..."
+#
+Her movements intensify.
+#
+She's almost there.
+#
+Me too.
+#
+<name "Natsu" "!DD0031">
+"Ah... T-Together...
+ Aaah! Ah! Ah!"
+#
+I can tell.
+#
+I keep rhythm with her and try to match her
+timing.
+#
+<name "Natsu" "!DD0032">
+"Aah!"
+#
+And then she comes.
+#
+The moment I feel it, semen shoots out of my
+dick.
+#
+The walls of the bathroom are stained with my
+semen.
+#
+And the love juices spilling out of her are
+making my legs all sticky.
+#
+So much...
+I think she peed a little.
+#
+<name "Natsu" "!DD0033">
+"Aah...ah...ah...
+ Onii-chan..."
+#
+<name "Akihiko" "!JB0025">
+"Hm?"
+#
+<name "Natsu" "!DD0034">
+"Did you feel good?"
+#
+<name "Akihiko" "!JB0026">
+"Yeah."
+#
+<name "Natsu" "!DD0035">
+"Me too."
+#
+<name "Akihiko" "!JB0027">
+"I'm glad."
+#
+It ended safely again today.
+#
+I feel bad, but I'm also relieved.
+#
+This is my little sister.
+#
+I can't lay a hand on her, and I shouldn't be
+doing this.
+#
+My thoughts after coming scold me.
+#
+Same as always.
+#
+And then, after a while, I know that I'll be
+getting into the bath with her again like 
+this.
+#
+<name "Natsu" "!DD0036">
+"Onii-chan."
+#
+<name "Akihiko" "!JB0028">
+"Hm?
+ Oh, sorry.
+ I was spacing out."
+#
+<name "Natsu" "!DD0037">
+"It's okay.
+ By the way, you know..."
+#
+<name "Akihiko" "!JB0029">
+"Hm?"
+#
+I look into her eyes and am shook.
+#
+They're not the eyes of my sister.
+#
+They're the eyes of a woman lusting for man.
+#
+I'm taken aback to see her look like that.
+I've always thought of her as a kid.
+#
+<name "Natsu" "!DD0038">
+"I want you here."
+#
+<name "Akihiko" "!JB0030">
+"...W-We... can't."
+#
+It took everything just to squeeze that out.
+#
+<name "Natsu" "!DD0039">
+"Why can't we?"
+#
+She's not listening to me.
+#
+The only thing in her head is lust for my dick
+that was swelling like crazy right against her
+pussy.
+#
+<name "Natsu" "!DD0040">
+"Heheh...
+ We can put it in just a little."
+#
+<name "Natsu" "!DD0041">
+"Ah, but if it feels good inside my pussy,
+ you don't need to hold back."
+#
+<name "Natsu" "!DD0042">
+"Onii-chan."
+#
+I'm crushed by the desire swelling up inside 
+me.
+#
+<background "bg017a0.agf" 10>
+<music 5>
+<background "bg011a0.agf" 10>
+<name "Darx">
+"Women can be scary."
+#
+<sprite "ta34b002.agf" 4 4 11>
+<name "Cleaning Maid" "!PC0564">
+"Huh?"
+#
+<name "Darx">
+"Oh, no, it's nothing."
+#
+<sprite "ta34b000.agf" 4 4 12>
+<name "Cleaning Maid" "!PC0565">
+"Really?
+ But for a woman like me, men are the far
+ scarier ones."
+#
+<name "Darx">
+"Hm?
+ Really?"
+#
+<name "Cleaning Maid" "!PC0566">
+"Yes. You never know when you might be
+ attacked."
+#
+<name "Darx">
+"Hey now.
+ Are you scared of me?"
+#
+<name "Cleaning Maid" "!PC0567">
+"You're gentle."
+#
+<name "Darx">
+"It's an honor."
+#
+<sprite "ta34b002.agf" 4 4 12>
+<name "Cleaning Maid" "!PC0568">
+"But others... a little."
+#
+<name "Darx">
+"But doesn't that get in the way of your
+ work?"
+#
+<name "Cleaning Maid" "!PC0569">
+"Yes, but you learn to manage it."
+#
+<name "Darx">
+"We should do something about that.
+ For now, how about we work on what to do if
+ you're attacked?"
+#
+<name "Cleaning Maid" "!PC0570">
+"Like in bed?"
+#
+<name "Darx">
+"On the floor, so it feels like you're being
+ attacked."
+#
+<sprite "ta34b000.agf" 4 4 12>
+<name "Cleaning Maid" "!PC0571">
+"If that's what you want."
+#
+<removesprite -1 11>
+<sprite "ta34a001.agf" 2 4 11>
+<sprite "ta34b000.agf" 6 5 11>
+<name "Secretary Maid" "!AC0315">
+"Uhh... I can see you're excited, but please
+ do it after you finish your work."
+#
+<sprite "ta34b004.agf" 6 5 12>
+<name "Cleaning Maid" "!PC0572">
+"Yes, maaa'am."
+#
+<sprite "ta34a000.agf" 2 4 12>
+<name "Secretary Maid" "!AC0316">
+"Also, in that case, I'd like to join you."
+#
+<name "Darx">
+"..."
+#
+<removesprite -1 11>
+It turned into something of an orgy that night.
+#
+Women really are scary.
+#
+\x0A\x44\x03\x18\x84\x01
+<exit>
+:70AE
+<music 4>
+<background "bg009a0.agf" 10>
+<sprite "ta34c002.agf" 4 4 11>
+<name "Resting Maid" "!DC0511">
+"I never know what to do when I have time off."
+#
+<removesprite -1 11>
+<sprite "ta34b000.agf" 2 4 11>
+<sprite "ta34c002.agf" 6 5 11>
+<name "Restless Maid" "!PC0562">
+"I know the feeling."
+#
+<removesprite -1 11>
+<exit>
+:7202
+<music 4>
+<background "bg009a0.agf" 10>
+<name "Resting Guard" "!QB0187" "ka35b000.agf">
+"Just because we have the day off, that 
+ doesn't mean we're not on duty."
+#
+<name "Listening Guard" "!WB0206" "ka35b000.agf">
+"What are you saying?"
+#
+<name "Resting Guard" "!QB0188" "ka35b000.agf">
+"Even when we're not working, the residents of
+ the city are relying on us."
+#
+<name "Listening Guard" "!WB0207" "ka35b000.agf">
+"You're sure happy about it."
+#
+<exit>
+:73B1
+\x2E\x22\x00\x05 1  10 \x1A\x01\x0A\x43\x00\x4C\x00\x30\x00\x30\x00\x35\x00\x20\x00\x3C\x00\x3D\x00\x20\x00\x31\x00 :7423: 
+<music 5>
+<background "bg011a0.agf" 10>
+<name "Darx">
+"I should just get some sleep."
+#
+:7423
+\x1A\x01\x0A\x43\x00\x4C\x00\x30\x00\x30\x00\x35\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x32\x00 :74EF: 
+<music 5>
+<background "bg011a0.agf" 10>
+<sprite "ta01a000.agf" 4 4 11>
+<name "Sofia" "!ZB0998">
+"Good night."
+#
+<name "Darx">
+"Yeah."
+#
+<removesprite -1 11>
+\x2B
+:74EF
+\x1A\x01\x0A\x43\x00\x4C\x00\x30\x00\x30\x00\x35\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x33\x00 :75DE: 
+<music 5>
+<background "bg011a0.agf" 10>
+<sprite "ta34a000.agf" 4 4 11>
+<name "Company Maid" "!AC0307">
+"It's also important to rest.
+ Take it easy."
+#
+<name "Darx">
+"Thanks."
+#
+<removesprite -1 11>
+\x2B
+:75DE
+\x1A\x01\x0A\x43\x00\x4C\x00\x30\x00\x30\x00\x35\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x34\x00 :763E: 
+<music 5>
+<background "bg011a0.agf" 10>
+<name "Darx">
+"Relax time."
+#
+:763E
+\x1A\x01\x0A\x43\x00\x4C\x00\x30\x00\x30\x00\x35\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x35\x00 :76A2: 
+<music 5>
+<background "bg011a0.agf" 10>
+<name "Darx">
+"Zzz..."
+#
+:76A2
+\x1A\x01\x0A\x43\x00\x4C\x00\x30\x00\x30\x00\x35\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x36\x00 :7702: 
+<music 5>
+<background "bg011a0.agf" 10>
+<name "Darx">
+"Zzz..."
+#
+:7702
+\x1A\x01\x0A\x43\x00\x4C\x00\x30\x00\x30\x00\x35\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x37\x00 :7768: 
+<music 5>
+<background "bg011a0.agf" 10>
+<name "Darx">
+"Sometimes you need to take some time off."
+#
+:7768
+\x1A\x01\x0A\x43\x00\x4C\x00\x30\x00\x30\x00\x35\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x38\x00 :77CE: 
+<music 5>
+<background "bg011a0.agf" 10>
+<name "Darx">
+"Whew...
+ I'm exhausted."
+#
+:77CE
+\x1A\x01\x0A\x43\x00\x4C\x00\x30\x00\x30\x00\x35\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x39\x00 :7836: 
+<music 5>
+<background "bg011a0.agf" 10>
+<name "Darx">
+"All I can do is get some rest."
+#
+:7836
+\x1A\x01\x0B\x43\x00\x4C\x00\x30\x00\x30\x00\x35\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x31\x00\x30\x00 :789A: 
+<music 5>
+<background "bg011a0.agf" 10>
+<name "Darx">
+"...Time for bed."
+#
+:789A
+<exit>
+\x78

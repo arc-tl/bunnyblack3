@@ -1,0 +1,84 @@
+﻿<music 11>
+<background "bg013a0.agf" 10>
+<name "Cool Citizen" "!BC0166">
+"What's that sugary smell?"
+#
+<name "Aware Citizen" "!ZH0131">
+"It's a bake fest.
+ You didn't know?"
+#
+<name "Cool Citizen" "!BC0167">
+"Oh, that thing for women and kids?"
+#
+<name "Aware Citizen" "!ZH0132">
+"Hey, men do it too."
+#
+<name "Cool Citizen" "!BC0168">
+"Keh.
+ It's not something a man should participate
+ in."
+#
+<name "Aware Citizen" "!ZH0133">
+"Don't say that.
+ Look, they're handing out some of the stuff
+ they made."
+#
+<name "Cool Citizen" "!BC0169">
+"Don't want any."
+#
+<name "Cute Citizen" "!GB0260">
+"Y-You don't?
+ I'm sorry.
+ I'm not very good at baking..."
+#
+<name "Cool Citizen" "!BC0170">
+"...I-I'll have one."
+#
+<name "Cute Citizen" "!GB0261">
+"Huh?"
+#
+<name "Cool Citizen" "!BC0171">
+"I said I'll have one.
+ Give it to me."
+#
+<name "Cute Citizen" "!GB0262">
+"Okay, here."
+#
+<name "Cool Citizen" "!BC0172">
+"Hmph.
+ You're right.
+ It's not very good..."
+#
+<name "Cute Citizen" "!GB0263">
+"Oh..."
+#
+<name "Cool Citizen" "!BC0173">
+"But I felt your love for someone in it.
+ Do better next time."
+#
+<name "Cute Citizen" "!GB0264">
+"O-Okay.
+ Um, could you try the next one too?"
+#
+<name "Cool Citizen" "!BC0174">
+"If I feel like it."
+#
+<music 4>
+<background "bg009a0.agf" 10>
+<sprite "ta34b000.agf" 4 4 11>
+<name "Company Maid" "!DC0472">
+"There is the possibility that something like
+ that will happen, but just a slight one.
+ That kind of festival.
+ We'd like your cooperation."
+#
+<removesprite -1 11>
+<name "Dreaming Shopkeeper" "!CB0185">
+"We'll supply every kind of ingredient you
+ need to bake anything!
+ The whole warehouse too!"
+#
+<name "Expectant Citizens" "!MB0156">
+"Yeah!"
+#
+\x78\x78

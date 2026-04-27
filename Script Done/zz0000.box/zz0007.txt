@@ -1,0 +1,92 @@
+﻿<music 9>
+<background "bg014a0.agf" 10>
+<name "Thinking Angel" "!QB0189">
+"Fantasy games can't use modern terminology."
+#
+<name "Resting Angel" "!WB0208">
+"Well, usually."
+#
+<name "Thinking Angel" "!QB0190">
+"But it's fake fantasy, so it has stuff like
+ sunglasses, glasses, sweatshirts, and 
+ underwear that's usually modern."
+#
+<name "Resting Angel" "!WB0209">
+"Yeah."
+#
+<name "Thinking Angel" "!QB0191">
+"But there's still words that bother the
+ writers."
+#
+<name "Resting Angel" "!WB0210">
+"Like what?"
+#
+<name "Thinking Angel" "!QB0192">
+"For example... dynamite."
+#
+<name "Thinking Angel" "!QB0193">
+"This is an era that clearly doesn't have
+ dynamite. I mean, it's a fantasy without
+ gunpowder, so dynamite's..."
+#
+<name "Resting Angel" "!WB0211">
+"I mean, they never use it, right?"
+#
+<name "Thinking Angel" "!QB0194">
+"Dynamite body."
+#
+<name "Resting Angel" "!WB0212">
+"Oh, I see."
+#
+<name "Thinking Angel" "!QB0195">
+"Or piston movement."
+#
+<name "Thinking Angel" "!QB0196">
+"There might be piston devices, but it's
+ clearly a world where piston motion is not
+ at all common."
+#
+<name "Thinking Angel" "!QB0197">
+"That's a big problem when the story is told
+ in the first person from the protagonist."
+#
+<name "Thinking Angel" "!QB0198">
+"I understand that a lot of fantasy stories
+ these days have some kind of reincarnation or
+ summoning from the modern world."
+#
+<name "Resting Angel" "!WB0213">
+"It's an easy way to express yourself and
+ create a connection."
+#
+<name "Thinking Angel" "!QB0199">
+"Yeah. It's kind of the 20xx of our time."
+#
+<name "Resting Angel" "!WB0214">
+"Well, anyway, now that you've said that, I
+ had my own thoughts."
+#
+<name "Thinking Angel" "!QB0200">
+"Yeah."
+#
+<name "Resting Angel" "!WB0215">
+"You're overthinking things.
+ Just don't worry about it and just express 
+ yourself."
+#
+<name "Thinking Angel" "!QB0201">
+"Eeeh?"
+#
+<name "Resting Angel" "!WB0216">
+"Don't worry.
+ Nobody cares about that stuff, and you always
+ mess it up somehow somewhere."
+#
+<name "Thinking Angel" "!QB0202">
+"I-I guess you might be right..."
+#
+<name "Resting Angel" "!WB0217">
+"Yep.
+ End of story."
+#
+\x78\x78

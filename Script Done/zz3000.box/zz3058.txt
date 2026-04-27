@@ -1,0 +1,42 @@
+﻿<music 19>
+<background "ev012a03.agf" 10>
+<name "Macdo" "!ZA0287">
+"Darx."
+#
+<name "Darx">
+"Hm?"
+#
+<name "Macdo" "!ZA0288">
+"Can you bring out the other you?"
+#
+<name "Darx">
+"Yeah."
+#
+I summon a couple tentacles from my shoulders.
+#
+<name "Macdo" "!ZA0289">
+"...Heheh..."
+#
+<name "Darx">
+"What is it?"
+#
+<name "Macdo" "!ZA0290">
+"I hated them so much, I never though they'd
+ look lovable..."
+#
+<name "Macdo" "!ZA0291">
+"My mind is apparently simple."
+#
+<name "Darx">
+"Now what?
+ Tease you with them?"
+#
+<name "Macdo" "!ZA0292">
+"No, the real you, please."
+#
+<name "Darx">
+"Sounds good."
+#
+I continue enjoying myself with her.
+#
+\x78\x78

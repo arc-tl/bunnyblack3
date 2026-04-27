@@ -1,0 +1,98 @@
+﻿<music 3>
+<background "bg010a0.agf" 10>
+<sprite "ta05a003.agf" 4 4 11>
+<name "Kyuriha" "!FA0222">
+"Darx, I need to speak with you."
+#
+<name "Darx">
+"Hm?"
+#
+<sprite "ta05a004.agf" 4 4 12>
+<name "Kyuriha" "!FA0223">
+"I will be leaving here."
+#
+<name "Darx">
+"I see.
+ Your inspection's over?"
+#
+<sprite "ta05a003.agf" 4 4 12>
+<name "Kyuriha" "!FA0224">
+"No. Miartei will be taking over those duties
+ in my stead."
+#
+<name "Darx">
+"Then what about you?"
+#
+<sprite "ta05a019.agf" 4 4 12>
+<name "Kyuriha" "!FA0225">
+"For now, I will return to Celestia.
+ Once I do, I will gather those who followed
+ Miartei and return here as your enemy."
+#
+<name "Darx">
+"...Why exactly?"
+#
+<removesprite -1 11>
+Is this about Miartei and Rualtei?
+#
+<sprite "ta05a003.agf" 4 4 11>
+<name "Kyuriha" "!FA0226">
+"Pure curiosity.
+ Pure lust for battle."
+#
+<sprite "ta05a004.agf" 4 4 12>
+<name "Kyuriha" "!FA0227">
+"I wish to know how strong you are."
+#
+<name "Darx">
+"I see."
+#
+<sprite "ta05a003.agf" 4 4 12>
+<name "Kyuriha" "!FA0228">
+"I know this may seem contradictory, but I do
+ have feelings for this city.
+ I was hoping to avoid a battle here."
+#
+<name "Darx">
+"That's what I want too.
+ Well, you did say when we met that you'd tell
+ me if you became my enemy.
+ I won't attack you right here."
+#
+<sprite "ta05a017.agf" 4 4 12>
+<name "Kyuriha" "!FA0229">
+"Thank you very much."
+#
+<name "Darx">
+"But I want to confirm one thing."
+#
+<sprite "ta05a003.agf" 4 4 12>
+<name "Kyuriha" "!FA0230">
+"What is it?"
+#
+<name "Darx">
+"If I win, I'll do the same thing to you that
+ I did to Miartei and Rualtei."
+#
+<sprite "ta05a004.agf" 4 4 12>
+<name "Kyuriha" "!FA0231">
+"I am prepared for that."
+#
+<name "Darx">
+"...Fine.
+ As soon as you leave here, you're my enemy."
+#
+<sprite "ta05a017.agf" 4 4 12>
+<name "Kyuriha" "!FA0232">
+"I will send an invitation as soon as I have
+ settled on a location."
+#
+<name "Darx">
+"This isn't what I want, but I'll be waiting."
+#
+<removesprite -1 11>
+Kyuriha leaves the city.
+#
+I miss her already.
+#
+\x78\x78

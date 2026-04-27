@@ -1,0 +1,3264 @@
+//entry 0 -----------------------
+Darx's Sword
+剣
+*
+*
+斬補正+20
+*
+*
+*
+*
+*
+*
+*
+ダークス私物
++20% Slashing Skills
+Darx's favorite sword from his|adventuring days.|It's very worn, so it's not worth|much.
+//entry 1 -----------------------
+Sword
+剣
+*
+*
+斬補正+2
+*
+*
+*
+*
+*
+*
+*
+落物00|武器Ａ|全部Ａ
++3% Slashing Skills
+A generic, mass-produced weapon,|so it isn't that sharp.
+//entry 2 -----------------------
+Quality Sword
+剣
+*
+*
+斬補正+3
+*
+*
+*
+*
+*
+*
+*
+落物00|武器Ａ|全部Ａ
++3% Slashing Skills
+Mass-produced, but good quality.|Still won't match up to a custom|forged blade.
+//entry 3 -----------------------
+Sharp Sword
+剣
+*
+*
+斬補正+5
+*
+*
+*
+*
+*
+*
+*
+落物00|武器Ａ|全部Ａ
++5% Slashing Skills
+A carefully forged blade.|Much better than a generic|weapon.
+//entry 4 -----------------------
+Sword - Rouge
+剣
+*
+*
+斬補正+7
+*
+*
+*
+*
+*
+*
+*
+落物01|武器Ａ|全部Ａ
++7% Slashing Skills
+It was thought to be named after|its wielder, but Rouge is|actually the forger.
+//entry 5 -----------------------
+Sword - Orga
+剣
+*
+*
+斬補正+9
+*
+*
+*
+*
+*
+*
+*
+落物01|武器Ａ|全部Ａ
++9% Slashing Skills
+Forged by the Orga workshop.|There are actually a lot of|these.
+//entry 6 -----------------------
+Glittering Sword
+剣
+*
+*
+斬補正+11
+*
+*
+*
+*
+*
+*
+*
+落物01|武器Ａ|全部Ａ
++11% Slashing Skills
+Glows in the dark, which can be|annoying.|Quite powerful.
+//entry 7 -----------------------
+Dark Quickening Sword
+剣
+*
+*
+斬補正+12
+*
+*
+*
+*
+*
+*
+*
+落物01|武器Ａ|全部Ａ
++12% Slashing Skills
+Not many like to use it because|it's really creepy at night.
+//entry 8 -----------------------
+Sword - Harutsuki
+剣
+*
+*
+斬補正+13
+*
+*
+*
+*
+*
+*
+*
+落物01|武器Ａ|全部Ａ
++13% Slashing Skills
+Forged by a famous smith.|Named for being forged in the|spring.
+//entry 9 -----------------------
+Sword - Natsutsuki
+剣
+*
+*
+斬補正+14
+*
+*
+*
+*
+*
+*
+*
+落物02|武器Ａ|全部Ａ
++14% Slashing Skills
+Forged by a famous smith.|Named for being forged in the|summer.
+//entry 10 -----------------------
+Sword - Akitsuki
+剣
+*
+*
+斬補正+15
+*
+*
+*
+*
+*
+*
+*
+落物02|武器Ａ|全部Ａ
++15% Slashing Skills
+Forged by a famous smith.|Named for being forged in the|autumn.
+//entry 11 -----------------------
+Sword - Fuyutsuki
+剣
+*
+*
+斬補正+16
+*
+*
+*
+*
+*
+*
+*
+落物02|武器Ａ|全部Ａ
++16% Slashing Skills
+Forged by a famous smith.|Named for being forged in the|winter.
+//entry 12 -----------------------
+Sword - Ohta
+剣
+*
+*
+斬補正+17
+*
+*
+*
+*
+*
+*
+*
+落物02|武器Ａ|全部Ａ
++17% Slashing Skills
+Forged by a famous smith.|Said to have been wielded by a|warlord of the east.
+//entry 13 -----------------------
+Sword - Houjou
+剣
+*
+*
+斬補正+18
+*
+*
+*
+*
+*
+*
+*
+落物02|武器Ａ|全部Ａ
++18% Slashing Skills
+Forged by a famous smith.|Said to be the guardian weapon of|a family of warlords from the|east.
+//entry 14 -----------------------
+Sword - Alest
+剣
+*
+*
+斬補正+19
+*
+*
+*
+*
+*
+*
+*
+落物03|武器Ａ|全部Ａ
++19% Slashing Skills
+A very valuable sword from the|Netherworld.
+//entry 15 -----------------------
+Sword - Azarin
+剣
+*
+*
+斬補正+21
+*
+*
+*
+*
+*
+*
+*
+落物03|武器Ａ|全部Ａ
++21% Slashing Skills
+A famed Netherworld sword.|Said to have belonged to an|ancient Overlord.
+//entry 16 -----------------------
+King's Blade
+剣
+*
+*
+斬補正+23
+*
+*
+*
+*
+*
+*
+*
+宝箱Ｅ|武器Ａ|全部Ａ
++23% Slashing Skills
+A sword befitting a king.|It's highly decorated, but|extremely practical.
+//entry 17 -----------------------
+Sacred Sword
+剣
+*
+*
+斬補正+25
+*
+*
+*
+*
+*
+*
+*
+宝箱Ｅ|武器Ａ|全部Ａ
++25% Slashing Skills
+Purified and blessed by the|church.|Works well against both demons|and angels.
+//entry 18 -----------------------
+Meteor Blade
+剣
+*
+*
+斬補正+50
+*
+*
+*
+*
+*
+*
+*
+宝箱Ｅ|武器Ａ|全部Ａ
++50% Slashing Skills
+Forged from a fallen star.|Its sharpness is otherworldly.
+//entry 19 -----------------------
+Gloves
+ナックル
+*
+*
+打補正+3
+*
+*
+*
+*
+*
+*
+*
+落物00|武器Ａ|全部Ａ
++3% Striking Skills
+Slightly better than bare|hands.
+//entry 20 -----------------------
+Brass Knuckles
+ナックル
+*
+*
+打補正+5
+*
+*
+*
+*
+*
+*
+*
+落物00|武器Ａ|全部Ａ
++5% Striking Skills
+Covers and protects the fists.
+//entry 21 -----------------------
+Iron Knuckles
+ナックル
+*
+*
+打補正+7
+*
+*
+*
+*
+*
+*
+*
+落物00|武器Ａ|全部Ａ
++7% Striking Skills
+Gauntlets that fit snugly around|the fists.
+//entry 22 -----------------------
+Power Knuckles
+ナックル
+*
+*
+打補正+9
+*
+*
+*
+*
+*
+*
+*
+落物00|武器Ａ|全部Ａ
++9% Striking Skills
+Spikes on the fingers for extra|power.
+//entry 23 -----------------------
+Pugilist Knuckles
+ナックル
+*
+*
+打補正+11
+*
+*
+*
+*
+*
+*
+*
+落物01|武器Ａ|全部Ａ
++11% Striking Skills
+Supposedly easy to hit with|because they're light, but|actually depends on the user's|skill.
+//entry 24 -----------------------
+Heavy Knuckles
+ナックル
+*
+*
+打補正+13
+*
+*
+*
+*
+*
+*
+*
+落物01|武器Ａ|全部Ａ
++13% Striking Skills
+Made stronger just by being|very, very heavy.
+//entry 25 -----------------------
+Rampage Knuckles
+ナックル
+*
+*
+打補正+15
+*
+*
+*
+*
+*
+*
+*
+落物02|武器Ａ|全部Ａ
++15% Striking Skills
+Designed to enhance one's ki.
+//entry 26 -----------------------
+Raging Bull Knuckles
+ナックル
+*
+*
+打補正+17
+*
+*
+*
+*
+*
+*
+*
+落物02|武器Ａ|全部Ａ
++17% Striking Skills
+Named because bulls are strong.|Not a lot of thought went into|it.
+//entry 27 -----------------------
+Ferocious Bear Knuckles
+ナックル
+*
+*
+打補正+19
+*
+*
+*
+*
+*
+*
+*
+落物03|武器Ａ|全部Ａ
++19% Striking Skills
+Just named this way to sound|stronger than a rampaging bull.
+//entry 28 -----------------------
+Steel Fist
+ナックル
+*
+*
+打補正+20
+*
+*
+*
+*
+*
+*
+*
+落物03|武器Ａ|全部Ａ
++20% Striking Skills
+Made for a martial artist.|Simple, but very elegant.
+//entry 29 -----------------------
+Bow
+弓
+*
+*
+射補正+3
+*
+*
+*
+*
+*
+*
+*
+落物00|武器Ａ|全部Ａ
++3% Ranged Skills
+A generic bow.|Will it even shoot straight?
+//entry 30 -----------------------
+Applewood Bow
+弓
+*
+*
+射補正+5
+*
+*
+*
+*
+*
+*
+*
+落物00|武器Ａ|全部Ａ
++5% Ranged Skills
+Used by an old hero to shoot an|apple off someone's head.|Actually though, it's|mass-produced.
+//entry 31 -----------------------
+Lion Bow
+弓
+*
+*
+射補正+7
+*
+*
+*
+*
+*
+*
+*
+落物00|武器Ａ|全部Ａ
++7% Ranged Skills
+Custom made with a lion motif.
+//entry 32 -----------------------
+Bow - Bowman
+弓
+*
+*
+射補正+9
+*
+*
+*
+*
+*
+*
+*
+落物01|武器Ａ|全部Ａ
++9% Ranged Skills
+A bow made by someone named|Bowman.|Apparently it's a brand name.
+//entry 33 -----------------------
+Bow - Falma
+弓
+*
+*
+射補正+11
+*
+*
+*
+*
+*
+*
+*
+落物01|武器Ａ|全部Ａ
++11% Ranged Skills
+Crafted by Falma, the master of|Bowman.
+//entry 34 -----------------------
+Bow of Spirits
+弓
+*
+*
+射補正+13
+*
+*
+*
+*
+*
+*
+*
+落物02|武器Ａ|全部Ａ
++13% Ranged Skills
+Said to have been created by|spirits long ago, but is probably|just a rumor, because a lot of|these exist.
+//entry 35 -----------------------
+Angel's Bow
+弓
+*
+*
+射補正+15
+*
+*
+*
+*
+*
+*
+*
+落物02|武器Ａ|全部Ａ
++15% Ranged Skills
+Dropped by an angel.|The owner's name is written on|it, but it's illegible now.
+//entry 36 -----------------------
+Sacred Bow
+弓
+*
+*
+射補正+30
+*
+*
+*
+*
+*
+*
+*
+落物02|武器Ａ|全部Ａ
++30% Ranged Skills
+Mainly used for holy rites, but|can be used in actual combat|too.
+//entry 37 -----------------------
+Old Shuriken
+手裏剣
+*
+*
+射補正+10
+*
+*
+*
+*
+*
+*
+*
+落物02|武器Ａ|全部Ａ
++10% Ranged Skills
+A very used weapon for|assassins.|Has definitely seen a lot of|blood.
+//entry 38 -----------------------
+Shuriken
+手裏剣
+*
+*
+射補正+20
+*
+*
+*
+*
+*
+*
+*
+落物02|武器Ａ|全部Ａ
++20% Ranged Skills
+A ninja's preferred weapon for|assassination.|Can be thrown or used to slash.
+//entry 39 -----------------------
+Mizugenshu Shuriken
+手裏剣
+*
+*
+射補正+25
+*
+*
+*
+*
+*
+*
+*
+落物03|武器Ａ|全部Ａ
++25% Ranged Skills
+Used by a famous ninja clan.|Beloved by its users for its|efficiency.
+//entry 40 -----------------------
+Worn Staff
+杖
+*
+*
+魔補正+3
+*
+*
+*
+*
+*
+*
+*
+落物00|武器Ａ|全部Ａ
++3% Magic Skills
+Basically just a hand-me-down.
+//entry 41 -----------------------
+Beautiful Staff
+杖
+*
+*
+魔補正+4
+*
+*
+*
+*
+*
+*
+*
+落物00|武器Ａ|全部Ａ
++4% Magic Skills
+Brand new.
+//entry 42 -----------------------
+Famed Staff
+杖
+*
+*
+魔補正+5
+*
+*
+*
+*
+*
+*
+*
+落物00|武器Ａ|全部Ａ
++5% Magic Skills
+Just a little famous.|It's a brand name.
+//entry 43 -----------------------
+Magic Staff
+杖
+*
+*
+魔補正+6
+*
+*
+*
+*
+*
+*
+*
+落物01|武器Ａ|全部Ａ
++6% Magic Skills
+Created to be able to store|mana.
+//entry 44 -----------------------
+Happy Staff
+杖
+*
+*
+魔補正+7
+*
+*
+*
+*
+*
+*
+*
+落物01|武器Ａ|全部Ａ
++7% Magic Skills
+Brings a little happiness.
+//entry 45 -----------------------
+Amazing Staff
+杖
+*
+*
+魔補正+8
+*
+*
+*
+*
+*
+*
+*
+落物02|武器Ａ|全部Ａ
++8% Magic Skills
+A surprisingly amazing staff.
+//entry 46 -----------------------
+Despair Staff
+杖
+*
+*
+魔補正+9
+*
+*
+*
+*
+*
+*
+*
+落物02|武器Ａ|全部Ａ
++9% Magic Skills
+So incredible that it brings|staff makers to despair.
+//entry 47 -----------------------
+Sorceror's Staff
+杖
+*
+*
+魔補正+10
+*
+*
+*
+*
+*
+*
+*
+落物02|武器Ａ|全部Ａ
++10% Magic Skills
+Used by those who have mastered|magic.|There are rumors that some|mastered magic because of this|staff.
+//entry 48 -----------------------
+Sacred Staff
+杖
+*
+*
+魔補正+11
+*
+*
+*
+*
+*
+*
+*
+落物03|武器Ａ|全部Ａ
++11% Magic Skills
+A sacred staff used for holy|rituals.
+//entry 49 -----------------------
+Overlord Staff
+杖
+*
+*
+魔補正+12
+*
+*
+*
+*
+*
+*
+*
+落物03|武器Ａ|全部Ａ
++12% Magic Skills
+Said to be used by Overlords.
+//entry 50 -----------------------
+Board
+盾
+*
+*
+射耐性+1
+*
+*
+*
+*
+*
+*
+*
+落物00|防具Ａ|全部Ａ
++1% Ranged Defense
+A better shield than nothing...|or at least a board.
+//entry 51 -----------------------
+Shield
+盾
+*
+*
+射耐性+3
+*
+*
+*
+*
+*
+*
+*
+落物00|防具Ａ|全部Ａ
++3% Ranged Defense
+A simple shield.|Just a board with a handle.
+//entry 52 -----------------------
+Wood Shield
+盾
+*
+*
+射耐性+5
+*
+*
+*
+*
+*
+*
+*
+落物00|防具Ａ|全部Ａ
++5% Ranged Defense
+A shield is a shield, even if|it's made of wood.
+//entry 53 -----------------------
+Iron Shield
+盾
+*
+*
+射耐性+10
+*
+*
+*
+*
+*
+*
+*
+落物01|防具Ａ|全部Ａ
++10% Ranged Defense
+Made of iron.|Heavy.
+//entry 54 -----------------------
+Steel Shield
+盾
+*
+*
+射耐性+10|打耐性+5
+*
+*
+*
+*
+*
+*
+*
+落物02|防具Ａ|全部Ａ
++10% Ranged Defense|+5% Striking Defense
+Do not underestimate those who|have one.
+//entry 55 -----------------------
+Holy Shield
+盾
+*
+*
+射耐性+20|打耐性+10
+*
+*
+*
+*
+*
+*
+*
+落物02|防具Ａ|全部Ａ
++20% Ranged Defense|+10% Striking Defense
+Said to be blessed by God.
+//entry 56 -----------------------
+Flame Shield
+盾
+*
+*
+射耐性+15|火耐性+30
+*
+*
+*
+*
+*
+*
+*
+落物03|防具Ａ|全部Ａ
++15% Ranged Defense|+30% Fire Defense
+A shield that's covered in|flames.
+//entry 57 -----------------------
+Ice Shield
+盾
+*
+*
+射耐性+15|水耐性+30
+*
+*
+*
+*
+*
+*
+*
+落物03|防具Ａ|全部Ａ
++15% Ranged Defense|+30% Ice Defense
+A shield that's covered in ice.
+//entry 58 -----------------------
+Buckler
+盾
+*
+*
+射耐性+25|Evade+4
+*
+*
+*
+*
+*
+*
+*
+落物03|防具Ａ|全部Ａ
++25% Ranged Defense|+4 Evade
+An easy to use shield, but still|requires skill.
+//entry 59 -----------------------
+Old Clothing
+服
+*
+*
+防御+1
+*
+*
+*
+*
+*
+*
+*
+落物00|防具Ａ|全部Ａ
++1 Defense
+Simply old and worn clothing.
+//entry 60 -----------------------
+Casual Clothing
+服
+*
+*
+防御+2
+*
+*
+*
+*
+*
+*
+*
+落物00|防具Ａ|全部Ａ
++2 Defense
+Neither good nor bad.|You'd have to be brave to wear|these to a date.
+//entry 61 -----------------------
+Fancy Threads
+服
+*
+*
+防御+3
+*
+*
+*
+*
+*
+*
+*
+落物00|防具Ａ|全部Ａ
++3 Defense
+Stylish clothes that would|impress anybody.|But not everyone has the same|sense of style.
+//entry 62 -----------------------
+Shining Suit
+服
+*
+*
+防御+4
+*
+*
+*
+*
+*
+*
+*
+落物01|防具Ａ|全部Ａ
++4 Defense
+Clothing that brings out one's|star power.|Look great, but they're still|just clothes.
+//entry 63 -----------------------
+Light Armor
+軽鎧
+*
+*
+防御+5
+*
+*
+*
+*
+*
+*
+*
+落物01|防具Ａ|全部Ａ
++5 Defense
+Made to be easy to wear.|More protective than clothes.
+//entry 64 -----------------------
+Famed Light Armor
+軽鎧
+*
+*
+防御+6
+*
+*
+*
+*
+*
+*
+*
+落物01|防具Ａ|全部Ａ
++6 Defense
+Made by a famous armor maker.
+//entry 65 -----------------------
+Master's Leather
+軽鎧
+*
+*
+防御+7
+*
+*
+*
+*
+*
+*
+*
+落物02|防具Ａ|全部Ａ
++7 Defense
+For experienced adventurers|only.|May be difficult for novices to|handle.
+//entry 66 -----------------------
+Sturdy Armor
+鎧
+*
+*
+防御+8
+*
+*
+*
+*
+*
+*
+*
+落物02|防具Ａ|全部Ａ
++8 Defense
+Sturdy and well-made.
+//entry 67 -----------------------
+Custom Armor
+鎧
+*
+*
+防御+9
+*
+*
+*
+*
+*
+*
+*
+落物02|防具Ａ|全部Ａ
++9 Defense
+Designed for the wearer.
+//entry 68 -----------------------
+Life Armor
+鎧
+*
+*
+防御+10
+*
+*
+*
+*
+*
+*
+*
+落物03|防具Ａ|全部Ａ
++10 Defense
+Full of vitality.
+//entry 69 -----------------------
+Shining Armor
+鎧
+*
+*
+防御+11
+*
+*
+*
+*
+*
+*
+*
+落物03|防具Ａ|全部Ａ
++11 Defense
+Armor that's glittering and|bright.
+//entry 70 -----------------------
+Holy Armor
+鎧
+*
+*
+防御+12
+*
+*
+*
+*
+*
+*
+*
+落物03|防具Ａ|全部Ａ
++12 Defense
+Wrapped in light.|Hard to look at.
+//entry 71 -----------------------
+Cool Helmet
+兜
+*
+*
+斬耐性+5
+*
+*
+*
+*
+*
+*
+*
+落物00|防具Ａ|全部Ａ
++5% Slashing Defense
+The emphasis is on the design.
+//entry 72 -----------------------
+Great Helmet
+兜
+*
+*
+斬耐性+6
+*
+*
+*
+*
+*
+*
+*
+落物00|防具Ａ|全部Ａ
++6% Slashing Defense
+Has impressive decoration.|Fancied by pirates and bandits.
+//entry 73 -----------------------
+Steel Helmet
+兜
+*
+*
+斬耐性+7
+*
+*
+*
+*
+*
+*
+*
+落物01|防具Ａ|全部Ａ
++7% Slashing Defense
+Made with the fervant wish to|protect one's head.
+//entry 74 -----------------------
+Magic Helmet
+兜
+*
+*
+斬耐性+8
+*
+*
+*
+*
+*
+*
+*
+落物02|防具Ａ|全部Ａ
++8% Slashing Defense
+It's imbued with magic.|Very strong.
+//entry 75 -----------------------
+Dream Helmet
+兜
+*
+*
+斬耐性+9
+*
+*
+*
+*
+*
+*
+*
+落物02|防具Ａ|全部Ａ
++9% Slashing Defense
+Helps you have good dreams.|But not many people sleep in a|helmet.
+//entry 76 -----------------------
+Fractal Helmet
+兜
+*
+*
+斬耐性+10
+*
+*
+*
+*
+*
+*
+*
+落物03|防具Ａ|全部Ａ
++10% Slashing Defense
+Layers upon layers.|The design is confusing, but|apparently effective.
+//entry 77 -----------------------
+Hat
+帽子
+*
+*
+魔耐性+1
+*
+*
+*
+*
+*
+*
+*
+落物00|防具Ａ|全部Ａ
++1% Magic Defense
+It's just an ordinary hat.
+//entry 78 -----------------------
+Stylish Hat
+帽子
+*
+*
+魔耐性+3
+*
+*
+*
+*
+*
+*
+*
+落物00|防具Ａ|全部Ａ
++3% Magic Defense
+Very fashionable headwear.
+//entry 79 -----------------------
+Nice Hat
+帽子
+*
+*
+魔耐性+4
+*
+*
+*
+*
+*
+*
+*
+落物00|防具Ａ|全部Ａ
++4% Magic Defense
+Will have everybody telling you|how nice it is.
+//entry 80 -----------------------
+Happy Hat
+帽子
+*
+*
+魔耐性+5
+*
+*
+*
+*
+*
+*
+*
+落物00|防具Ａ|全部Ａ
++5% Magic Defense
+Brings happiness.|But maybe just a little bit.
+//entry 81 -----------------------
+Adventurer's Hat
+帽子
+*
+*
+魔耐性+6
+*
+*
+*
+*
+*
+*
+*
+落物00|防具Ａ|全部Ａ
++6% Magic Defense
+A practical hat for adventuring.|A must-have for long journeys.
+//entry 82 -----------------------
+Elemental Hat
+帽子
+*
+*
+魔耐性+7
+*
+*
+*
+*
+*
+*
+*
+落物01|防具Ａ|全部Ａ
++7% Magic Defense
+Blessed by the spirits.|Designed to evoke the forest.
+//entry 83 -----------------------
+Wizard's Hat
+帽子
+*
+*
+魔耐性+8
+*
+*
+*
+*
+*
+*
+*
+落物01|防具Ａ|全部Ａ
++8% Magic Defense
+For wizards, by wizards.
+//entry 84 -----------------------
+Bodyguard's Hat
+帽子
+*
+*
+魔耐性+9
+*
+*
+*
+*
+*
+*
+*
+落物01|防具Ａ|全部Ａ
++9% Magic Defense
+So trusted, that it's the|official headwear of a certain|kingdom.
+//entry 85 -----------------------
+Devil's Hat
+帽子
+*
+*
+魔耐性+10
+*
+*
+*
+*
+*
+*
+*
+落物02|防具Ａ|全部Ａ
++10% Magic Defense
+Made in the image of a devil.|Loved by youngsters.
+//entry 86 -----------------------
+God's Hat
+帽子
+*
+*
+魔耐性+11
+*
+*
+*
+*
+*
+*
+*
+落物02|防具Ａ|全部Ａ
++11% Magic Defense
+Made in the image of God.|Not worn by God.
+//entry 87 -----------------------
+Sacred Hat
+帽子
+*
+*
+魔耐性+12
+*
+*
+*
+*
+*
+*
+*
+落物03|防具Ａ|全部Ａ
++12% Magic Defense
+Used in many divine rituals.
+//entry 88 -----------------------
+Hero's Hat
+帽子
+*
+*
+魔耐性+13
+*
+*
+*
+*
+*
+*
+*
+落物03|防具Ａ|全部Ａ
++13% Magic Defense
+Used by a hero.|But there are many different|heroes.
+//entry 89 -----------------------
+Ordinary Shoes
+靴
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+落物00|防具Ａ|全部Ａ
+No effect
+They're just shoes.
+//entry 90 -----------------------
+Fancy Shoes
+靴
+*
+*
+Speed+1
+*
+*
+*
+*
+*
+*
+*
+落物00|防具Ａ|全部Ａ
++1 Speed
+Everyone is impressed by these|shoes.
+//entry 91 -----------------------
+Stylish Shoes
+靴
+*
+*
+Speed+2
+*
+*
+*
+*
+*
+*
+*
+落物00|防具Ａ|全部Ａ
++2 Speed
+For those who care about|fashion.
+//entry 92 -----------------------
+Popular Shoes
+靴
+*
+*
+Speed+3
+*
+*
+*
+*
+*
+*
+*
+落物00|防具Ａ|全部Ａ
++3 Speed
+They have a popular design.
+//entry 93 -----------------------
+Alluring Shoes
+靴
+*
+*
+Speed+4
+*
+*
+*
+*
+*
+*
+*
+落物01|防具Ａ|全部Ａ
++4 Speed
+All the ladies love these|shoes.
+//entry 94 -----------------------
+Rumored Shoes
+靴
+*
+*
+Speed+5
+*
+*
+*
+*
+*
+*
+*
+落物01|防具Ａ|全部Ａ
++5 Speed
+They're as incredible as people|say.
+//entry 95 -----------------------
+Famous Shoes
+靴
+*
+*
+Speed+6
+*
+*
+*
+*
+*
+*
+*
+落物01|防具Ａ|全部Ａ
++6 Speed
+Known world round.
+//entry 96 -----------------------
+Flashy Shoes
+靴
+*
+*
+Speed+7
+*
+*
+*
+*
+*
+*
+*
+落物02|防具Ａ|全部Ａ
++7 Speed
+They're eye-catching.
+//entry 97 -----------------------
+Magic Shoes
+靴
+*
+*
+Speed+8
+*
+*
+*
+*
+*
+*
+*
+落物02|防具Ａ|全部Ａ
++8 Speed
+Protected by magic.
+//entry 98 -----------------------
+Ambush Shoes
+靴
+*
+*
+Speed+9
+*
+*
+*
+*
+*
+*
+*
+落物03|防具Ａ|全部Ａ
++9 Speed
+Favored by bandits.
+//entry 99 -----------------------
+Assassin Shoes
+靴
+*
+*
+Speed+10
+*
+*
+*
+*
+*
+*
+*
+落物03|防具Ａ|全部Ａ
++10 Speed
+Supposedly have a knife hidden|inside them.
+//entry 100 -----------------------
+Lucky Shoes
+靴
+*
+*
+Speed+11
+*
+*
+*
+*
+*
+*
+*
+落物03|防具Ａ|全部Ａ
++11 Speed
+Said to bring good fortune.|It'd be nice if luck came walking|your way.
+//entry 101 -----------------------
+Fancy Boots
+ブーツ
+*
+*
+Evade+2
+*
+*
+*
+*
+*
+*
+*
+落物00|防具Ａ|全部Ａ
++2 Evade
+Just a little fancy.
+//entry 102 -----------------------
+Stylish Boots
+ブーツ
+*
+*
+Evade+3
+*
+*
+*
+*
+*
+*
+*
+落物00|防具Ａ|全部Ａ
++3 Evade
+Fashionable.|Popular with women.
+//entry 103 -----------------------
+Cool Boots
+ブーツ
+*
+*
+Evade+4
+*
+*
+*
+*
+*
+*
+*
+落物00|防具Ａ|全部Ａ
++4 Evade
+Who doesn't think these are|cool?
+//entry 104 -----------------------
+Popular Boots
+ブーツ
+*
+*
+Evade+5
+*
+*
+*
+*
+*
+*
+*
+落物01|防具Ａ|全部Ａ
++5 Evade
+They've started becoming popular|world wide. The cobbler is proud|of his work.
+//entry 105 -----------------------
+Questing Boots
+ブーツ
+*
+*
+Evade+6
+*
+*
+*
+*
+*
+*
+*
+落物01|防具Ａ|全部Ａ
++6 Evade
+Popular with adventurers, and|made to keep your feet safe.
+//entry 106 -----------------------
+Hero's Boots
+ブーツ
+*
+*
+Evade+7
+*
+*
+*
+*
+*
+*
+*
+落物02|防具Ａ|全部Ａ
++7 Evade
+Same as the kind heroes wear.|So you can feel like a real|hero.
+//entry 107 -----------------------
+Legendary Boots
+ブーツ
+*
+*
+Evade+8
+*
+*
+*
+*
+*
+*
+*
+落物02|防具Ａ|全部Ａ
++8 Evade
+Made to look like a legend.|A very retro design.
+//entry 108 -----------------------
+Lucky Boots
+ブーツ
+*
+*
+Evade+9
+*
+*
+*
+*
+*
+*
+*
+落物03|防具Ａ|全部Ａ
++9 Evade
+Supposedly bring great fortune.
+//entry 109 -----------------------
+Attack Banner
+旗
+*
+*
+攻撃%味+1|Speed%味+1
+*
+*
+*
+*
+*
+*
+*
+宝箱Ｂ|その他Ａ|全部Ａ
+Party +1 Attack |Party +1 Speed
+Creates a sense of unity.
+//entry 110 -----------------------
+Charging Banner
+旗
+*
+*
+攻撃%味+2|Speed%味+1
+*
+*
+*
+*
+*
+*
+*
+宝箱Ｃ|その他Ａ|全部Ａ
+Party +2 Attack |Party +1 Speed
+Waved while initiating a|charge.
+//entry 111 -----------------------
+Marching Banner
+旗
+*
+*
+攻撃%味+2|Speed%味+2
+*
+*
+*
+*
+*
+*
+*
+宝箱Ｄ|その他Ａ|全部Ａ
+Party +2 Attack|Party +2 Speed
+The flag of a certain kingdom.|Expanded extremely fast, and then|collapsed.
+//entry 112 -----------------------
+Invasion Banner
+旗
+*
+*
+攻撃%味+2|Speed%味+3
+*
+*
+*
+*
+*
+*
+*
+宝箱Ｅ|その他Ａ|全部Ａ
+Party +2 Attack |Party +3 Speed
+Used by eastern warlords.|Comes in various designs.
+//entry 113 -----------------------
+Fire Necklace
+首飾り
+*
+*
+火補正+30
+*
+*
+*
+*
+*
+*
+*
+宝箱Ａ|宝箱Ｂ|その他Ａ|全部Ａ
++30% Fire Skills
+Dedicated to a fire god.
+//entry 114 -----------------------
+Ice Necklace
+首飾り
+*
+*
+水補正+30
+*
+*
+*
+*
+*
+*
+*
+宝箱Ａ|宝箱Ｂ|その他Ａ|全部Ａ
++30% Ice Skills
+Dedicated to an ice god.
+//entry 115 -----------------------
+Earth Necklace
+首飾り
+*
+*
+土補正+30
+*
+*
+*
+*
+*
+*
+*
+宝箱Ａ|宝箱Ｂ|その他Ａ|全部Ａ
++30% Earth Skills
+Dedicated to an earth god.
+//entry 116 -----------------------
+Wind Necklace
+首飾り
+*
+*
+風補正+30
+*
+*
+*
+*
+*
+*
+*
+宝箱Ａ|宝箱Ｂ|その他Ａ|全部Ａ
++30% Wind Skills
+Dedicated to a wind god.
+//entry 117 -----------------------
+Thunder Necklace
+首飾り
+*
+*
+雷補正+30
+*
+*
+*
+*
+*
+*
+*
+宝箱Ａ|宝箱Ｂ|宝箱Ｃ|その他Ａ|全部Ａ
++30% Lightning Skills
+Dedicated to a lightning god.
+//entry 118 -----------------------
+Angel Necklace
+首飾り
+*
+*
+光補正+30
+*
+*
+*
+*
+*
+*
+*
+宝箱Ａ|宝箱Ｂ|宝箱Ｃ|その他Ａ|全部Ａ
++30% Light Skills
+Dedicated to a light god.
+//entry 119 -----------------------
+Demon Necklace
+首飾り
+*
+*
+闇補正+30
+*
+*
+*
+*
+*
+*
+*
+宝箱Ａ|宝箱Ｂ|宝箱Ｃ|その他Ａ|全部Ａ
++30% Dark Skills
+Dedicated to a dark god.
+//entry 120 -----------------------
+Salamander Necklace
+首飾り
+*
+*
+火補正+50
+*
+*
+*
+*
+*
+*
+*
+宝箱Ｃ|宝箱Ｄ|宝箱Ｅ|その他Ａ|全部Ａ
++50% Fire Skills
+Dedicated to a fire god.|Annoyingly large.
+//entry 121 -----------------------
+Undine Necklace
+首飾り
+*
+*
+水補正+50
+*
+*
+*
+*
+*
+*
+*
+宝箱Ｃ|宝箱Ｄ|宝箱Ｅ|その他Ａ|全部Ａ
++50% Ice Skills
+Dedicated to an ice god.|Annoyingly large.
+//entry 122 -----------------------
+Gnome Necklace
+首飾り
+*
+*
+土補正+50
+*
+*
+*
+*
+*
+*
+*
+宝箱Ｃ|宝箱Ｄ|宝箱Ｅ|その他Ａ|全部Ａ
++50% Earth Skills
+Dedicated to an earth god.|Annoyingly large.
+//entry 123 -----------------------
+Sprite Necklace
+首飾り
+*
+*
+風補正+50
+*
+*
+*
+*
+*
+*
+*
+宝箱Ｃ|宝箱Ｄ|宝箱Ｅ|その他Ａ|全部Ａ
++50% Wind Skills
+Dedicated to a wind god.|Annoyingly large.
+//entry 124 -----------------------
+Ixion Necklace
+首飾り
+*
+*
+雷補正+50
+*
+*
+*
+*
+*
+*
+*
+宝箱Ｃ|宝箱Ｄ|宝箱Ｅ|その他Ａ|全部Ａ
++50% Lightning Skills
+Dedicated to a lightning god.|Annoyingly large.
+//entry 125 -----------------------
+Archangel Necklace
+首飾り
+*
+*
+光補正+50
+*
+*
+*
+*
+*
+*
+*
+宝箱Ｃ|宝箱Ｄ|宝箱Ｅ|その他Ａ|全部Ａ
++50% Light Skills
+Dedicated to a light god.|Annoyingly large.
+//entry 126 -----------------------
+Devil Necklace
+首飾り
+*
+*
+闇補正+50
+*
+*
+*
+*
+*
+*
+*
+宝箱Ｃ|宝箱Ｄ|宝箱Ｅ|その他Ａ|全部Ａ
++50% Dark Skills
+Dedicated to a dark god.|Annoyingly large.
+//entry 127 -----------------------
+Flame Charm
+護符
+*
+*
+火耐性+25
+*
+*
+*
+*
+*
+*
+*
+宝箱Ａ|宝箱Ｂ|その他Ａ|全部Ａ
++25% Fire Defense
+Dedicated to a fire god.
+//entry 128 -----------------------
+Ice Charm
+護符
+*
+*
+水耐性+25
+*
+*
+*
+*
+*
+*
+*
+宝箱Ａ|宝箱Ｂ|その他Ａ|全部Ａ
++25% Ice Defense
+Dedicated to an ice god.
+//entry 129 -----------------------
+Earth Charm
+護符
+*
+*
+土耐性+25
+*
+*
+*
+*
+*
+*
+*
+宝箱Ａ|宝箱Ｂ|その他Ａ|全部Ａ
++25% Earth Defense
+Dedicated to an earth god.
+//entry 130 -----------------------
+Wind Charm
+護符
+*
+*
+風耐性+25
+*
+*
+*
+*
+*
+*
+*
+宝箱Ａ|宝箱Ｂ|その他Ａ|全部Ａ
++25% Wind Defense
+Dedicated to a wind god.
+//entry 131 -----------------------
+Lightning Charm
+護符
+*
+*
+雷耐性+25
+*
+*
+*
+*
+*
+*
+*
+宝箱Ａ|宝箱Ｂ|宝箱Ｃ|その他Ａ|全部Ａ
++25% Lightning Defense
+Dedicated to a lightning god.
+//entry 132 -----------------------
+Angel Charm
+護符
+*
+*
+光耐性+25
+*
+*
+*
+*
+*
+*
+*
+宝箱Ａ|宝箱Ｂ|宝箱Ｃ|その他Ａ|全部Ａ
++25% Light Defense
+Dedicated to a light god.
+//entry 133 -----------------------
+Demon Charm
+護符
+*
+*
+闇耐性+25
+*
+*
+*
+*
+*
+*
+*
+宝箱Ａ|宝箱Ｂ|宝箱Ｃ|その他Ａ|全部Ａ
++25% Dark Defense
+Dedicated to a dark god.
+//entry 134 -----------------------
+Salamander Charm
+護符
+*
+*
+火耐性+50
+*
+*
+*
+*
+*
+*
+*
+宝箱Ｃ|宝箱Ｄ|宝箱Ｅ|その他Ａ|全部Ａ
++50% Fire Defense
+Dedicated to a fire god.|The bigger, the better.
+//entry 135 -----------------------
+Undine Charm
+護符
+*
+*
+水耐性+50
+*
+*
+*
+*
+*
+*
+*
+宝箱Ｃ|宝箱Ｄ|宝箱Ｅ|その他Ａ|全部Ａ
++50% Ice Defense
+Dedicated to an ice god.|The bigger, the better.
+//entry 136 -----------------------
+Gnome Charm
+護符
+*
+*
+土耐性+50
+*
+*
+*
+*
+*
+*
+*
+宝箱Ｃ|宝箱Ｄ|宝箱Ｅ|その他Ａ|全部Ａ
++50% Earth Defense
+Dedicated to an earth god.|The bigger, the better.
+//entry 137 -----------------------
+Sprite Charm
+護符
+*
+*
+風耐性+50
+*
+*
+*
+*
+*
+*
+*
+宝箱Ｃ|宝箱Ｄ|宝箱Ｅ|その他Ａ|全部Ａ
++50% Wind Defense
+Dedicated to a wind god.|The bigger, the better.
+//entry 138 -----------------------
+Ixion Charm
+護符
+*
+*
+雷耐性+50
+*
+*
+*
+*
+*
+*
+*
+宝箱Ｃ|宝箱Ｄ|宝箱Ｅ|その他Ａ|全部Ａ
++50% Lightning Defense
+Dedicated to a lightning god.|The bigger, the better.
+//entry 139 -----------------------
+Archangel Charm
+護符
+*
+*
+光耐性+50
+*
+*
+*
+*
+*
+*
+*
+宝箱Ｃ|宝箱Ｄ|宝箱Ｅ|その他Ａ|全部Ａ
++50% Light Defense
+Dedicated to a light god.|The bigger, the better.
+//entry 140 -----------------------
+Devil Charm
+護符
+*
+*
+闇耐性+50
+*
+*
+*
+*
+*
+*
+*
+宝箱Ｃ|宝箱Ｄ|宝箱Ｅ|その他Ａ|全部Ａ
++50% Dark Defense
+Dedicated to a dark god.|The bigger, the better.
+//entry 141 -----------------------
+Regular Ring
+指輪
+*
+*
+異常耐性+30
+*
+*
+*
+*
+*
+*
+*
+宝箱Ａ|宝箱Ｂ|宝箱Ｃ|宝箱Ｄ|宝箱Ｅ|その他Ａ|全部Ａ
++30% Status Resist
+Sort of a protective charm.
+//entry 142 -----------------------
+Metabolizing Ring
+指輪
+*
+*
+異常回復+1
+*
+*
+*
+*
+*
+*
+*
+宝箱Ａ|宝箱Ｂ|宝箱Ｃ|宝箱Ｄ|宝箱Ｅ|その他Ａ|全部Ａ
+Status Recovery -1
+Don't forget how you used to|be.
+//entry 143 -----------------------
+Legsweeper Ring
+指輪
+*
+*
+対歩補正+20
+*
+*
+*
+*
+*
+*
+*
+宝箱Ａ|宝箱Ｂ|宝箱Ｃ|宝箱Ｄ|宝箱Ｅ|その他Ａ|全部Ａ
++20% vs Grounded
+Nobody actually knows how it|works.
+//entry 144 -----------------------
+Birdcatcher Ring
+指輪
+*
+*
+対飛補正+20
+*
+*
+*
+*
+*
+*
+*
+宝箱Ａ|宝箱Ｂ|宝箱Ｃ|宝箱Ｄ|宝箱Ｅ|その他Ａ|全部Ａ
++20% vs Fliers
+Apparently it hates birds.
+//entry 145 -----------------------
+Lifeguard Ring
+指輪
+*
+*
+必殺耐性+20
+*
+*
+*
+*
+*
+*
+*
+宝箱Ａ|宝箱Ｂ|宝箱Ｃ|宝箱Ｄ|宝箱Ｅ|その他Ａ|全部Ａ
++20% Death Resist
+Wants to give its wearer a|fighting chance.
+//entry 146 -----------------------
+Lifesaver Ring
+指輪
+*
+*
+必殺耐性+1000
+*
+*
+*
+*
+*
+*
+*
+宝箱Ａ|宝箱Ｂ|宝箱Ｃ|宝箱Ｄ|宝箱Ｅ|その他Ａ|全部Ａ
++100% Death Resist
+Is bound and determined to not|go down in one hit.
+//entry 147 -----------------------
+Unlucky Bell
+鐘
+*
+*
+引き寄せ+10
+*
+*
+*
+*
+*
+*
+*
+宝箱Ａ|宝箱Ｂ|宝箱Ｃ|宝箱Ｄ|宝箱Ｅ|その他Ａ|全部Ａ
+Attract Enemies
+Brings misfortune to the|misfortunate.
+//entry 148 -----------------------
+Lucky Bell
+鐘
+*
+*
+引き寄せ-10
+*
+*
+*
+*
+*
+*
+*
+宝箱Ａ|宝箱Ｂ|宝箱Ｃ|宝箱Ｄ|宝箱Ｅ|その他Ａ|全部Ａ
+Repel Enemies
+Brings fortune to the|fortunate.
+//entry 149 -----------------------
+Useless Book
+書
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+落物00|落物01|落物02|落物03
+No effect
+Not even legible anymore.|Can be used to start a fire?
+//entry 150 -----------------------
+Regular Book
+書
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+落物00|落物01|落物02|落物03
+No effect
+Just a regular book.|For leisure reading.
+//entry 151 -----------------------
+Magic Book
+書
+*
+*
+魔補正+1
+*
+*
+*
+*
+*
+*
+*
+落物00|落物01|落物02|落物03
++1% Magic Skills
+A beginner's guide to magic.
+//entry 152 -----------------------
+Oracle's Book
+書
+*
+*
+遠視+1
+*
+*
+*
+*
+*
+*
+*
+宝箱Ｄ|宝箱Ｅ|遠視
+Increase Sight Range
+Visibility is the basis of|combat.
+//entry 153 -----------------------
+Thief's Book
+書
+*
+*
+感知+1
+*
+*
+*
+*
+*
+*
+*
+宝箱Ｄ|宝箱Ｅ|感知
+Reveal Hidden Doors
+If you're not sharp, you might|miss treasure.
+//entry 154 -----------------------
+Atlas
+書
+*
+*
+地図+1
+*
+*
+*
+*
+*
+*
+*
+宝箱Ｄ|宝箱Ｅ|地図
+Increase Map Range
+All adventurers need a map.
+//entry 155 -----------------------
+Hint Guide
+書
+*
+*
+地図+1|感知+1|遠視+1
+*
+*
+*
+*
+*
+*
+*
+宝箱Ｄ|宝箱Ｅ
+Increase Sight Range, Map Range, and Reveal Hidden Doors
+The only book you'll ever need.|
+//entry 156 -----------------------
+Flame Pebble
+宝石
+*
+*
+*
+*
+物品／炎球
+*
+*
+*
+*
+*
+宝箱Ｃ|宝箱Ｄ|その他Ａ|全部Ａ
+Unlocks Fire Ball Skill
+Fire magic is sealed within it.|Not hot.
+//entry 157 -----------------------
+Ice Pebble
+宝石
+*
+*
+*
+*
+物品／水球
+*
+*
+*
+*
+*
+宝箱Ｃ|宝箱Ｄ|その他Ａ|全部Ａ
+Unlocks Ice Ball Skill
+Ice magic is sealed within it.|An old water bottle?
+//entry 158 -----------------------
+Earth Pebble
+宝石
+*
+*
+*
+*
+物品／岩球
+*
+*
+*
+*
+*
+宝箱Ｃ|宝箱Ｄ|その他Ａ|全部Ａ
+Unlocks Rock Ball Skill
+Earth magic is sealed within it.|For self-defense?
+//entry 159 -----------------------
+Wind Pebble
+宝石
+*
+*
+*
+*
+物品／風球
+*
+*
+*
+*
+*
+宝箱Ｃ|宝箱Ｄ|その他Ａ|全部Ａ
+Unlocks Wind Ball Skill
+Wind magic is sealed within it.|Good for when it's too warm.
+//entry 160 -----------------------
+Lightning Pebble
+宝石
+*
+*
+*
+*
+物品／雷球
+*
+*
+*
+*
+*
+宝箱Ｃ|宝箱Ｄ|その他Ａ|全部Ａ
+Unlocks Static Ball Skill
+Lightning magic is sealed within|it.|Easily mistaken for a glow rock.
+//entry 161 -----------------------
+Light Pebble
+宝石
+*
+*
+*
+*
+物品／光球
+*
+*
+*
+*
+*
+宝箱Ｃ|宝箱Ｄ|その他Ａ|全部Ａ
+Unlocks Light Ball Skill
+Light magic is sealed within it.|Very bright.
+//entry 162 -----------------------
+Dark Pebble
+宝石
+*
+*
+*
+*
+物品／闇球
+*
+*
+*
+*
+*
+宝箱Ｃ|宝箱Ｄ|その他Ａ|全部Ａ
+Unlocks Dark Ball Skill
+Dark magic is sealed within it.|Very dark.
+//entry 163 -----------------------
+Magic Pebble
+宝石
+*
+*
+*
+*
+物品／魔球
+*
+*
+*
+*
+*
+宝箱Ｃ|宝箱Ｄ|その他Ａ|全部Ａ
+Unlocks Mana Ball Skill
+Magic is sealed within it.|There's debate whether this was a|currency long ago.
+//entry 164 -----------------------
+Flame Stone
+宝石
+*
+*
+*
+*
+物品／大炎球
+*
+*
+*
+*
+*
+宝箱Ｄ|宝箱Ｅ|その他Ａ|全部Ａ
+Unlocks Blazing Ball Skill
+Filled with magic.|Handle with care.
+//entry 165 -----------------------
+Ice Stone
+宝石
+*
+*
+*
+*
+物品／大水球
+*
+*
+*
+*
+*
+宝箱Ｄ|宝箱Ｅ|その他Ａ|全部Ａ
+Unlocks Blizzard Ball Skill
+Popular with adventurers for its|power and portability.
+//entry 166 -----------------------
+Earth Stone
+宝石
+*
+*
+*
+*
+物品／大岩球
+*
+*
+*
+*
+*
+宝箱Ｄ|宝箱Ｅ|その他Ａ|全部Ａ
+Unlocks Boulder Ball Skill
+It takes a keen eye to tell this|from a regular rock.
+//entry 167 -----------------------
+Wind Stone
+宝石
+*
+*
+*
+*
+物品／大風球
+*
+*
+*
+*
+*
+宝箱Ｄ|宝箱Ｅ|その他Ａ|全部Ａ
+Unlocks Typhoon Ball Skill
+Fits in the palm of your hand.
+//entry 168 -----------------------
+Lightning Stone
+宝石
+*
+*
+*
+*
+物品／大雷球
+*
+*
+*
+*
+*
+宝箱Ｄ|宝箱Ｅ|その他Ａ|全部Ａ
+Unlocks Lightning Ball Skill
+Highly sought by adventurers for|its ease of use.
+//entry 169 -----------------------
+Light Stone
+宝石
+*
+*
+*
+*
+物品／大光球
+*
+*
+*
+*
+*
+宝箱Ｄ|宝箱Ｅ|その他Ａ|全部Ａ
+Unlocks Blinding Ball Skill
+Brighten a room by hanging it|from the ceiling.
+//entry 170 -----------------------
+Dark Stone
+宝石
+*
+*
+*
+*
+物品／大闇球
+*
+*
+*
+*
+*
+宝箱Ｄ|宝箱Ｅ|その他Ａ|全部Ａ
+Unlocks Void Ball Skill
+Will darken any room it's in.
+//entry 171 -----------------------
+Magic Stone
+宝石
+*
+*
+*
+*
+物品／大魔球
+*
+*
+*
+*
+*
+宝箱Ｄ|宝箱Ｅ|その他Ａ|全部Ａ
+Unlocks Soul Ball Skill
+Has caused injuries by those who|thought it was an actual ball.
+//entry 172 -----------------------
+Salamander Pebble
+宝石
+*
+*
+*
+*
+物品／巨炎球
+*
+*
+*
+*
+*
+宝箱Ｄ|宝箱Ｅ|その他Ａ|全部Ａ
+Unlocks Flame Burst Skill
+Valuable, but heavy.
+//entry 173 -----------------------
+Undine Pebble
+宝石
+*
+*
+*
+*
+物品／巨水球
+*
+*
+*
+*
+*
+宝箱Ｄ|宝箱Ｅ|その他Ａ|全部Ａ
+Unlocks Ice Burst Skill
+Very powerful, but is it worth|the cost?
+//entry 174 -----------------------
+Gnome Pebble
+宝石
+*
+*
+*
+*
+物品／巨岩球
+*
+*
+*
+*
+*
+宝箱Ｄ|宝箱Ｅ|その他Ａ|全部Ａ
+Unlocks Earth Burst Skill
+If you have the energy to spare|for it.
+//entry 175 -----------------------
+Sprite Pebble
+宝石
+*
+*
+*
+*
+物品／巨風球
+*
+*
+*
+*
+*
+宝箱Ｄ|宝箱Ｅ|その他Ａ|全部Ａ
+Unlocks Wind Burst Skill
+Also good as a decoration.
+//entry 176 -----------------------
+Ixion Pebble
+宝石
+*
+*
+*
+*
+物品／巨雷球
+*
+*
+*
+*
+*
+宝箱Ｄ|宝箱Ｅ|その他Ａ|全部Ａ
+Unlocks Static Burst Skill
+Sometimes gets a little crackly|when you touch it.
+//entry 177 -----------------------
+Archangel Pebble
+宝石
+*
+*
+*
+*
+物品／巨光球
+*
+*
+*
+*
+*
+宝箱Ｄ|宝箱Ｅ|その他Ａ|全部Ａ
+Unlocks Light Burst Skill
+Attracks a lot of attention as a|decoration.
+//entry 178 -----------------------
+Devil Pebble
+宝石
+*
+*
+*
+*
+物品／巨闇球
+*
+*
+*
+*
+*
+宝箱Ｄ|宝箱Ｅ|その他Ａ|全部Ａ
+Unlocks Dark Burst Skill
+Sometimes desired as a|centerpiece.
+//entry 179 -----------------------
+Pure Pebble
+宝石
+*
+*
+*
+*
+物品／巨魔球
+*
+*
+*
+*
+*
+宝箱Ｄ|宝箱Ｅ|その他Ａ|全部Ａ
+Unlocks Mana Burst Skill
+What about this is pure?
+//entry 180 -----------------------
+Salamander Stone
+宝石
+*
+*
+*
+*
+物品／超炎球
+*
+*
+*
+*
+*
+宝箱Ｅ|その他Ａ|全部Ａ
+Unlocks Blazing Eruption Skill
+People always wonder if you're|really supposed to carry this|around.
+//entry 181 -----------------------
+Undine Stone
+宝石
+*
+*
+*
+*
+物品／超水球
+*
+*
+*
+*
+*
+宝箱Ｅ|その他Ａ|全部Ａ
+Unlocks Blizzard Eruption Skill
+The problem is the weight.
+//entry 182 -----------------------
+Gnome Stone
+宝石
+*
+*
+*
+*
+物品／超岩球
+*
+*
+*
+*
+*
+宝箱Ｅ|その他Ａ|全部Ａ
+Unlocks Boulder Eruption Skill
+Might just be a very large|rock.
+//entry 183 -----------------------
+Sprite Stone
+宝石
+*
+*
+*
+*
+物品／超風球
+*
+*
+*
+*
+*
+宝箱Ｅ|その他Ａ|全部Ａ
+Unlocks Typhoon Eruption Skill
+Wouldn't it be more effective to|crush them with it directly?
+//entry 184 -----------------------
+Ixion Stone
+宝石
+*
+*
+*
+*
+物品／超雷球
+*
+*
+*
+*
+*
+宝箱Ｅ|その他Ａ|全部Ａ
+Unlocks Lightning Eruption Skill
+Super duper extra big.
+//entry 185 -----------------------
+Archangel Stone
+宝石
+*
+*
+*
+*
+物品／超光球
+*
+*
+*
+*
+*
+宝箱Ｅ|その他Ａ|全部Ａ
+Unlocks Blinding Eruption Skill
+Why would someone make something|this large?
+//entry 186 -----------------------
+Devil Stone
+宝石
+*
+*
+*
+*
+物品／超闇球
+*
+*
+*
+*
+*
+宝箱Ｅ|その他Ａ|全部Ａ
+Unlocks Void Eruption Skill
+Maybe you're supposed to hit|them with this to send them into|darkness.
+//entry 187 -----------------------
+Pure Stone
+宝石
+*
+*
+*
+*
+物品／超魔球
+*
+*
+*
+*
+*
+宝箱Ｅ|その他Ａ|全部Ａ
+Unlocks Soul Eruption Skill
+It's just too big...
+//entry 188 -----------------------
+Pretty Rock
+宝石
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+落物00
+For sale only
+Simply a beautiful stone.
+//entry 189 -----------------------
+Precious Stone
+宝石
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+落物00
+For sale only
+Closer to a jewel than a rock.
+//entry 190 -----------------------
+Flawed Gem
+宝石
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+落物00
+For sale only
+A jewel, but not a valuable|one.
+//entry 191 -----------------------
+Precious Gem
+宝石
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+落物00
+For sale only
+Obviously fetches a high price.
+//entry 192 -----------------------
+Beautiful Gem
+宝石
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+落物00|落物01
+For sale only
+Attracts a woman's eye.
+//entry 193 -----------------------
+Stunning Gem
+宝石
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+落物00|落物01
+For sale only
+A simply stunning piece of|jewelry.
+//entry 194 -----------------------
+Sparkling Gem
+宝石
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+落物00|落物01|落物02
+For sale only
+Enchants all who see it.
+//entry 195 -----------------------
+Flawless Gem
+宝石
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+落物00|落物01|落物02|落物03
+For sale only
+A perfectly polished gemstone.
+//entry 196 -----------------------
+Priceless Gem
+宝石
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+落物00|落物01|落物02|落物03
+For sale only
+Commoners rarely see jewels of|this quality.
+//entry 197 -----------------------
+Goo Stone
+宝石
+ベト|新ベト|天ベト|角ベト
+*
+打補正+150|射補正+150
+*
+*
+*
+*
+*
+*
+*
+宝箱Ｅ
+Goos only|+150% Striking and Shooting Skills
+Said to contain the knowledge of|all goos.|More valuable than any gem.
+//entry 198 -----------------------
+Lucent Key
+鍵
+不可
+*
+*
+*
+*
+*
+*
+*
+*
+*
+鍵101
+Opens certain doors
+It's a pendant, not an actual|key.
+//entry 199 -----------------------
+Stoneleaf Key
+鍵
+不可
+*
+*
+*
+*
+*
+*
+*
+*
+*
+鍵102
+Opens certain doors
+Seems like like a travel pass.
+//entry 200 -----------------------
+Stoneleaf Inner Key
+鍵
+不可
+*
+*
+*
+*
+*
+*
+*
+*
+*
+鍵103
+Opens certain doors
+Opens the lock just by coming|near it.
+//entry 201 -----------------------
+Frostgrip Key
+鍵
+不可
+*
+*
+*
+*
+*
+*
+*
+*
+*
+鍵104
+Opens certain doors
+Looks just like a regular house|key.
+//entry 202 -----------------------
+Arboreal Key
+鍵
+不可
+*
+*
+*
+*
+*
+*
+*
+*
+*
+鍵107
+Opens certain doors
+Commonly found under flower|pots.
+//entry 203 -----------------------
+Arboreal Inner Key
+鍵
+不可
+*
+*
+*
+*
+*
+*
+*
+*
+*
+鍵108
+Opens certain doors
+Very simple, and often mistaken|for other keys.

@@ -1,0 +1,223 @@
+﻿<music 46>
+<background "bg008a1.agf" 10>
+A huge impact rocks the city.
+#
+<name "Darx">
+"W-W-What was that?"
+#
+<sprite "ta34a008.agf" 4 4 11>
+<name "Company Maid" "!AC0046">
+"We're under attack!"
+#
+<name "Darx">
+"By who?"
+#
+<name "Company Maid" "!AC0047">
+"I didn't see anything.
+ I think it came from that direction."
+#
+<removesprite -1 11>
+<background "bg001a3.agf" 10>
+She's pointing towards the fallen castle.
+#
+<name "Darx">
+"The Lucent Crown Wall?"
+#
+<sprite "ta34a002.agf" 4 4 11>
+<name "Company Maid" "!AC0048">
+"Yes. There are still angels active there.
+ I think that's where the attack came from."
+#
+<sprite "ta34a008.agf" 4 4 12>
+<name "Company Maid" "!AC0049">
+"Another coming!"
+#
+<name "Darx">
+"Our defenses?"
+#
+<name "Company Maid" "!AC0050">
+"The guards are here!
+ Incoming!"
+#
+<removesprite -1 11>
+A huge mass of mana shoots towards us.
+#
+But not that fast.
+#
+So the guards are able to get in front of it
+and use their own mana to deflect it.
+#
+<name "Darx">
+"That did it!
+ Check the damage from the first attack!
+ And see to the wounded!"
+#
+<sprite "ta34a000.agf" 4 4 11>
+<name "Company Maid" "!AC0051">
+"Yes, sir!"
+#
+<removesprite -1 11>
+<music 45>
+Seven more attacks came after that.
+#
+Each time, the target changed slightly, moving
+ever closer to the center of the city.
+#
+But once we knew it was coming, we were able
+to completely block it.
+#
+<music 3>
+<background "bg010a0.agf" 10>
+<sprite "ta15a014.agf" 4 4 11>
+<name "Marialis" "!LA0039">
+"U-Unbelievable..."
+#
+<name "Darx">
+"You did well."
+#
+<name "Darx">
+"But what the hell was that attack?"
+#
+<sprite "ta15a015.agf" 4 4 12>
+<name "Marialis" "!LA0040">
+"I flew up high, but I didn't see any trace
+ of enemies."
+#
+<sprite "ta15a017.agf" 4 4 12>
+<name "Marialis" "!LA0041">
+"I'm pretty certain that the attack came from
+ near the Lucent Crown Wall."
+#
+<removesprite -1 11>
+It was definitely some kind of magical attack.
+#
+But it flew in a curved arc.
+#
+It came at us like a rock being thrown at the
+city.
+#
+<name "Darx">
+"Some new weapon..."
+#
+<name "Darx">
+"Anyway, we can't just ignore it."
+#
+<name "Darx">
+"We don't know when they might attack with it
+ again."
+#
+<name "Darx">
+"Stay on constant alert."
+#
+<sprite "ta15a006.agf" 4 4 11>
+<name "Marialis" "!LA0042">
+"Sir."
+#
+<removesprite -1 11>
+<sprite "ta05a015.agf" 4 4 11>
+<name "Kyuriha" "!FA0174">
+"Darx."
+#
+<name "Darx">
+"Are you okay, Kyuriha?"
+#
+<sprite "ta05a016.agf" 4 4 12>
+<name "Kyuriha" "!FA0175">
+"Yes. I would like to inform you about the
+ attack that just occurred."
+#
+<name "Darx">
+"You know something about it?"
+#
+<sprite "ta05a005.agf" 4 4 12>
+<name "Kyuriha" "!FA0176">
+"Yes. That attack was just like something
+ Miartei was studying."
+#
+<name "Darx">
+"...I see."
+#
+<sprite "ta05a006.agf" 4 4 12>
+<name "Kyuriha" "!FA0177">
+"It required a very large piece of equipment,
+ so I do not believe she will be able to
+ relocate it."
+#
+<name "Darx">
+"How long until it can fire again?"
+#
+<sprite "ta05a003.agf" 4 4 12>
+<name "Kyuriha" "!FA0178">
+"As far as I'm aware, after how much she
+ used it this time, it will take quite a
+ while before it's functional again."
+#
+<name "Darx">
+"That seems pretty inconvenient."
+#
+<sprite "ta05a014.agf" 4 4 12>
+<name "Kyuriha" "!FA0179">
+"It has its uses in your own territory or near
+ the front line, but it takes time to set up
+ and bring in the needed supplies."
+#
+<name "Darx">
+"An obnoxious weapon then."
+#
+<sprite "ta05a016.agf" 4 4 12>
+<name "Kyuriha" "!FA0180">
+"Indeed.
+ Perhaps they were able to assemble it somehow
+ with things left in the castle."
+#
+<name "Darx">
+"Hmm.
+ In any case, we can't just leave it there
+ pointed at us."
+#
+<sprite "ta05a019.agf" 4 4 12>
+<name "Kyuriha" "!FA0181">
+"Then take this."
+#
+<name "Darx">
+"What is it?"
+#
+<removesprite -1 11>
+A key?
+#
+<sprite "ta05a019.agf" 4 4 11>
+<name "Kyuriha" "!FA0182">
+"Consider it a pass."
+#
+<sprite "ta05a017.agf" 4 4 12>
+<name "Kyuriha" "!FA0183">
+"This will let you through the Lucent Crown
+ Wall."
+#
+<name "Darx">
+"..."
+#
+<sprite "ta05a015.agf" 4 4 12>
+<name "Kyuriha" "!FA0184">
+"Forgive me for not giving it to you sooner."
+#
+<name "Darx">
+"Fine.
+ But you're sure?"
+#
+<sprite "ta05a019.agf" 4 4 12>
+<name "Kyuriha" "!FA0185">
+"Miartei has incurred my ire."
+#
+<name "Darx">
+"...I-I see."
+#
+<removesprite -1 11>
+That's a little scary.
+#
+Anyway, we need to destroy that thing they
+attacked us with.
+#
+And if Miartei is there, she'll pay for this.
+#
+\x78\x78

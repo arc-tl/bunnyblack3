@@ -1,0 +1,3114 @@
+﻿\x0B\x02\x02\xDB\x02\x02\xDB 1 \x1A\x01\x0A\x46\x00\x33\x00\x32\x00\x30\x00\x31\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :58: \x1A\x01\x0B\x43\x00\x30\x00\x36\x00\x30\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x31\x00\x30\x00\x09\x00 :58: \x0A\x04\x0C\x81\x84\x01\x16 :923: \x15 :922: 
+:58
+\x1A\x01\x0A\x46\x00\x33\x00\x32\x00\x30\x00\x32\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :BE: \x1A\x01\x09\x46\x00\x33\x00\x32\x00\x30\x00\x31\x00\x20\x00\x6F\x00\x6E\x00\x09\x00 :BE: \x1A\x01\x0B\x43\x00\x30\x00\x36\x00\x30\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x31\x00\x35\x00\x09\x00 :BE: \x0A\x04\x0C\x82\x84\x01\x16 :B31: \x15 :922: 
+:BE
+\x1A\x01\x0A\x46\x00\x33\x00\x32\x00\x30\x00\x33\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :124: \x1A\x01\x09\x46\x00\x33\x00\x32\x00\x30\x00\x32\x00\x20\x00\x6F\x00\x6E\x00\x09\x00 :124: \x1A\x01\x0B\x43\x00\x30\x00\x36\x00\x30\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x32\x00\x30\x00\x09\x00 :124: \x0A\x04\x0C\x83\x84\x01\x16 :C4A: \x15 :922: 
+:124
+\x1A\x01\x0A\x46\x00\x33\x00\x32\x00\x30\x00\x34\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :18A: \x1A\x01\x09\x46\x00\x33\x00\x32\x00\x30\x00\x33\x00\x20\x00\x6F\x00\x6E\x00\x09\x00 :18A: \x1A\x01\x0B\x43\x00\x30\x00\x36\x00\x30\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x32\x00\x35\x00\x09\x00 :18A: \x0A\x04\x0C\x84\x84\x01\x16 :E16: \x15 :922: 
+:18A
+\x1A\x01\x0A\x46\x00\x33\x00\x32\x00\x30\x00\x35\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :20E: \x1A\x01\x09\x46\x00\x33\x00\x32\x00\x30\x00\x34\x00\x20\x00\x6F\x00\x6E\x00\x09\x00 :20E: \x1A\x01\x0B\x43\x00\x30\x00\x36\x00\x30\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x33\x00\x30\x00\x09\x00 :20E: \x1A\x01\x0B\x43\x00\x30\x00\x36\x00\x30\x00\x20\x00\x3C\x00\x3D\x00\x20\x00\x35\x00\x30\x00\x09\x00 :20E: \x0A\x04\x0C\x85\x84\x01\x16 :1884: \x15 :922: 
+:20E
+\x1A\x01\x0A\x46\x00\x33\x00\x32\x00\x32\x00\x30\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :254: \x1A\x01\x08\x46\x00\x32\x00\x31\x00\x34\x00\x20\x00\x6F\x00\x6E\x00\x09\x00 :254: \x0A\x04\x0C\x94\x84\x01\x16 :7889: \x15 :922: 
+:254
+\x1A\x01\x0A\x46\x00\x33\x00\x32\x00\x32\x00\x31\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :29A: \x1A\x01\x08\x46\x00\x32\x00\x31\x00\x34\x00\x20\x00\x6F\x00\x6E\x00\x09\x00 :29A: \x0A\x04\x0C\x95\x84\x01\x16 :86AC: \x15 :922: 
+:29A
+\x1A\x01\x0A\x46\x00\x33\x00\x32\x00\x32\x00\x32\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :2E0: \x1A\x01\x08\x46\x00\x32\x00\x31\x00\x34\x00\x20\x00\x6F\x00\x6E\x00\x09\x00 :2E0: \x0A\x04\x0C\x96\x84\x01\x16 :8BB3: \x15 :922: 
+:2E0
+\x1A\x01\x0A\x46\x00\x33\x00\x32\x00\x32\x00\x33\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :326: \x1A\x01\x08\x46\x00\x32\x00\x31\x00\x34\x00\x20\x00\x6F\x00\x6E\x00\x09\x00 :326: \x0A\x04\x0C\x97\x84\x01\x16 :9162: \x15 :922: 
+:326
+\x1A\x01\x0A\x46\x00\x33\x00\x32\x00\x32\x00\x34\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :36C: \x1A\x01\x08\x46\x00\x32\x00\x31\x00\x34\x00\x20\x00\x6F\x00\x6E\x00\x09\x00 :36C: \x0A\x04\x0C\x98\x84\x01\x16 :965D: \x15 :922: 
+:36C
+\x1A\x01\x0A\x46\x00\x33\x00\x32\x00\x32\x00\x35\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :3B2: \x1A\x01\x08\x46\x00\x32\x00\x31\x00\x34\x00\x20\x00\x6F\x00\x6E\x00\x09\x00 :3B2: \x0A\x04\x0C\x99\x84\x01\x16 :A5A1: \x15 :922: 
+:3B2
+\x1A\x01\x0A\x46\x00\x33\x00\x32\x00\x32\x00\x36\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :3F8: \x1A\x01\x08\x46\x00\x32\x00\x31\x00\x34\x00\x20\x00\x6F\x00\x6E\x00\x09\x00 :3F8: \x0A\x04\x0C\x9A\x84\x01\x16 :AB81: \x15 :922: 
+:3F8
+\x1A\x01\x0A\x46\x00\x33\x00\x32\x00\x32\x00\x37\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :43E: \x1A\x01\x08\x46\x00\x32\x00\x31\x00\x34\x00\x20\x00\x6F\x00\x6E\x00\x09\x00 :43E: \x0A\x04\x0C\x9B\x84\x01\x16 :AF91: \x15 :922: 
+:43E
+\x1A\x01\x0A\x46\x00\x33\x00\x32\x00\x32\x00\x38\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :484: \x1A\x01\x08\x46\x00\x32\x00\x31\x00\x34\x00\x20\x00\x6F\x00\x6E\x00\x09\x00 :484: \x0A\x04\x0C\x9C\x84\x01\x16 :B815: \x15 :922: 
+:484
+\x1A\x01\x0A\x46\x00\x33\x00\x32\x00\x32\x00\x39\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :4CA: \x1A\x01\x08\x46\x00\x32\x00\x31\x00\x34\x00\x20\x00\x6F\x00\x6E\x00\x09\x00 :4CA: \x0A\x04\x0C\x9D\x84\x01\x16 :BB26: \x15 :922: 
+:4CA
+\x1A\x01\x0A\x46\x00\x33\x00\x32\x00\x33\x00\x30\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :510: \x1A\x01\x08\x46\x00\x32\x00\x31\x00\x34\x00\x20\x00\x6F\x00\x6E\x00\x09\x00 :510: \x0A\x04\x0C\x9E\x84\x01\x16 :C0C0: \x15 :922: 
+:510
+\x1A\x01\x0A\x46\x00\x33\x00\x32\x00\x33\x00\x31\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :55C: \x1A\x01\x0B\x43\x00\x30\x00\x36\x00\x30\x00\x20\x00\x3C\x00\x3D\x00\x20\x00\x33\x00\x30\x00\x09\x00 :55C: \x0A\x04\x0C\x9F\x84\x01\x16 :C63D: \x15 :922: 
+:55C
+\x1A\x01\x0A\x46\x00\x33\x00\x32\x00\x33\x00\x32\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :5A8: \x1A\x01\x0B\x43\x00\x30\x00\x36\x00\x30\x00\x20\x00\x3C\x00\x3D\x00\x20\x00\x33\x00\x30\x00\x09\x00 :5A8: \x0A\x04\x0C\xA0\x84\x01\x16 :CC5F: \x15 :922: 
+:5A8
+\x1A\x01\x0A\x46\x00\x33\x00\x32\x00\x33\x00\x33\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :5F4: \x1A\x01\x0B\x43\x00\x30\x00\x36\x00\x30\x00\x20\x00\x3C\x00\x3D\x00\x20\x00\x33\x00\x30\x00\x09\x00 :5F4: \x0A\x04\x0C\xA1\x84\x01\x16 :D024: \x15 :922: 
+:5F4
+\x1A\x01\x0A\x46\x00\x33\x00\x32\x00\x33\x00\x34\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :640: \x1A\x01\x0B\x43\x00\x30\x00\x36\x00\x30\x00\x20\x00\x3C\x00\x3D\x00\x20\x00\x33\x00\x30\x00\x09\x00 :640: \x0A\x04\x0C\xA2\x84\x01\x16 :E5FD: \x15 :922: 
+:640
+\x1A\x01\x0A\x46\x00\x33\x00\x32\x00\x33\x00\x35\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :68C: \x1A\x01\x0B\x43\x00\x30\x00\x36\x00\x30\x00\x20\x00\x3C\x00\x3D\x00\x20\x00\x33\x00\x30\x00\x09\x00 :68C: \x0A\x04\x0C\xA3\x84\x01\x16 :EB6B: \x15 :922: 
+:68C
+\x1A\x01\x0A\x46\x00\x33\x00\x32\x00\x30\x00\x36\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :6BA: \x0A\x04\x0C\x86\x84\x01\x16 :1F6F: \x15 :922: 
+:6BA
+\x1A\x01\x0A\x46\x00\x33\x00\x32\x00\x30\x00\x37\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :6E8: \x0A\x04\x0C\x87\x84\x01\x16 :215B: \x15 :922: 
+:6E8
+\x1A\x01\x0A\x46\x00\x33\x00\x32\x00\x30\x00\x38\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :716: \x0A\x04\x0C\x88\x84\x01\x16 :26E8: \x15 :922: 
+:716
+\x1A\x01\x0A\x46\x00\x33\x00\x32\x00\x30\x00\x39\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :744: \x0A\x04\x0C\x89\x84\x01\x16 :285A: \x15 :922: 
+:744
+\x1A\x01\x0A\x46\x00\x33\x00\x32\x00\x31\x00\x30\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :772: \x0A\x04\x0C\x8A\x84\x01\x16 :2B79: \x15 :922: 
+:772
+\x1A\x01\x0A\x46\x00\x33\x00\x32\x00\x31\x00\x31\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :7A0: \x0A\x04\x0C\x8B\x84\x01\x16 :2C87: \x15 :922: 
+:7A0
+\x1A\x01\x0A\x46\x00\x33\x00\x32\x00\x31\x00\x32\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :7CE: \x0A\x04\x0C\x8C\x84\x01\x16 :2F98: \x15 :922: 
+:7CE
+\x1A\x01\x0A\x46\x00\x33\x00\x32\x00\x31\x00\x33\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :7FC: \x0A\x04\x0C\x8D\x84\x01\x16 :31EB: \x15 :922: 
+:7FC
+\x1A\x01\x0A\x46\x00\x33\x00\x32\x00\x31\x00\x34\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :82A: \x0A\x04\x0C\x8E\x84\x01\x16 :3413: \x15 :922: 
+:82A
+\x1A\x01\x0A\x46\x00\x33\x00\x32\x00\x31\x00\x35\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :858: \x0A\x04\x0C\x8F\x84\x01\x16 :37DA: \x15 :922: 
+:858
+\x1A\x01\x0A\x46\x00\x33\x00\x32\x00\x31\x00\x36\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :886: \x0A\x04\x0C\x90\x84\x01\x16 :38E2: \x15 :922: 
+:886
+\x1A\x01\x0A\x46\x00\x33\x00\x32\x00\x31\x00\x37\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :8B4: \x0A\x04\x0C\x91\x84\x01\x16 :3980: \x15 :922: 
+:8B4
+\x1A\x01\x0A\x46\x00\x33\x00\x32\x00\x31\x00\x38\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :8E2: \x0A\x04\x0C\x92\x84\x01\x16 :3B48: \x15 :922: 
+:8E2
+\x1A\x01\x0A\x46\x00\x33\x00\x32\x00\x31\x00\x39\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :916: \x0A\x04\x00\xD6\x84\x01\x0A\x04\x0C\x93\x84\x01\x16 :3BD8: \x15 :922: 
+:916
+\x16 :EEE7: \x15 :922: 
+:922
+\x78
+:923
+<music 4>
+<background "bg009a0.agf" 10>
+<sprite "ta01a037.agf" 4 4 11>
+<name "Sofia" "!ZB0232">
+"Ah!"
+#
+<name "Darx">
+"Are you okay?"
+#
+<removesprite -1 11>
+Sofia took quite a tumble.
+#
+<sprite "ta01a028.agf" 4 4 11>
+<name "Sofia" "!ZB0233">
+"I'm sorry.
+ I just tripped."
+#
+<name "Darx">
+"You don't need to apologize.
+ You're not hurt?"
+#
+<sprite "ta01a033.agf" 4 4 12>
+<name "Sofia" "!ZB0234">
+"Yes, I'm fine."
+#
+<name "Darx">
+"Okay."
+#
+<removesprite -1 11>
+<exit>
+:B31
+<music 4>
+<background "bg009a0.agf" 10>
+<sprite "ta01a025.agf" 4 4 11>
+<name "Sofia" "!ZB0235">
+"Sigh..."
+#
+<sprite "ta01a036.agf" 4 4 12>
+<name "Sofia" "!ZB0236">
+"I'm not trying to push myself, but I'm a 
+ little worn out."
+#
+<removesprite -1 11>
+<exit>
+:C4A
+<music 4>
+<background "bg009a0.agf" 10>
+<sprite "ta34a001.agf" 4 4 11>
+<name "Company Maid" "!DC0050">
+"Sofia, you're making more mistakes."
+#
+<removesprite -1 11>
+<sprite "ta01a037.agf" 2 5 11>
+<sprite "ta34a001.agf" 6 4 11>
+<name "Sofia" "!ZB0238">
+"Huh? Oh, s-sorry.
+ I'll be more careful."
+#
+<sprite "ta34a000.agf" 6 4 12>
+<name "Company Maid" "!DC0051">
+"Thank you very much."
+#
+<removesprite -1 11>
+<exit>
+:E16
+<music 4>
+<background "bg009a0.agf" 10>
+<sprite "ta01a025.agf" 4 4 11>
+<name "Sofia" "!ZB0239">
+"...Huh?"
+#
+<removesprite -1 11>
+<sprite "ta34a000.agf" 4 4 11>
+<name "Company Maid" "!DC0052">
+"Sofia, did you hear what I said?"
+#
+<sprite "ta01a045.agf" 4 4 11>
+<name "Sofia" "!ZB0240">
+"Huh?
+ Oh...
+ S-Sorry..."
+#
+<removesprite -1 11>
+Sofia fainted.
+#
+<sprite "ta34a008.agf" 4 4 11>
+<name "Company Maid" "!DC0053">
+"Sofia!"
+#
+<removesprite -1 11>
+<music 3>
+<background "bg010a0.agf" 10>
+<sprite "ta34a001.agf" 4 4 11>
+<name "Company Maid" "!DC0054">
+"It looks like she's been working too hard.
+ She may need to rest for a while."
+#
+<name "Darx">
+"I see."
+#
+<removesprite -1 11>
+<sprite "ta08a016.agf" 4 4 11>
+<name "Rakia" "!ZC0168">
+"Forgive me, Darx.
+ This is our fault."
+#
+<name "Darx">
+"No, I was relying on her for too much too."
+#
+<sprite "ta08a015.agf" 4 4 12>
+<name "Rakia" "!ZC0169">
+"No. You should be relying on someone from
+ Gunguskar.
+ She collapsed because we were lax in the
+ management of this branch."
+#
+<name "Darx">
+"...I see.
+ Well, go easy on her, and give her a chance
+ to get better."
+#
+<sprite "ta08a016.agf" 4 4 12>
+<name "Rakia" "!ZC0170">
+"Yes."
+#
+<name "Darx">
+"I wish I could ask for her back as quickly as
+ possible, but I know I can't."
+#
+<name "Darx">
+"Just get her back on her feet before everything
+ goes to hell."
+#
+<sprite "ta08a000.agf" 4 4 12>
+<name "Rakia" "!ZC0171">
+"About that..."
+#
+<name "Darx">
+"I don't want a replacement for her."
+#
+<sprite "ta08a016.agf" 4 4 12>
+<name "Rakia" "!ZC0172">
+"...As you wish."
+#
+<removesprite -1 11>
+<music 11>
+<background "bg015a0.agf" 10>
+Five days later.
+#
+<music 3>
+<background "bg010a0.agf" 10>
+<sprite "ta01a036.agf" 4 4 11>
+<name "Sofia" "!ZB0241">
+"I'm sorry.
+ I just made more trouble."
+#
+<name "Darx">
+"Nah, don't sweat it.
+ More importantly, are you okay now?"
+#
+<sprite "ta01a004.agf" 4 4 12>
+<name "Sofia" "!ZB0242">
+"Yes.
+ I'm full of energy again."
+#
+<name "Darx">
+"I see.
+ Normally, I'd try to take care of as much as
+ I can for you, but..."
+#
+<name "Darx">
+"That's not an option.
+ Work's piling up."
+#
+<name "Darx">
+"I need your help."
+#
+<sprite "ta01a033.agf" 4 4 12>
+<name "Sofia" "!ZB0243">
+"Okay.
+ Leave it to me!"
+#
+<name "Darx">
+"And..."
+#
+<sprite "ta01a016.agf" 4 4 12>
+<name "Sofia" "!ZB0244">
+"Y-Yes?"
+#
+<name "Darx">
+"If you feel tired, get some rest.
+ Pushing yourself too hard until you collapse
+ will just make it all for nothing."
+#
+<sprite "ta01a034.agf" 4 4 12>
+<name "Sofia" "!ZB0245">
+"Yes, sir.
+ I'll take a break when I'm tired."
+#
+<removesprite -1 11>
+\x2B\x0A\x44\x02\xE5\x84\x01
+<exit>
+:1884
+<music 4>
+<background "bg009a0.agf" 10>
+<sprite "ta08a004.agf" 4 4 11>
+<name "Rakia" "!ZC0173">
+"How are you doing?"
+#
+<removesprite -1 11>
+<sprite "ta08a004.agf" 2 4 11>
+<sprite "ta01a004.agf" 6 5 11>
+<name "Sofia" "!ZB0246">
+"Rakia."
+#
+<sprite "ta08a021.agf" 2 4 12>
+<name "Rakia" "!ZC0174">
+"I'm checking in on you.
+ Your previous collapse also reflects on me."
+#
+<sprite "ta01a028.agf" 6 5 12>
+<name "Sofia" "!ZB0247">
+"No, that was just my own inexperience..."
+#
+<sprite "ta08a004.agf" 2 4 12>
+<name "Rakia" "!ZC0175">
+"If you think that way, then please take care
+ of your health.
+ Well, you seem fine now in any case."
+#
+<sprite "ta01a004.agf" 6 5 12>
+<name "Sofia" "!ZB0248">
+"Hahaha..."
+#
+<sprite "ta08a005.agf" 2 4 12>
+<name "Rakia" "!ZC0176">
+"...Be thankful to Darx.
+ He said that he needed you, despite your
+ collapse."
+#
+<sprite "ta01a005.agf" 6 5 12>
+<name "Sofia" "!ZB0249">
+"Yes, ma'am."
+#
+<sprite "ta08a003.agf" 2 4 12>
+<name "Rakia" "!ZC0177">
+"And did Macdo say anything to you?"
+#
+<sprite "ta01a016.agf" 6 5 12>
+<name "Sofia" "!ZB0250">
+"No, she came to visit a few times, but was
+ just concerned about my health."
+#
+<sprite "ta08a014.agf" 2 4 12>
+<name "Rakia" "!ZC0178">
+"...I see."
+#
+<sprite "ta08a024.agf" 2 4 12>
+<name "Rakia" "!ZC0179">
+"It seems that she doesn't have any ill will
+ towards you anymore either."
+#
+<sprite "ta08a004.agf" 2 4 12>
+<name "Rakia" "!ZC0180">
+"Basically, stay the course.
+ Good luck."
+#
+<sprite "ta01a033.agf" 6 5 12>
+<name "Sofia" "!ZB0251">
+"Yes, ma'am."
+#
+<removesprite -1 11>
+<exit>
+:1F6F
+<music 3>
+<background "bg010a0.agf" 10>
+<name "Darx">
+"How's work going, Sofia?"
+#
+<sprite "ta01a003.agf" 4 4 11>
+<name "Sofia" "!ZB0252">
+"I-I'm okay."
+#
+<name "Darx">
+"All right.
+ Well, don't overdo it."
+#
+<sprite "ta01a004.agf" 4 4 12>
+<name "Sofia" "!ZB0253">
+"Yes, sir."
+#
+<name "Darx">
+"And speak up if there's a problem."
+#
+<sprite "ta01a033.agf" 4 4 12>
+<name "Sofia" "!ZB0254">
+"I-I know."
+#
+<removesprite -1 11>
+<exit>
+:215B
+<music 3>
+<background "bg010a0.agf" 10>
+<sprite "ta08a004.agf" 4 4 11>
+<name "Rakia" "!ZC0181">
+"Darx."
+#
+<name "Darx">
+"Rakia."
+#
+<sprite "ta08a023.agf" 4 4 12>
+<name "Rakia" "!ZC0182">
+"I checked up on Sofia.
+ She seems okay."
+#
+<name "Darx">
+"Yeah, she's a big help.
+ ...But there is one thing."
+#
+<sprite "ta08a014.agf" 4 4 12>
+<name "Rakia" "!ZC0183">
+"One thing?"
+#
+<name "Darx">
+"I think she's scared of me."
+#
+<name "Darx">
+"Not always...
+ Just like sometimes she suddenly remembers to
+ be."
+#
+<sprite "ta08a019.agf" 4 4 12>
+<name "Rakia" "!ZC0184">
+"That would be obvious, wouldn't it?"
+#
+<name "Darx">
+"It would?"
+#
+<sprite "ta08a021.agf" 4 4 12>
+<name "Rakia" "!ZC0185">
+"She is young."
+#
+<name "Darx">
+"Yeah."
+#
+<sprite "ta08a022.agf" 4 4 12>
+<name "Rakia" "!ZC0186">
+"And a woman."
+#
+<name "Darx">
+"I know."
+#
+<sprite "ta08a021.agf" 4 4 12>
+<name "Rakia" "!ZC0187">
+"Recall your own sexual history."
+#
+<name "Darx">
+"...Ooh!"
+#
+<sprite "ta08a022.agf" 4 4 12>
+<name "Rakia" "!ZC0188">
+"She knows about your body, your inclinations,
+ your fondness for women, and especially the
+ way you are open about how and what you enjoy
+ doing to them."
+#
+<name "Darx">
+"Is that so...
+ I'll be more careful."
+#
+<sprite "ta08a021.agf" 4 4 12>
+<name "Rakia" "!ZC0189">
+"Thank you very much."
+#
+<removesprite -1 11>
+<exit>
+:26E8
+<music 11>
+<background "bg013a0.agf" 10>
+<sprite "ta01a005.agf" 4 4 11>
+<name "Sofia" "!ZB0256">
+"Overlord, the city has grown quite a lot."
+#
+<name "Darx">
+"Yeah, thanks to all of you."
+#
+<sprite "ta01a033.agf" 4 4 12>
+<name "Sofia" "!ZB0257">
+"Not at all, but let's not get careless."
+#
+<name "Darx">
+"Yeah."
+#
+<removesprite -1 11>
+<exit>
+:285A
+<music 4>
+<background "bg009a0.agf" 10>
+<sprite "ta08a004.agf" 4 4 11>
+<name "Rakia" "!ZC0190">
+"...You seem to have become very used to
+ this."
+#
+<removesprite -1 11>
+<sprite "ta08a004.agf" 2 4 11>
+<sprite "ta01a004.agf" 6 5 11>
+<name "Sofia" "!ZB0258">
+"Um, used to what?
+ If you mean work, I feel like I already knew
+ what I was doing before..."
+#
+<sprite "ta08a005.agf" 2 4 12>
+<name "Rakia" "!ZC0191">
+"To Darx."
+#
+<sprite "ta01a005.agf" 6 5 12>
+<name "Sofia" "!ZB0259">
+"Huh?
+ H-Hahahaha..."
+#
+<sprite "ta08a023.agf" 2 4 12>
+<name "Rakia" "!ZC0192">
+"It's a good thing.
+ Keep up the good work."
+#
+<sprite "ta01a033.agf" 6 5 12>
+<name "Sofia" "!ZB0260">
+"Yes, ma'am."
+#
+<removesprite -1 11>
+<exit>
+:2B79
+<music 11>
+<background "bg008a0.agf" 10>
+<sprite "ta01a005.agf" 4 4 11>
+<name "Sofia" "!ZB0261">
+"The Overlord's been working hard."
+#
+<sprite "ta01a004.agf" 4 4 12>
+<name "Sofia" "!ZB0262">
+"I have to work hard too to not hold us back."
+#
+<removesprite -1 11>
+<exit>
+:2C87
+<music 4>
+<background "bg009a0.agf" 10>
+<sprite "ta34a000.agf" 4 4 11>
+<name "Smiling Maid" "!AC0061">
+"Hahaha..."
+#
+<removesprite -1 11>
+<sprite "ta34a000.agf" 2 4 11>
+<sprite "ta34b000.agf" 6 5 11>
+<name "Slacking Maid" "!DC0055">
+"What are you grinning about?"
+#
+<name "Smiling Maid" "!AC0062">
+"Just the Overlord."
+#
+<name "Slacking Maid" "!DC0056">
+"Aah, no fair."
+#
+<removesprite -1 11>
+<sprite "ta01a010.agf" 4 4 11>
+<name "Sofia" "!ZB0263">
+"More work, less play."
+#
+<removesprite -1 11>
+<sprite "ta34a001.agf" 2 4 11>
+<sprite "ta34b001.agf" 6 5 11>
+<name "Smiling Maid" "!AC0063">
+"Yes, ma'am.
+ Sorry."
+#
+<name "Slacking Maid" "!DC0057">
+"Back to work."
+#
+<removesprite -1 11>
+<exit>
+:2F98
+<music 4>
+<background "bg009a0.agf" 10>
+<sprite "ta01a004.agf" 4 4 11>
+<name "Sofia" "!ZB0264">
+"Thank you for your hard work, Overlord."
+#
+<name "Darx">
+"Could I have some tea?"
+#
+<sprite "ta01a033.agf" 4 4 12>
+<name "Sofia" "!ZB0265">
+"Already prepared."
+#
+<name "Darx">
+"You're on top of things."
+#
+<sprite "ta01a005.agf" 4 4 12>
+<name "Sofia" "!ZB0266">
+"Because I'm always at your side."
+#
+<name "Darx">
+"That's true.
+ You're a big help."
+#
+<sprite "ta01a004.agf" 4 4 12>
+<name "Sofia" "!ZB0267">
+"And I'll keep working hard."
+#
+<removesprite -1 11>
+<exit>
+:31EB
+<music 3>
+<background "bg010a0.agf" 10>
+<name "Darx">
+"Sofia, you dropped something."
+#
+<sprite "ta01a016.agf" 4 4 11>
+<name "Sofia" "!ZB0268">
+"Huh?
+ Oh, s-sorry."
+#
+<name "Darx">
+"Reminds me of how you used to be."
+#
+<sprite "ta01a004.agf" 4 4 12>
+<name "Sofia" "!ZB0269">
+"Hahahaha...
+ I'll be more careful."
+#
+<name "Darx">
+"Yeah."
+#
+<removesprite -1 11>
+<music 4>
+<background "bg009a0.agf" 10>
+<sprite "ta01a028.agf" 4 4 11>
+<name "Sofia" "!ZB0270">
+"This is astounding..."
+#
+<removesprite -1 11>
+<exit>
+:3413
+<music 3>
+<background "bg010a0.agf" 10>
+<sprite "ta01a037.agf" 4 4 11>
+<name "Sofia" "!ZB0271">
+"Eep!"
+#
+<name "Darx">
+"W-What is it?
+ What's the matter?"
+#
+<sprite "ta01a036.agf" 4 4 12>
+<name "Sofia" "!ZB0272">
+"No, I'm sorry.
+ You just surprised me."
+#
+<name "Darx">
+"Is my hand really that cold?"
+#
+<sprite "ta01a035.agf" 4 4 12>
+<name "Sofia" "!ZB0273">
+"It was unexpected.
+ Hahaha..."
+#
+<removesprite -1 11>
+<music 4>
+<background "bg009a0.agf" 10>
+<sprite "ta01a037.agf" 4 4 11>
+<name "Sofia" "!ZB0274">
+"I was so surprised."
+#
+<sprite "ta01a025.agf" 4 4 12>
+<name "Sofia" "!ZB0275">
+"He suddenly touched me...
+ G-Geez..."
+#
+<sprite "ta01a024.agf" 4 4 12>
+<name "Sofia" "!ZB0276">
+"Huh?"
+#
+<sprite "ta01a025.agf" 4 4 12>
+<name "Sofia" "!ZB0277">
+"Why is... my heart racing?"
+#
+<removesprite -1 11>
+<exit>
+:37DA
+<music 3>
+<background "bg010a0.agf" 10>
+<sprite "ta01a024.agf" 4 4 11>
+<name "Sofia" "!ZB0278">
+"When I look at him, my heart starts to race."
+#
+<sprite "ta01a026.agf" 4 4 12>
+<name "Sofia" "!ZB0280">
+"These feelings are..."
+#
+<removesprite -1 11>
+<exit>
+:38E2
+<music 3>
+<background "bg010a0.agf" 10>
+<sprite "ta01a024.agf" 4 4 11>
+<name "Sofia" "!ZB0281">
+"Ooohh...
+ I can't sit still..."
+#
+<removesprite -1 11>
+<exit>
+:3980
+<music 3>
+<background "bg010a0.agf" 10>
+<sprite "ta01a036.agf" 4 4 11>
+<name "Sofia" "!ZB0282">
+"...These restless feelings aren't like me."
+#
+<sprite "ta01a038.agf" 4 4 12>
+<name "Sofia" "!ZB0283">
+"I have to break free!"
+#
+<sprite "ta01a024.agf" 4 4 12>
+<name "Sofia" "!ZB0284">
+"But..."
+#
+<sprite "ta01a028.agf" 4 4 12>
+<name "Sofia" "!ZB0285">
+"Ooooohhhh..."
+#
+<removesprite -1 11>
+<exit>
+:3B48
+<music 3>
+<background "bg010a0.agf" 10>
+<sprite "ta01a027.agf" 4 4 11>
+<name "Sofia" "!ZB0286">
+"...Yeah."
+#
+<removesprite -1 11>
+<exit>
+:3BD8
+<music 5>
+<background "bg011b0.agf" 10>
+<sprite "ta01a004.agf" 4 4 11>
+<name "Sofia" "!ZB0287">
+"Overlord."
+#
+<name "Darx">
+"What is it?
+ You forgot a report?"
+#
+<removesprite -1 11>
+It's unusual for her to come to my room.
+#
+<sprite "ta01a005.agf" 4 4 11>
+<name "Sofia" "!ZB0288">
+"I love you!
+ Please make love to me!"
+#
+<name "Darx">
+"...Huh?"
+#
+<sprite "ta01a007.agf" 4 4 12>
+<name "Sofia" "!ZB0289">
+"I love you!
+ Please make love to me!"
+#
+<name "Darx">
+"Um... Did someone put you up to this?
+ Or is this some trick by Rakia or Macdo?"
+#
+<sprite "ta01a004.agf" 4 4 12>
+<name "Sofia" "!ZB0290">
+"No.
+ This is how I really feel."
+#
+<name "Darx">
+"...I have a wife, and plenty of other women."
+#
+<sprite "ta01a005.agf" 4 4 12>
+<name "Sofia" "!ZB0291">
+"I know that."
+#
+<sprite "ta01a006.agf" 4 4 12>
+<name "Sofia" "!ZB0292">
+"Please do it anyway."
+#
+<name "Darx">
+"........."
+#
+<sprite "ta01a024.agf" 4 4 12>
+<name "Sofia" "!ZB0293">
+"Or am I not pretty enough?"
+#
+<name "Darx">
+"Aah, that's not quite it..."
+#
+<sprite "ta01a025.agf" 4 4 12>
+<name "Sofia" "!ZB0294">
+"You've never looked at me like that?"
+#
+<name "Darx">
+"That's hard to answer."
+#
+<name "Darx">
+"I liked always seeing how hard you were
+ trying."
+#
+<name "Darx">
+"You were innocent for someone from that 
+ company.
+ Well, that's probably because Rakia had a
+ close eye on you too."
+#
+<name "Darx">
+"I feel like I saw you more like a daughter
+ than a woman."
+#
+<sprite "ta01a036.agf" 4 4 12>
+<name "Sofia" "!ZB0295">
+"I can't accept that."
+#
+<sprite "ta01a038.agf" 4 4 12>
+<name "Sofia" "!ZB0296">
+"Please see me as a woman."
+#
+<removesprite -1 11>
+...
+#
+There's a lot that I want to say.
+#
+But...
+#
+Her resolution and determination seem genuine.
+#
+<name "Darx">
+"I know it's rude to ask again if you're sure
+ about this, but..."
+#
+<name "Darx">
+"Unless you want to make me your enemy, you
+ won't be with any other man."
+#
+<name "Darx">
+"You won't be with anybody like that."
+#
+<sprite "ta01a005.agf" 4 4 11>
+<name "Sofia" "!ZB0297">
+"I-I won't."
+#
+<name "Darx">
+"That's all I ask for the women I'm with."
+#
+<name "Darx">
+"I have a lot of women, but I can't stand
+ women who are with a lot of men."
+#
+<name "Darx">
+"You're still okay with it?"
+#
+<removesprite -1 11>
+She nods emphatically.
+#
+<name "Darx">
+"...Get on the bed."
+#
+<removesprite -1 11>
+<music 17>
+<background "ev005a00.agf" 10>
+<name "Sofia" "!ZB0298">
+"Ah..."
+#
+<name "Darx">
+"If you're embarrassed, we can stop here."
+#
+She sits on the bed in just her blouse.
+#
+<name "Sofia" "!ZB0299">
+"N-No..."
+#
+<name "Sofia" "!ZB0300">
+"Please."
+#
+<name "Darx">
+"All right...
+ Once we get started, I won't stop, even if
+ you cry."
+#
+<name "Sofia" "!ZB0301">
+"I don't care."
+#
+I take off her blouse.
+#
+<background "ev005b00.agf" 10>
+<name "Sofia" "!ZB0302">
+"..."
+#
+<name "Darx">
+"Your chest is bigger than I thought."
+#
+<name "Sofia" "!ZB0303">
+"I-Is it?"
+#
+<name "Darx">
+"Yeah."
+#
+I thought it'd be pretty small...
+#
+<name "Darx">
+"It's plenty."
+#
+<name "Sofia" "!ZB0304">
+"P-Plenty...
+ Ah!"
+#
+I kiss her cheek as she looks down at her
+breasts.
+#
+<name "Sofia" "!ZB0305">
+"Ah...ah..."
+#
+And then take her lips by surprise.
+#
+<name "Sofia" "!ZB0306">
+"Aah..."
+#
+Gently at first.
+#
+And then again after a moment.
+#
+<name "Sofia" "!ZB0307">
+"Ah...aah...mm..."
+#
+I take off her bra as I enjoy kissing her.
+#
+<background "ev005c00.agf" 10>
+<name "Sofia" "!ZB0308">
+"Ah...aah...
+ O-Overlord..."
+#
+Her breasts are completely exposed.
+#
+The thought passes for a moment that my own
+resolve is weak, and I'm already completely in
+the mood.
+#
+<background "ev005c01.agf" 10>
+<name "Sofia" "!ZB0309">
+"Ah..."
+#
+There's no getting away.
+#
+I embrace her, caressing her entire body.
+#
+<name "Sofia" "!ZB0310">
+"Aah...ah...mmm..."
+#
+Her waist... breast... hips...
+#
+She's small, but definitely a woman.
+#
+<name "Sofia" "!ZB0311">
+"Ah...aah..."
+#
+She blushes, but responds enthusiastically.
+#
+She's pressing her breasts and butt against
+me on her own.
+#
+As I expected, she jolts a little bit when I
+reach between her legs.
+#
+But then she steels herself and presses that
+against me too.
+#
+I obediently accept her attitude with
+pleasure.
+#
+<name "Sofia" "!ZB0312">
+"Mm...ah..."
+#
+I use my fingers to stimulate her pussy
+through her underwear.
+#
+<name "Sofia" "!ZB0313">
+"Aah...ah...nnnnnnhhh..."
+#
+Her body instantly goes rigid.
+#
+But I don't stop.
+#
+<name "Sofia" "!ZB0314">
+"Nnnh...nnnh...nnnnnnhhh..."
+#
+And as my fingers move, it starts to make a
+moist sound.
+#
+<background "ev005c02.agf" 10>
+<name "Sofia" "!ZB0315">
+"Ah..."
+#
+The sound that she's getting ready to accept
+me.
+#
+The sound makes her blush even more, and I
+move my fingers in more complicated ways.
+#
+<name "Sofia" "!ZB0316">
+"Ah...ah...aah..."
+#
+I hook my fingers into her panties and quickly
+lower them.
+#
+<background "ev005d00.agf" 10>
+<name "Sofia" "!ZB0317">
+"Nh!"
+#
+There's no turning back now.
+#
+If I did it slowly, she might still change her
+mind.
+#
+<name "Sofia" "!ZB0318">
+"Nnh..."
+#
+Her pussy is right in front of me.
+#
+I can feel the smell and the wetness.
+#
+Her pussy is still inexperienced, but the
+small pink bean is visible from above the
+entrance.
+#
+<name "Sofia" "!ZB0319">
+"Ah...mm..."
+#
+Probably from my fingers' caress.
+#
+<name "Sofia" "!ZB0320">
+"Oooh..."
+#
+She starts to pull back to get away from my
+fingers, but stops like she realized what she
+was doing.
+#
+I know she's going to go back to where she
+was, but I'm not going to wait for her.
+#
+I reach out, grab her by the hips, and pull
+her close.
+#
+<name "Sofia" "!ZB0321">
+"Ah... O-Overlord...
+ Aahh... D-Don't..."
+#
+Then I reach out again to her pussy and touch
+it directly.
+#
+<name "Sofia" "!ZB0322">
+"Aah...ah!"
+#
+I move my fingers various ways, but gently
+simulating her.
+#
+Soon, her whole body quivers.
+#
+<background "ev005d01.agf" 10>
+<name "Sofia" "!ZB0323">
+"Ah...ah...mmmmmmmaaah!"
+#
+She has a small orgasm.
+#
+<music 18>
+<background "ev006a00.agf" 10>
+<name "Sofia" "!ZB0324">
+"Mm..."
+#
+After she came, I kept caressing her and
+exploring more of her body.
+#
+And I put my dick between her legs, pointed
+at her entrance.
+#
+I'm not going to ask if she's ready.
+#
+I slowly push it against her.
+#
+<name "Sofia" "!ZB0325">
+"Ah!"
+#
+She tenses up.
+#
+I move forward a little bit, finding her
+opening, and pushing inside.
+#
+<background "ev006a01.agf" 10>
+<name "Sofia" "!ZB0326">
+"Nnnh!"
+#
+She's tense, but her pussy is loose from my
+caresses and doesn't reject my dick.
+#
+The head is completely inside her.
+#
+<name "Sofia" "!ZB0327">
+"Ngh..."
+#
+I push harder with my hips and slowly sink
+into her.
+#
+<name "Sofia" "!ZB0328">
+"Ah...aah!"
+#
+Partway, I feel an elastic resistance.
+#
+A sudden sensation that she's much tighter.
+#
+Her hymen.
+#
+I put more strength into it, trying to break
+through her hymen.
+#
+<name "Sofia" "!ZB0329">
+"Aagh!"
+#
+She looks like she's in pain, so I relax for
+a moment.
+#
+<name "Sofia" "!ZB0330">
+"Ah...ah...aah...
+ O-Overlord..."
+#
+<name "Darx">
+"Hm?"
+#
+<name "Sofia" "!ZB0331">
+"P-Part way is... scary, so...
+ Just do it fast..."
+#
+<name "Darx">
+"...If I do it all at once, do you want me to
+ keep moving even more while you're already
+ in pain?"
+#
+<name "Sofia" "!ZB0332">
+"Ah...ah..."
+#
+<name "Darx">
+"Don't push yourself.
+ Instead, relax."
+#
+I kiss her.
+#
+<name "Sofia" "!ZB0333">
+"Ahh..."
+#
+<name "Darx">
+"I'm not stopping now.
+ No matter what you say, I'll go the whole
+ way."
+#
+<name "Darx">
+"You're my woman now."
+#
+<name "Darx">
+"There's no escaping it."
+#
+<name "Sofia" "!ZB0334">
+"Ah..."
+#
+<name "Darx">
+"So don't panic."
+#
+<name "Sofia" "!ZB0335">
+"...O-Okay."
+#
+She takes a deep breath.
+#
+<name "Darx">
+"That's right."
+#
+<name "Darx">
+"Well, it's hard not to think about..."
+#
+My dick is still inside of her after all.
+#
+<name "Darx">
+"Just relax, little by little."
+#
+<name "Sofia" "!ZB0336">
+"O-Okay..."
+#
+<name "Darx">
+"If you tense up, it'll just hurt."
+#
+<name "Darx">
+"Not to boast, but my dick is pretty big.
+ However, something much larger will be going
+ through that hole in the future."
+#
+<name "Sofia" "!ZB0337">
+"The future?"
+#
+<name "Darx">
+"A child."
+#
+<name "Sofia" "!ZB0338">
+"Ah..."
+#
+<name "Darx">
+"That's what it means to make love."
+#
+<name "Sofia" "!ZB0339">
+"...Y-Yeah."
+#
+She smiles a little bit and relaxes.
+#
+I push forward more.
+#
+<name "Sofia" "!ZB0340">
+"Nnh!"
+#
+She starts to tense up again, but immediately
+tries to relax as soon as she realizes.
+#
+I push harder, enjoying her adorable 
+attitude.
+#
+<name "Sofia" "!ZB0341">
+"Nnnnnhhh..."
+#
+My dick presses against her hymen.
+#
+Bit by bit...
+#
+I hear the soft sound of flesh tearing.
+#
+<name "Sofia" "!ZB0342">
+"Ah!"
+#
+And as soon as I hear the snap, my dick slides
+all the way into her.
+#
+The momentum is so much that it presses 
+against the back of her pussy.
+#
+<background "ev006a02.agf" 10>
+<name "Sofia" "!ZB0343">
+"Nnnnnh!"
+#
+She grimaces in pain.
+#
+I pull back a little bit and hug her, staying
+in that position.
+#
+<name "Sofia" "!ZB0344">
+"...!"
+#
+We spend a couple minutes just listening to
+each other's heart beat, until she taps me on
+the side.
+#
+<name "Darx">
+"Mm."
+#
+<background "ev006a03.agf" 10>
+<name "Sofia" "!ZB0345">
+"I-I'm okay now, so..."
+#
+I start to move.
+#
+<background "ev006a04.agf" 10>
+<name "Sofia" "!ZB0346">
+"Nngh!"
+#
+I hold back my desire to thrust wildly and
+slowly rock back and forth.
+#
+<name "Sofia" "!ZB0347">
+"Nnh...aah...nngh..."
+#
+Her walls squeeze around my dick.
+#
+<name "Sofia" "!ZB0348">
+"Ah! Ngh...nngh...aah..."
+#
+She's wet enough, but her tightness is making
+it difficult.
+#
+<name "Sofia" "!ZB0349">
+"Ah! Ah! Aah!"
+#
+Every time I move back and forth, it feels 
+like it's dragging through her walls and
+causing her pain.
+#
+<name "Sofia" "!ZB0350">
+"Aaahhh...ngh!"
+#
+I wish I could do something about her pain,
+but I can't hold back my desire to move more
+roughly.
+#
+Still, I endure it.
+#
+I like her.
+#
+For her sake, who wanted to make love.
+#
+I keep my rhythm consistent and movements
+small to not hurt her as much as I can.
+#
+<name "Sofia" "!ZB0351">
+"Aah...ah...ah..aah..."
+#
+Right now, she's the top priority.
+#
+I keep that foremost in my mind as I continue.
+#
+<music 19>
+<background "ev007a00.agf" 10>
+<name "Sofia" "!ZB0352">
+"Ah...aah...ah...mmm..."
+#
+I start to hear something other than pain in
+her voice.
+#
+The pain isn't going away though.
+#
+Maybe she's becoming numb to it, or getting
+used to the pain, but she's starting to get
+turned on too.
+#
+<name "Sofia" "!ZB0353">
+"Aah...mmm...aah...aaah..."
+#
+I want to tell her to moan as loud as she
+needs to, but she's clearly too embarrassed
+to and is holding it in.
+#
+I can't take any more.
+#
+I start moving faster.
+#
+<name "Sofia" "!ZB0354">
+"Ah! Aah! Ah! Aah! Ahh! Ahhh!"
+#
+My dick slides back and forth quickly inside
+her.
+#
+It's definitely easier to move than before.
+#
+<name "Sofia" "!ZB0355">
+"Ah...ah...ah..."
+#
+I go fast to come right away.
+#
+<name "Sofia" "!ZB0356">
+"Ahh!"
+#
+I bury my dick deep inside her pussy and hold
+her tight.
+#
+<name "Sofia" "!ZB0357">
+"Aaah..."
+#
+And I start to come deep inside her while her
+whole body quivers.
+#
+Throb!
+#
+A huge pulse.
+#
+And a flood of semen with it.
+#
+Throb... throb... throb...
+#
+The throbbing continues as my dick spurts out
+semen.
+#
+Throb... throb... throb... throb... throb...
+#
+It keeps going for a long time.
+#
+<background "ev007a01.agf" 10>
+<name "Sofia" "!ZB0358">
+"Ah! Aah! Ah!"
+#
+Semen floods into her pussy, and fills her
+womb.
+#
+<name "Sofia" "!ZB0359">
+"Aah...ah..."
+#
+When I finish coming, I look in her eyes.
+#
+<name "Sofia" "!ZB0360">
+"Ah..."
+#
+Maybe it's a man's ego, but I feel 
+accomplishment, fulfillment, and happiness
+that I got her.
+#
+Those feelings dominate my emotions.
+#
+It's the best moment of sex.
+#
+All the problems of the world feel small.
+#
+I wish I could bask in this, but that's not
+going to happen.
+#
+Those feelings quickly subside.
+#
+And the flesh wants more.
+#
+More.
+#
+<name "Darx">
+"Let's continue."
+#
+<name "Sofia" "!ZB0361">
+"...O-Okay."
+#
+I start moving to come again.
+#
+<background "ev007a02.agf" 10>
+<name "Sofia" "!ZB0362">
+"Aah! Ahh! Ahh! Ahh! Aahh! Ahh!"
+#
+Even though my dick is moving more violently
+than before, the moans in her voice contain
+no pain.
+#
+They let me accelerate even more.
+#
+<name "Sofia" "!ZB0363">
+"Ah! Mm! Mmm! Ahh! Ahh! Aahh! Aah!"
+#
+I can feel her heart beating.
+#
+<name "Sofia" "!ZB0364">
+"Aah! Ah! Aah! Ahh! Aah! Ah! Aah!"
+#
+My waist moves more and more.
+#
+<name "Sofia" "!ZB0365">
+"Aah! Aah! Ah! Aah! Aah! Ah! Ah!"
+#
+The sound of me slapping against her echoes in
+the room.
+#
+<name "Sofia" "!ZB0366">
+"Ah! Ah! Aah! Aah! Ahh! Aaah! Aah!"
+#
+A filthy sound and smell fills the air.
+#
+<name "Sofia" "!ZB0367">
+"Aah! Ah! Ah! Ah! Ah! Ahh!"
+#
+With nothing but her in my head, I reach my
+limit.
+#
+<background "ev007a03.agf" 10>
+<name "Sofia" "!ZB0368">
+"O-Overloooord!"
+#
+And she climaxes with me.
+#
+We sink into pleasure, both our bodies
+trembling.
+#
+<background "ev007a04.agf" 10>
+<name "Sofia" "!ZB0369">
+"Ah...aah...ah...aaah..."
+#
+My second ejaculation also lasts a long time.
+#
+She basks in the echoes of her orgasm, and
+sinks into the deep breathing of sleep.
+#
+<name "Darx">
+"..."
+#
+I would usually want to keep going, but this
+time, I feel satisfied already.
+#
+I gently kiss her on the cheek and finish.
+#
+<background "bg018a0.agf" 10>
+<music 5>
+<background "bg011b0.agf" 10>
+<name "Darx">
+"Are you okay?"
+#
+<sprite "ta01a104.agf" 4 4 11>
+<name "Sofia" "!ZB0370">
+"It still hurts a little, but I'll manage."
+#
+<name "Darx">
+"I'm sure there's medicine..."
+#
+<sprite "ta01a133.agf" 4 4 12>
+<name "Sofia" "!ZB0371">
+"If you mean the medicine the company makes,
+ I already have it.
+ Don't worry."
+#
+<name "Darx">
+"I see."
+#
+<sprite "ta01a104.agf" 4 4 12>
+<name "Sofia" "!ZB0372">
+"Overlord."
+#
+<name "Darx">
+"Hm?"
+#
+<sprite "ta01a105.agf" 4 4 12>
+<name "Sofia" "!ZB0373">
+"Thank you for responding to my selfish
+ desire."
+#
+<name "Darx">
+"Don't worry about it.
+ I am the kind of guy who indulges a woman's
+ selfishness."
+#
+<sprite "ta01a104.agf" 4 4 12>
+<name "Sofia" "!ZB0374">
+"Overlord."
+#
+<sprite "ta01a133.agf" 4 4 12>
+<name "Sofia" "!ZB0375">
+"...I love you."
+#
+<name "Darx">
+"Yeah.
+ I love you too."
+#
+<removesprite -1 11>
+I kiss her.
+#
+<sprite "ta01a104.agf" 4 4 11>
+<name "Sofia" "!ZB0376">
+"Aah, but work is still work, okay?"
+#
+<sprite "ta01a133.agf" 4 4 12>
+<name "Sofia" "!ZB0377">
+"No discounts for lovers."
+#
+<name "Darx">
+"...I know."
+#
+<name "Darx">
+"I'm still counting on you."
+#
+<sprite "ta01a134.agf" 4 4 12>
+<name "Sofia" "!ZB0378">
+"Yep.
+ Leave it to me."
+#
+<removesprite -1 11>
+\x2B\x0A\x44\x02\xE6\x84\x01
+<exit>
+:7889
+<music 18>
+<background "ev086a00.agf" 10>
+<name "Sofia" "!ZB0379">
+"Overlord...
+ There's still work to do..."
+#
+<name "Darx">
+"Don't say that."
+#
+My dick's buried inside her.
+#
+<name "Sofia" "!ZB0380">
+"But..."
+#
+Despite what she says, her pussy's wet enough
+and soft enough for me to move as much as I
+want.
+#
+<name "Sofia" "!ZB0381">
+"Aaah...mmm...mmm...
+ O-Overlord..."
+#
+I grab her hips and move her lightly back and
+forth.
+#
+<background "ev086a01.agf" 10>
+<name "Sofia" "!ZB0382">
+"Ah...aah...ah...
+ G-Geez..."
+#
+This makes my dick slide in and out of her.
+#
+<name "Sofia" "!ZB0383">
+"Aah...mmm...mmm...ah!"
+#
+I change the movement every now and then,
+looking for more pleasure.
+#
+<name "Sofia" "!ZB0384">
+"Ah...mmm...mm..."
+#
+I keep doing that for a while, until I notice
+that she's moving her hips on her own, using
+my dick to stir up her pussy.
+#
+<background "ev086a02.agf" 10>
+<name "Sofia" "!ZB0385">
+"Mm...ah...aah...ahh...mmm..."
+#
+I don't particularly mind it, so I stop moving
+and let her do whatever she wants.
+#
+She's still inexperienced, but is squeezing
+tight with her pussy, stroking my dick and
+exciting herself.
+#
+Her rhythm is unsteady.
+#
+It feels like she's still at the mercy of the
+sensations she's causing herself.
+#
+<name "Sofia" "!ZB0386">
+"Aah... O-Overlord..."
+#
+Looks like she noticed I wasn't moving.
+#
+She's annoyed at me for stopping, ashamed of
+how she was moving on her own, and pleading 
+for me to start moving again.
+#
+<name "Sofia" "!ZB0387">
+"Aah! Ah! Ah! Ahh!"
+#
+Unlike before, I grab her by the hips, hold
+her in place, and slam up into her.
+#
+<name "Sofia" "!ZB0388">
+"Ah! Ahh! Aah!"
+#
+The heavy throne rattles, but I ignored it
+and keep going.
+#
+<name "Sofia" "!ZB0389">
+"Aah! Ah! Ah! Aah! Ah! Aah!"
+#
+She suddenly begins to convulse in my hands.
+#
+<name "Sofia" "!ZB0390">
+"Aah! Aah! Aaaahhh..."
+#
+Looks like she came.
+#
+But that doesn't stop me.
+#
+I scrape intensely through her pussy until I
+start to come.
+#
+<background "ev086a03.agf" 10>
+<name "Sofia" "!ZB0391">
+"Aah...ah...aah...aaaaahhh..."
+#
+After I finish coming in pulses, I start 
+moving my waist again.
+#
+<name "Sofia" "!ZB0392">
+"Ah...aah... O-Overlord...
+ Aah...ahhh..."
+#
+I enjoy doing it with her for a while.
+#
+<music 3>
+<background "bg010a0.agf" 10>
+<sprite "ta01a136.agf" 4 4 11>
+<name "Sofia" "!ZB0393">
+"Overlord."
+#
+<name "Darx">
+"Yes?"
+#
+<sprite "ta01a128.agf" 4 4 12>
+<name "Sofia" "!ZB0394">
+"Moving while I'm orgasming is..."
+#
+<name "Darx">
+"It was cute."
+#
+<sprite "ta01a124.agf" 4 4 12>
+<name "Sofia" "!ZB0395">
+"...G-Geez."
+#
+<name "Darx">
+"Sorry.
+ I'll be careful next time."
+#
+<sprite "ta01a136.agf" 4 4 12>
+<name "Sofia" "!ZB0396">
+"Please do.
+ And..."
+#
+<name "Darx">
+"Carry you to your room?"
+#
+<sprite "ta01a128.agf" 4 4 12>
+<name "Sofia" "!ZB0397">
+"I'm sorry.
+ Please."
+#
+<removesprite -1 11>
+She was unable to stand up after that.
+#
+<sprite "ta01a115.agf" 4 4 11>
+<name "Sofia" "!ZB0398">
+"Ah, and by that, I don't mean to keep going
+ in the room."
+#
+<name "Darx">
+"I see.
+ That hadn't crossed my mind."
+#
+<sprite "ta01a137.agf" 4 4 12>
+<name "Sofia" "!ZB0399">
+"Huh? Ah, Overlord, I can't, okay?
+ No more."
+#
+<name "Darx">
+"Hahahahaha!"
+#
+<sprite "ta01a123.agf" 4 4 12>
+<name "Sofia" "!ZB0401">
+"Don't laugh!
+ Say you won't!"
+#
+<removesprite -1 11>
+\x2B\x0A\x44\x02\xE7\x84\x01
+<exit>
+:86AC
+<music 18>
+<background "ev086a02.agf" 10>
+<name "Sofia" "!ZB0402">
+"Mm...ah...ah...aah...ah...ahh...ahhh..."
+#
+<name "Darx">
+"Almost there?"
+#
+<name "Sofia" "!ZB0403">
+"Aah...mm... 
+ D-Don't say that...
+ Aaah...ah!"
+#
+I move faster to help her come.
+#
+<name "Sofia" "!ZB0404">
+"Ah! Ah! Aahh...ah!"
+#
+But she resists it, in spite of my good will.
+#
+<name "Sofia" "!ZB0405">
+"Ah...ah..."
+#
+It's useless to resist.
+#
+I move my dick even more, rubbing against her
+weak spot.
+#
+<name "Sofia" "!ZB0406">
+"Aaah! Aaaahhhhhhh!!!"
+#
+After making sure she has a big orgasm and her
+pussy floods, I slowly start to come.
+#
+<background "ev086a03.agf" 10>
+<name "Sofia" "!ZB0407">
+"Oooohhh..."
+#
+<name "Sofia" "!ZB0408">
+"G-Geez.
+ Are you satisfied now?"
+#
+<name "Darx">
+"You asked for this, so of course not."
+#
+<name "Sofia" "!ZB0409">
+"I-I didn't do that..."
+#
+<name "Darx">
+"Is that so?"
+#
+<name "Sofia" "!ZB0410">
+"It is."
+#
+<name "Darx">
+"Then it must be because I asked you...
+ So let's keep going."
+#
+<name "Sofia" "!ZB0411">
+"Huh? Ah! Aah!"
+#
+I kept at it until she said that she asked for
+it.
+#
+<name "Sofia" "!ZB0412">
+"You're so mean!"
+#
+\x0A\x44\x02\xE8\x84\x01
+<exit>
+:8BB3
+<music 18>
+<background "ev086a02.agf" 10>
+<name "Sofia" "!ZB0413">
+"Mm...ah...aah...
+ O-Overlord...
+ Aaah..."
+#
+<name "Darx">
+"Hm?"
+#
+<name "Sofia" "!ZB0414">
+"H-Harder... please..."
+#
+<name "Darx">
+"I don't mind, but are you sure?"
+#
+<name "Sofia" "!ZB0415">
+"Aah...
+ I-I'll be okay..."
+#
+<name "Darx">
+"All right."
+#
+I grab her hips tight and violently pound her.
+#
+<name "Sofia" "!ZB0416">
+"Aah! Ah! Ahh! Ahh!"
+#
+My dick plunges in and out of her pussy
+intensely, scattering love juices.
+#
+I pound upward, slamming against her butt,
+tempted by her.
+#
+<name "Sofia" "!ZB0417">
+"Ah! Aah! Ahh! Aah! Aaah!"
+#
+And we both come at the same time.
+#
+<name "Sofia" "!ZB0418">
+"Aaaaaahhhhhhhh!!!"
+#
+Her body twitches and convulses as I flood
+her insides with semen.
+#
+<background "ev086a03.agf" 10>
+<name "Sofia" "!ZB0419">
+"Ah...aaah...aahhh..."
+#
+I come for a long time.
+#
+<name "Sofia" "!ZB0420">
+"Mmm...ah..."
+#
+Her womb should be completely filled.
+#
+<background "ev086a04.agf" 10>
+<name "Sofia" "!ZB0421">
+"Aah...
+ Overlord..."
+#
+<name "Darx">
+"Hm?"
+#
+<name "Sofia" "!ZB0422">
+"I love you."
+#
+<name "Darx">
+"I love you too."
+#
+<name "Sofia" "!ZB0423">
+"...So I'll move this time."
+#
+<name "Darx">
+"Yeah, I'll stay with you until you're
+ satisfied."
+#
+I continue to enjoy myself with her.
+#
+<name "Company Maid" "!PC0041">
+"When you're done, um... there's work to do."
+#
+\x0A\x44\x02\xE9\x84\x01
+<exit>
+:9162
+<music 18>
+<background "ev086a00.agf" 10>
+<name "Sofia" "!ZB0425">
+"Mm... G-Geez, Overlord, there's still
+ work..."
+#
+<name "Darx">
+"You say that, but you're holding on tight."
+#
+MY dick is already inside her.
+#
+<name "Sofia" "!ZB0426">
+"You forced me to..."
+#
+<name "Darx">
+"And made you this wet?"
+#
+She's already soaked.
+#
+<name "Sofia" "!ZB0427">
+"T-That's right."
+#
+<name "Darx">
+"And let me move so smoothly?"
+#
+<name "Sofia" "!ZB0428">
+"You forced me to."
+#
+<name "Darx">
+"I see."
+#
+<name "Darx">
+"So should I stop?"
+#
+<name "Sofia" "!ZB0429">
+"Huh?"
+#
+<name "Darx">
+"Let's stop.
+ Get off."
+#
+<name "Sofia" "!ZB0430">
+".........Overlord."
+#
+<name "Darx">
+"Yes?"
+#
+<name "Sofia" "!ZB0431">
+"Now I'm mad."
+#
+<name "Darx">
+"...Sorry.
+ Then I'll give it my all."
+#
+<background "ev086a01.agf" 10>
+<name "Sofia" "!ZB0432">
+"Huh? Ah, wait a minute, I'm not rea...
+ Aah! Ah! Aaah!"
+#
+She took the rest of the day off from work.
+#
+<name "Company Maid" "!PC0042">
+"Overlord, I'm sorry, but she has a very
+ important job, so please go easy on her."
+#
+<name "Darx">
+"Sorry.
+ I'll be better."
+#
+\x0A\x44\x02\xEA\x84\x01
+<exit>
+:965D
+<music 3>
+<background "bg010a0.agf" 10>
+<sprite "ta01a004.agf" 4 4 11>
+<name "Sofia" "!ZB0433">
+"Overlord, your bath is ready."
+#
+<name "Darx">
+"I see.
+ Then I'll go in."
+#
+<sprite "ta01a033.agf" 4 4 12>
+<name "Sofia" "!ZB0434">
+"Enjoy yourself."
+#
+<removesprite -1 11>
+<music 17>
+<background "ev087a00.agf" 10>
+<name "Sofia" "!ZB0435">
+"How's this?"
+#
+<name "Darx">
+"Feels good, but..."
+#
+She took me to the bathroom and started 
+washing me with her own body.
+#
+<name "Darx">
+You're quite assertive.
+#
+<name "Sofia" "!ZB0436">
+"Unlike other people, I can't serve you very
+ well."
+#
+<name "Darx">
+"I feel like you're working hard enough at 
+ your job though."
+#
+<name "Sofia" "!ZB0438">
+"I want to do more for you."
+#
+Of course, her feelings are genuine.
+#
+But that doesn't mean she doesn't have 
+something else in mind either.
+#
+As proof of that, my dick's already hard from
+what she's doing, and buried inside her with
+no sign of that she's going to let go of it.
+#
+<name "Darx">
+"I'll let you handle it then...
+ Who taght you this?"
+#
+<name "Sofia" "!ZB0439">
+"Multiple people."
+#
+Well, it's not like I haven't done this kind
+of thing with other women.
+#
+This is kind of like mid-level as far as
+women initiating things goes.
+#
+She wants it, but it's hard for her to come 
+out and say it. Knowing how hard she's trying
+feels pretty good.
+#
+I have plenty of ideas about who might have
+suggested this to her.
+#
+Well, whatever.
+#
+Whoever told her will inevitably ask for the
+same thing for themselves later.
+#
+Because it wouldn't be fair for just one girl
+to have all the fun.
+#
+<name "Sofia" "!ZB0440">
+"Then I'll keep going."
+#
+She washes me.
+#
+With a towel for the places that need to
+actually be washed.
+#
+And for the rest, with her body.
+#
+<name "Sofia" "!ZB0441">
+"Does that hurt?"
+#
+<name "Darx">
+"I'm okay."
+#
+And as she did, she keeps moving her hips,
+stimulating my dick.
+#
+<name "Sofia" "!ZB0442">
+"Aah..."
+#
+Her movements are still awkward, but she makes
+up for it by using her entire body.
+#
+I give in to her aggressiveness and soak in
+pleasure.
+#
+<background "ev087a01.agf" 10>
+<name "Sofia" "!ZB0443">
+"Ah..aaah...ah...mmm...aaah..."
+#
+But I'm not the only one enjoying it.
+#
+She is too.
+#
+Her hips that had originally been moving to
+pleasure me are starting to change to focus on
+her own pleasure.
+#
+Sometimes, she switches back when she 
+realizes, but she can't resist it.
+#
+Well, I can't say I don't know the feeling.
+#
+Even when I'm trying to think about the person
+I'm with, sometimes the pleasure wins.
+#
+It's best to have both your pleasure and
+theirs in sync, but that takes experience.
+#
+Starting out, you shouldn't worry too much
+about the other person. 
+Just please yourself.
+#
+When your partner is happy, you're happy.
+#
+<name "Sofia" "!ZB0444">
+"Aah...aaah...ah...mmm...aaah..."
+#
+I slowly start moving my hips.
+#
+<name "Sofia" "!ZB0445">
+"Ah...ah...ah?"
+#
+And take the initiative away from her, and
+bring things to an end quickly.
+#
+<name "Sofia" "!ZB0446">
+"Aah! Ah! Ah! Ah! Aah! Ah!
+ O-Overlord! Ah! Ah! Aaaah!"
+#
+She clings to me.
+#
+At the same time, her entire body shudders and
+she has a big orgams.
+#
+<background "ev087a02.agf" 10>
+<name "Sofia" "!ZB0447">
+"A-Aaaaahhhhhhhhhh!!!"
+#
+I start to come just after she does.
+#
+<name "Sofia" "!ZB0448">
+"Ah...aah...aah..."
+#
+Rest.
+#
+<name "Sofia" "!ZB0449">
+"S-Sorry..."
+#
+<name "Darx">
+"Hm?"
+#
+<name "Sofia" "!ZB0450">
+"I, um..."
+#
+<name "Darx">
+"It was cute."
+#
+<name "Sofia" "!ZB0451">
+"Huh? Ah...
+ No..."
+#
+<name "Darx">
+"But you haven't washed me yet."
+#
+We stopped any pretense of washing partway.
+#
+<name "Sofia" "!ZB0452">
+"...S-Sorry."
+#
+<name "Darx">
+"Don't stop."
+#
+<name "Sofia" "!ZB0453">
+"Okay."
+#
+<name "Darx">
+"Oh, and keep moving here too."
+#
+I slap her lightly on the butt.
+#
+<name "Sofia" "!ZB0454">
+"I-I'll try."
+#
+I come four more times before I'm cleaned up.
+#
+\x0A\x44\x02\xEB\x84\x01
+<exit>
+:A5A1
+<music 17>
+<background "ev087a01.agf" 10>
+<name "Sofia" "!ZB0455">
+"Mm...aah...ah...mmmmm..."
+#
+<name "Darx">
+"Recently... it feels like you're not even
+ pretending to wash me."
+#
+<name "Sofia" "!ZB0456">
+"Aah...ah...mmm... T-That's not...
+ Ahhh...ah...
+ That's not... ah... t-true...
+ Mmmmm..."
+#
+That's hard to believe.
+#
+<name "Sofia" "!ZB0457">
+"Ah! Aah! Ahh!
+ Ahhh...ah...aah...mmm..."
+#
+Well, I'm enjoying it, so she can do what she
+wants.
+#
+<name "Sofia" "!ZB0458">
+"Ah...ah...ah!
+ Aah...ah..."
+#
+I can tell from her movements that she's 
+close, but can't quite get there.
+#
+<name "Sofia" "!ZB0459">
+"Aaah...mmm...aah...mmm...mmmmm..."
+#
+After staying still the whole time, I suddenly
+thrust up.
+#
+<name "Sofia" "!ZB0460">
+"Aaah!"
+#
+Her body is surprised and delighted by the
+unexpected attack.
+#
+<name "Sofia" "!ZB0461">
+"Aaaaah!
+ Aah!
+ Aaaaaahhhhhhhhh!!!"
+#
+She gusts and comes.
+#
+Drawn by it, I start to come too.
+#
+<background "ev087a02.agf" 10>
+<name "Sofia" "!ZB0462">
+"Ah...aah...aah...
+ Ahhh...ahhh..."
+#
+<name "Darx">
+"Are you okay?"
+#
+<name "Sofia" "!ZB0463">
+"Ahhh... Y-Yes...
+ Y-You suddenly moved..."
+#
+<name "Darx">
+"Sorry."
+#
+<name "Sofia" "!ZB0464">
+"Aaah..."
+#
+<name "Darx">
+"When the echoes settle, please wash me."
+#
+<name "Sofia" "!ZB0465">
+"O-Okay."
+#
+That's what she said, but then she started to
+go again.
+#
+<name "Sofia" "!ZB0466">
+"Please."
+#
+I wasn't able to escape the bathroom so
+easily.
+#
+\x0A\x44\x02\xEC\x84\x01
+<exit>
+:AB81
+<music 17>
+<background "ev087a01.agf" 10>
+<name "Sofia" "!ZB0467">
+"Aah...ah...ah...aah..."
+#
+She moves her hips singlemindedly, thinking
+only about my dick.
+#
+I accept her initiative openly.
+#
+<name "Sofia" "!ZB0468">
+"Ah...ah...
+ T-There...
+ Ah..."
+#
+Just like she wants, I push my hips up and
+force her upward.
+#
+<name "Sofia" "!ZB0469">
+"Ah!"
+#
+And then let her fall.
+#
+<name "Sofia" "!ZB0470">
+"Aaah!"
+#
+I repeat it and bring her to climax.
+#
+<background "ev087a02.agf" 10>
+<name "Sofia" "!ZB0471">
+"Mmmaaaaaahhhhhh!"
+#
+After a few more big, unforgiving movements,
+I follow her orgasm and start to come inside
+her.
+#
+<name "Sofia" "!ZB0472">
+"Aah...
+ S-So rough..."
+#
+<name "Darx">
+"Did you not like it?"
+#
+<name "Sofia" "!ZB0473">
+"I-I wouldn't say that, but...
+ Do it again, but gentle, please."
+#
+<name "Darx">
+"Okay."
+#
+Three times in the bathroom.
+Twice in the bathtub.
+Twice in the changing room.
+#
+I worked hard.
+#
+\x0A\x44\x02\xED\x84\x01
+<exit>
+:AF91
+<music 18>
+<background "ev086a03.agf" 10>
+<name "Sofia" "!ZB0474">
+"Aaaaaah!"
+#
+<music 3>
+<background "bg010a0.agf" 10>
+<name "Darx">
+"Are you okay?"
+#
+<sprite "ta01a128.agf" 4 4 11>
+<name "Sofia" "!ZB0475">
+"I-I can't... walk."
+#
+<name "Darx">
+"I see.
+ I guess that was a little too much."
+#
+<removesprite -1 11>
+Partway through, she demanded I do it in her
+ass.
+#
+Apparently she heard from somewhere that I
+did that by force.
+#
+I tried to warn her, but she wouldn't listen.
+#
+She kept demanding it.
+#
+Yeah, this isn't my fault.
+#
+<sprite "ta01a128.agf" 4 4 11>
+<name "Sofia" "!ZB0476">
+"N-No way..."
+#
+<removesprite -1 11>
+I stick it in her front hole while using a
+quick spell to heal and relax her ass.
+#
+<sprite "ta01a129.agf" 4 4 11>
+<name "Sofia" "!ZB0477">
+"No way..."
+#
+<removesprite -1 11>
+...That's the last thing I remember.
+#
+<sprite "ta01a113.agf" 4 4 11>
+<name "Sofia" "!ZB0478">
+"I never imagined it'd go that far."
+#
+<name "Darx">
+"Huh?
+ What did I do?"
+#
+<name "Sofia" "!ZB0479">
+"Eep!"
+#
+<removesprite -1 11>
+She glares at me.
+#
+<sprite "ta01a113.agf" 4 4 11>
+<name "Sofia" "!ZB0480">
+"Is demanding an explanation also some kind of
+ game? I clearly don't know you well enough.
+ I need to rethink things."
+#
+<sprite "ta01a132.agf" 4 4 12>
+<name "Sofia" "!ZB0481">
+"If you really want to know, I'll tell you...
+ but right now I'm saying no."
+#
+<removesprite -1 11>
+Huh?
+What?
+What did I do?
+#
+But she's in no mood to talk about it.
+#
+It's probably better not to ask.
+#
+Hahaha...
+#
+Let's put this behind us.
+#
+That's what I swore, but then she wanted to do
+whatever I did again.
+Insistently.
+#
+I'm not sure what I did, but apparently she
+liked it.
+#
+<sprite "ta34a001.agf" 4 4 11>
+<name "Company Maid" "!PC0043">
+"Just what exactly did he do?"
+#
+<removesprite -1 11>
+<sprite "ta01a033.agf" 2 5 11>
+<sprite "ta34a001.agf" 6 4 11>
+<name "Sofia" "!ZB0482">
+"I'll tell you, if you're willing to wager
+ your life on it."
+#
+<name "Company Maid" "!PC0044">
+".........No thank you."
+#
+<removesprite -1 11>
+\x2B\x0A\x44\x02\xEE\x84\x01
+<exit>
+:B815
+<music 3>
+<background "bg010a0.agf" 10>
+<sprite "ta01a004.agf" 4 4 11>
+<name "Sofia" "!ZB0483">
+"Overlord, today's schedule."
+#
+<name "Darx">
+"Thank you."
+#
+<sprite "ta01a005.agf" 4 4 12>
+<name "Sofia" "!ZB0484">
+"...Shall I help you get dressed?"
+#
+<name "Darx">
+"Oh?
+ Then get my jacket, please."
+#
+<sprite "ta01a004.agf" 4 4 12>
+<name "Sofia" "!ZB0485">
+"Okay, then..."
+#
+<removesprite -1 11>
+After we did it, she's gotten especially
+touchy.
+#
+<name "Darx">
+"Um, it's hard to dress when you're hugging
+ me."
+#
+<sprite "ta01a122.agf" 4 4 11>
+<name "Sofia" "!ZB0486">
+"Huh? Oh, s-sorry.
+ I just..."
+#
+<removesprite -1 11>
+It's not without issues, but it's enjoyable
+enough.
+#
+\x0A\x44\x02\xEF\x84\x01
+<exit>
+:BB26
+<music 3>
+<background "bg010a0.agf" 10>
+<sprite "ta01a036.agf" 4 4 11>
+<name "Sofia" "!ZB0487">
+"Overlord."
+#
+<name "Darx">
+"Yes?"
+#
+<sprite "ta01a028.agf" 4 4 12>
+<name "Sofia" "!ZB0488">
+"I'm willing to do whatever you need, but,
+ um, that might interfere with work."
+#
+<sprite "ta01a029.agf" 4 4 12>
+<name "Sofia" "!ZB0489">
+"No.
+ It already is."
+#
+<name "Darx">
+"But I saw your cute butt.
+ I can't just ignore it."
+#
+<sprite "ta01a036.agf" 4 4 12>
+<name "Sofia" "!ZB0490">
+"Then don't flip up my skirt?"
+#
+<name "Darx">
+"Fair enough."
+#
+<sprite "ta01a028.agf" 4 4 12>
+<name "Sofia" "!ZB0491">
+"I'm not saying that you're allowed to play
+ with what's above the skirt either."
+#
+<name "Darx">
+"Grr..."
+#
+<sprite "ta01a004.agf" 4 4 12>
+<name "Sofia" "!ZB0492">
+"I'll be with you whenever you want, after I'm
+ done with work."
+#
+<name "Darx">
+"Then not when you're at work?"
+#
+<sprite "ta01a136.agf" 4 4 12>
+<name "Sofia" "!ZB0493">
+".........O-Once or twice a day."
+#
+<name "Darx">
+"I'll try."
+#
+<removesprite -1 11>
+<music 11>
+<background "bg015a0.agf" 10>
+...
+#
+<music 3>
+<background "bg010a0.agf" 10>
+<name "Darx">
+"It's the effor that matters, not the
+ results."
+#
+<sprite "ta01a128.agf" 4 4 11>
+<name "Sofia" "!ZB0494">
+"Results matter too!"
+#
+<removesprite -1 11>
+\x2B\x0A\x44\x02\xF0\x84\x01
+<exit>
+:C0C0
+<music 18>
+<background "ev086a00.agf" 10>
+<name "Sofia" "!ZB0495">
+"Overlord."
+#
+<name "Darx">
+"Hm?"
+#
+<name "Sofia" "!ZB0496">
+"You said you saw me as a daughter until we
+ made love..."
+#
+<name "Darx">
+"Yeah."
+#
+<name "Sofia" "!ZB0497">
+"Is that because I wasn't adult enough?"
+#
+<name "Darx">
+"Not at all."
+#
+<name "Darx">
+"It was my own line of defense."
+#
+<name "Sofia" "!ZB0498">
+"Huh?"
+#
+<name "Darx">
+"If I messed with you, this would probably
+ happen, right?"
+#
+<name "Sofia" "!ZB0499">
+"Yeah."
+#
+<name "Darx">
+"So I thought it'd get in the way of work."
+#
+<name "Sofia" "!ZB0501">
+"...It has made me fall behind in work."
+#
+<name "Darx">
+"See?"
+#
+<name "Sofia" "!ZB0502">
+"But keeping away from me because of that...
+ Do you know how much that upset me?"
+#
+<name "Darx">
+"It upset you?"
+#
+<name "Sofia" "!ZB0503">
+"You never hit on me.
+ I worried I was unattractive as a woman."
+#
+<name "Darx">
+"You're plenty attractive."
+#
+<name "Sofia" "!ZB0504">
+"Well, even that little Forzelotte is good
+ enough for you."
+#
+<name "Darx">
+"Hahaha.
+ Don't bring up other women when you're having
+ sex."
+#
+<name "Sofia" "!ZB0505">
+"Mm... S-Sorry...
+ I shouldn't have said it, okay.
+ Please stop tugging on my butt."
+#
+<name "Darx">
+"Then move faster.
+ Or do you want me to?"
+#
+<name "Sofia" "!ZB0506">
+"I'll do it.
+ Leave it to me."
+#
+We're getting along well.
+#
+\x0A\x44\x02\xF1\x84\x01
+<exit>
+:C63D
+<music 4>
+<background "bg009a0.agf" 10>
+<sprite "ta01a002.agf" 4 4 11>
+<name "Sofia" "!ZB0579">
+"Whew..."
+#
+<removesprite -1 11>
+<sprite "ta08a004.agf" 4 4 11>
+<name "Rakia" "!ZC0220">
+"You're hard at work."
+#
+<removesprite -1 11>
+<sprite "ta08a004.agf" 2 5 11>
+<sprite "ta01a004.agf" 6 4 11>
+<name "Sofia" "!ZB0580">
+"Rakia."
+#
+<sprite "ta08a023.agf" 2 5 12>
+<name "Rakia" "!ZC0221">
+"I came to check on you.
+ Here, a gift for you."
+#
+<sprite "ta01a005.agf" 6 4 12>
+<name "Sofia" "!ZB0581">
+"Thank you very much."
+#
+<sprite "ta08a026.agf" 2 5 12>
+<name "Rakia" "!ZC0222">
+"And there's a mistake here in your report."
+#
+<sprite "ta01a037.agf" 6 4 12>
+<name "Sofia" "!ZB0582">
+"Ooh."
+#
+<sprite "ta08a004.agf" 2 5 12>
+<name "Rakia" "!ZC0223">
+"It's not enough of a mistake to make me angry,
+ but I can see a lot of carelessness."
+#
+<sprite "ta01a036.agf" 6 4 12>
+<name "Sofia" "!ZB0583">
+"I-I'm sorry."
+#
+<sprite "ta08a023.agf" 2 5 12>
+<name "Rakia" "!ZC0224">
+"You're the head of this place, but that 
+ doesn't mean you shouldn't delegate to those
+ under you."
+#
+<sprite "ta01a022.agf" 6 4 12>
+<name "Sofia" "!ZB0584">
+"Huh?
+ Oh, yes.
+ You're right."
+#
+<sprite "ta01a036.agf" 6 4 12>
+<name "Sofia" "!ZB0585">
+"I'm sorry.
+ I've been trying to do it all by myself."
+#
+<sprite "ta08a004.agf" 2 5 12>
+<name "Rakia" "!ZC0225">
+"Work hard."
+#
+<removesprite -1 11>
+<exit>
+:CC5F
+<music 3>
+<background "bg010a0.agf" 10>
+<name "Darx">
+"By the way, Sofia."
+#
+<sprite "ta01a004.agf" 4 4 11>
+<name "Sofia" "!ZB0586">
+"Yes?"
+#
+<name "Darx">
+"I heard you been working a lot and helping
+ out with a lot of different places.
+ Is that true?"
+#
+<sprite "ta01a005.agf" 4 4 12>
+<name "Sofia" "!ZB0587">
+"Yes."
+#
+<name "Darx">
+"Are you okay?"
+#
+<sprite "ta01a006.agf" 4 4 12>
+<name "Sofia" "!ZB0588">
+"Yes. I'm being sure not to overexert myself."
+#
+<sprite "ta01a033.agf" 4 4 12>
+<name "Sofia" "!ZB0590">
+"If all you do is sit in front of a desk all
+ the time, you'll miss a lot of things...
+ Ah, that was advice from Rakia."
+#
+<name "Darx">
+"I see."
+#
+<sprite "ta01a004.agf" 4 4 12>
+<name "Sofia" "!ZB0591">
+"Thank you for your concern."
+#
+<name "Darx">
+"Well, let me know if you need help."
+#
+<sprite "ta01a033.agf" 4 4 12>
+<name "Sofia" "!ZB0592">
+"Okay."
+#
+<removesprite -1 11>
+<exit>
+:D024
+<music 10>
+<background "ev003a00.agf" 10>
+<name "Company Maid" "!AC0118">
+"Sofia, there's a mistake in this document."
+#
+<name "Sofia" "!ZB0593">
+"Ah, sorry."
+#
+<name "Company Maid" "!AC0119">
+"And I had a question about the number of
+ deliveries.
+ Can you explain if you have a moment?"
+#
+<name "Sofia" "!ZB0595">
+"Huh?
+ Oh, this is that request from the citizens
+ from yesterday."
+#
+She seems pretty busy.
+#
+...
+#
+But...
+#
+<music 3>
+<background "bg010a0.agf" 10>
+<name "Darx">
+"Those maids are all Gunguskar people?"
+#
+<sprite "ta01a004.agf" 4 4 11>
+<name "Sofia" "!ZB0596">
+"That's right."
+#
+<name "Darx">
+"How high up the ladder are they?"
+#
+<sprite "ta01a001.agf" 4 4 12>
+<name "Sofia" "!ZB0597">
+"Huh?"
+#
+<name "Darx">
+"I mean, you said something about there being
+ ranks before."
+#
+<sprite "ta01a005.agf" 4 4 12>
+<name "Sofia" "!ZB0598">
+"Oh, I see."
+#
+<sprite "ta01a033.agf" 4 4 12>
+<name "Sofia" "!ZB0599">
+"Then let me explain."
+#
+<sprite "ta01a004.agf" 4 4 12>
+<name "Sofia" "!ZB5001">
+"Basically, they're from private second class
+ to sergeants.
+ They're hired by contract instead of being
+ full time employees."
+#
+<sprite "ta01a005.agf" 4 4 12>
+<name "Sofia" "!ZB5002">
+"From top to bottom, the ranks are master
+ sergeant, sergeant, corporal, private first
+ class, and private second class."
+#
+<name "Darx">
+"Is master sergeant higher than
+ sublieutenant?"
+#
+<sprite "ta01a004.agf" 4 4 12>
+<name "Sofia" "!ZB0602">
+"That's right.
+ There's also a special position of warrant
+ officer, but you don't need to worry about
+ that."
+#
+<sprite "ta01a006.agf" 4 4 12>
+<name "Sofia" "!ZB0603">
+"ANyway, they're the main people here."
+#
+<sprite "ta01a034.agf" 4 4 12>
+<name "Sofia" "!ZB0604">
+"They're super good at their jobs."
+#
+<name "Darx">
+"Well, I can see that."
+#
+<sprite "ta01a036.agf" 4 4 12>
+<name "Sofia" "!ZB0605">
+"So when someone inexperienced like me is put
+ in charge, it's likely that they'll be higher
+ ranked."
+#
+<name "Darx">
+"Huh?"
+#
+<sprite "ta01a028.agf" 4 4 12>
+<name "Sofia" "!ZB0606">
+"Some people don't like going higher than
+ master sergeant in Gunguskar or being full
+ time employees because the rules become much
+ more strict."
+#
+<sprite "ta01a036.agf" 4 4 12>
+<name "Sofia" "!ZB0607">
+"And they like being in the field, not busy
+ with bureaucratic stuff."
+#
+<name "Darx">
+"Ah, I see."
+#
+<sprite "ta01a034.agf" 4 4 12>
+<name "Sofia" "!ZB0608">
+"It's very helpful to have people like them
+ in the field. 
+ They're extremely experienced."
+#
+<sprite "ta01a028.agf" 4 4 12>
+<name "Sofia" "!ZB0609">
+"If they became a real employee, they'd
+ probably be a captain or similar, but out in
+ the field, they're usually master sergeant or
+ sergeants."
+#
+<name "Darx">
+"Seems like a handful for you."
+#
+<sprite "ta01a036.agf" 4 4 12>
+<name "Sofia" "!ZB0610">
+"Thank you."
+#
+<sprite "ta01a004.agf" 4 4 12>
+<name "Sofia" "!ZB0611">
+"And there's some people higher ranked than
+ me too."
+#
+<name "Darx">
+"Huh?"
+#
+<sprite "ta01a005.agf" 4 4 12>
+<name "Sofia" "!ZB0612">
+"There's two captains and ten lieutenants."
+#
+<name "Darx">
+"...Among your subordinates?"
+#
+<sprite "ta01a004.agf" 4 4 12>
+<name "Sofia" "!ZB0613">
+"Yes."
+#
+<name "Darx">
+"So does the hierarchy mean nothing?"
+#
+<sprite "ta01a027.agf" 4 4 12>
+<name "Sofia" "!ZB0614">
+"This is a special case."
+#
+<sprite "ta01a004.agf" 4 4 12>
+<name "Sofia" "!ZB0616">
+"Normally, this store would have to be run by
+ higher than field officers, so a major or
+ above. Even little or temporary shops have
+ at least a captain in charge."
+#
+<sprite "ta01a005.agf" 4 4 12>
+<name "Sofia" "!ZB0617">
+"The unusual part here is that I'm a
+ sublieutenant running a store."
+#
+<name "Darx">
+"I-I see."
+#
+<sprite "ta01a024.agf" 4 4 12>
+<name "Sofia" "!ZB0618">
+"Here's the problem."
+#
+<name "Darx">
+"Hm?"
+#
+<sprite "ta01a036.agf" 4 4 12>
+<name "Sofia" "!ZB0619">
+"All the things you need to run a store can't
+ be done by someone at my rank or lower."
+#
+<name "Darx">
+"...I see."
+#
+<removesprite -1 11>
+Because Gunguskar does a lot more than just
+managing stores.
+#
+<sprite "ta01a024.agf" 4 4 11>
+<name "Sofia" "!ZB0620">
+"So all the ranking is completely messed up.
+ I have to borrow Rakia's captains and
+ lieutenants to be able to do the things for
+ me that I can't."
+#
+<name "Darx">
+"I see.
+ I guess that keeps things functioning, but
+ now I'm worried about your own stress over
+ it."
+#
+<sprite "ta01a036.agf" 4 4 12>
+<name "Sofia" "!ZB0621">
+"Thank you very much."
+#
+<sprite "ta01a004.agf" 4 4 12>
+<name "Sofia" "!ZB0622">
+"You know, they were chosen by recommendation
+ from Rakia as people who wouldn't be a
+ problem."
+#
+<name "Darx">
+"A problem?"
+#
+<sprite "ta01a028.agf" 4 4 12>
+<name "Sofia" "!ZB0623">
+"Well, um..."
+#
+<name "Darx">
+"Hm?"
+#
+<sprite "ta01a036.agf" 4 4 12>
+<name "Sofia" "!ZB0624">
+"People who were already intimately involved
+ with you."
+#
+<name "Darx">
+"Ah, I get it."
+#
+<removesprite -1 11>
+So that's why I recognized them.
+#
+<sprite "ta01a004.agf" 4 4 11>
+<name "Sofia" "!ZB0625">
+"So, for my own peace of mind, please, please
+ show proper appreciation to them."
+#
+<name "Darx">
+"Hahaha.
+ Leave it to me."
+#
+<sprite "ta01a033.agf" 4 4 12>
+<name "Sofia" "!ZB0626">
+"Thank you very much.
+ Then I think there are eight people already
+ expecting thanks."
+#
+<name "Darx">
+"Huh?"
+#
+<sprite "ta01a034.agf" 4 4 12>
+<name "Sofia" "!ZB0627">
+"Please!"
+#
+<name "Darx">
+"..."
+#
+<removesprite -1 11>
+Well, it's fine.
+I have some fun with the maids.
+#
+<exit>
+:E5FD
+<music 4>
+<background "bg009a0.agf" 10>
+<sprite "ta34a004.agf" 4 4 11>
+<name "Smiling Maid" "!AC0120">
+"Okay, let's work hard today!"
+#
+<removesprite -1 11>
+<sprite "ta34b000.agf" 4 4 11>
+<name "Cleaning Maid" "!DC0154">
+"She's in high spirits."
+#
+<removesprite -1 11>
+<sprite "ta34b000.agf" 2 4 11>
+<sprite "ta34b000.agf" 6 5 11>
+<name "Knowing Maid" "!PC0179">
+"She was in the Overlord's room yesterday."
+#
+<name "Cleaning Maid" "!DC0155">
+"Ah, how nice.
+ I should be soon too..."
+#
+<name "Knowing Maid" "!PC0180">
+"Yeah.
+ That's why I'm here at his side."
+#
+<removesprite -1 11>
+<name "Darx">
+"If you just speak up, I'll take care of you."
+#
+<removesprite -1 11>
+<sprite "ta34b008.agf" 2 4 11>
+<sprite "ta34b008.agf" 6 5 11>
+<name "Cleaning Maid" "!DC0156">
+"O-Overlord."
+#
+<sprite "ta34b000.agf" 2 4 12>
+<name "Knowing Maid" "!PC0181">
+"You surprised me.
+ Please don't scare us."
+#
+<name "Darx">
+"Hahaha...
+ Well, I don't want to make Sofia mad, so
+ after you get all your work done."
+#
+<sprite "ta34b000.agf" 6 5 12>
+<name "Cleaning Maid" "!DC0157">
+"Overlord."
+#
+<name "Darx">
+"Hm?"
+#
+<name "Cleaning Maid" "!DC0158">
+"That's a promise."
+#
+<name "Darx">
+"Yeah, leave it to me."
+#
+<removesprite -1 11>
+The maids worked nearly three times as fast
+that day.
+#
+Of course, I kept my word too.
+#
+<exit>
+:EB6B
+<music 4>
+<background "bg009a0.agf" 10>
+<name "Darx">
+"What rank are you?"
+#
+<sprite "ta34a000.agf" 4 4 11>
+<name "Veteran Maid" "!AC0121">
+"Lieutenant."
+#
+<name "Darx">
+"Then you're from Rakia's shop?"
+#
+<name "Veteran Maid" "!AC0122">
+"Yes."
+#
+<name "Darx">
+"Are there any problems working under Sofia?"
+#
+<name "Veteran Maid" "!AC0123">
+"None.
+ If there are, I intervene."
+#
+<name "Darx">
+"I see."
+#
+<name "Veteran Maid" "!AC0124">
+"Besides, she's not like Rakia.
+ She makes mistakes."
+#
+<name "Darx">
+"Hm?"
+#
+<name "Veteran Maid" "!AC0125">
+"It's amusing."
+#
+<name "Darx">
+"Hahaha.
+ Don't tell her that."
+#
+<name "Veteran Maid" "!AC0126">
+"Of course not.
+ You either."
+#
+<name "Darx">
+"A hush payment then?"
+#
+<name "Veteran Maid" "!AC0127">
+"I accept your offer."
+#
+<removesprite -1 11>
+I enjoy myself with her in bed.
+#
+<exit>
+:EEE7
+<music 4>
+<background "ev001a00.agf" 10>
+Sofia was too busy to be with me.
+#
+Pity.
+#
+<exit>
+\x78

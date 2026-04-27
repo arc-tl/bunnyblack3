@@ -1,0 +1,96 @@
+﻿<music 11>
+<background "bg008a0.agf" 10>
+<name "Wondering Citizen" "!LB0196">
+"Macdo of the Netherworld."
+#
+<name "Wondering Citizen" "!LB0197">
+"Kyuriha, Miartei, and Suisen of Celestia."
+#
+<name "Wondering Citizen" "!LB0198">
+"They were supposedly strong in the Netherworld
+ and Celestia, but they seem a little weak in
+ the human world."
+#
+<name "Knowing Citizen" "!GB0282">
+"When you travel from those places to the 
+ human world, there's only so much mana you can
+ take with you."
+#
+<name "Knowing Citizen" "!GB0283">
+"In other words, they get weakened."
+#
+<name "Knowing Citizen" "!GB0284">
+"At the start, Macdo was like that because she 
+ was using some device to suppress her mana."
+#
+<name "Knowing Citizen" "!GB0286">
+"Her mana had already been reduced to a level
+ where it could be reduced like that, otherwise
+ you'd just mass-produce those devices and turn
+ them into weapons."
+#
+<name "Wondering Citizen" "!LB0199">
+"Oh, I see."
+#
+<name "Knowing Citizen" "!GB0287">
+"Same for Celestia."
+#
+<name "Wondering Citizen" "!LB0200">
+"Oh?"
+#
+<name "Wondering Citizen" "!LB0201">
+"So when the Overlord went to the Netherworld,
+ was he weakened too?"
+#
+<name "Knowing Citizen" "!GB0288">
+"Unfortunately, at his level, he wouldn't run
+ into the limitation."
+#
+<name "Wondering Citizen" "!LB0202">
+"Oh, I see."
+#
+<name "Wondering Citizen" "!LB0203">
+"By the way, why is there a limit?"
+#
+<name "Knowing Citizen" "!GB0289">
+"Obviously, to prevent dragons from going to
+ the Netherworld or Celestia."
+#
+<name "Knowing Citizen" "!GB0291">
+"Long ago, some female dragon terrorized them,
+ so they hurriedly put up a barrier."
+#
+<name "Wondering Citizen" "!LB0204">
+"Oh?"
+#
+<name "Knowing Citizen" "!GB0292">
+"But after making it, no dragon ever attacked
+ it, so it's not clear if it even works."
+#
+<name "Knowing Citizen" "!GB0293">
+"It's incredibly unpopular with angels and
+ demons who don't know how scary dragons are.
+ It also interferes with traveling."
+#
+<name "Wondering Citizen" "!LB0205">
+"That's true."
+#
+<name "Wondering Citizen" "!LB0206">
+"That feels like a retcon, but it works!"
+#
+<name "Knowing Citizen" "!GB0294">
+"I-I mean, this setting's been around for a
+ long time...
+ There could be some plot holes here and
+ there."
+#
+<name "Wondering Citizen" "!LB0207">
+"What an awful writer."
+#
+<name "Knowing Citizen" "!GB0295">
+"Don't be like that."
+#
+<name "Wondering Citizen" "!LB0208">
+"Okay, bye bye."
+#
+\x78\x78

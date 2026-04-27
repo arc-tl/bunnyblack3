@@ -1,0 +1,17 @@
+﻿<music 22>
+<background "ev069a01.agf" 10>
+<name "Panting Angel" "!QB0083">
+"Aah! Aah! Ahh! Ahhh! Aaaah!"
+#
+<name "Basking Angel" "!WB0074">
+"Ah! Aah! Mm! Mmm! Ahhh! Aaah!"
+#
+<name "Pleasured Angel" "!TC0073">
+"Mmm...mmm...mm...ah..."
+#
+...
+#
+<name "Macdo" "!ZA0455">
+"...How pathetic."
+#
+\x78\x78

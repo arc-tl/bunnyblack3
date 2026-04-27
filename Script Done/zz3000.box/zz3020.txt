@@ -1,0 +1,201 @@
+﻿<music 22>
+<background "ev070a00.agf" 10>
+<name "Armored Woman" "!HC0048">
+"Aaah...aah...ah...ah...ahhh..."
+#
+<name "Resisting Woman" "!SB0078">
+"Aaah...ah...aah..."
+#
+I'm a little surprised at the people wrapped
+up in my tentacles.
+#
+They're not angels.
+#
+They're human.
+#
+Human adventurers?
+#
+My limbs are assaulting them.
+#
+<name "Captured Priestess" "!RB0063">
+"Ah...ah...ah...aah...aaah...
+ Aaaah!"
+#
+<name "Crying Wizard" "!LB0092">
+"Don't go in there!
+ Don't go in!
+ Stop!"
+#
+<name "Scared Fighter" "!GB0086">
+"No! No... Ah...
+ No! Aaaaah!"
+#
+Unlike angels, they're very fragile.
+#
+It seems like they've been raped quite a bit
+before I brought my mind here.
+#
+I try to slow the tentacles down, but a wave
+of pleasure attacks me, fighting back.
+#
+<background "ev070a01.agf" 10>
+<name "Captured Priestess" "!RB0064">
+"Aah! Mm! Mmmgh! Mmmgh!"
+#
+<name "Crying Wizard" "!LB0093">
+"Ah...ah...ah..."
+#
+Multiple tentacles all ejaculate.
+#
+The pleasure of flooding semen into their 
+pussies, asses, and mouths all hits me at once.
+#
+This is bad.
+#
+I can't stop.
+#
+The tentacles move all over on their own,
+violating them.
+#
+It's no good.
+#
+I can't stop them.
+#
+I'm sorry it has to be like this, but I need
+to find someone who can take it and focus on
+them.
+#
+<name "Resisting Fighter" "!QB0084">
+"Ah! Ah! Aah! Aah! Ahhhh!"
+#
+I have to distract them from those who are
+exhausted or passed out.
+#
+<name "Unconscious Priestess" "!TC0074">
+"..."
+#
+They're violating not just their pussies,
+mouths, and asses, but their entire bodies.
+#
+<name "Struggling Wizard" "!WB0075">
+"W-Where are... Aah! Agh!
+ That's my... Ah! Aah!"
+#
+I know I have no excuse, but someone has to 
+deal with it.
+#
+This the best I can do.
+#
+As soon as my thoughts wander for a moment,
+it all goes black.
+#
+By the time I come to my senses, my tentacles
+aren't on the adventurers anymore, but are
+attacking Gunguskar maids.
+#
+I order them to stop, and this time, they
+obey.
+#
+Did they see what was happening?
+Other maids come in and carry out the 
+unconscious adventurers, and then come back 
+for the other maids.
+#
+And they bring back replacements...
+The usual angels are left in the room.
+#
+...
+#
+I give the tentacles their usual orders and
+bring my mind back.
+#
+<background "bg017a0.agf" 10>
+<music 5>
+<background "bg011a0.agf" 10>
+But why?
+#
+Why possible reason would they have to throw
+humans into that room?
+#
+They didn't have weapons, so it wasn't that 
+they wandered in.
+#
+...
+#
+Better to ask than to wonder.
+#
+Just as I was thinking that, Rakia comes in.
+#
+<music 3>
+<background "bg010a0.agf" 10>
+<sprite "ta08a016.agf" 4 4 11>
+<name "Rakia" "!ZC0333">
+"I'm very sorry.
+ There was a mistake."
+#
+<name "Darx">
+"Huh?"
+#
+<sprite "ta08a013.agf" 4 4 12>
+<name "Rakia" "!ZC0334">
+"There was a miscommunication.
+ Adventurers who were supposed to be released
+ were somehow sent to that room by mistake."
+#
+<name "Rakia" "!ZC0335">
+"We realized it a little while ago, but
+ couldn't get close enough to rescue them.
+ Um, our maids were also being attacked."
+#
+<name "Darx">
+"I'm sorry about that."
+#
+<sprite "ta08a016.agf" 4 4 12>
+<name "Rakia" "!ZC0336">
+"No, it was our fault."
+#
+<sprite "ta08a014.agf" 4 4 12>
+<name "Rakia" "!ZC0337">
+"I'm truly sorry."
+#
+<name "Darx">
+"I see, but it's not like you to make mistakes
+ like that."
+#
+<sprite "ta08a013.agf" 4 4 12>
+<name "Rakia" "!ZC0338">
+"Yes, we're looking into what happened.
+ As soon as we find out, I'll report and
+ apologize again.
+ Please forgive me."
+#
+<name "Darx">
+"Well, everyone makes mistakes.
+ The important thing is to not make them 
+ twice."
+#
+<sprite "ta08a016.agf" 4 4 12>
+<name "Rakia" "!ZC0339">
+"Thank you for saying that."
+#
+<name "Darx">
+"...Could Macdo have something to do with it?"
+#
+<sprite "ta08a018.agf" 4 4 12>
+<name "Rakia" "!ZC0340">
+"Huh? No?
+ We're still looking into it, but I don't think
+ she's involved.
+ Why?"
+#
+<name "Darx">
+"Oh, no reason.
+ I have no evidence or anything.
+ Forget it."
+#
+<sprite "ta08a021.agf" 4 4 12>
+<name "Rakia" "!ZC0341">
+"...I understand."
+#
+<removesprite -1 11>
+\x2B\x78\x78

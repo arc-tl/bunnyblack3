@@ -1,0 +1,362 @@
+﻿<music 18>
+<background "ev062a00.agf" 10>
+<name "Lotta" "!HB0027">
+"Aah!"
+#
+<name "Lotta" "!HB0028">
+"Aahhh!"
+#
+<name "Lotta" "!HB0029">
+"Hahaha!"
+#
+<name "Lotta" "!HB0030">
+"Mm... More?"
+#
+W-What's going on?
+#
+Dozens of naked women surround me.
+#
+They all look the same, but each is a slightly
+different age.
+#
+Why does it feel like I've stepped into a 
+house filled with someone's daughters?
+#
+No, what's even going on here?
+#
+What was I just doing?"
+#
+<name "Lotta" "!HB0031">
+"Mmmm!"
+#
+I try to collect my thoughts, but the women
+all swarm me like they're trying to distract
+me.
+#
+They seem pretty talented, but they picked
+the wrong man.
+#
+They're no match for my experience.
+#
+<name "Lotta" "!HB0032">
+"Heheheh..."
+#
+But my confidence is quickly broken.
+#
+Their movement keeps attacking my weak spots.
+#
+Making me want to give in.
+#
+Can't I just let them do what they want?
+#
+I could just do that.
+#
+Yeah.
+#
+I deal with women like this all the time.
+#
+<name "Lotta" "!HB0033">
+"Aaah!
+ More..."
+#
+<name "Lotta" "!HB0034">
+"Please with my boobs!"
+#
+<name "Lotta" "!HB0035">
+"Aah! Me too!"
+#
+<name "Lotta" "!HB0036">
+"Aaah...
+ Don't touch me there!"
+#
+<name "Lotta" "!HB0037">
+"Ah! Aah! Ah! Aaaahh!"
+#
+Anyway, I move my hips to come for the first
+time.
+#
+It comes out immediately.
+#
+And with much more pleasure than usual.
+#
+More.
+#
+My body wants these women more.
+#
+<name "Lotta" "!HB0038">
+"Aaah! Aahhh...
+ More?"
+#
+<name "Lotta" "!HB0039">
+"Ah...aah...
+ Me next."
+#
+<name "Lotta" "!HB0040">
+"Aaah... No fair.
+ Me too."
+#
+I devour them.
+#
+Forgetting everything but the women before me.
+#
+Aah, what nice boobs.
+#
+And pussy.
+#
+They smell good too.
+#
+Ah, I can't take it.
+#
+My hips move intensely.
+#
+I come over and over.
+#
+...
+#
+<background "ev062b00.agf" 10>
+<name "Lotta" "!HB0041">
+"Heheheh...
+ A pleasant collapse."
+#
+<name "Lotta" "!HB0042">
+"I was hoping for a little more..."
+#
+<name "Lotta" "!HB0043">
+"Well, that's how men are."
+#
+<name "Lotta" "!HB0044">
+"Still, when you strip away their lust...
+ Huh?"
+#
+<background "ev062b01.agf" 10>
+<name "Lotta" "!HB0045">
+"Oh?"
+#
+<background "ev062b02.agf" 10>
+<name "Lotta" "!HB0046">
+"T-That place?"
+#
+<name "Lotta" "!HB0047">
+"Huh?
+ My arm?
+ Huh?"
+#
+<name "Lotta" "!HB0048">
+"Oh?
+ Huh?
+ That position... huh?"
+#
+...
+#
+<background "ev062b03.agf" 10>
+<name "Lotta" "!HB0049">
+"Aaaaah!"
+#
+<name "Lotta" "!HB0050">
+"Aaahhhhhhh!"
+#
+<name "Lotta" "!HB0051">
+"Stop! No!
+ Aah! Aaaaahhhh!"
+#
+<name "Lotta" "!HB0052">
+"Ah...ah...aaaah..."
+#
+<name "Lotta" "!HB0053">
+"One after another... huh?
+ I'm gonna break!
+ No!"
+#
+<name "Lotta" "!HB0054">
+"Aaaaahhhhh!"
+#
+There's the sound of breaking glass.
+#
+\x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 \x2B
+<name "Darx">
+"Huh?"
+#
+<sprite "ta34a000.agf" 4 4 11>
+<name "Company Maid" "!DC0116">
+"Lord Darx?
+ Is something the matter?"
+#
+<name "Darx">
+"Huh?"
+#
+<name "Darx">
+"Oh, uh..."
+#
+<removesprite -1 11>
+I look around.
+#
+There's nothing out of the ordinary.
+#
+I check inside my pants, but it doesn't look
+like I came.
+#
+...
+#
+<name "Darx">
+"How long was I out of it?"
+#
+<sprite "ta34a000.agf" 4 4 11>
+<name "Company Maid" "!DC0117">
+"I don't think it was even a minute?"
+#
+<name "Darx">
+"...I see."
+#
+<name "Company Maid" "!DC0118">
+"Anyway, this is the leader of the forces
+ here.
+ What should we do?"
+#
+<removesprite -1 11>
+<sprite "ta18a000.agf" 4 4 11>
+<name "Lotta" "!HB0055">
+"I lost, but...
+ I didn't lose!"
+#
+<name "Darx">
+"..."
+#
+<sprite "ta18a001.agf" 4 4 12>
+<name "Lotta" "!HB0056">
+"I-I lost, but I didn't lose, okay!"
+#
+<removesprite -1 11>
+<background "ev062a00.agf" 10>
+She looks just like them.
+#
+Like the women in that illusion.
+#
+\x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 \x2B
+<name "Darx">
+"Can you use magic or something?"
+#
+<sprite "ta18a008.agf" 4 4 11>
+<name "Lotta" "!HB0057">
+"Huh?
+ I can't."
+#
+<name "Darx">
+"Really?"
+#
+<sprite "ta18a009.agf" 4 4 12>
+<name "Lotta" "!HB0058">
+"I-If I could, I would've used it when I was
+ fighting."
+#
+<name "Darx">
+"..."
+#
+<removesprite -1 11>
+That's a good point.
+#
+I don't see what the point of waiting until
+after the fight is over to use it on me
+either.
+#
+If she was going to do that, she would've done
+it right at the start.
+#
+Is there some condition for using it?
+#
+No, I think it's more logical to assume she
+can't use magic at all.
+#
+<name "Darx">
+"Can I ask the people here to confirm that?"
+#
+<sprite "ta18a008.agf" 4 4 11>
+<name "Lotta" "!HB0059">
+"Yep.
+ I don't lie."
+#
+<name "Darx">
+"All right.
+ Then..."
+#
+<name "Darx">
+"Do you surrender?"
+#
+<sprite "ta18a014.agf" 4 4 12>
+<name "Lotta" "!HB0060">
+"Ooh...
+ I surrender."
+#
+<name "Darx">
+"Okay. Everyone who follows you will move to
+ my city.
+ Any problem with that?"
+#
+<sprite "ta18a015.agf" 4 4 12>
+<name "Lotta" "!HB0061">
+"N-No."
+#
+<name "Darx">
+"Okay, tell your people.
+ If you do it quickly, I won't punish
+ anybody."
+#
+<sprite "ta18a016.agf" 4 4 12>
+<name "Lotta" "!HB0062">
+"Really?"
+#
+<name "Darx">
+"Yeah, but try any funny business, and I'll
+ do all sorts of stuff."
+#
+<sprite "ta18a014.agf" 4 4 12>
+<name "Lotta" "!HB0063">
+"I-I won't.
+ I won't, okay!
+ I won't do any funny business."
+#
+<name "Darx">
+"Good. Go."
+#
+<removesprite -1 11>
+She literally flies away.
+#
+<sprite "ta34a006.agf" 4 4 11>
+<name "Company Maid" "!DC0119">
+"Overlord?
+ You're not doing anything to her?"
+#
+<sprite "ta34a008.agf" 4 4 12>
+<name "Company Maid" "!DC0120">
+"Don't tell me. 
+ Are you sick?"
+#
+<name "Darx">
+"No, nothing like that."
+#
+<removesprite -1 11>
+After that illusion, I don't think I can deal
+with a shrimp like that.
+#
+The difference is too much.
+#
+Still...
+#
+<music 50>
+<background "ev062a00.agf" 10>
+Thinking back to it is making me hard.
+#
+Aaah...
+Do I have to endure it until we get home?
+#
+...
+#
+I can't.
+#
+One of the maids did her best.
+#
+<music 62>
+<background "bg021a0.agf" 10>
+I don't know entirely what happened, but Lotta
+joined us.
+#
+\x78\x78

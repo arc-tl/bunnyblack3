@@ -1,0 +1,44 @@
+﻿<music 49>
+<background "ev042a05.agf" 10>
+<name "Rakia" "!ZC0450">
+"Aah...ahhh..."
+#
+<name "Darx">
+"Mmm...
+ Are you okay?"
+#
+<name "Rakia" "!ZC0451">
+"Mm...ah...
+ I can't... move."
+#
+<music 40>
+<background "bg004a0.agf" 10>
+<sprite "ta08a004.agf" 4 4 11>
+<name "Rakia" "!ZC0452">
+"Welcome."
+#
+<name "Darx">
+"You recover quickly."
+#
+<sprite "ta08a023.agf" 4 4 12>
+<name "Rakia" "!ZC0453">
+"Y-You get used to it."
+#
+<name "Darx">
+"I see.
+ So, you're used to it, huh?"
+#
+<sprite "ta08a018.agf" 4 4 12>
+<name "Rakia" "!ZC0454">
+"D-Don't get any funny ideas."
+#
+<name "Darx">
+"Not funny.
+ Wonderful."
+#
+<sprite "ta08a021.agf" 4 4 12>
+<name "Rakia" "!ZC0455">
+"H-Honestly..."
+#
+<removesprite -1 11>
+\x2B\x78\x78

@@ -1,0 +1,50 @@
+﻿<music 4>
+<background "bg009a0.agf" 10>
+<sprite "ta18a018.agf" 4 4 11>
+<name "Lotta" "!HB0070">
+"Hahaha.
+ I like the Overlord.
+ He's so nice."
+#
+<removesprite -1 11>
+<music 3>
+<background "bg010a0.agf" 10>
+<sprite "ta19a015.agf" 4 4 11>
+<name "Ao" "!WA0124">
+"Overlord, don't tell me, you..."
+#
+<name "Darx">
+"I didn't.
+ I didn't."
+#
+<sprite "ta19a003.agf" 4 4 12>
+<name "Ao" "!WA0125">
+"Excuse me."
+#
+<name "Darx">
+"Don't worry about it.
+ You'll just have to make up for the
+ rudeness."
+#
+<sprite "ta19a001.agf" 4 4 12>
+<name "Ao" "!WA0126">
+"Huh?"
+#
+<removesprite -1 11>
+I come twice inside her.
+#
+<sprite "ta17a014.agf" 4 4 11>
+<name "Tamaga" "!PB0096">
+"Um, Overlord.
+ Don't tell me you and Lotta..."
+#
+<name "Darx">
+"..."
+#
+<removesprite -1 11>
+I come twice in Tamaga.
+#
+I'm a little disappointed in the lack of faith
+people have in me.
+#
+\x78\x78

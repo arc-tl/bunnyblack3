@@ -1,0 +1,80 @@
+﻿<music 3>
+<background "bg010a0.agf" 10>
+<name "Darx">
+"I got a request.
+ What's going on?"
+#
+<sprite "ta34c001.agf" 4 4 11>
+<name "Company Maid" "!PC0302">
+"I-I'm sorry."
+#
+<name "Darx">
+"I thought I told you not to take prisoners."
+#
+<name "Company Maid" "!PC0303">
+"Yes."
+#
+<removesprite -1 11>
+But apparently some people have decided to
+hold onto some adventurers for punishment.
+#
+In other words, taken prisoners.
+#
+<name "Darx">
+"And yet, I get this request."
+#
+It's a request to expand the prison.
+#
+<name "Darx">
+"This doesn't make sense."
+#
+<sprite "ta34c001.agf" 4 4 11>
+<name "Company Maid" "!PC0304">
+"Yes. It's strange."
+#
+<name "Darx">
+"Why?
+ You looked into that, right?"
+#
+<name "Company Maid" "!PC0305">
+"It's because of the citizens who moved here
+ from Forzelotte's Shrine."
+#
+<name "Darx">
+"What do you mean?"
+#
+<name "Company Maid" "!PC0306">
+"Um, no matter what we tell them to do, they
+ keep taking prisoners because they believe
+ that will please you."
+#
+<name "Darx">
+"..."
+#
+<removesprite -1 11>
+<music 20>
+<background "ev085a00.agf" 10>
+<name "Writhing Adventurer" "!RB0150">
+"Aaah...ah...ahh...ah...aaah..."
+#
+I fuck the captured women in the jail, one
+after another.
+#
+It reminds me of when I had to deal with the
+angels.
+#
+But unlike then, these are humans.
+#
+I can't go too overboard with them.
+#
+But actually, it feels nice and different.
+#
+<name "Writhing Adventurer" "!RB0151">
+"Ah...ah...ah...
+ N-No mo...ah...
+ F-Forgive me..."
+#
+I enjoy my time in the prison with the 
+adventurers.
+#
+\x78\x78

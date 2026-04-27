@@ -1,0 +1,121 @@
+﻿<music 3>
+<background "bg010a0.agf" 10>
+<sprite "ta21a003.agf" 4 4 11>
+<name "Ish" "!AB0035">
+"Overlord, you called?"
+#
+<name "Darx">
+"Yeah."
+#
+<removesprite -1 11>
+She comes in with a grin.
+#
+<name "Darx">
+"Are you getting used to living here?"
+#
+She's been a citizen for the last few days.
+#
+Her original energy is starting to come back.
+#
+<sprite "ta21a004.agf" 4 4 11>
+<name "Ish" "!AB0036">
+"Yep."
+#
+<removesprite -1 11>
+One of the conditions for her acceptance was
+that we had a gathering and she needed to
+apologize to everyone.
+#
+This way, nobody holds a grudge against her,
+at least, not openly.
+#
+Well, there have also been a lot of rumors
+about me being especially merciless to her, so
+if anything, people are pretty sympathetic to
+her.
+#
+<name "Darx">
+"I see."
+#
+<sprite "ta21a011.agf" 4 4 11>
+<name "Ish" "!AB0037">
+"Ah, but I wanna run wild a little more."
+#
+<name "Darx">
+"Okay.
+ I'll think about it."
+#
+<sprite "ta21a004.agf" 4 4 12>
+<name "Ish" "!AB0038">
+"'Kay."
+#
+<name "Darx">
+"By the way, the piece of me in your pussy,
+ I think it's time to take it out."
+#
+<sprite "ta21a014.agf" 4 4 12>
+<name "Ish" "!AB0039">
+"Eh?"
+#
+<removesprite -1 11>
+That piece of my other body is still inside
+her.
+#
+It's useful to call her, but she's being well
+behaved enough that I can let her off.
+#
+<name "Darx">
+"Come here.
+ I need to touch it to get rid of it."
+#
+<sprite "ta21a014.agf" 4 4 11>
+<name "Ish" "!AB0040">
+"A-Ah... U-Um..."
+#
+<name "Darx">
+"Hm?"
+#
+<sprite "ta21a015.agf" 4 4 12>
+<name "Ish" "!AB0041">
+"Y-You don't... y-you can't just leave... it
+ in me..."
+#
+<name "Darx">
+"........."
+#
+<removesprite -1 11>
+I move the piece of me inside her with all my
+strength.
+#
+<sprite "ta21a119.agf" 4 4 11>
+<name "Ish" "!AB0042">
+"Aaah!"
+#
+<removesprite -1 11>
+Her legs give out under and she falls to the
+floor.
+#
+But my tentacle doesn't stop.
+#
+<sprite "ta21a119.agf" 4 4 11>
+<name "Ish" "!AB0043">
+"Ah! Ah! Aaah! Aaaahhhhh!"
+#
+<removesprite -1 11>
+She climaxes immediately, and collapses.
+#
+<sprite "ta21a120.agf" 4 4 11>
+<name "Ish" "!AB0044">
+"Aah...ah...
+ That felt good..."
+#
+<name "Darx">
+"You really don't want me to take it out?"
+#
+<name "Ish" "!AB0045">
+"Y-Yeah."
+#
+<removesprite -1 11>
+I guess I'll do what she wants.
+#
+\x78\x78

@@ -1,0 +1,89 @@
+﻿<music 3>
+<background "bg010a0.agf" 10>
+<name "Darx">
+"...Rulatei, you have more of a chest than I
+ expected."
+#
+<sprite "ta04a001.agf" 4 4 11>
+<name "Rualtei" "!RA0151">
+"W-What about it?"
+#
+<name "Darx">
+"Let me rub them."
+#
+<sprite "ta04a009.agf" 4 4 12>
+<name "Rualtei" "!RA0152">
+"Don't touch me!"
+#
+<name "Darx">
+"Then your butt is fine."
+#
+<sprite "ta04a008.agf" 4 4 12>
+<name "Rualtei" "!RA0153">
+"I said no touching!"
+#
+<removesprite -1 11>
+<sprite "ta05a003.agf" 4 4 11>
+<name "Kyuriha" "!FA0168">
+"Aren't we lively."
+#
+<name "Darx">
+"Ah, Kyuriha."
+#
+<sprite "ta05a017.agf" 4 4 12>
+<name "Kyuriha" "!FA0169">
+"Rualtei, you also seems to seem to be getting
+ along well."
+#
+<removesprite -1 11>
+<sprite "ta04a012.agf" 4 4 11>
+<name "Rualtei" "!RA0154">
+"I-I am not getting along..."
+#
+<removesprite -1 11>
+<sprite "ta05a019.agf" 4 4 11>
+<name "Kyuriha" "!FA0170">
+"Haha.
+ I see.
+ Pardon me then."
+#
+<sprite "ta05a003.agf" 4 4 12>
+<name "Kyuriha" "!FA0171">
+"By the way, Darx..."
+#
+<name "Darx">
+"Hm?"
+#
+<sprite "ta05a017.agf" 4 4 12>
+<name "Kyuriha" "!FA0172">
+"I believe my breasts are larger than hers.
+ Would you like to rub them?"
+#
+<name "Darx">
+"Hahaha.
+ Are you going to let me?"
+#
+<removesprite -1 11>
+<sprite "ta04a009.agf" 4 4 11>
+<name "Rualtei" "!RA0155">
+"Like hell!"
+#
+<name "Darx">
+"Oh, are you jealous?"
+#
+<sprite "ta04a022.agf" 4 4 12>
+<name "Rualtei" "!RA0156">
+"N-No!
+ Ahh! Ah! S-Stop it!
+ Aaahhhh!"
+#
+<removesprite -1 11>
+<sprite "ta05a017.agf" 4 4 11>
+<name "Kyuriha" "!FA0173">
+"Haha.
+ It does seem like you two are getting along
+ quite well after all.
+ That's nice."
+#
+<removesprite -1 11>
+\x2B\x78\x78

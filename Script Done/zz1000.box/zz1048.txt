@@ -1,0 +1,81 @@
+﻿<music 23>
+<background "bg022a0.agf" 10>
+<name "Lassan" "!ZE0023" "ka38a000.agf">
+"Yer strong, bro."
+#
+<name "Lassan" "!ZE0024" "ka38a000.agf">
+"Sorry!
+ Mah bad!
+ Go easy!"
+#
+<name "Lassan" "!ZE0025" "ka38a000.agf">
+"Wha!? Ya forgive me!?
+ Oooooh!
+ What a heart!"
+#
+<name "Lassan" "!ZE0026" "ka38a000.agf">
+"I'll follow ya foreva!"
+#
+<name "Darx">
+"I haven't said anything yet."
+#
+<name "Lassan" "!ZE0027" "ka38a000.agf">
+"Don' swea' the de'ails, bro."
+#
+<name "Darx">
+"The details..."
+#
+<name "Lassan" "!ZE0028" "ka38a000.agf">
+"Heheheh.
+ Bro, can ya still say the same when ya see
+ dis?"
+#
+<name "Darx">
+"Huh?"
+#
+<name "Lassan" "!ZE0029" "ka38a000.agf">
+"Secre' move!
+ Rollin' rice ball!"
+#
+<name "Darx">
+"Ooooh!
+ What the!?
+ He suddenly started rolling!
+ And so fast!"
+#
+<name "Lassan" "!ZE0030" "ka38a000.agf">
+"An' from there, han's and knees!"
+#
+<name "Darx">
+"...That's the eastern way of prostration!
+ And not just the form!
+ It's bowing with centuries of refinement!
+ Bowing with the weight of history!"
+#
+<name "Lassan" "!ZE0031" "ka38a000.agf">
+"Ya' can tell?"
+#
+<name "Darx">
+"I-Impressive.
+ I've only seen two other people get down on
+ their hands and knees like this before."
+#
+<name "Lassan" "!ZE0032" "ka38a000.agf">
+"Then ya can forgive me?"
+#
+<name "Darx">
+"Against that kind of bowing, I have no choice.
+ I forgive you."
+#
+<name "Lassan" "!ZE0033" "ka38a000.agf">
+"Yo!"
+#
+<name "Darx">
+"Oh, let me see it again."
+#
+<name "Lassan" "!ZE0034" "ka38a000.agf">
+"Leave it ta me!
+ Secre' move!
+ Rollin' rice ball!"
+#
+\x78\x78

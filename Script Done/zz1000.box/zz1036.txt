@@ -1,0 +1,340 @@
+﻿<music 9>
+<background "ev077a00.agf" 10>
+Giant tentacles are approaching the edge of
+the city.
+#
+<name "Surprised Citizen" "!ZH0001">
+"W-What is that!?"
+#
+<name "Scared Citizen" "!MB0003">
+"Run away!"
+#
+<name "Steadfast Citizen" "!CB0003">
+"Idiots!
+ Don't run!
+ We have to fight!"
+#
+<name "Afraid Citizen" "!KB0043">
+"We can't.
+ What are those?"
+#
+<name "Fighting Citizen" "!BC0011">
+"You cut one down and another takes its place."
+#
+<name "Calm Citizen" "!LB0040">
+"Focus on defending."
+#
+<name "Commanding Citizen" "!GB0026">
+"Don't go forward!
+ Just hit what comes at you!"
+#
+<name "Surprised Citizen" "!ZH0002">
+"Y-Yeah.
+ Got it."
+#
+<name "Scared Citizen" "!MB0004">
+"Damn it.
+ I'll do it."
+#
+<music 16>
+<background "ev076a00.agf" 10>
+The tentacles are also closing in on 
+Forzelotte's Shrine.
+#
+<name "Tojo" "!KA0014">
+"Blast one and another takes its place."
+#
+<name "Golan" "!CA0012">
+"Grr."
+#
+<name "Veteran Soldier" "!BC0012">
+"Tojo, we've closed the barriers in each
+ place."
+#
+<name "Tojo" "!KA0015">
+"Okay, then this is the best place to stand our
+ ground.
+ Don't let them through here."
+#
+<name "Tojo" "!KA0016">
+"Come on, we'll be fine.
+ They're not so strong."
+#
+<name "Tojo" "!KA0017">
+"There's just a ton of them."
+#
+<name "Tojo" "!KA0018">
+"We can stop them."
+#
+<name "Golan" "!CA0013">
+"Let's go."
+#
+<name "Veteran Soldier" "!BC0013">
+"Yeah!"
+#
+<music 9>
+<background "ev077a00.agf" 10>
+<name "Commanding Teacher" "!BC0014">
+"Block them with fire!"
+#
+<name "Reporting Teacher" "!GB0027">
+"We can't use the hall of doors!"
+#
+<name "Izana" "!AA0015">
+"Take the injured inside.
+ Don't take any risks."
+#
+<name "Logius" "!PA0037">
+"The teachers must defend the school.
+ Leave the city to the people in it."
+#
+<name "Logius" "!PA0038">
+"We will not abandon you.
+ Have faith in us."
+#
+<name "Logius" "!PA0040">
+"Anyway, we've got to endure for now."
+#
+<name "Defending Teacher" "!KB0044">
+"Yes!"
+#
+<name "Logius" "!PA0041">
+"Honestly, ever since the new Overlord took
+ over, it's been one problem after another."
+#
+<name "Logius" "!PA0042">
+"It was nice and quiet when Forzelotte was in
+ charge."
+#
+<name "Flan" "!HC0005">
+"Logius, where should we protect?"
+#
+<name "Aly" "!SB0007">
+"We'll fight too."
+#
+<name "Logius" "!PA0043">
+"I can't let our students do anything
+ dangerous!"
+#
+<name "Aly" "!SB0008">
+"B-But..."
+#
+<name "Logius" "!PA0044">
+"Leave this to your teachers."
+#
+<name "Logius" "!PA0045">
+"Besides, students have their own jobs to do.
+ Disaster prevention.
+ If something catches fire, be ready to 
+ immediately extinguish it."
+#
+<name "Logius" "!PA0046">
+"That's also a very important job."
+#
+<name "Aly" "!SB0009">
+"Yeah, okay."
+#
+<name "Flan" "!HC0006">
+"We can do it."
+#
+<name "Logius" "!PA0047">
+"Okay, now stay back."
+#
+<name "Flan" "!HC0007">
+"Yes, ma'am.
+ Let's go, Aly."
+#
+<name "Aly" "!SB0010">
+"Yep."
+#
+...
+#
+<name "Logius" "!PA0048">
+"Well, I won't let any fires happen."
+#
+<name "Izana" "!AA0016">
+"You're overprotective."
+#
+<name "Logius" "!PA0049">
+"What? You put your students in danger?"
+#
+<name "Izana" "!AA0017">
+"Don't be silly."
+#
+<name "Logius" "!PA0050">
+"Right?
+ I will protect this place with my life."
+#
+<name "Izana" "!AA0018">
+"Yes."
+#
+...
+#
+<name "Ultinia" "!EA0019">
+"Mm..."
+#
+<name "Reporting Angel" "!QB0046">
+"I'm sorry.
+ We have our hands full holding on here."
+#
+<name "Fighting Demon" "!UA0005">
+"Don't let them through!"
+#
+<name "Ultinia" "!EA0020">
+"Don't take risks.
+ Abandon anywhere that's hard to defend.
+ Pull together and hold the line."
+#
+<name "Defending Angel" "!WB0031">
+"Understood."
+#
+...
+#
+<name "Sofia" "!ZB0540">
+"Guide people to the center of the city.
+ Bring those who need treatment to the
+ specified locations."
+#
+<name "Bustling Maid" "!AC0085">
+"Yes, ma'am!"
+#
+<name "Reporting Maid" "!DC0089">
+"Report from the garrison.
+ The gates are closed and they can't take in 
+ any more people.
+ They're focusing on defense."
+#
+<name "Sofia" "!ZB0541">
+"No problem."
+#
+<name "Reporting Maid" "!DC0090">
+"Ma'am!"
+#
+<name "Commanding Maid" "!PC0082">
+"The Temple of Darx's closure is complete.
+ The fighters are making their way to the
+ city."
+#
+<name "Sofia" "!ZB0542">
+"Thank you very much."
+#
+<name "Sofia" "!ZB0543">
+"For now, the safety of our citizens is our
+ top priority!"
+#
+The city and Forzelotte's Shrine are under
+attack by the tentacles, causing chaos, but
+everyone knows their jobs and is managing to
+deal with the situation.
+#
+However, all that's being achieved is delaying
+the inevitable.
+#
+<name "Bustling Maid" "!AC0086">
+"Overlord, you're back!
+ And Forzelotte's with you!"
+#
+<name "Celebrating Citizen" "!ZE0011">
+"Yes!"
+#
+<name "Darx">
+"Someone explain what's going on!"
+#
+<name "Sofia" "!ZB0544">
+"Yes, sir. 
+ This way."
+#
+But in the middle of the chaos, one woman is
+on the run.
+#
+<name "Surprised Maid" "!DC0091">
+"Suisen's gone?"
+#
+<name "Panicking Maid" "!PC0083">
+"F-Find her!"
+#
+<background "bg017a0.agf" 10>
+<music 3>
+<background "bg010a0.agf" 10>
+<name "Darx">
+"So... tentacles are attacking all over, and
+ we're currently holding them back."
+#
+<sprite "ta01a024.agf" 4 4 11>
+<name "Sofia" "!ZB0545">
+"Yes."
+#
+<sprite "ta01a025.agf" 4 4 12>
+<name "Sofia" "!ZB0546">
+"The form of the tentacles suggests that 
+ they're your body, but isn't the size 
+ completely wrong?"
+#
+<name "Darx">
+"No, that is my body."
+#
+<removesprite -1 11>
+It went berserk during the fight with Wadatsumi
+and tried to pull in Forzelotte.
+#
+<name "Darx">
+"I don't know what exactly they did, but the
+ enemy took control of it... though it looks
+ like they've lost control."
+#
+<sprite "ta01a025.agf" 4 4 11>
+<name "Sofia" "!ZB0547">
+"Okay.
+ So it's just going crazy?"
+#
+<name "Darx">
+"Mmhmm."
+#
+<removesprite -1 11>
+<sprite "ta10a008.agf" 4 4 11>
+<name "Forzelotte" "!XA0034">
+"Do not concern yourself with it.
+ Just destroy it."
+#
+<name "Darx">
+"Yeah."
+#
+<removesprite -1 11>
+It has incredible regenerative powers, but 
+there's got to be a way to beat it...
+Ugh, no point thinking about it.
+We just need to cut it down.
+#
+<name "Darx">
+"The city and Forzelotte's Shrine are going to
+ have to protect themselves.
+ I'm going to kill my body...
+ No, my tentacles."
+#
+<sprite "ta01a004.agf" 4 4 11>
+<name "Sofia" "!ZB0548">
+"Yes, sir."
+#
+<removesprite -1 11>
+<sprite "ta10a005.agf" 4 4 11>
+<name "Forzelotte" "!XA0035">
+"Mm."
+#
+<removesprite -1 11>
+<name "Darx">
+"Is the Hall of Doors safe?"
+#
+<sprite "ta01a016.agf" 4 4 11>
+<name "Sofia" "!ZB0549">
+"It's okay, but... where are you going?"
+#
+<name "Darx">
+"The Lucent Crown Wall."
+#
+<removesprite -1 11>
+That's probably where it is.
+#
+I just have a hunch.
+
+#
+\x78\x78

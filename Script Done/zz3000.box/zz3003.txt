@@ -1,0 +1,107 @@
+﻿<music 17>
+<background "ev052a00.agf" 10>
+<name "Paniverna" "!DA0056">
+"Aah..."
+#
+<name "Ultinia" "!EA0023">
+"Pani's overflowing."
+#
+<name "Darx">
+"I was trying to do that to all of you."
+#
+<name "Izana" "!AA0021">
+"Indeed.
+ Mm...ah...
+ Would you like to rest?"
+#
+<name "Darx">
+"No need to overdo it.
+ None of you can move yet, can you?"
+#
+<name "Ultinia" "!EA0024">
+"Thank you for your consideration."
+#
+<name "Darx">
+"Oh, that reminds me, Ultinia."
+#
+<name "Ultinia" "!EA0025">
+"Yes?"
+#
+<name "Darx">
+"How have the enemies been at Forzelotte's
+ Shrine?"
+#
+<background "ev052a01.agf" 12>
+<name "Ultinia" "!EA0026">
+"No matter how you look at it, there's nothing
+ out of the ordinary."
+#
+<name "Ultinia" "!EA0027">
+"There are occasional attacks from the
+ uncontrolled areas, but no serious
+ incursions."
+#
+<name "Ultinia" "!EA0028">
+"There's angels who haven't yet joined us,
+ but while there's been negotiations, there
+ haven't been any real attacks."
+#
+<name "Izana" "!AA0022">
+"Still can't convince them?"
+#
+<name "Paniverna" "!DA0057">
+"They're demanding food and resources, aren't
+ they?"
+#
+<name "Darx">
+"Really?"
+#
+<name "Ultinia" "!EA0029">
+"Yes.
+ Of course, I've officially refused, but some
+ of our followers are sympathetic to them, so
+ it's not an ideal situation."
+#
+<name "Ultinia" "!EA0030">
+"I'm sorry.
+ I do realize I'm turning a blind eye."
+#
+<name "Ultinia" "!EA0031">
+"If you give the order, I will take a stricter
+ stance immediately."
+#
+<name "Darx">
+"If you crack down, that might push some people
+ over the edge and make things worse."
+#
+<name "Darx">
+"I'm fine with supplying them food, but don't
+ do it openly.
+ Just enough that it's like someone is 
+ disobeying orders to get it to them."
+#
+<name "Ultinia" "!EA0032">
+"Okay."
+#
+<name "Darx">
+"As for supplies, tweak our logistics to make
+ it more difficult for things to go missing."
+#
+<name "Ultinia" "!EA0033">
+"I understand."
+#
+<name "Darx">
+"Is that all the work talk?
+ Let's get back to it."
+#
+<name "Paniverna" "!DA0058">
+"Okay."
+#
+<name "Izana" "!AA0023">
+"Good luck."
+#
+<background "ev052a02.agf" 12>
+<name "Ultinia" "!EA0034">
+"Ah, m-me too, please."
+#
+\x78\x78

@@ -1,0 +1,164 @@
+﻿<music 7>
+<background "bg025a0.agf" 10>
+<sprite "ta07a003.agf" 4 4 11>
+<name "Mysterious Voice" "!MA0015">
+"Hmm.
+ So you're Darx.
+ You did well to make it here."
+#
+<name "Darx">
+"Who are you?"
+#
+<sprite "ta07a004.agf" 4 4 12>
+<name "Mysterious Voice" "!MA0016">
+"My name is Wadatsumi."
+#
+<sprite "ta07a003.agf" 4 4 12>
+<name "Wadatsumi" "!MA0017">
+"I am your enemy."
+#
+<name "Darx">
+"So you're the one giving orders to Suisen?"
+#
+<sprite "ta07a004.agf" 4 4 12>
+<name "Wadatsumi" "!MA0018">
+"That is correct."
+#
+<sprite "ta07a003.agf" 4 4 12>
+<name "Wadatsumi" "!MA0019">
+"Apparently she told you my name, but her
+ devotion to me is still admirable."
+#
+<sprite "ta07a004.agf" 4 4 12>
+<name "Wadatsumi" "!MA0020">
+"She has bought me considerable time.
+ I must be grateful.
+ Mmhmm."
+#
+<name "Darx">
+"You seem confident standing here before me."
+#
+<sprite "ta07a003.agf" 4 4 12>
+<name "Wadatsumi" "!MA0021">
+"Confident?
+ You mean my attitude?"
+#
+<sprite "ta07a004.agf" 4 4 12>
+<name "Wadatsumi" "!MA0022">
+"I had to sacrifice a considerable amount of
+ strength to come to the human world, and
+ you see this as confidence?"
+#
+<name "Darx">
+"It doesn't seem like you're up against the
+ wall."
+#
+<sprite "ta07a003.agf" 4 4 12>
+<name "Wadatsumi" "!MA0023">
+"That is the wisdom that comes with age."
+#
+<sprite "ta07a004.agf" 4 4 12>
+<name "Wadatsumi" "!MA0024">
+"If you live long enough, you will learn many
+ things."
+#
+<sprite "ta07a003.agf" 4 4 12>
+<name "Wadatsumi" "!MA0025">
+"And in all cases, you must have a plan, and
+ you must stick to it."
+#
+<sprite "ta07a004.agf" 4 4 12>
+<name "Wadatsumi" "!MA0026">
+"Now is no exception."
+#
+<sprite "ta07a003.agf" 4 4 12>
+<name "Wadatsumi" "!MA0027">
+"Celestials joining with demons, living in a
+ city together."
+#
+<sprite "ta07a004.agf" 4 4 12>
+<name "Wadatsumi" "!MA0028">
+"It is outrageous."
+#
+<sprite "ta07a005.agf" 4 4 12>
+<name "Wadatsumi" "!MA0029">
+"It is absurd."
+#
+<sprite "ta07a006.agf" 4 4 12>
+<name "Wadatsumi" "!MA0030">
+"No, it is unacceptable."
+#
+<sprite "ta07a005.agf" 4 4 12>
+<name "Wadatsumi" "!MA0031">
+"You know your neighbors are savages.
+ How can you live in peace?"
+#
+<sprite "ta07a000.agf" 4 4 12>
+<name "Wadatsumi" "!MA0032">
+"You cannot."
+#
+<sprite "ta07a001.agf" 4 4 12>
+<name "Wadatsumi" "!MA0033">
+"And yet, creating such a city tricks the
+ innocents of Celestia."
+#
+<sprite "ta07a002.agf" 4 4 12>
+<name "Wadatsumi" "!MA0034">
+"Perhaps our neighbors are actually fine
+ people."
+#
+<sprite "ta07a006.agf" 4 4 12>
+<name "Wadatsumi" "!MA0035">
+"How foolish."
+#
+<sprite "ta07a003.agf" 4 4 12>
+<name "Wadatsumi" "!MA0036">
+"For the foolish Celestials that I cherish,
+ that city... must be erased."
+#
+<name "Darx">
+"And me too?"
+#
+<sprite "ta07a004.agf" 4 4 12>
+<name "Wadatsumi" "!MA0037">
+"Yes, you as well."
+#
+<removesprite -1 11>
+<music 9>
+<background "ev075c00.agf" 10>
+I can see my other body behind him.
+#
+And in the middle of it is Forzelotte.
+#
+<name "Wadatsumi" "!MA0038">
+"This separate body is quite impressive."
+#
+<name "Wadatsumi" "!MA0039">
+"If it was my son, I would pat its head and
+ tell it that it had done well..."
+#
+<name "Wadatsumi" "!MA0040">
+"But it's not a human."
+#
+<name "Wadatsumi" "!MA0041">
+"A human having this much mana is something
+ that cannot be allowed to exist."
+#
+<name "Darx">
+"I see.
+ So after all this talk, there's nothing I
+ can say?"
+#
+<name "Wadatsumi" "!MA0042">
+"Mmm.
+ I suppose I cannot ask you to just lay down
+ and die."
+#
+<name "Darx">
+"I suppose."
+#
+<name "Wadatsumi" "!MA0043">
+"Then I'm not asking.
+ Die."
+#
+\x78\x78

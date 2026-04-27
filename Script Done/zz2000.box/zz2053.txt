@@ -1,0 +1,61 @@
+﻿<music 3>
+<background "bg010a0.agf" 10>
+<sprite "ta22a000.agf" 4 4 11>
+<name "Nein" "!QA0074">
+"Y-You called for me?"
+#
+<name "Darx">
+"Lower the altitude."
+#
+<sprite "ta22a001.agf" 4 4 12>
+<name "Nein" "!QA0075">
+"O-Okay."
+#
+<removesprite -1 11>
+<sprite "ta22b001.agf" 4 4 11>
+Her panties are right in front of my eyes.
+#
+...
+#
+<name "Nein" "!QA0076" "ka22b000.agf">
+"Aaah! H-He... Aah!
+ S-Stop it...aah!"
+#
+<removesprite -1 11>
+I gave her my all.
+#
+<sprite "ta22a108.agf" 4 4 11>
+<name "Nein" "!QA0077">
+"D-Don't attack me out of nowhere!"
+#
+<name "Darx">
+"I mean, there were panties right in front of
+ me."
+#
+<sprite "ta22a110.agf" 4 4 12>
+<name "Nein" "!QA0078">
+"Then I'll wear pants."
+#
+<name "Darx">
+"That's unacceptable."
+#
+<sprite "ta22a109.agf" 4 4 12>
+<name "Nein" "!QA0079">
+"Ooh..."
+#
+<name "Darx">
+"Are you embarrassed?"
+#
+<sprite "ta22a110.agf" 4 4 12>
+<name "Nein" "!QA0080">
+"This is how I've always been, so not
+ really..."
+#
+<sprite "ta22a109.agf" 4 4 12>
+<name "Nein" "!QA0081">
+"But when you're looking at me..."
+#
+<removesprite -1 11>
+...I gave her my all again.
+#
+\x78\x78

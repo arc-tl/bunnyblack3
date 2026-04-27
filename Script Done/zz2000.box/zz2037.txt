@@ -1,0 +1,35 @@
+﻿<music 13>
+<background "ev004a00.agf" 10>
+<name "Host Maid" "!PC0558">
+"Welcome to the third gambling tournament!"
+#
+<name "Participating Citizen" "!ZD0170">
+"They've really lowered the scale."
+#
+<name "Listening Citizen" "!UA0188">
+"The amounts have been reduced too..."
+#
+<name "Unhappy Citizen" "!HC0194">
+"It's like at a kid's game's level."
+#
+<name "Host Maid" "!PC0559">
+"Awww...
+ I had to do it because of the complaints 
+ from everywhere."
+#
+<name "Participating Citizen" "!ZD0171">
+"But don't worry, it'll still be fun!"
+#
+<name "Listening Citizen" "!UA0189">
+"That's right!"
+#
+<name "Host Maid" "!PC0560">
+"Thank you!"
+#
+The gambling tournament has attracted a
+dedicated cadre of fans.
+#
+<name "Host Maid" "!PC0561">
+"But only gamble responsibly, all right?"
+#
+\x78\x78

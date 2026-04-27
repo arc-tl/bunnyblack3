@@ -1,0 +1,75 @@
+﻿<music 18>
+<background "ev022a02.agf" 10>
+<name "Miartei" "!SA0129">
+"Aaah...
+ How was that?"
+#
+<name "Darx">
+"You learn fast.
+ It was pretty good.
+ Just like I'd expect of you."
+#
+<name "Miartei" "!SA0130">
+"Not at all...
+ I just did like you told me to."
+#
+I finish and stroke her hair while we rest.
+#
+<name "Miartei" "!SA0131">
+"Aah!"
+#
+<name "Darx">
+"Miartei, do you want to go back to Celestia?"
+#
+<name "Miartei" "!SA0132">
+"...No, I want to be here.
+ At your side."
+#
+<name "Darx">
+"Are you sure?"
+#
+<name "Miartei" "!SA0133">
+"Yes."
+#
+<name "Miartei" "!SA0134">
+"Besides, honestly... um, because of what 
+ you've done with me, there's no place for me
+ in Celestia."
+#
+<name "Darx">
+"I see."
+#
+<name "Miartei" "!SA0135">
+"Please take responsibility for me and my
+ sister."
+#
+<name "Darx">
+"Miartei."
+#
+<name "Miartei" "!SA0136">
+"Yes?"
+#
+<name "Darx">
+"You are you.
+ And she is someone else."
+#
+<name "Miartei" "!SA0137">
+"Y-Yes."
+#
+<name "Darx">
+"Remember that."
+#
+<name "Miartei" "!SA0138">
+"...Yes."
+#
+<name "Darx">
+"Then let's continue.
+ Move."
+#
+<background "ev022a04.agf" 10>
+<name "Miartei" "!SA0139">
+"Yes.♪"
+#
+I enjoy myself with her.
+#
+\x78\x78

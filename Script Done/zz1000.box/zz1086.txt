@@ -1,0 +1,29 @@
+﻿<music 20>
+<background "ev085a00.agf" 10>
+Hmm...
+#
+Sometimes, it's not bad to fuck humans.
+#
+Physically and mentally, they're delicate
+compared to angels or demons, but...
+#
+Thanks to that, I remember how different
+they are.
+#
+I've been pretty reckless lately.
+#
+<name "Company Maid" "!PC0307">
+"Overlord, how much longer will you be?"
+#
+<name "Darx">
+"After the ones here... two more times, 
+ maybe?"
+#
+<name "Company Maid" "!PC0308">
+"Understood.
+ Good luck."
+#
+<name "Darx">
+"Yeah!"
+#
+\x78\x78

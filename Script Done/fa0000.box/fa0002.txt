@@ -1,0 +1,1706 @@
+﻿\x0B\x02\x02\x44\x02\x02\x44 1 \x1A\x01\x0A\x46\x00\x32\x00\x34\x00\x32\x00\x33\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :58: \x1A\x01\x08\x46\x00\x31\x00\x34\x00\x30\x00\x20\x00\x6F\x00\x6E\x00\x09\x00 :58: \x0A\x04\x09\x77\x84\x01\x16 :84A7: \x0A\x04\x00\x8F\x84\x01\x15 :660: 
+:58
+\x1A\x01\x0A\x46\x00\x32\x00\x34\x00\x31\x00\x31\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :86: \x0A\x04\x09\x6B\x84\x01\x16 :661: \x15 :660: 
+:86
+\x1A\x01\x0A\x46\x00\x32\x00\x34\x00\x31\x00\x32\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :D8: \x1A\x01\x0E\x43\x00\x32\x00\x30\x00\x32\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x31\x00\x30\x00\x30\x00\x30\x00\x30\x00\x09\x00 :D8: \x0A\x04\x09\x6C\x84\x01\x16 :1B00: \x15 :660: 
+:D8
+\x1A\x01\x0A\x46\x00\x32\x00\x34\x00\x31\x00\x33\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :12A: \x1A\x01\x0E\x43\x00\x32\x00\x30\x00\x32\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x31\x00\x30\x00\x30\x00\x30\x00\x30\x00\x09\x00 :12A: \x0A\x04\x09\x6D\x84\x01\x16 :3133: \x15 :660: 
+:12A
+\x1A\x01\x0A\x46\x00\x32\x00\x34\x00\x31\x00\x39\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :1AC: \x1A\x01\x08\x46\x00\x31\x00\x35\x00\x30\x00\x20\x00\x6F\x00\x6E\x00\x09\x00 :1AC: \xF3 "学園寮"  0  0  0 \x22\x00\x00 0 \x1A\x01\x0A\x43\x00\x4C\x00\x30\x00\x30\x00\x30\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x31\x00 :1AC: \x0A\x04\x09\x73\x84\x01\x16 :5C25: \x15 :660: 
+:1AC
+\x1A\x01\x0A\x46\x00\x32\x00\x34\x00\x31\x00\x34\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :1FE: \x1A\x01\x0E\x43\x00\x32\x00\x30\x00\x32\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x31\x00\x30\x00\x30\x00\x30\x00\x30\x00\x09\x00 :1FE: \x0A\x04\x09\x6E\x84\x01\x16 :3F66: \x15 :660: 
+:1FE
+\x1A\x01\x0A\x46\x00\x32\x00\x34\x00\x32\x00\x30\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :280: \x1A\x01\x08\x46\x00\x31\x00\x35\x00\x30\x00\x20\x00\x6F\x00\x6E\x00\x09\x00 :280: \xF3 "学園寮"  0  0  0 \x22\x00\x00 0 \x1A\x01\x0A\x43\x00\x4C\x00\x30\x00\x30\x00\x30\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x32\x00 :280: \x0A\x04\x09\x74\x84\x01\x16 :729D: \x15 :660: 
+:280
+\x1A\x01\x0A\x46\x00\x32\x00\x34\x00\x31\x00\x35\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :2D2: \x1A\x01\x0E\x43\x00\x32\x00\x30\x00\x32\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x31\x00\x30\x00\x30\x00\x30\x00\x30\x00\x09\x00 :2D2: \x0A\x04\x09\x6F\x84\x01\x16 :43E9: \x15 :660: 
+:2D2
+\x1A\x01\x0A\x46\x00\x32\x00\x34\x00\x32\x00\x31\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :354: \x1A\x01\x08\x46\x00\x31\x00\x35\x00\x30\x00\x20\x00\x6F\x00\x6E\x00\x09\x00 :354: \xF3 "学園寮"  0  0  0 \x22\x00\x00 0 \x1A\x01\x0A\x43\x00\x4C\x00\x30\x00\x30\x00\x30\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x33\x00 :354: \x0A\x04\x09\x75\x84\x01\x16 :7D3D: \x15 :660: 
+:354
+\x1A\x01\x0A\x46\x00\x32\x00\x34\x00\x31\x00\x36\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :3A6: \x1A\x01\x0E\x43\x00\x32\x00\x30\x00\x32\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x31\x00\x30\x00\x30\x00\x30\x00\x30\x00\x09\x00 :3A6: \x0A\x04\x09\x70\x84\x01\x16 :466C: \x15 :660: 
+:3A6
+\x1A\x01\x0A\x46\x00\x32\x00\x34\x00\x32\x00\x32\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :428: \x1A\x01\x08\x46\x00\x31\x00\x35\x00\x30\x00\x20\x00\x6F\x00\x6E\x00\x09\x00 :428: \xF3 "学園寮"  0  0  0 \x22\x00\x00 0 \x1A\x01\x0A\x43\x00\x4C\x00\x30\x00\x30\x00\x30\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x35\x00 :428: \x0A\x04\x09\x76\x84\x01\x16 :808D: \x15 :660: 
+:428
+\x1A\x01\x0A\x46\x00\x32\x00\x34\x00\x31\x00\x37\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :47A: \x1A\x01\x0E\x43\x00\x32\x00\x30\x00\x32\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x31\x00\x30\x00\x30\x00\x30\x00\x30\x00\x09\x00 :47A: \x0A\x04\x09\x71\x84\x01\x16 :49BB: \x15 :660: 
+:47A
+\x1A\x01\x0A\x46\x00\x32\x00\x34\x00\x31\x00\x38\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :4CC: \x1A\x01\x0E\x43\x00\x32\x00\x30\x00\x32\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x31\x00\x30\x00\x30\x00\x30\x00\x30\x00\x09\x00 :4CC: \x0A\x04\x09\x72\x84\x01\x16 :591A: \x15 :660: 
+:4CC
+\x1A\x01\x08\x46\x00\x31\x00\x32\x00\x31\x00\x20\x00\x6F\x00\x6E\x00\x09\x00 :5BA: \x2E\x22\x00\x00 1  5 \x1A\x01\x0A\x43\x00\x4C\x00\x30\x00\x30\x00\x30\x00\x20\x00\x3C\x00\x3D\x00\x20\x00\x31\x00 :51A: \x16 :1088: \x15 :660: 
+:51A
+\x1A\x01\x0A\x43\x00\x4C\x00\x30\x00\x30\x00\x30\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x32\x00 :542: \x16 :12D0: \x15 :660: 
+:542
+\x1A\x01\x0A\x43\x00\x4C\x00\x30\x00\x30\x00\x30\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x33\x00 :56A: \x16 :13FE: \x15 :660: 
+:56A
+\x1A\x01\x0A\x43\x00\x4C\x00\x30\x00\x30\x00\x30\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x34\x00 :592: \x16 :1553: \x15 :660: 
+:592
+\x1A\x01\x0A\x43\x00\x4C\x00\x30\x00\x30\x00\x30\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x35\x00 :5BA: \x16 :164E: \x15 :660: 
+:5BA
+\x1A\x01\x09\x46\x00\x31\x00\x32\x00\x31\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :65A: \x2E\x22\x00\x00 1  3 \x1A\x01\x0A\x43\x00\x4C\x00\x30\x00\x30\x00\x30\x00\x20\x00\x3C\x00\x3D\x00\x20\x00\x31\x00 :60A: \x16 :1718: \x15 :660: 
+:60A
+\x1A\x01\x0A\x43\x00\x4C\x00\x30\x00\x30\x00\x30\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x32\x00 :632: \x16 :1930: \x15 :660: 
+:632
+\x1A\x01\x0A\x43\x00\x4C\x00\x30\x00\x30\x00\x30\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x33\x00 :65A: \x16 :1A19: \x15 :660: 
+:65A
+\x15 :660: 
+:660
+\x78
+:661
+<music 4>
+<background "bg009a0.agf" 10>
+<sprite "ta01a004.agf" 4 4 11>
+<name "Sofia" "!ZB0719">
+"You've achieved your goals.
+ All that's left is for me to go to
+ Forzelotte's Shrine and give this report to
+ Rakia."
+#
+<name "Darx">
+"Oh, if you're going to Rakia's place, I'll
+ come along.
+ You don't mind?"
+#
+<sprite "ta01a033.agf" 4 4 12>
+<name "Sofia" "!ZB0720">
+"Okay. 
+ Please."
+#
+<removesprite -1 11>
+<music 40>
+<background "bg004a0.agf" 10>
+<sprite "ta08a004.agf" 4 4 11>
+<name "Rakia" "!ZC0353">
+"Yes, I understand.
+ This means you have fulfilled the conditions
+ set by Macdo."
+#
+<removesprite -1 11>
+<sprite "ta08a004.agf" 2 4 11>
+<sprite "ta01a004.agf" 6 5 11>
+<name "Sofia" "!ZB0721">
+"Whew."
+#
+<sprite "ta08a023.agf" 2 4 12>
+<name "Rakia" "!ZC0354">
+"Well done."
+#
+<removesprite -1 11>
+<name "Darx">
+"I don't get that too?"
+#
+<sprite "ta08a004.agf" 4 4 11>
+<name "Rakia" "!ZC0355">
+"You also did well."
+#
+<name "Darx">
+"So, what's next?"
+#
+<sprite "ta08a005.agf" 4 4 12>
+<name "Rakia" "!ZC0356">
+"We'll prepare it right away, but I won't be
+ able to give it to you now."
+#
+<name "Darx">
+"Go home and wait then?"
+#
+<sprite "ta08a004.agf" 4 4 12>
+<name "Rakia" "!ZC0357">
+"Yes."
+#
+<name "Sofia" "!ZB0722">
+"Overlord, let's get as much work done while
+ we have some time."
+#
+<sprite "ta08a023.agf" 4 4 12>
+<name "Rakia" "!ZC0358">
+"That's a good idea."
+#
+<name "Darx">
+"Yeah, yeah.
+ But, you know..."
+#
+<name "Darx">
+"Don't we have some time to get a drink?"
+#
+<removesprite -1 11>
+<sprite "ta01a025.agf" 4 4 11>
+<name "Sofia" "!ZB0723">
+"...Not at my place?"
+#
+<name "Darx">
+"I'm not saying no, but this is a chance to
+ hang out and for you to study up."
+#
+<sprite "ta01a024.agf" 4 4 12>
+<name "Sofia" "!ZB0724">
+"Huh?
+ Oh, okay, then..."
+#
+<removesprite -1 11>
+<music 11>
+<background "bg015a0.agf" 10>
+The next day...
+#
+<music 4>
+<background "bg009a0.agf" 10>
+<name "Darx">
+"Huh?
+ Where's Sofia?"
+#
+<sprite "ta34b000.agf" 4 4 11>
+<name "Company Maid" "!AC0200">
+"Working hard.
+ Did something happen yesterday?"
+#
+<name "Darx">
+"We got drinks at Rakia's place."
+#
+<name "Company Maid" "!AC0201">
+"Ah, I see.
+ So she was meant to learn from a master?"
+#
+<name "Darx">
+"I thought it might inspire her."
+#
+<name "Company Maid" "!AC0202">
+"Overlord, Sofia may still be somewhat
+ undependable, but she is a full fledged
+ Gunguskar employee. She won't be discouraged
+ from seeing a better store."
+#
+<name "Darx">
+"Sorry about that."
+#
+<removesprite -1 11>
+<exit>
+:1088
+<music 3>
+<background "bg010a0.agf" 10>
+<sprite "ta01a004.agf" 4 4 11>
+<name "Sofia" "!ZB0725">
+"Overlord, congratulations on completing your
+ assignment."
+#
+<name "Darx">
+"Yeah. That was an easy one."
+#
+<sprite "ta01a033.agf" 4 4 12>
+<name "Sofia" "!ZB0726">
+"Good luck with the next one too."
+#
+<name "Darx">
+"Yeah.
+ So, what is next?"
+#
+<sprite "ta01a004.agf" 4 4 12>
+<name "Sofia" "!ZB0727">
+"That's still under consideration.
+ It looks like it may take some time, so let's
+ get things done while we have the chance."
+#
+<name "Darx">
+"All right."
+#
+<removesprite -1 11>
+<exit>
+:12D0
+<music 3>
+<background "bg010a0.agf" 10>
+<name "Darx">
+"Job finished on time!
+ That's a real adventurer for you!"
+#
+<name "Darx">
+"And I used to be a great adventurer!"
+#
+<sprite "ta01a004.agf" 4 4 11>
+<name "Sofia" "!ZB0728">
+"Congratulations on finishing your assignment
+ on time."
+#
+<removesprite -1 11>
+<exit>
+:13FE
+<music 3>
+<background "bg010a0.agf" 10>
+<sprite "ta01a033.agf" 4 4 11>
+<name "Sofia" "!ZB0729">
+"You finished your assignment.
+ Congratulations."
+#
+<name "Darx">
+"Well, we managed."
+#
+<sprite "ta01a004.agf" 4 4 12>
+<name "Sofia" "!ZB0730">
+"Work hard next time too."
+#
+<name "Darx">
+"Yeah."
+#
+<removesprite -1 11>
+<exit>
+:1553
+<music 3>
+<background "bg010a0.agf" 10>
+<sprite "ta01a033.agf" 4 4 11>
+<name "Sofia" "!ZB0731">
+"You completed your goals.
+ Good luck with the next one too."
+#
+<name "Darx">
+"Yeah.
+ Well, I've still got some time to work on a
+ few things until the next goal's picked."
+#
+<removesprite -1 11>
+<exit>
+:164E
+<music 3>
+<background "bg010a0.agf" 10>
+<sprite "ta01a033.agf" 4 4 11>
+<name "Sofia" "!ZB0732">
+"Conditions complete.
+ I expected no less."
+#
+<name "Darx">
+"Yeah, leave it to me."
+#
+<removesprite -1 11>
+<exit>
+:1718
+<music 3>
+<background "bg010a0.agf" 10>
+<sprite "ta01a004.agf" 4 4 11>
+<name "Sofia" "!ZB0733">
+"Overlord, since the deadline was approaching,
+ I went ahead and filed the report to have it
+ completed."
+#
+<name "Darx">
+"I see.
+ Thanks."
+#
+<sprite "ta01a027.agf" 4 4 12>
+<name "Sofia" "!ZB0734">
+"Next time, it would be good to leave a little
+ more leeway."
+#
+<sprite "ta01a004.agf" 4 4 12>
+<name "Sofia" "!ZB0735">
+"You never know what might happen."
+#
+<name "Darx">
+"Yeah."
+#
+<removesprite -1 11>
+<exit>
+:1930
+<music 3>
+<background "bg010a0.agf" 10>
+<sprite "ta01a004.agf" 4 4 11>
+<name "Sofia" "!ZB0736">
+"Overlord, the deadline was coming up, so I
+ handled things."
+#
+<name "Darx">
+"Thanks."
+#
+<removesprite -1 11>
+<exit>
+:1A19
+<music 3>
+<background "bg010a0.agf" 10>
+<sprite "ta01a004.agf" 4 4 11>
+<name "Sofia" "!ZB0737">
+"Overlord, the deadline for our assignment
+ came up, so I processed things."
+#
+<name "Darx">
+"Thanks."
+#
+<removesprite -1 11>
+<exit>
+:1B00
+<music 40>
+<background "bg004a0.agf" 10>
+<sprite "ta08a004.agf" 4 4 11>
+<name "Rakia" "!ZC0363">
+"If it isn't Darx.
+ Can I help you?"
+#
+<name "Darx">
+"Yeah, I'm finished with my assignment, so I
+ brought the report."
+#
+<sprite "ta08a023.agf" 4 4 12>
+<name "Rakia" "!ZC0364">
+"...Indeed.
+ Well done."
+#
+<name "Darx">
+"Still, don't these conditions keep getting
+ tougher each time?"
+#
+<sprite "ta08a004.agf" 4 4 12>
+<name "Rakia" "!ZC0365">
+"I'm very sorry, but I have faith that you can
+ handle them."
+#
+<name "Darx">
+"..."
+#
+<sprite "ta08a002.agf" 4 4 12>
+<name "Rakia" "!ZC0366">
+"Um, what is it?"
+#
+<removesprite -1 11>
+I pull Rakia into a corner.
+#
+<music 49>
+<background "ev041a00.agf" 10>
+<name "Rakia" "!ZC0367">
+"Ah... H-Hold on, Darx?"
+#
+<name "Darx">
+"No?"
+#
+I stroke her butt as I speak.
+#
+<name "Rakia" "!ZC0368">
+"...H-Honestly.
+ Then, just once, but please let this calm
+ your temper."
+#
+<name "Darx">
+"I'm not mad."
+#
+<name "Rakia" "!ZC0369">
+"Really?
+ It doesn't seem that way to me."
+#
+<name "Darx">
+"Okay, then I am mad."
+#
+<name "Rakia" "!ZC0370">
+"Yes, I understand.
+ So...mm...ah..."
+#
+I lift her skirt.
+#
+<background "ev041b00.agf" 10>
+<name "Rakia" "!ZC0371">
+"Ah...
+ Please don't stare so hard."
+#
+<name "Darx">
+"Then..."
+#
+I stroke her butt over her underwear.
+#
+<name "Rakia" "!ZC0372">
+"Mm...ah... 
+ Um..."
+#
+<name "Darx">
+"I know."
+#
+She's worried about her clothes getting dirty
+if I keep this up.
+#
+I slowly lower her underwear.
+#
+<background "ev041c00.agf" 10>
+<name "Rakia" "!ZC0373">
+"Ah..."
+#
+All of her is completely visible.
+#
+I immediately bring my face close, reach out
+with my tongue, and begin caressing her. 
+#
+<name "Rakia" "!ZC0374">
+"Ah...mm...mmm..."
+#
+Because she has every intention of accepting
+me, her entrance immediately gets dripping
+wet.
+#
+<name "Rakia" "!ZC0375">
+"Aah...ah..."
+#
+I move away and instead bring out my dick,
+already big enough and ready to explode.
+#
+<background "ev041c01.agf" 10>
+<name "Rakia" "!ZC0376">
+"Mm...mmm..."
+#
+My dick goes through her lips and enters her.
+#
+And as I slowly push forward, it sinks deep
+inside of her like it's being sucked in.
+#
+<name "Rakia" "!ZC0377">
+"Mmmm..."
+#
+She moans at the same time as I pierce her.
+#
+And as if that was a signal, I intensely start
+thrusting my hips.
+#
+<name "Rakia" "!ZC0378">
+"Mm...aah...ah...mm... D-Darx...
+ Aah...ah...ah...aaah!"
+#
+She holds still against my intense movements.
+#
+<name "Rakia" "!ZC0379">
+"Ah! Ahh! Ah! Ahh! Ah! Aah! Ah!
+ Ah! Aah! Ahhh! Ah! Aaaahhh! Ahhh!"
+#
+Like she's telling me to do whatever I want.
+#
+<name "Rakia" "!ZC0380">
+"Aah! Ahh! Mmmm! Ahhh! Ahh! Ah!"
+#
+Which is why I slam against her butt, aiming
+to come right away through the intense sounds.
+#
+<name "Rakia" "!ZC0381">
+"Ah! Aah! Ah! Ahh! Ah! Ahh! Aah!"
+#
+But I don't intend to come on my own.
+#
+<name "Rakia" "!ZC0382">
+"Ah! Ah! Ah! Aah! Ah!
+ N-No! Aah!
+ T-That spot's... Ah!"
+#
+Yeah, she won't have any complaints if I
+pleasure her too.
+#
+<name "Rakia" "!ZC0383">
+"Ah...ah...ah..."
+#
+I move to try to make her come too, and kiss
+her right at the moment I know she's close.
+#
+<name "Rakia" "!ZC0384">
+"Mmmmmmmmmmm!!!"
+#
+And then I come.
+#
+My dick throbs and pours semen into her womb.
+#
+<background "ev041c02.agf" 10>
+<name "Rakia" "!ZC0385">
+"Mm...mmmmmmm..."
+#
+I enjoy kissing her until my long ejaculation
+finishes.
+#
+<background "ev041c03.agf" 10>
+<name "Rakia" "!ZC0386">
+"Ah...aah...ah...
+ H-Honestly, that isn't a position for
+ kissing..."
+#
+<name "Darx">
+"Oh?"
+#
+I think we both enjoyed it though.
+#
+<name "Rakia" "!ZC0387">
+"And why are you moving your hips again?"
+#
+<name "Darx">
+"Another time."
+#
+<name "Rakia" "!ZC0388">
+"...Very well.
+ Mmm...aah... H-Honestly... I give up.
+ Do whatever you like."
+#
+<name "Darx">
+"Yeah."
+#
+I enjoy myself with her, and for the second
+time, come over her ass.
+#
+<background "ev041c05.agf" 10>
+<name "Rakia" "!ZC0389">
+"Ah...mm...mm...
+ O-Outside?"
+#
+<name "Darx">
+"I normally prefer to come inside, but I 
+ wanted to mark you."
+#
+<name "Rakia" "!ZC0390">
+"W-What do you mean?"
+#
+<name "Darx">
+"I wanted to paint you with my semen."
+#
+<name "Rakia" "!ZC0391">
+"Ah...ah...
+ Darx..."
+#
+<name "Darx">
+"Rakia."
+#
+I didn't let her go for a long time.
+#
+<background "bg017a0.agf" 10>
+<music 40>
+<background "bg004a0.agf" 10>
+<sprite "ta34b000.agf" 4 4 11>
+<name "Company Maid" "!AC0203">
+"Darx, do you know where Rakia is?"
+#
+<name "Darx">
+"Oh, she's out sick today."
+#
+<sprite "ta34b002.agf" 4 4 12>
+<name "Company Maid" "!AC0204">
+"Huh?
+ Rakia is?"
+#
+<name "Darx">
+"Hahaha.
+ No questions."
+#
+<sprite "ta34b001.agf" 4 4 12>
+<name "Company Maid" "!AC0205">
+"Um..."
+#
+<removesprite -1 11>
+<music 11>
+<background "bg016a0.agf" 10>
+I didn't stop until she could no longer stand
+straight, and then went home satisfied.
+#
+<name "Rakia" "!ZC0392" "ka08a111.agf">
+"Darx, be afraid of what comes after this."
+#
+<name "Darx">
+"..."
+#
+Of course, after I very politely made sure she
+got home okay.
+#
+\x0A\x44\x02\xFC\x84\x01
+<exit>
+:3133
+<music 40>
+<background "bg004a0.agf" 10>
+<sprite "ta08a004.agf" 4 4 11>
+<name "Rakia" "!ZC0393">
+"You've finished already?
+ Very impressively quick."
+#
+<name "Darx">
+"I just got lucky, I guess."
+#
+<sprite "ta08a023.agf" 4 4 12>
+<name "Rakia" "!ZC0394">
+"Luck is also a skill.
+ Work hard for the next time too, all right?"
+#
+<name "Darx">
+"Yeah, I intend to."
+#
+<sprite "ta08a001.agf" 4 4 12>
+<name "Rakia" "!ZC0395">
+"Huh?"
+#
+<removesprite -1 11>
+I pull her to the back of the storage area.
+#
+<music 49>
+<background "ev042a00.agf" 10>
+<name "Rakia" "!ZC0396">
+"H-Honestly, Darx...
+ Ah...mmm...mm...aah..."
+#
+I push her onto a table in the warehouse and
+force a kiss on her.
+#
+<name "Rakia" "!ZC0397">
+"Mmmm...ah!"
+#
+While keeping her mouth closed, I quickly
+undress her.
+#
+She realizes what's happening, but can't 
+resist the kiss.
+#
+<name "Rakia" "!ZC0398">
+"Ahh...mmm..."
+#
+And immediately caress her.
+#
+Then stick it in immediately after.
+#
+<background "ev042a01.agf" 10>
+<name "Rakia" "!ZC0399">
+"Aah... H-Honestly, you're so..."
+#
+As soon as my dick begins stirring up her
+pussy, she gives up fighting it.
+#
+<name "Rakia" "!ZC0400">
+"You're so pushy...
+ Mmm...aaah...ah...ah..."
+#
+<name "Darx">
+"Because you're too attractive."
+#
+<name "Rakia" "!ZC0401">
+"Ah...ah... W-Why...ah... when you do this...
+ you only...mmm... f-flatter me...
+ Ahhhh!"
+#
+<name "Darx">
+"There's only things to flatter."
+#
+<name "Rakia" "!ZC0402">
+"Am...mm...
+ H-Honestly..."
+#
+I suck on her breasts.
+#
+<name "Rakia" "!ZC0403">
+"Ah...aah...ah... D-Don't...
+ Y-You're biti...ah!
+ Aah! Mmmm!"
+#
+I've known her for a very long time.
+#
+I know almost all her weaknesses.
+#
+But there are always new things to discover,
+even ones I've found before.
+#
+One of the first ones was flattery.
+#
+Aside from her work, she's exceptionally weak
+to flattery.
+#
+But I'm not saying it just to turn her on.
+#
+It's the truth.
+#
+<background "ev042a02.agf" 10>
+<name "Rakia" "!ZC0404">
+"Ah...ah...ah...ahhh..."
+#
+She has no need for insincere praise.
+#
+Maybe she's so weak to it because she knows
+it's how I really feel.
+#
+<name "Rakia" "!ZC0405">
+"Mm...ah... D-Darx..."
+#
+She starts moving her hips.
+#
+The table she's sitting on creaks and groans.
+#
+I move my hips faster like she wants.
+#
+<name "Rakia" "!ZC0406">
+"Ah...aah...ah...ahhh...aaah...mmmmmm!"
+#
+When I bend forward to go faster, she grabs
+my face and kisses me.
+#
+<name "Rakia" "!ZC0407">
+"Mmmm...ah...mmmm...mmm...ah!"
+#
+The act quickly escalates.
+#
+The sound of the table, the sound of our
+bodies slapping together, and the sound of my
+dick stirring up her pussy. 
+#
+The feeling of us being one.
+#
+<name "Rakia" "!ZC0408">
+"Mmm...aah! Ah! Ahh! Ah! Aahhh!"
+#
+She hugs me tight and has a big orgasm.
+#
+<name "Rakia" "!ZC0409">
+"Aaaaaahhhhhhhhh!!!"
+#
+Just after her, I come in her pussy.
+#
+<background "ev042a03.agf" 10>
+<name "Rakia" "!ZC0410">
+"Ah...aah...ahhh..."
+#
+Our eyes meet.
+#
+<background "ev042a04.agf" 10>
+<name "Rakia" "!ZC0411">
+"You're not done yet, are you?"
+#
+<name "Darx">
+"Of course not."
+#
+I move my hips again, coveting her body.
+#
+She moves her hips as well, using her whole
+body to entice me.
+#
+We enjoy each other, and I come over and over.
+#
+<background "ev042a06.agf" 10>
+<name "Rakia" "!ZC0412">
+"Ah...aahhh...ah..."
+#
+...I may have overdone it a little.
+#
+Rakia took a break from the store that day.
+#
+\x0A\x44\x02\xFD\x84\x01
+<exit>
+:3F66
+<music 49>
+<background "ev041c05.agf" 10>
+<name "Rakia" "!ZC0413">
+"Aah...ah...aahh...
+ Oooh... 
+ You smeared me in so much semen again..."
+#
+<name "Darx">
+"I shouldn't have?"
+#
+<name "Rakia" "!ZC0414">
+"When it's this bad, I need to change clothes
+ before going back.
+ And if I don't take a shower, I can't go in
+ front of customers."
+#
+<name "Darx">
+"Then it's the same if I go a little further."
+#
+<name "Rakia" "!ZC0415">
+"Huh?
+ Ah, w-wait, Darx.
+ Wait... Aah! Ah! Aahhh!"
+#
+I fully enjoyed myself with her.
+#
+<name "Rakia" "!ZC0416">
+"Y-You even used the other hole..."
+#
+<name "Darx">
+"Rakia."
+#
+<name "Rakia" "!ZC0417">
+"What?"
+#
+<name "Darx">
+"Rakia, Rakia, Rakia."
+#
+I cling to her like a horny dog.
+#
+<name "Rakia" "!ZC0418">
+"Darx?
+ Ah... It's getting big again...
+ Hey, n-no, I just took a shower...
+ Ah! Ah! Aaahhh!"
+#
+She didn't get back to work in the shop that
+day.
+#
+And I got a new nickname.
+#
+<name "Rakia" "!ZC0419">
+"H-Horny dog."
+#
+It's an unpleasant nickname, but I'll accept
+it from her.
+#
+\x0A\x44\x02\xFE\x84\x01
+<exit>
+:43E9
+<music 49>
+<background "ev042a00.agf" 10>
+<name "Rakia" "!ZC0420">
+"D-Doing it without warning is quite
+ bothersome..."
+#
+<name "Darx">
+"Rakia."
+#
+<name "Rakia" "!ZC0421">
+"W-What?"
+#
+<name "Darx">
+"You're pretty when you're bothered."
+#
+<name "Rakia" "!ZC0422">
+"Honestly...
+ You're..."
+#
+<background "ev042a01.agf" 10>
+<name "Rakia" "!ZC0423">
+"Very well.
+ Do as you wish."
+#
+<name "Darx">
+"Then..."
+#
+<name "Rakia" "!ZC0424">
+"Ah, but first..."
+#
+<name "Darx">
+"Hm?"
+#
+<name "Rakia" "!ZC0425">
+"Kiss me."
+#
+<name "Darx">
+"Yeah."
+#
+I share a passionate kiss with her, and then
+enjoy myself many times.
+#
+\x0A\x44\x01\xCE\x84\x01\x0A\x44\x02\xFF\x84\x01
+<exit>
+:466C
+<music 49>
+<background "ev042a02.agf" 10>
+<name "Rakia" "!ZC0426">
+"Aah! Ah! Aah! Ah! Ah! Aaah! Ahhhh!"
+#
+I enjoy Rakia's body.
+#
+After reporting that we finished our 
+assignment, things escalated quickly.
+#
+Rakia may also feel like being with me is kind
+of a reward.
+#
+So she accepts it without complaint.
+#
+<name "Rakia" "!ZC0427">
+"Ah...aah...ah...ah...mmmmmm..."
+#
+I beat against the back of her pussy with my
+dick.
+#
+<background "ev042a03.agf" 10>
+<name "Rakia" "!ZC0428">
+"Ah...ah...mmmmmmmmaaaaaahhhhh!!!"
+#
+She climaxes.
+#
+And drawn by it, a flood of semen erupts from
+my dick into her.
+#
+<name "Rakia" "!ZC0429">
+"Mmmm..."
+#
+<name "Darx">
+"Rakia."
+#
+<name "Rakia" "!ZC0430">
+"Ah..."
+#
+I kiss her and demanded more.
+#
+\x0A\x44\x03\x00\x84\x01
+<exit>
+:49BB
+<music 49>
+<background "ev041c00.agf" 10>
+<name "Rakia" "!ZC0431">
+"Um..."
+#
+<name "Darx">
+"What?"
+#
+<name "Rakia" "!ZC0432">
+"Why have you only been stroking my butt?"
+#
+<name "Darx">
+"You want me to put it in faster?"
+#
+Her juices are dripping down her thighs.
+#
+<name "Rakia" "!ZC0433">
+"No, that's not it..."
+#
+<name "Darx">
+"Um...
+ Just thinking about the timing."
+#
+<name "Rakia" "!ZC0434">
+"The timing?"
+#
+<name "Darx">
+"Yeah.
+ Hm..."
+#
+<name "Company Maid" "!PC0231">
+"Rakia, are you here?"
+#
+<name "Rakia" "!ZC0435">
+"Ah..."
+#
+Right as one of the maids comes looking for
+her, I sink my dick inside her.
+#
+<background "ev041c01.agf" 10>
+<name "Rakia" "!ZC0436">
+"D-Darx, d-don't...
+ Ah! Aahh!"
+#
+Her body is more than ready after the long
+foreplay.
+#
+It accepts my dick immediately.
+#
+But with a maid nearby, she tries to fight it.
+#
+<name "Rakia" "!ZC0437">
+"Darx, y-you'll make me mad.
+ Aah...ah...ah..."
+#
+<name "Company Maid" "!PC0232">
+"Rakia, where are you?"
+#
+<name "Darx">
+"You should answer her."
+#
+<name "Rakia" "!ZC0438">
+"Ah...ah...ah...ahh!"
+#
+<name "Darx">
+"Then I'll have to tell her you're here."
+#
+<name "Company Maid" "!PC0233">
+"Overlord?
+ Oh, you're here?"
+#
+<name "Darx">
+"Yeah, sorry.
+ Stop right there."
+#
+<name "Company Maid" "!PC0234">
+"Huh?"
+#
+<name "Darx">
+"We're having a private meeting.
+ Not for your eyes."
+#
+<name "Company Maid" "!PC0235">
+"I-I see.
+ I'm sorry for bothering you."
+#
+<name "Darx">
+"No, it's fine.
+ Did you need Rakia for something?"
+#
+<name "Company Maid" "!PC0236">
+"Yes.
+ Where is the list of products that need to
+ be sent to Sofia's store?"
+#
+<name "Darx">
+"Well?"
+#
+I keep moving inside of Rakia's pussy as I
+talk to the maid, even as she fights not to
+moan.
+#
+<name "Rakia" "!ZC0439">
+"Ah...ah... I'm sorry.
+ I meant to give it to her but I forgot.
+ It's on the shelf in my office next to my 
+ desk. Do you know where that is?"
+#
+<name "Company Maid" "!PC0237">
+"Yes.
+ The shelf with the blue books on it?"
+#
+<name "Rakia" "!ZC0440">
+"That's right.
+ It's in the middle row there, right at the
+ front."
+#
+<name "Rakia" "!ZC0441">
+"Check the date, and then please take care of
+ the rest."
+#
+<name "Company Maid" "!PC0238">
+"Yes, ma'am.
+ I understand.
+ Excuse me."
+#
+...
+#
+The maid leaves.
+#
+<name "Rakia" "!ZC0442">
+"Ah...aah...
+ D-Darx..."
+#
+I start to come inside her as she glares at
+me through tears.
+#
+<music 40>
+<background "bg004a0.agf" 10>
+<sprite "ta08a118.agf" 4 4 11>
+<name "Rakia" "!ZC0443">
+"W-What would have happened if she saw us?"
+#
+<name "Darx">
+"It's nothing special, right?"
+#
+<sprite "ta08a116.agf" 4 4 12>
+<name "Rakia" "!ZC0444">
+"I have my dignity too."
+#
+<removesprite -1 11>
+<sprite "ta08a116.agf" 2 5 11>
+<sprite "ta34b000.agf" 6 4 11>
+<name "Company Maid" "!PC0239">
+"Ah, Rakia.
+ Are you done with your meeting?"
+#
+<sprite "ta08a022.agf" 2 5 12>
+<name "Rakia" "!ZC0445">
+"Huh?
+ Yes, I think so.
+ Did you find the list?"
+#
+<name "Company Maid" "!PC0240">
+"Yes, eventually.
+ Okay, excuse me."
+#
+<removesprite -1 11>
+<sprite "ta08a024.agf" 4 4 11>
+<name "Rakia" "!ZC0446">
+"...She really didn't realize."
+#
+<name "Darx">
+"Well, she probably wouldn't even imagine the
+ great Rakia having sex in the back while at
+ work."
+#
+<sprite "ta08a018.agf" 4 4 12>
+<name "Rakia" "!ZC0447">
+"Oooh..."
+#
+<name "Darx">
+"If you don't like it, I won't do it
+ anymore."
+#
+<sprite "ta08a116.agf" 4 4 12>
+<name "Rakia" "!ZC0448">
+"...Y-You're mean."
+#
+<name "Darx">
+"Then let's do it again."
+#
+<sprite "ta08a117.agf" 4 4 12>
+<name "Rakia" "!ZC0449">
+"T-That's also questionable."
+#
+<removesprite -1 11>
+I make love with her.
+#
+\x0A\x44\x03\x01\x84\x01
+<exit>
+:591A
+<music 49>
+<background "ev042a05.agf" 10>
+<name "Rakia" "!ZC0450">
+"Aah...ahhh..."
+#
+<name "Darx">
+"Mmm...
+ Are you okay?"
+#
+<name "Rakia" "!ZC0451">
+"Mm...ah...
+ I can't... move."
+#
+<music 40>
+<background "bg004a0.agf" 10>
+<sprite "ta08a004.agf" 4 4 11>
+<name "Rakia" "!ZC0452">
+"Welcome."
+#
+<name "Darx">
+"You recover quickly."
+#
+<sprite "ta08a023.agf" 4 4 12>
+<name "Rakia" "!ZC0453">
+"Y-You get used to it."
+#
+<name "Darx">
+"I see.
+ So, you're used to it, huh?"
+#
+<sprite "ta08a018.agf" 4 4 12>
+<name "Rakia" "!ZC0454">
+"D-Don't get any funny ideas."
+#
+<name "Darx">
+"Not funny.
+ Wonderful."
+#
+<sprite "ta08a021.agf" 4 4 12>
+<name "Rakia" "!ZC0455">
+"H-Honestly..."
+#
+<removesprite -1 11>
+\x2B\x0A\x44\x03\x02\x84\x01
+<exit>
+:5C25
+<music 41>
+<background "ev043a00.agf" 10>
+After reporting to Rakia that I finished my
+tasks, I went home.
+#
+<name "Horned Girl" "!HC0049">
+"Ah, it's daddy!"
+#
+<name "Pretty Winged Girl" "!SB0130">
+"Welcome home."
+#
+<name "Forzelotte" "!XA0156">
+"Mm.
+ Welcome home.
+ How have you been?"
+#
+<name "Darx">
+"First...
+ Kasha is making sweets for you.
+ Hurry up and go get some."
+#
+<name "Horned Girl" "!HC0050">
+"Really?"
+#
+<name "Pretty Winged Girl" "!SB0131">
+"Yay!"
+#
+<background "bg003a0.agf" 10>
+My kids around Forzelotte all go racing out
+of the room.
+#
+As soon as the last one's out, I lock the 
+door.
+#
+<sprite "ta09a003.agf" 4 4 11>
+<name "Forzelotte" "!XA0157">
+"Huh?"
+#
+<removesprite -1 11>
+And push down Forzelotte.
+#
+<music 50>
+<background "ev045a00.agf" 10>
+<name "Forzelotte" "!XA0158">
+"S-So sudden.
+ Hey, ah, w-wait, they're still near..."
+#
+I immediately begin sucking on her chest and
+touch her all over as I taste her.
+#
+<background "ev045a01.agf" 10>
+<name "Forzelotte" "!XA0159">
+"Mm...aah...ah...aaah...
+ H-Honestly..."
+#
+She resists for a moment, but quickly gives 
+in.
+#
+<name "Forzelotte" "!XA0160">
+"Aah...ah...mmm...mmm..."
+#
+Her body also wants me.
+#
+<name "Forzelotte" "!XA0161">
+"Mmm... Honestly...
+ I was wondering why you'd suddenly come
+ back...
+ Mmm...ah!"
+#
+I quickly put my dick inside her.
+#
+<name "Forzelotte" "!XA0162">
+"Mmm..."
+#
+Her pussy gently sucks me in and squeezes
+tight.
+#
+<background "ev045a02.agf" 10>
+<name "Forzelotte" "!XA0163">
+"Ah...mmm..."
+#
+And soaks me in her warmth.
+#
+<name "Forzelotte" "!XA0164">
+"Ah...ah...ahhh..."
+#
+Her insides are filled with her love juices,
+letting me move easily.
+#
+<name "Forzelotte" "!XA0165">
+"Aah...ah...aah...aaah..."
+#
+I experience her with my entire body.
+#
+Her appearance, her voice, her smell, her
+taste, her touch...
+#
+And my body reacts to all of it.
+It demands her body.
+#
+<name "Forzelotte" "!XA0166">
+"Ah...aah...ahhh...ah!"
+#
+If you were watching us, it would look like
+I'm one-sidedly assaulting her.
+#
+But she knows what I want, and completely
+accepts it.
+#
+An intense act.
+#
+<name "Forzelotte" "!XA0167">
+"Aah! Ahh! Ah! Ah! Aah!"
+#
+Not that long ago, nobody would ever think the
+Overlord reigning over the dungeon would moan
+like this, but she's learned to enjoy her
+emotions.
+#
+And I help her enjoy them even more.
+#
+<background "ev045a03.agf" 10>
+<name "Forzelotte" "!XA0168">
+"Ah! Aah! Ahh! Aaaahhhh!!!"
+#
+She climaxes just as I finish coming myself.
+#
+After being away from her, I was a little
+impatient.
+#
+<background "ev045a04.agf" 10>
+<name "Forzelotte" "!XA0169">
+"Mm...mm...ah...
+ Darx..."
+#
+<name "Darx">
+"Hm?"
+#
+<name "Forzelotte" "!XA0170">
+"It's a strength of yours to not be finished
+ with just this, but also a weakness."
+#
+<name "Darx">
+"...I can't?"
+#
+<name "Forzelotte" "!XA0171">
+"If you refuse, I will rid myself of you
+ immediately."
+#
+<name "Darx">
+"Right?"
+#
+We continued to covet each other's body, as
+if we were one.
+#
+<background "bg017a0.agf" 10>
+<music 41>
+<background "bg003a0.agf" 10>
+<sprite "ta09a014.agf" 4 4 11>
+<name "Forzelotte" "!XA0172">
+"I-It has been a while.
+ That hurt."
+#
+<name "Darx">
+"You were cute."
+#
+<sprite "ta09a016.agf" 4 4 12>
+<name "Forzelotte" "!XA0173">
+"Mmm..."
+#
+<name "Darx">
+"I love you."
+#
+<sprite "ta09a023.agf" 4 4 12>
+<name "Forzelotte" "!XA0174">
+"And I you."
+#
+<sprite "ta09a010.agf" 4 4 12>
+<name "Forzelotte" "!XA0175">
+"However, there is an order to things."
+#
+<name "Darx">
+"Yeah. Here, a present."
+#
+<sprite "ta09a004.agf" 4 4 12>
+<name "Forzelotte" "!XA0176">
+"A souvenir?"
+#
+<name "Darx">
+"No, that's for the children.
+ This one's special, just for you."
+#
+<sprite "ta09a023.agf" 4 4 12>
+<name "Forzelotte" "!XA0177">
+"Special has a nice ring to it."
+#
+<sprite "ta09a003.agf" 4 4 12>
+<name "Forzelotte" "!XA0178">
+"But what is inside?
+ I will be very angry if it is a mold of your
+ thing."
+#
+<name "Darx">
+"Just what do you think I would call a
+ present?"
+#
+<sprite "ta09a020.agf" 4 4 12>
+<name "Forzelotte" "!XA0179">
+"In the past, it has been underwear full of
+ holes, bondage equipment..."
+#
+<name "Darx">
+"Those were in the catalog.
+ And they were practical."
+#
+<sprite "ta09a023.agf" 4 4 12>
+<name "Forzelotte" "!XA0180">
+"Let us not speak any more of that.
+ So, what is it this time?"
+#
+<name "Darx">
+"It'll be fine."
+#
+<sprite "ta09a005.agf" 4 4 12>
+<name "Forzelotte" "!XA0181">
+"I see."
+#
+<removesprite -1 11>
+She opens the small box I gave her.
+#
+<sprite "ta09a004.agf" 4 4 11>
+<name "Forzelotte" "!XA0182">
+"Hmm. A scarf?
+ The fabric seems quite expensive...
+ The design is not bad as well."
+#
+<name "Darx">
+"Right?"
+#
+<sprite "ta09a006.agf" 4 4 12>
+<name "Forzelotte" "!XA0183">
+"I shall treasure it."
+#
+<name "Darx">
+"I told you so."
+#
+<sprite "ta09a005.agf" 4 4 12>
+<name "Forzelotte" "!XA0184">
+"Do you have today off?"
+#
+<name "Darx">
+"Just about a day."
+#
+<sprite "ta09a001.agf" 4 4 12>
+<name "Forzelotte" "!XA0185">
+"I see.
+ Then since it has been so long, I would like
+ to taste your cooking."
+#
+<name "Darx">
+"All right.
+ My special treat."
+#
+<sprite "ta09a006.agf" 4 4 12>
+<name "Forzelotte" "!XA0186">
+"Heheheh. 
+ I expect no less of my husband."
+#
+<removesprite -1 11>
+\x2B\x0A\x44\x03\x03\x84\x01
+<exit>
+:729D
+<music 50>
+<background "ev045a05.agf" 10>
+<name "Forzelotte" "!XA0187">
+"Mm...ahh...ahh...ah...mm...mmm..."
+#
+I've done it several times with her now.
+#
+<name "Forzelotte" "!XA0188">
+"Mm...mmm...mm...ah...mmm...
+ D-Darx...
+ Mmm...mmm...aah...aah!"
+#
+I'm getting tired, but I'm not recovering
+with magic.
+#
+Exhaustion is part of the act.
+#
+I'm completely fine with exhausting myself
+for Forzelotte.
+#
+<name "Forzelotte" "!XA0189">
+"Mm...mmm...aaah...aah...ah!"
+#
+She pesters me for a kiss.
+#
+I tease her for just a moment, and then kiss
+her.
+#
+<name "Forzelotte" "!XA0190">
+"Mmm...mmm...ahh...mmm...mmmmm!"
+#
+That was probably the tipping point.
+#
+<name "Forzelotte" "!XA0191">
+"Mm! Mm! Mmm! Ah! Mmmm!"
+#
+She's on the edge of orgasm.
+#
+I move my hips to help her and stir up her
+insides.
+#
+I'm almost there too.
+#
+<background "ev045a06.agf" 10>
+<name "Forzelotte" "!XA0192">
+"Ah...mmmmmaaaaaahhhhhh!!!"
+#
+She comes loudly.
+#
+As I listen to her voice, I start to come too.
+#
+<name "Forzelotte" "!XA0193">
+"Ah...aah...ah...ah...aah..."
+#
+<name "Forzelotte" "!XA0194">
+"...Darx..."
+#
+<name "Darx">
+"Hm?"
+#
+<name "Forzelotte" "!XA0195">
+"You may continue, but a short break.
+ Hold me close."
+#
+<name "Darx">
+"Yeah."
+#
+I hug her obediently.
+#
+<name "Forzelotte" "!XA0196">
+"I can touch others like this.
+ Because I met you."
+#
+<name "Forzelotte" "!XA0197">
+"That alone was enough for me, but I also had
+ a child."
+#
+<name "Forzelotte" "!XA0198">
+"Darx."
+#
+<name "Darx">
+"Hm?"
+#
+<name "Forzelotte" "!XA0199">
+"I truly am thankful."
+#
+<name "Darx">
+"Me too."
+#
+<name "Forzelotte" "!XA0200">
+"...Darx."
+#
+<name "Darx">
+"Hm?"
+#
+<name "Forzelotte" "!XA0201">
+"I would like to be like this a little
+ longer... but I also want to end this break."
+#
+<name "Darx">
+"All right."
+#
+I enjoy an intense session with her.
+#
+<background "bg017a0.agf" 10>
+<music 41>
+<background "ev043a00.agf" 10>
+<name "Horned Girl" "!HC0051">
+"Mommy's feeling better now."
+#
+<name "Pretty Winged Girl" "!SB0132">
+"Yep. She's better."
+#
+<name "Forzelotte" "!XA0202">
+"Haha...
+ I have been well for a long time."
+#
+<name "Forzelotte" "!XA0203">
+"Because you're all here."
+#
+<name "Horned Girl" "!HC0052">
+"Hahaha...
+ Mommy, let's throw the ball instead of
+ reading."
+#
+<name "Pretty Winged Girl" "!SB0133">
+"Ah, me too."
+#
+<name "Forzelotte" "!XA0204">
+"Oh, I can't move.
+ Please go easy on me today."
+#
+<name "Horned Girl" "!HC0053">
+"Eeeh?"
+#
+<name "Pretty Winged Girl" "!SB0134">
+"Why?"
+#
+<name "Forzelotte" "!XA0205">
+"L-Let's leave it at the price of love."
+#
+\x0A\x44\x03\x04\x84\x01
+<exit>
+:7D3D
+<music 50>
+<background "ev045a07.agf" 10>
+<name "Forzelotte" "!XA0206">
+"Aah...ahh...aah..."
+#
+<name "Darx">
+"Forze."
+#
+<name "Forzelotte" "!XA0207">
+"Aah...ah...hm?"
+#
+<name "Darx">
+"You're adorable."
+#
+<name "Forzelotte" "!XA0208">
+"O-Of course."
+#
+<name "Darx">
+"..."
+#
+<name "Forzelotte" "!XA0209">
+"Huh?
+ Ah, h-hey... H-Honestly...
+ Why would I expect anything else..."
+#
+I lust for her more.
+#
+<background "bg017a0.agf" 10>
+<music 41>
+<background "bg003a0.agf" 10>
+<sprite "ta09a016.agf" 4 4 11>
+<name "Forzelotte" "!XA0210">
+"E-Every time you come back, I end up worn
+ out."
+#
+<name "Darx">
+"Should I not?"
+#
+<sprite "ta09a023.agf" 4 4 12>
+<name "Forzelotte" "!XA0211">
+"...Do not ask questions you know the answer
+ to."
+#
+<name "Darx">
+"Thought so."
+#
+<removesprite -1 11>
+\x2B\x0A\x44\x03\x05\x84\x01
+<exit>
+:808D
+<music 50>
+<background "ev045a04.agf" 10>
+<name "Forzelotte" "!XA0212">
+"This brings back memories."
+#
+<name "Darx">
+"Hm?"
+#
+<name "Forzelotte" "!XA0213">
+"Just after Koze was born, you would suck on
+ my breasts quite frequently."
+#
+<name "Darx">
+"Did I?"
+#
+<name "Forzelotte" "!XA0217">
+"Thinking about it now, were you jealous of
+ her?
+ Did you think she'd steal me away?"
+#
+<name "Darx">
+"...Maybe."
+#
+<name "Forzelotte" "!XA0215">
+"Heheheh...
+ My heart... I have given some of it to Koze,
+ but it chiefly belongs to you." 
+#
+<name "Darx">
+"I see."
+#
+<name "Forzelotte" "!XA0216">
+"...Just so you are aware, while I am not
+ producing milk any longer, I am proud of how
+ well endowed my breasts are."
+#
+<name "Darx">
+"That's a roundabout way of telling me you
+ want me to tease your breasts."
+#
+I don't refuse her.
+#
+I continue playing with her, focusing
+thoroughly on her chest.
+#
+<background "bg017a0.agf" 10>
+<music 41>
+<background "bg003a0.agf" 10>
+<sprite "ta09a019.agf" 4 4 11>
+<name "Forzelotte" "!XA0218">
+"Y-You groped too much."
+#
+<removesprite -1 11>
+\x2B\x0A\x44\x03\x06\x84\x01
+<exit>
+:84A7
+<music 3>
+<background "bg010a0.agf" 10>
+<name "Darx">
+"How's that?"
+#
+<sprite "ta02a000.agf" 4 4 11>
+<name "Macdo" "!ZA0313">
+"Excellent."
+#
+<sprite "ta02a028.agf" 4 4 12>
+<name "Macdo" "!ZA0314">
+"Next will... take some time."
+#
+<name "Darx">
+"Thanks."
+#
+<removesprite -1 11>
+<exit>
+\x78

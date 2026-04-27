@@ -1,0 +1,32 @@
+﻿<music 11>
+<background "bg008a0.agf" 10>
+<name "Announcing Citizen" "!BC0206">
+"Now, let's begin the fishing tournament!"
+#
+<name "Announcing Citizen" "!BC0207">
+"Ah, you there, young lady.
+ Don't freeze them and then grab them by
+ hand."
+#
+<name "Announcing Citizen" "!BC0208">
+"And you there, miss.
+ No boiling the pond."
+#
+<name "Announcing Citizen" "!BC0209">
+"Please also stop shocking the fish to knock
+ them out."
+#
+<name "Announcing Citizen" "!BC0210">
+"Aah, you there, young lady.
+ I see you are ready to dive, but swimming is
+ against the rules during this tournament."
+#
+<name "Announcing Citizen" "!BC0211">
+"I also see some of you ladies holding spears
+ and bows. The only tools allowed in this
+ tournament are rods, lines, hooks, and bait.
+ Please put your weapons away."
+#
+The fishing tournament was a success.
+#
+\x78\x78

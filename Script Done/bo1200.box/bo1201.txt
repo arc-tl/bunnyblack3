@@ -1,0 +1,591 @@
+﻿\xD8 "床物" \x22\x00\x08\x02\x00\x49\x02\x00\x4A\x02\x00\x4B\x1A\x01\x0C\x43\x00\x4C\x00\x30\x00\x30\x00\x38\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x31\x00\x30\x00\x31\x00 :95: \x0B\x02\x02\x12\x02\x02\x12 1 \xD7 "床物"  105 \x02\x00\x49\x02\x00\x4A 1 \x02\x00\x4B\x00\x16 :228: \x2E\x22\x00\x00\x02\x02\x08\x02\x02\x09\x8A\x22\x00\x00 0  0  0  "New residents captured." \x15 :221: 
+:95
+\x1A\x01\x0C\x43\x00\x4C\x00\x30\x00\x30\x00\x38\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x31\x00\x30\x00\x32\x00 :119: \x0B\x02\x02\x13\x02\x02\x13 1 \xD7 "床物"  105 \x02\x00\x49\x02\x00\x4A 1 \x02\x00\x4B\x00\x16 :3E5: \x2E\x22\x00\x00\x02\x02\x0C\x02\x02\x0D\x8A 0  0 \x22\x00\x00 0  "Money obtained." \x15 :221: 
+:119
+\x1A\x01\x0C\x43\x00\x4C\x00\x30\x00\x30\x00\x38\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x31\x00\x30\x00\x34\x00 :19D: \x0B\x02\x02\x15\x02\x02\x15 1 \xD7 "床物"  105 \x02\x00\x49\x02\x00\x4A 1 \x02\x00\x4B\x00\x16 :478: \x2E\x22\x00\x00\x02\x02\x0A\x02\x02\x0B\x8A 0 \x22\x00\x00 0  0  "Food obtained." \x15 :221: 
+:19D
+\x1A\x01\x0C\x43\x00\x4C\x00\x30\x00\x30\x00\x38\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x31\x00\x30\x00\x33\x00 :221: \x0B\x02\x02\x14\x02\x02\x14 1 \xD7 "床物"  105 \x02\x00\x49\x02\x00\x4A 1 \x02\x00\x4B\x00\x16 :557: \x2E\x22\x00\x00\x02\x02\x0E\x02\x02\x0F\x8A 0  0  0 \x22\x00\x00 "Resources obtained." \x15 :221: 
+:221
+\x15 :227: 
+:227
+\x78
+:228
+\x1A\x01\x09\x46\x00\x38\x00\x30\x00\x31\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :270: \x1A\x01\x0A\x43\x00\x35\x00\x33\x00\x30\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x31\x00\x09\x00 :270: \x0A\x04\x03\x21\x84\x01\x0A\x04\x00\x78\x84\x01\x16 :68A: 
+:270
+\x1A\x01\x09\x46\x00\x38\x00\x30\x00\x32\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :2B8: \x1A\x01\x0A\x43\x00\x35\x00\x33\x00\x30\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x35\x00\x09\x00 :2B8: \x0A\x04\x03\x22\x84\x01\x0A\x04\x00\x78\x84\x01\x16 :A39: 
+:2B8
+\x1A\x01\x09\x46\x00\x38\x00\x30\x00\x33\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :302: \x1A\x01\x0B\x43\x00\x35\x00\x33\x00\x30\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x32\x00\x30\x00\x09\x00 :302: \x0A\x04\x03\x23\x84\x01\x0A\x04\x00\x78\x84\x01\x16 :AFD: 
+:302
+\x1A\x01\x09\x46\x00\x38\x00\x30\x00\x34\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :34C: \x1A\x01\x0B\x43\x00\x35\x00\x33\x00\x30\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x35\x00\x30\x00\x09\x00 :34C: \x0A\x04\x03\x24\x84\x01\x0A\x04\x00\x78\x84\x01\x16 :BA2: 
+:34C
+\x1A\x01\x09\x46\x00\x38\x00\x30\x00\x35\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :398: \x1A\x01\x0C\x43\x00\x35\x00\x33\x00\x30\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x31\x00\x30\x00\x30\x00\x09\x00 :398: \x0A\x04\x03\x25\x84\x01\x0A\x04\x00\x78\x84\x01\x16 :C55: 
+:398
+\x1A\x01\x09\x46\x00\x38\x00\x30\x00\x36\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :3E4: \x1A\x01\x0C\x43\x00\x35\x00\x33\x00\x30\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x31\x00\x35\x00\x30\x00\x09\x00 :3E4: \x0A\x04\x03\x26\x84\x01\x0A\x04\x00\x78\x84\x01\x16 :D54: 
+:3E4
+<exit>
+:3E5
+\x1A\x01\x09\x46\x00\x38\x00\x30\x00\x37\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :42D: \x1A\x01\x0A\x43\x00\x35\x00\x33\x00\x31\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x31\x00\x09\x00 :42D: \x0A\x04\x03\x27\x84\x01\x0A\x04\x00\x78\x84\x01\x16 :DB5: 
+:42D
+\x1A\x01\x09\x46\x00\x38\x00\x30\x00\x38\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :477: \x1A\x01\x0B\x43\x00\x35\x00\x33\x00\x31\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x35\x00\x30\x00\x09\x00 :477: \x0A\x04\x03\x28\x84\x01\x0A\x04\x00\x78\x84\x01\x16 :15B3: 
+:477
+<exit>
+:478
+\x1A\x01\x09\x46\x00\x38\x00\x30\x00\x39\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :4C0: \x1A\x01\x0A\x43\x00\x35\x00\x33\x00\x33\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x31\x00\x09\x00 :4C0: \x0A\x04\x03\x29\x84\x01\x0A\x04\x00\x78\x84\x01\x16 :17DB: 
+:4C0
+\x1A\x01\x09\x46\x00\x38\x00\x31\x00\x30\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :50A: \x1A\x01\x0B\x43\x00\x35\x00\x33\x00\x33\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x35\x00\x30\x00\x09\x00 :50A: \x0A\x04\x03\x2A\x84\x01\x0A\x04\x00\x78\x84\x01\x16 :19AE: 
+:50A
+\x1A\x01\x09\x46\x00\x38\x00\x31\x00\x31\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :556: \x1A\x01\x0C\x43\x00\x35\x00\x33\x00\x33\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x31\x00\x30\x00\x30\x00\x09\x00 :556: \x0A\x04\x03\x2B\x84\x01\x0A\x04\x00\x78\x84\x01\x16 :1AC7: 
+:556
+<exit>
+:557
+\x1A\x01\x09\x46\x00\x38\x00\x31\x00\x32\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :59F: \x1A\x01\x0A\x43\x00\x35\x00\x33\x00\x32\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x31\x00\x09\x00 :59F: \x0A\x04\x03\x2C\x84\x01\x0A\x04\x00\x78\x84\x01\x16 :1DC6: 
+:59F
+\x1A\x01\x09\x46\x00\x38\x00\x31\x00\x33\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :5E9: \x1A\x01\x0B\x43\x00\x35\x00\x33\x00\x32\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x35\x00\x30\x00\x09\x00 :5E9: \x0A\x04\x03\x2D\x84\x01\x0A\x04\x00\x78\x84\x01\x16 :217B: 
+:5E9
+\x1A\x01\x09\x46\x00\x38\x00\x31\x00\x34\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :635: \x1A\x01\x0C\x43\x00\x35\x00\x33\x00\x32\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x31\x00\x30\x00\x30\x00\x09\x00 :635: \x0A\x04\x03\x2E\x84\x01\x0A\x04\x00\x78\x84\x01\x16 :2287: 
+:635
+<exit>
+\x16 :234C: \x16 :23FC: \x16 :247E: \x16 :24F8: \x16 :25D1: \x16 :2735: \x16 :28A9: \x16 :2991: \x16 :2A8E: \x16 :2B19: \x16 :2BA7: \x16 :2C77: \x16 :2D83: \x16 :2E9C: 
+:68A
+\x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 \x2B
+<name "Darx">
+"I know we need to bring in new citizens, but
+ is there no other way besides beating them
+ up?"
+#
+<name "Company Maid" "!DC0351" "ka34c000.agf">
+"You could try to convince them, but I think
+ that might be difficult to do with every
+ single individual."
+#
+<name "Company Maid" "!DC0352" "ka34c000.agf">
+"How about if there's a group, you try
+ calling out to all of them at once?"
+#
+<name "Darx">
+"I guess.
+ Any other ideas?"
+#
+<name "Company Maid" "!DC0353" "ka34c000.agf">
+"I think it's easiest to just beat them into
+ submission.
+ It's normal to just follow the strong."
+#
+<name "Company Maid" "!DC0354" "ka34c000.agf">
+"Oh, and in that vein, if you can force the
+ leader of a group to follow you, there's a
+ chance that their underlings will come with
+ them."
+#
+<name "Darx">
+"I see.
+ And this is better than beating them all up?"
+#
+<name "Company Maid" "!DC0355" "ka34c000.agf">
+"But the leaders won't come out so readily."
+#
+<name "Darx">
+"You're right."
+#
+<name "Darx">
+"Well, I'll do what I can."
+#
+<exit>
+:A39
+\x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 \x2B
+<name "Darx">
+"There's a village here?"
+#
+<name "Company Maid" "!DC0356" "ka34c000.agf">
+"Overlord, please give a speech."
+#
+<name "Darx">
+"Okay."
+#
+<exit>
+:AFD
+\x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 \x2B
+<name "Company Maid" "!DC0357" "ka34c000.agf">
+"Overlord, you should give a speech here."
+#
+<name "Darx">
+"All right."
+#
+<exit>
+:BA2
+\x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 \x2B
+<name "Company Maid" "!DC0358" "ka34c000.agf">
+"Overlord, we've secured quite a few
+ immigrants."
+#
+<name "Darx">
+"Good job."
+#
+<exit>
+:C55
+\x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 \x2B
+<name "Company Maid" "!DC0359" "ka34c000.agf">
+"Overlord, we've found some people who want to
+ move to the city."
+#
+<name "Darx">
+"Send them along then."
+#
+<name "Company Maid" "!DC0360" "ka34c000.agf">
+"Yes, sir."
+#
+<exit>
+:D54
+\x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 \x2B
+<name "Darx">
+"Looks like a village.
+ I should try to recruit some people."
+#
+<exit>
+:DB5
+\x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 \x2B
+<name "Company Maid" "!PC0471" "ka34c000.agf">
+"Overlord, we secured some money."
+#
+<name "Darx">
+"Huh? 
+ Sorry, what was that?"
+#
+<name "Company Maid" "!PC0472" "ka34c000.agf">
+"Money."
+#
+<name "Darx">
+"...How?"
+#
+<name "Company Maid" "!PC0473" "ka34c000.agf">
+"How?
+ That safe right there."
+#
+<name "Darx">
+"...What is a safe doing here!?
+ And how did you open it up so easily!?"
+#
+<name "Company Maid" "!PC0474" "ka34c000.agf">
+"Heehee."
+#
+<name "Darx">
+"Okay, we need to have a talk.
+ Sit down."
+#
+<name "Company Maid" "!PC0475" "ka34c000.agf">
+"Yes, sir."
+#
+<name "Darx">
+"What is a safe doing here?"
+#
+<name "Company Maid" "!PC0476" "ka34c000.agf">
+"It's very heavy, so I doubt somebody just
+ dropped it."
+#
+<name "Darx">
+"Right."
+#
+<name "Company Maid" "!PC0477" "ka34c000.agf">
+"Maybe it came from one of the fallen
+ castles."
+#
+<name "Darx">
+"You're saying someone's safe fell here?"
+#
+<name "Company Maid" "!PC0478" "ka34c000.agf">
+"This wouldn't be where it fell.
+ Someone found it, carried it here, but it was
+ so heavy that they gave up and abandoned it.
+ I think that's a reasonable assumption."
+#
+<name "Darx">
+"I see.
+ Well, that's a good enough explanation for a
+ safe.
+ So how'd you open it so easily?"
+#
+<name "Company Maid" "!PC0479" "ka34c000.agf">
+"Overlord."
+#
+<name "Darx">
+"Hm?"
+#
+<name "Company Maid" "!PC0480" "ka34c000.agf">
+"It's because we're from Gunguskar."
+#
+<name "Darx">
+"........."
+#
+<name "Company Maid" "!PC0481" "ka34c000.agf">
+"Of course, we would never use our lockpicking
+ techniques for personal gain.
+ The contents of the safe belong to you."
+#
+<name "Company Maid" "!PC0482" "ka34c000.agf">
+"Does that satisfy you?"
+#
+<name "Darx">
+"I guess it has to."
+#
+<name "Company Maid" "!PC0483" "ka34c000.agf">
+"Don't worry about the little stuff."
+#
+<name "Darx">
+"I-I'll try."
+#
+<exit>
+:15B3
+\x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 \x2B
+<name "Company Maid" "!DC0361" "ka34c000.agf">
+"Overlord.♪"
+#
+<name "Darx">
+"You're in a good mood.
+ What's up?"
+#
+<name "Company Maid" "!DC0362" "ka34c000.agf">
+"Money obtained!"
+#
+<name "Darx">
+"G-Good job."
+#
+<name "Company Maid" "!DC0363" "ka34c000.agf">
+"No, no.
+ You don't even need to pat me on the head in
+ appreciation."
+#
+<name "Darx">
+"..."
+#
+I pat her affectionately.
+#
+<name "Company Maid" "!DC0364" "ka34c000.agf">
+"Aahh...
+ That's not patting my head."
+#
+<exit>
+:17DB
+\x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 \x2B
+<name "Company Maid" "!DC0365" "ka34c000.agf">
+"Overlord, we've secured food."
+#
+<name "Darx">
+"Food?
+ Oh, that stuff."
+#
+<name "Company Maid" "!DC0366" "ka34c000.agf">
+"Yes. It's growing wild, but I think it should
+ be fine to eat."
+#
+<name "Company Maid" "!DC0367" "ka34c000.agf">
+"Just in case, we'll check it back in the city
+ and then put it in the warehouse."
+#
+<name "Darx">
+"Please."
+#
+<exit>
+:19AE
+\x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 \x2B
+<name "Company Maid" "!DC0368" "ka34c000.agf">
+"Overlord, I think we can gather some food
+ around here."
+#
+<name "Darx">
+"I see.
+ Please do."
+#
+<name "Company Maid" "!DC0369" "ka34c000.agf">
+"Yes, leave it to us."
+#
+<exit>
+:1AC7
+\x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 \x2B
+<name "Company Maid" "!DC0370" "ka34c000.agf">
+"Overlord, it looks like we can collect some
+ food from around here."
+#
+<name "Darx">
+"Somewhere like this?"
+#
+<name "Company Maid" "!DC0371" "ka34c000.agf">
+"There are wild potatoes growing on the wall
+ over there."
+#
+<name "Darx">
+"You can just dig them out?"
+#
+<name "Company Maid" "!DC0372" "ka34c000.agf">
+"The wall is falling apart because of the
+ potatoes.
+ You know, you can tell there are potatoes
+ because the wall's in disrepair."
+#
+<name "Darx">
+"I'm not sure what I'm supposed to do with
+ that information."
+#
+<name "Company Maid" "!DC0373" "ka34c000.agf">
+"Well, you do need some experience to tell."
+#
+<name "Darx">
+"...I'll leave it to you."
+#
+<name "Company Maid" "!DC0374" "ka34c000.agf">
+"Yes.
+ I'll take care of it."
+#
+<exit>
+:1DC6
+\x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 \x2B
+<name "Company Maid" "!PC0484" "ka34c000.agf">
+"Overlord, it looks like we can gather
+ resources here."
+#
+<name "Darx">
+"..."
+#
+<name "Company Maid" "!PC0485" "ka34c000.agf">
+"Is something the matter?"
+#
+<name "Darx">
+"Oh, I was just wondering why here of all
+ places we can gather resources."
+#
+<name "Company Maid" "!PC0486" "ka34c000.agf">
+"It's thanks to the Celestial buildings,
+ including Castle Baldaquin."
+#
+<name "Company Maid" "!PC0487" "ka34c000.agf">
+"Because they fell, they caused all kinds of
+ things like rifts and landslides, uncovering
+ all sorts of new things."
+#
+<name "Darx">
+"A silver lining?"
+#
+<name "Company Maid" "!PC0488" "ka34c000.agf">
+"All is grist for the mill."
+#
+<name "Company Maid" "!PC0489" "ka34c000.agf">
+"Also, the Celestial buildings themselves are
+ full of useful things.
+ We can use the debris and wreckage as
+ resources too."
+#
+<name "Darx">
+"I see."
+#
+<exit>
+:217B
+\x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 \x2B
+<name "Company Maid" "!PC0490" "ka34c000.agf">
+"Overlord, I think we can gather some resources
+ here."
+#
+<name "Darx">
+"Okay.
+ Please do."
+#
+<name "Company Maid" "!PC0491" "ka34c000.agf">
+"Yes, sir."
+#
+<exit>
+:2287
+\x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 \x2B
+<name "Company Maid" "!PC0492" "ka34c000.agf">
+"Overlord, I think we can gather some resources
+ here."
+#
+<name "Darx">
+"Okay.
+ Please."
+#
+<exit>
+:234C
+\x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 \x2B
+<name "Underling Demon" "!ZD0137">
+"There's something fishy here."
+#
+<name "Darx">
+"Check it out."
+#
+<name "Underling Demon" "!ZD0138">
+"Right."
+#
+<exit>
+:23FC
+\x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 \x2B
+<name "Underling Demon" "!SB0249">
+"Overlord, I found a switch.
+ Should I press it?"
+#
+<exit>
+:247E
+\x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 \x2B
+<name "Underling Demon" "!GB0210">
+"There's a switch here.
+ What should we do?"
+#
+<exit>
+:24F8
+\x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 \x2B
+<name "Underling Demon" "!UA0156">
+"W-What the heck?
+ It suddenly went dark."
+#
+<name "Darx">
+"Calm down and use your other senses."
+#
+<name "Underling Demon" "!UA0157">
+"Y-Yes, sir."
+#
+<exit>
+:25D1
+\x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 \x2B
+<name "Underling Demon" "!GB0212">
+"I-It's dark!"
+#
+<name "Fellow Underling Demon" "!UA0158">
+"Yeah, we fell."
+#
+<name "Underling Demon" "!GB0213">
+"Eek!
+ Geez. Quit touching me in weird places."
+#
+<name "Darx">
+"You guys sure are carefree."
+#
+<name "Underling Demon" "!GB0214">
+"Hahahaha.
+ That strange place was my forearm."
+#
+<exit>
+:2735
+\x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 \x2B
+<name "Plotting Demon" "!HC0174">
+"I-It's dark.
+ Meaning... a chance to be with the Overlord!"
+#
+<name "Wary Demon" "!SB0251">
+"I won't allow it.
+ Don't worry."
+#
+<name "Plotting Demon" "!HC0175">
+"Grrrrrr..."
+#
+<name "Darx">
+"I'll be with you as much as you want.
+ Stay on guard now."
+#
+<name "Plotting Demon" "!HC0176">
+"'Kaaay."
+#
+<exit>
+:28A9
+\x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 \x2B
+<name "Underling Demon" "!RB0167">
+"Um, Overlord."
+#
+<name "Darx">
+"What is it?"
+#
+<name "Underling Demon" "!RB0168">
+"Did you just touch my butt?"
+#
+<name "Darx">
+"S-Sorry.
+ It was an accident."
+#
+<exit>
+:2991
+\x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 \x2B
+<name "Underling Demon" "!HC0180">
+"Um..."
+#
+<name "Darx">
+"We got caught in some kind of teleporter."
+#
+<name "Underling Demon" "!HC0181">
+"A trap?"
+#
+<name "Darx">
+"Hard to say.
+ It could just be a way to get around."
+#
+<exit>
+:2A8E
+\x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 \x2B
+<name "Underling Demon" "!UA0163">
+"Whoa.
+ W-What was that?"
+#
+<name "Darx">
+"A teleporter?"
+#
+<exit>
+:2B19
+\x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 \x2B
+<name "Underling Demon" "!ZE0240">
+"Where are we?"
+#
+<name "Darx">
+"We must've tripped a teleporter."
+#
+<exit>
+:2BA7
+\x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 \x2B
+<name "Thinking Demon" "!UA0164">
+"Hmmm. How do teleporters work?"
+#
+<name "Resigned Demon" "!ZE0241">
+"Don't think about it.
+ It'll drive you crazy."
+#
+<exit>
+:2C77
+\x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 \x2B
+<name "Underling Demon" "!MB0131">
+"What's that?"
+#
+<name "Darx">
+"It's an elevator.
+ It's a device that moves up and down floors."
+#
+<name "Underling Demon" "!MB0132">
+"Oh?
+ That seems really useful."
+#
+There's one in the Temple of Darx too though.
+#
+<exit>
+:2D83
+\x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 \x2B
+<name "Uneasy Demon" "!ZD0145">
+"If you're not used to elevators, they can make
+ you nauseous."
+#
+<name "Relaxed Demon" "!JA0153">
+"I'm fine."
+#
+<name "Agreeing Demon" "!GB0216">
+"Me too."
+#
+<name "Uneasy Demon" "!ZD0146">
+"Grrr..."
+#
+<exit>
+:2E9C
+\x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 \x2B
+<name "Underling Demon" "!GB0217">
+"Elevator found."
+#
+<name "Underling Demon" "!GB0218">
+"Should we use it?"
+#
+<name "Darx">
+"Don't get carried away.
+ Let's think about it for a moment."
+#
+<exit>
+\x78

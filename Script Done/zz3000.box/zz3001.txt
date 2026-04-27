@@ -1,0 +1,24 @@
+﻿<music 17>
+<background "ev050a00.agf" 10>
+<name "Ekate" "!TA0003">
+"Overlord."
+#
+After we finish, Ekate hugs me.
+#
+<name "Ekate" "!TA0004">
+"Overlord.♪ Overlord.♪ Overlord.♪"
+#
+And dotes on me like a baby.
+#
+<name "Ekate" "!TA0005">
+"Overlord.♪"
+#
+<name "Darx">
+"Okay, you're cute, so one more time."
+#
+<name "Ekate" "!TA0006">
+"Yay!"
+#
+I enjoy the night with her.
+#
+\x78\x78

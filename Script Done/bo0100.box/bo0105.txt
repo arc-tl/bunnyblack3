@@ -1,0 +1,77 @@
+﻿<music 39>
+<background "ev080b00.agf" 10>
+<name "Macdo" "!ZA0479">
+"Splendid."
+#
+<name "Darx">
+"Meaning..."
+#
+<name "Macdo" "!ZA0480">
+"I admit it."
+#
+<name "Macdo" "!ZA0481">
+"You're the Overlord."
+#
+I've been accepted as Overlord.
+#
+<name "Darx">
+"So for a while, everything's resolved?"
+#
+<name "Macdo" "!ZA0482">
+"I wouldn't be careless."
+#
+<name "Macdo" "!ZA0483">
+"When you think about the past, there are
+ numerous Overlords who have been killed by
+ their own advisors and followers."
+#
+<name "Darx">
+"..."
+#
+<name "Macdo" "!ZA0484">
+"Well, I will keep an eye on them to make sure
+ that doesn't happen."
+#
+<name "Darx">
+"You're staying here?"
+#
+<name "Macdo" "!ZA0485">
+"The Great Overlord told me not to come back."
+#
+<name "Macdo" "!ZA0486">
+"It's sad, but I I think perhaps he intended
+ to send me here from the start."
+#
+<name "Darx">
+"Really?"
+#
+<name "Macdo" "!ZA0487">
+"That's my own interpretation."
+#
+<name "Macdo" "!ZA0488">
+"In any case, it's time to go greet your
+ citizens."
+#
+<name "Darx">
+"Yeah."
+#
+I wave to the waiting people.
+#
+And they let out a loud cheer.
+#
+I may still be a new Overlord, but I'll do
+everything I can.
+#
+<background "bg017a0.agf" 10>
+\x2B\x42
+<video "data2.dat">
+\x2B\x42
+<background "bg017a0.agf" 10>
+\x2B\x0A\x44\x00\x0B\x84\x01\x0A\x44\x00\x14\x84\x01\x0A\x44\x00\x15\x84\x01\x0A\x44\x00\x16\x84\x01\x0A\x44\x00
+<exit>
+\x84\x01\x0A\x44\x00\x18\x84\x01\x0A\x44\x00\x19\x84\x01\x0A\x44\x00\x1A\x84\x01\x0A\x44\x00\x1B\x84\x01\x0A\x44\x00\x1C\x84\x01
+          -- Administrative End --
+#
+The true ending must be fought for.
+#
+\x78\x78

@@ -1,0 +1,1991 @@
+﻿\x1A\x01\x0D\x43\x00\x34\x00\x39\x00\x32\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x31\x00\x30\x00\x30\x00\x09\x00\x09\x00 :34: \x0A\x04\x01\x5E\x84\x01\x16 :77B: \x15 :77A: 
+:34
+\x1A\x01\x0D\x43\x00\x34\x00\x39\x00\x32\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x31\x00\x30\x00\x31\x00\x09\x00\x09\x00 :68: \x0A\x04\x01\x5F\x84\x01\x16 :19E0: \x15 :77A: 
+:68
+\x1A\x01\x0D\x43\x00\x34\x00\x39\x00\x32\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x31\x00\x30\x00\x32\x00\x09\x00\x09\x00 :9C: \x0A\x04\x01\x60\x84\x01\x16 :1B12: \x15 :77A: 
+:9C
+\x1A\x01\x0D\x43\x00\x34\x00\x39\x00\x32\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x31\x00\x30\x00\x33\x00\x09\x00\x09\x00 :D0: \x0A\x04\x01\x61\x84\x01\x16 :1E8D: \x15 :77A: 
+:D0
+\x1A\x01\x0D\x43\x00\x34\x00\x39\x00\x32\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x31\x00\x30\x00\x34\x00\x09\x00\x09\x00 :104: \x0A\x04\x01\x62\x84\x01\x16 :2371: \x15 :77A: 
+:104
+\x1A\x01\x0D\x43\x00\x34\x00\x39\x00\x32\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x31\x00\x30\x00\x35\x00\x09\x00\x09\x00 :138: \x0A\x04\x01\x63\x84\x01\x16 :29FC: \x15 :77A: 
+:138
+\x1A\x01\x0D\x43\x00\x34\x00\x39\x00\x32\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x31\x00\x30\x00\x36\x00\x09\x00\x09\x00 :16C: \x0A\x04\x01\x64\x84\x01\x16 :30FE: \x15 :77A: 
+:16C
+\x1A\x01\x0D\x43\x00\x34\x00\x39\x00\x32\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x31\x00\x30\x00\x37\x00\x09\x00\x09\x00 :1A0: \x0A\x04\x01\x65\x84\x01\x16 :32FF: \x15 :77A: 
+:1A0
+\x1A\x01\x0D\x43\x00\x34\x00\x39\x00\x32\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x31\x00\x30\x00\x38\x00\x09\x00\x09\x00 :1D4: \x0A\x04\x01\x66\x84\x01\x16 :375A: \x15 :77A: 
+:1D4
+\x1A\x01\x0D\x43\x00\x34\x00\x39\x00\x32\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x31\x00\x30\x00\x39\x00\x09\x00\x09\x00 :208: \x0A\x04\x01\x67\x84\x01\x16 :3947: \x15 :77A: 
+:208
+\x1A\x01\x0D\x43\x00\x34\x00\x39\x00\x32\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x31\x00\x31\x00\x30\x00\x09\x00\x09\x00 :23C: \x0A\x04\x01\x68\x84\x01\x16 :3A11: \x15 :77A: 
+:23C
+\x1A\x01\x0D\x43\x00\x34\x00\x39\x00\x32\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x31\x00\x31\x00\x31\x00\x09\x00\x09\x00 :270: \x0A\x04\x01\x69\x84\x01\x16 :3D58: \x15 :77A: 
+:270
+\x1A\x01\x0D\x43\x00\x34\x00\x39\x00\x32\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x31\x00\x31\x00\x32\x00\x09\x00\x09\x00 :2A4: \x0A\x04\x01\x6A\x84\x01\x16 :424E: \x15 :77A: 
+:2A4
+\x1A\x01\x0D\x43\x00\x34\x00\x39\x00\x32\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x31\x00\x31\x00\x33\x00\x09\x00\x09\x00 :2D8: \x0A\x04\x01\x6B\x84\x01\x16 :437D: \x15 :77A: 
+:2D8
+\x1A\x01\x0D\x43\x00\x34\x00\x39\x00\x32\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x31\x00\x31\x00\x34\x00\x09\x00\x09\x00 :30C: \x0A\x04\x01\x6C\x84\x01\x16 :46D9: \x15 :77A: 
+:30C
+\x1A\x01\x0D\x43\x00\x34\x00\x39\x00\x32\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x31\x00\x31\x00\x35\x00\x09\x00\x09\x00 :340: \x0A\x04\x01\x6D\x84\x01\x16 :4A10: \x15 :77A: 
+:340
+\x1A\x01\x0D\x43\x00\x34\x00\x39\x00\x32\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x31\x00\x31\x00\x36\x00\x09\x00\x09\x00 :374: \x0A\x04\x01\x6E\x84\x01\x16 :4D4D: \x15 :77A: 
+:374
+\x1A\x01\x0D\x43\x00\x34\x00\x39\x00\x32\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x31\x00\x31\x00\x37\x00\x09\x00\x09\x00 :3A8: \x0A\x04\x01\x6F\x84\x01\x16 :53C5: \x15 :77A: 
+:3A8
+\x1A\x01\x0D\x43\x00\x34\x00\x39\x00\x32\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x31\x00\x31\x00\x38\x00\x09\x00\x09\x00 :3DC: \x0A\x04\x01\x70\x84\x01\x16 :5682: \x15 :77A: 
+:3DC
+\x1A\x01\x0D\x43\x00\x34\x00\x39\x00\x32\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x31\x00\x31\x00\x39\x00\x09\x00\x09\x00 :410: \x0A\x04\x01\x71\x84\x01\x16 :5B6E: \x15 :77A: 
+:410
+\x1A\x01\x0D\x43\x00\x34\x00\x39\x00\x32\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x31\x00\x32\x00\x30\x00\x09\x00\x09\x00 :444: \x0A\x04\x01\x72\x84\x01\x16 :5FFB: \x15 :77A: 
+:444
+\x1A\x01\x0D\x43\x00\x34\x00\x39\x00\x32\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x31\x00\x32\x00\x31\x00\x09\x00\x09\x00 :478: \x0A\x04\x01\x73\x84\x01\x16 :688F: \x15 :77A: 
+:478
+\x1A\x01\x0D\x43\x00\x34\x00\x39\x00\x32\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x31\x00\x32\x00\x32\x00\x09\x00\x09\x00 :4AC: \x0A\x04\x01\x74\x84\x01\x16 :6C39: \x15 :77A: 
+:4AC
+\x1A\x01\x0D\x43\x00\x34\x00\x39\x00\x32\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x31\x00\x32\x00\x33\x00\x09\x00\x09\x00 :4E0: \x0A\x04\x01\x75\x84\x01\x16 :71BD: \x15 :77A: 
+:4E0
+\x1A\x01\x0D\x43\x00\x34\x00\x39\x00\x32\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x31\x00\x32\x00\x34\x00\x09\x00\x09\x00 :514: \x0A\x04\x01\x76\x84\x01\x16 :792F: \x15 :77A: 
+:514
+\x1A\x01\x0D\x43\x00\x34\x00\x39\x00\x32\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x31\x00\x32\x00\x35\x00\x09\x00\x09\x00 :548: \x0A\x04\x01\x77\x84\x01\x16 :7BF9: \x15 :77A: 
+:548
+\x1A\x01\x0D\x43\x00\x34\x00\x39\x00\x32\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x31\x00\x32\x00\x36\x00\x09\x00\x09\x00 :57C: \x0A\x04\x01\x78\x84\x01\x16 :827A: \x15 :77A: 
+:57C
+\x1A\x01\x0D\x43\x00\x34\x00\x39\x00\x32\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x31\x00\x32\x00\x37\x00\x09\x00\x09\x00 :5B0: \x0A\x04\x01\x79\x84\x01\x16 :8585: \x15 :77A: 
+:5B0
+\x1A\x01\x0D\x43\x00\x34\x00\x39\x00\x32\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x31\x00\x32\x00\x38\x00\x09\x00\x09\x00 :5E4: \x0A\x04\x01\x7A\x84\x01\x16 :883E: \x15 :77A: 
+:5E4
+\x1A\x01\x0D\x43\x00\x34\x00\x39\x00\x32\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x31\x00\x32\x00\x39\x00\x09\x00\x09\x00 :618: \x0A\x04\x01\x7B\x84\x01\x16 :8B26: \x15 :77A: 
+:618
+\x1A\x01\x0D\x43\x00\x34\x00\x39\x00\x32\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x31\x00\x33\x00\x30\x00\x09\x00\x09\x00 :64C: \x0A\x04\x01\x7C\x84\x01\x16 :9100: \x15 :77A: 
+:64C
+\x1A\x01\x0D\x43\x00\x34\x00\x39\x00\x32\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x31\x00\x33\x00\x31\x00\x09\x00\x09\x00 :680: \x0A\x04\x01\x7D\x84\x01\x16 :93D5: \x15 :77A: 
+:680
+\x1A\x01\x0C\x43\x00\x34\x00\x39\x00\x32\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x35\x00\x30\x00\x09\x00\x09\x00 :6C2: \x6E 6  "ca0000.box" \x15 :77A: 
+:6C2
+\x1A\x01\x0C\x43\x00\x34\x00\x39\x00\x32\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x35\x00\x31\x00\x09\x00\x09\x00 :704: \x6E 7  "ca0000.box" \x15 :77A: 
+:704
+\x1A\x01\x0C\x43\x00\x34\x00\x39\x00\x32\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x35\x00\x32\x00\x09\x00\x09\x00 :746: \x6E 8  "ca0000.box" \x15 :77A: 
+:746
+\x1A\x01\x0D\x43\x00\x34\x00\x39\x00\x32\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x39\x00\x39\x00\x39\x00\x09\x00\x09\x00 :774: \x16 :9A1F: \x15 :77A: 
+:774
+\x15 :77A: 
+:77A
+\x78
+:77B
+<music 11>
+<background "bg008a0.agf" 10>
+<name "Darx">
+"How about we put on a festival to stimulate
+ business?"
+#
+<sprite "ta34a000.agf" 4 4 11>
+<name "Company Maid" "!AC0288">
+"A festival?
+ That sounds nice.
+ How big will it be?"
+#
+<name "Darx">
+"I'd want an impressive one, but overdoing it
+ would be its own headache."
+#
+<name "Company Maid" "!AC0289">
+"Yeah."
+#
+<name "Darx">
+"Keep it in moderation, please."
+#
+<name "Company Maid" "!AC0290">
+"Leave it to me."
+#
+<removesprite -1 11>
+<music 13>
+<background "ev051a00.agf" 10>
+<name "Paniverna" "!DA0080">
+"Get excited!
+ It's time for the next song!"
+#
+<background "ev051a01.agf" 10>
+<name "Cheering Citizen" "!RB0172">
+"Yay!"
+#
+<name "Surprised Citizen" "!LB0181">
+"Oooh.
+ Amazing!"
+#
+<name "Aware Citizen" "!GB0258">
+"Oh, is that Paniverna?"
+#
+<name "Surprised Citizen" "!LB0182">
+"Looks like it.
+ Want to get a little closer?"
+#
+<name "Aware Citizen" "!GB0259">
+"Yeah, let's go!"
+#
+<name "Fan Citizen" "!MB0151">
+"I'm late!
+ I didn't expect Paniverna to be here!"
+#
+<name "Fan Citizen" "!MB0152">
+"And I can't believe she's doing a collab 
+ with Eko, Dah, and Elizabeth!"
+#
+<name "All-Out Citizen" "!CB0182">
+"Regret your lateness later!
+ You know what you have to do to make up for
+ it!"
+#
+<name "Prepared Citizen" "!KB0272">
+"Yeah!
+ Let's show them the power of our solidarity!"
+#
+<name "Commanding Citizen" "!BC0162">
+"We will protect the safety of the audience
+ and the staff with our iron wall!"
+#
+<name "Fan Citizen" "!MB0153">
+"Yeah!"
+#
+<name "Managing Maid" "!DC0454">
+"Um, more and more people are coming..."
+#
+<name "Supervising Maid" "!PC0526">
+"Call an intermission before we lose control."
+#
+<name "Managing Maid" "!DC0455">
+"Y-Yes, ma'am."
+#
+<name "Supervising Maid" "!PC0527">
+"We can't go up on stage, so we need to signal
+ whoever's going next..."
+#
+<name "Managing Maid" "!DC0456">
+"Um, I put up a sign saying to go to
+ intermission but they ignored it."
+#
+<name "Supervising Maid" "!PC0528">
+"Could they not see the sign?"
+#
+<name "Managing Maid" "!DC0457">
+"She was staring right at me with daggers in
+ her eyes, so I'm pretty sure she saw it."
+#
+<name "Supervising Maid" "!PC0529">
+".........Um..."
+#
+<name "Supervising Maid" "!PC0530">
+"Write 'Request from the Overlord' on it and
+ try again.
+ Oh, and put heart marks suggestively all
+ around it."
+#
+<name "Managing Maid" "!DC0458">
+"O-Okay."
+#
+<name "Paniverna" "!DA0081">
+"It's a little early, but next song's the last
+ for now!"
+#
+<name "Managing Maid" "!DC0459">
+"It worked perfectly."
+#
+<name "Supervising Maid" "!PC0531">
+"Good."
+#
+<name "Supervising Maid" "!PC0532">
+"We don't want things to get too heated up,
+ but we don't want the mood to die either.
+ We're just getting started."
+#
+<name "Managing Maid" "!DC0461">
+"Yes, ma'am!"
+#
+<music 11>
+<background "bg013a0.agf" 10>
+<sprite "ta34a002.agf" 4 4 11>
+<name "Company Maid" "!AC0291">
+"It was chaos."
+#
+<name "Darx">
+"Because you invited Paniverna.
+ She has a genuine fanclub when it comes to
+ singing and dancing.
+ I was surprised when I found out too."
+#
+<name "Company Maid" "!AC0292">
+"I didn't invite her."
+#
+<name "Darx">
+"Huh?"
+#
+<removesprite -1 11>
+<sprite "ta14a022.agf" 4 4 11>
+<name "Paniverna" "!DA0082">
+"I decided to participate on my own."
+#
+<name "Darx">
+"Pani."
+#
+<name "Darx">
+"Is it really okay for you to be here?"
+#
+Won't Macdo have something to say about that?
+#
+<sprite "ta14a005.agf" 4 4 12>
+<name "Paniverna" "!DA0083">
+"I was here on business for Rakia's shop, so
+ I can do what I want on my own.
+ If there's a problem, it's that I was
+ skipping out on my work."
+#
+<name "Darx">
+"I see."
+#
+<sprite "ta14a006.agf" 4 4 12>
+<name "Paniverna" "!DA0084">
+"Since I'm here on business anyway, it's 
+ better to make things exciting."
+#
+<name "Darx">
+"Yeah.
+ You got that right."
+#
+<sprite "ta14a005.agf" 4 4 12>
+<name "Paniverna" "!DA0085">
+"Yep.
+ So I expect a lot of excitement tonight for
+ me..."
+#
+<name "Darx">
+"By that logic, doesn't that mean excitement
+ for all the others who we with you on stage?"
+#
+There's quite a few names on that list I 
+recognize.
+#
+<sprite "ta14a006.agf" 4 4 12>
+<name "Paniverna" "!DA0086">
+"Don't sweat the details."
+#
+<removesprite -1 11>
+<sprite "ta34a000.agf" 4 4 11>
+<name "Managing Maid" "!PC0534">
+"Miss Paniverna, excuse me, but we need to
+ speak about going back on stage..."
+#
+<removesprite -1 11>
+<sprite "ta14a006.agf" 4 4 11>
+<name "Paniverna" "!DA0087">
+"I'll be right there."
+#
+<sprite "ta14a005.agf" 4 4 12>
+<name "Paniverna" "!DA0088">
+"Well, then, Overlord.
+ I hope you enjoy my performance."
+#
+<name "Darx">
+"Yeah."
+#
+<removesprite -1 11>
+<background "bg015a0.agf" 10>
+The festival was lively.
+#
+<music 17>
+<background "bg016a0.agf" 10>
+And my bed that night was lively as well.
+#
+<name "Paniverna" "!DA0089" "ka14a105.agf">
+"No matter what anybody says, I love my
+ Overlord who takes complete care of me."
+#
+<removesprite -1 11>
+\x2B\x0A\x44\x02\x62\x84\x01
+<exit>
+:19E0
+<music 13>
+<background "ev051a01.agf" 10>
+<name "Darx">
+"Every time we throw a festival, Paniverna
+ shows up."
+#
+<name "Company Maid" "!PC0535">
+"She's popular, so isn't it okay?"
+#
+<name "Darx">
+"I'm more wondering about her work."
+#
+<name "Company Maid" "!PC0536">
+"Hahaha..."
+#
+The festival was lively.
+#
+\x0A\x44\x02\x63\x84\x01
+<exit>
+:1B12
+<music 13>
+<background "ev051a01.agf" 10>
+<name "Listening Citizen" "!ZD0155">
+"Paniverna's already singing!"
+#
+<name "Bitter Citizen" "!MB0154">
+"Tch! We're late!"
+#
+<name "Listening Citizen" "!ZD0156">
+"Come on, make up for it with a cheer!"
+#
+<name "Bitter Citizen" "!MB0155">
+"Okay!
+ What's the cheer?"
+#
+<name "Excited Citizen" "!CB0183">
+"Lovely Paniverna, right?"
+#
+<name "Passionate Citizen" "!KB0273">
+"Lady! Don't forget the lady!"
+#
+<name "Excited Citizen" "!CB0184">
+"Lovely Lady Paniverna?"
+#
+<name "Pondering Citizen" "!BC0163">
+"Lovely feels weird to me."
+#
+<name "Suggesting Citizen" "!ZE0249">
+"Sexy?"
+#
+<name "Pondering Citizen" "!BC0164">
+"No."
+#
+<name "Alternative Citizen" "!ZF0151">
+"Wild."
+#
+<name "Pondering Citizen" "!BC0165">
+"Wild Lady Paniverna..."
+#
+<name "Listening Citizen" "!ZD0157">
+"Okay, that's it!"
+#
+It was a lively festival.
+#
+I don't know if she even heard the cheer.
+#
+\x0A\x44\x02\x64\x84\x01
+<exit>
+:1E8D
+<music 13>
+<background "ev051a01.agf" 10>
+<name "Paniverna" "!DA0090">
+"Whew..."
+#
+<name "Manager" "!ZD0158">
+"Good work.
+ Your next set is in two hours."
+#
+<name "Paniverna" "!DA0091">
+"All right.
+ I need something to eat."
+#
+<name "Manager" "!ZD0159">
+"It's ready for you."
+#
+<name "Paniverna" "!DA0092">
+"And the Overlord?"
+#
+<name "Manager" "!ZD0160">
+"He's been invited."
+#
+<name "Darx">
+"I've been tied up.
+ I am the Overlord, you know?"
+#
+<name "Manager" "!ZD0161">
+"I'm sorry.
+ Please understand it's to keep her in good
+ spirits."
+#
+<name "Darx">
+"You realize that this isn't normal, right?
+ This is crazy?
+ You understand that too?"
+#
+<name "Manager" "!ZD0162">
+"I would tie up even the God King of Celestia
+ if that was Miss Paniverna's request."
+#
+<name "Darx">
+"R-Resistance is... useless?"
+#
+<name "Manager" "!ZD0163">
+"Well then, Miss Paniverna. I'll be back in an
+ hour and fifty minutes.
+ Enjoy yourself."
+#
+<name "Paniverna" "!DA0093">
+"Thank you."
+#
+<name "Darx">
+"...That's an excellent manager."
+#
+<name "Paniverna" "!DA0094">
+"Yes.
+ Now then, Overlord.♪"
+#
+<name "Darx">
+"I give up. I'll stay with you, just untie me.
+ I know there's no escape."
+#
+<name "Paniverna" "!DA0095">
+"Yep.♪"
+#
+\x0A\x44\x02\x65\x84\x01
+<exit>
+:2371
+<music 11>
+<background "bg013a0.agf" 10>
+<name "Cool Citizen" "!BC0166">
+"What's that sugary smell?"
+#
+<name "Aware Citizen" "!ZH0131">
+"It's a bake fest.
+ You didn't know?"
+#
+<name "Cool Citizen" "!BC0167">
+"Oh, that thing for women and kids?"
+#
+<name "Aware Citizen" "!ZH0132">
+"Hey, men do it too."
+#
+<name "Cool Citizen" "!BC0168">
+"Keh.
+ It's not something a man should participate
+ in."
+#
+<name "Aware Citizen" "!ZH0133">
+"Don't say that.
+ Look, they're handing out some of the stuff
+ they made."
+#
+<name "Cool Citizen" "!BC0169">
+"Don't want any."
+#
+<name "Cute Citizen" "!GB0260">
+"Y-You don't?
+ I'm sorry.
+ I'm not very good at baking..."
+#
+<name "Cool Citizen" "!BC0170">
+"...I-I'll have one."
+#
+<name "Cute Citizen" "!GB0261">
+"Huh?"
+#
+<name "Cool Citizen" "!BC0171">
+"I said I'll have one.
+ Give it to me."
+#
+<name "Cute Citizen" "!GB0262">
+"Okay, here."
+#
+<name "Cool Citizen" "!BC0172">
+"Hmph.
+ You're right.
+ It's not very good..."
+#
+<name "Cute Citizen" "!GB0263">
+"Oh..."
+#
+<name "Cool Citizen" "!BC0173">
+"But I felt your love for someone in it.
+ Do better next time."
+#
+<name "Cute Citizen" "!GB0264">
+"O-Okay.
+ Um, could you try the next one too?"
+#
+<name "Cool Citizen" "!BC0174">
+"If I feel like it."
+#
+<music 4>
+<background "bg009a0.agf" 10>
+<sprite "ta34b000.agf" 4 4 11>
+<name "Company Maid" "!DC0472">
+"There is the possibility that something like
+ that will happen, but just a slight one.
+ That kind of festival.
+ We'd like your cooperation."
+#
+<removesprite -1 11>
+<name "Dreaming Shopkeeper" "!CB0185">
+"We'll supply every kind of ingredient you
+ need to bake anything!
+ The whole warehouse too!"
+#
+<name "Expectant Citizens" "!MB0156">
+"Yeah!"
+#
+\x0A\x44\x02\x66\x84\x01
+<exit>
+:29FC
+<music 3>
+<background "bg010a0.agf" 10>
+<name "Darx">
+"I approved it, but..."
+#
+<name "Darx">
+"What exactly is a potluck?"
+#
+<sprite "ta34b000.agf" 4 4 11>
+<name "Company Maid" "!DC0473">
+"A festival for a pot of luck!"
+#
+<name "Darx">
+"Um..."
+#
+<name "Company Maid" "!DC0474">
+"Just join us."
+#
+<name "Darx">
+"Okay."
+#
+<name "Company Maid" "!DC0475">
+"First, a big pot.
+ That's it.
+ Bring it here."
+#
+<name "Darx">
+"Okay."
+#
+<removesprite -1 11>
+<music 11>
+<background "bg008a0.agf" 10>
+<sprite "ta34b000.agf" 4 4 11>
+<name "Company Maid" "!DC0476">
+"Put it in the middle of the city.
+ Set it somewhere it'll be okay even if it
+ rains."
+#
+<name "Company Maid" "!DC0477">
+"Fill it with a lot of water..."
+#
+<name "Company Maid" "!DC0478">
+"Light a fire."
+#
+<name "Darx">
+"Okay."
+#
+<name "Company Maid" "!DC0479">
+"Now we wait."
+#
+<name "Darx">
+"There's nothing in it."
+#
+<name "Company Maid" "!DC0480">
+"That's okay."
+#
+<name "Darx">
+"But aren't we just making hot water?"
+#
+<name "Company Maid" "!DC0481">
+"It'll be okay.
+ Look."
+#
+<removesprite -1 11>
+<name "Nearby Citizen" "!ZH0134">
+"Hey, I brought fish."
+#
+<name "Participating Citizen" "!MB0157">
+"Come on, first has to be potatoes."
+#
+<name "Cheap Citizen" "!CB0186">
+"Can I throw in some spring onions?"
+#
+<name "Burdock Citizen" "!KB0274">
+"Burdock."
+#
+<name "Coloring Citizen" "!BC0175">
+"Carrots."
+#
+<sprite "ta34b000.agf" 4 4 11>
+<name "Company Maid" "!DC0482">
+"We throw in the food people brought, and
+ that's it."
+#
+<name "Darx">
+"How's it taste?"
+#
+<name "Company Maid" "!DC0483">
+"Some people will bring seasonings.
+ We'll make it work somehow."
+#
+<name "Company Maid" "!DC0484">
+"Go on, get stirring."
+#
+<name "Darx">
+"Right."
+#
+<removesprite -1 11>
+The potluck was fairly successful.
+#
+\x0A\x44\x02\x67\x84\x01
+<exit>
+:30FE
+<music 11>
+<background "bg008a0.agf" 10>
+<name "Semi-Popular Citizen" "!KB0275">
+"Isn't a cleaning festival just everybody
+ cleaning up their houses and the city?"
+#
+<name "Childhood Friend Citizen" "!LB0183">
+"They say that because all the garbage gets
+ thrown out at the same time, it's more
+ efficient this way."
+#
+<name "Semi-Popular Citizen" "!KB0276">
+"Oh?"
+#
+<name "Semi-Popular Citizen" "!KB0277">
+"But if they do this, won't nothing get
+ cleaned the rest of the time?"
+#
+<name "Childhood Friend Citizen" "!LB0184">
+"Not everybody is as lazy as you, so we'll be
+ fine."
+#
+The city was cleaned up, and the citizens
+were motivated.
+#
+\x0A\x44\x02\x68\x84\x01
+<exit>
+:32FF
+<music 11>
+<background "bg013a0.agf" 10>
+<name "Motherly Citizen" "!GB0265">
+"Come on, I'm always having to tell you to
+ clean up your room."
+#
+<name "Childish Citizen" "!BC0176">
+"Shut up.
+ I'll do it later."
+#
+<name "Motherly Citizen" "!GB0266">
+"When's later?
+ Don't tell me you won't do it except during
+ cleaning festivals."
+#
+<name "Childish Citizen" "!BC0177">
+"Yeah, that's right.
+ I'll clean it up when it's cleaning festival
+ time."
+#
+<name "Motherly Citizen" "!GB0267">
+"...So you'll do it if it's a cleaning
+ festival?"
+#
+<name "Childish Citizen" "!BC0178">
+"Yeah. I'll do it.
+ Good enough then?"
+#
+<name "Motherly Citizen" "!GB0268">
+"If you don't, that'd be bad, right?"
+#
+<name "Childish Citizen" "!BC0179">
+"I said I'd do it already.
+ ...Hm?
+ Why do you have all those cleaning supplies?"
+#
+<name "Motherly Citizen" "!GB0270">
+"Because today is a cleaning festival."
+#
+<name "Childish Citizen" "!BC0180">
+"Y-You set me up!"
+#
+<name "Motherly Citizen" "!GB0271">
+"If the Overlord saw this, you know you'd be
+ in trouble."
+#
+<name "Childish Citizen" "!BC0181">
+"U-Urgh...
+ Fine, whatever."
+#
+The city was cleaned up, and the citizens
+were motivated.
+#
+<name "Motherly Citizen" "!GB0272">
+"Every week, if we can!
+ Please, every single week!"
+#
+\x0A\x44\x02\x69\x84\x01
+<exit>
+:375A
+<music 11>
+<background "bg013a0.agf" 10>
+<name "Knick Knack Merchant" "!MB0158">
+"They're holding a bazaar."
+#
+<name "Snack Merchant" "!CB0187">
+"Oh?
+ But there's nothing from my place I can put
+ out..."
+#
+<name "Knick Knack Merchant" "!MB0159">
+"I try not to sell anything useless either.
+ But that's fine."
+#
+<name "Knick Knack Merchant" "!MB0160">
+"They said we could open a stall anyway."
+#
+<name "Snack Merchant" "!CB0188">
+"Oh?
+ Then you've got an opening."
+#
+<name "Knick Knack Merchant" "!MB0161">
+"Yeah."
+#
+The bazaar was a success.
+#
+\x0A\x44\x02\x6A\x84\x01
+<exit>
+:3947
+<music 11>
+<background "bg013a0.agf" 10>
+<name "Housewife Citizen" "!GB0273">
+"Set free what you don't need.
+ Collect what you do."
+#
+<name "Housewife Citizen" "!GB0274">
+"Bazaars are great."
+#
+The bazaar was a success.
+#
+\x0A\x44\x02\x6B\x84\x01
+<exit>
+:3A11
+<music 11>
+<background "bg013a0.agf" 10>
+<name "Thinking Citizen" "!KB0278">
+"Do you have anything for the bazaar?"
+#
+<name "Participating Citizen" "!BC0182">
+"Hmm, I need to check."
+#
+<name "Thinking Citizen" "!KB0279">
+"How about this?"
+#
+<name "Participating Citizen" "!BC0183">
+"No, I'm borrowing that.
+ I can't sell it at a bazaar."
+#
+<name "Thinking Citizen" "!KB0280">
+"Then what about this?"
+#
+<name "Participating Citizen" "!BC0184">
+"No way.
+ That's part of my dark past."
+#
+<name "Thinking Citizen" "!KB0281">
+"Now I'm curious."
+#
+<name "Participating Citizen" "!BC0185">
+"If you find out, our friendship will be done
+ for. If you are that determined to tear apart
+ something that important, my demon eye will
+ not be able to remain silent."
+#
+<name "Thinking Citizen" "!KB0282">
+"You... have a demon eye?"
+#
+<name "Participating Citizen" "!BC0186">
+"That's more or less how it goes.
+ Just put it down and keep looking."
+#
+The bazaar was a success.
+#
+\x0A\x44\x02\x6C\x84\x01
+<exit>
+:3D58
+<music 4>
+<background "bg009a0.agf" 10>
+<name "Interested Citizen" "!GB0275">
+"I heard you're doing a fashion show, but
+ what kind of event is that?"
+#
+<sprite "ta34b000.agf" 4 4 11>
+<name "Company Maid" "!DC0485">
+"It's an event for girls to dress up, at the
+ city's expense."
+#
+<name "Interested Citizen" "!GB0276">
+"Can regular citizens participate?"
+#
+<name "Company Maid" "!DC0486">
+"Of course. We're recruiting."
+#
+<name "Interested Citizen" "!GB0277">
+"I'll do it!"
+#
+<name "Company Maid" "!DC0487">
+"Okay.
+ Thank you very much."
+#
+<removesprite -1 11>
+...
+#
+<name "Curious Citizen" "!BC0187">
+"I heard you're doing a fashion show, but
+ what kind of event is that?"
+#
+<sprite "ta34b000.agf" 4 4 11>
+<name "Company Maid B" "!DC0488">
+"It's an event where you can look at girls who
+ are dressed up fancily."
+#
+<name "Curious Citizen" "!BC0188">
+"Is there anything I can do to help?"
+#
+<name "Company Maid" "!DC0489">
+"We're recruiting backstage staff."
+#
+<name "Curious Citizen" "!BC0189">
+"I'll do it!"
+#
+<removesprite -1 11>
+...
+#
+<name "Darx">
+"Um, I feel like you're deliberately leaving
+ off key details here..."
+#
+<sprite "ta34b000.agf" 4 4 11>
+<name "Company Maid" "!DC0490">
+"This is also for the success of the event."
+#
+<removesprite -1 11>
+The fashion show was a great success.
+#
+\x0A\x44\x02\x6D\x84\x01
+<exit>
+:424E
+<music 11>
+<background "bg013a0.agf" 10>
+<name "Knowing Citizen" "!KB0283">
+"I hear they're having another fashion show."
+#
+<name "Shop Keeper" "!CB0189">
+"Oh. Then maybe we should do something to cash
+ in on it too."
+#
+<name "Knowing Citizen" "!KB0284">
+"Yeah."
+#
+The fashion show energized the city.
+#
+\x0A\x44\x02\x6E\x84\x01
+<exit>
+:437D
+<music 11>
+<background "bg008a0.agf" 10>
+<name "Armed Citizen" "!BC0190">
+"Here for the evacuation drill?"
+#
+<name "Armored Citizen" "!KB0285">
+"Yeah."
+#
+<name "Armed Citizen" "!BC0191">
+"Actually, I was so excited I couldn't sleep."
+#
+<name "Armored Citizen" "!KB0286">
+"Me too."
+#
+<name "Armed Citizen" "!BC0192">
+"Heheheh.
+ All right, let's do it!"
+#
+<name "Armored Citizen" "!KB0287">
+"Yeah!
+ Nothing's as much fun as evacuation drill
+ day!"
+#
+<name "Darx">
+"..."
+#
+<name "Darx">
+"Uh, who were they?"
+#
+<sprite "ta34a000.agf" 4 4 11>
+<name "Company Maid" "!PC0537">
+"They're in charge of adventurers.
+ Because of how they ended up in the city, 
+ this is a chance for them to act however
+ they want."
+#
+<name "Darx">
+"Aah, I see.
+ ...I'll be doing that too."
+#
+<name "Company Maid" "!PC0538">
+"The Overlord's duty is to command the
+ evacuation."
+#
+<name "Darx">
+"You're right.
+ Sorry."
+#
+<removesprite -1 11>
+\x2B\x0A\x44\x02\x6F\x84\x01
+<exit>
+:46D9
+<music 11>
+<background "bg008a0.agf" 10>
+<name "Spirited Citizen" "!MB0162">
+"An evacuation drill, huh?
+ Heheheh...
+ Let's do it!"
+#
+<name "Thinking Citizen" "!CB0190">
+"Yeah.
+ I won't let some adventurer get the better of
+ me this time."
+#
+<name "Spirited Citizen" "!MB0163">
+"Last time, the citizens were caught around
+ this area."
+#
+<name "Thinking Citizen" "!CB0191">
+"Ah, that store's the problem here.
+ You don't have a clear view from it."
+#
+<name "Spirited Citizen" "!MB0164">
+"So we wreck the store as soon as the drill
+ starts?"
+#
+<name "Thinking Citizen" "!CB0192">
+"That's perfect..."
+#
+<sprite "ta34a000.agf" 4 4 11>
+<name "Company Maid" "!PC0539">
+"This is becoming less of an evacuation drill
+ and more of a citizens versus adventurers
+ event."
+#
+<name "Darx">
+"Well, that's also training for evacuation.
+ I'll make sure they're properly safe from any
+ actual disaster."
+#
+<name "Company Maid" "!PC0540">
+"Yes, sir."
+#
+<removesprite -1 11>
+\x2B\x0A\x44\x02\x70\x84\x01
+<exit>
+:4A10
+<music 11>
+<background "bg008a0.agf" 10>
+<name "Participating Citizen" "!ZD0164">
+"I'm fine with a fishing tournament, but isn't
+ that pond man-made?
+ Are there any fish?"
+#
+<sprite "ta34a000.agf" 4 4 11>
+<name "Company Maid" "!DC0491">
+"There are fish.
+ Many of been released there in consideration
+ for the ecosystem."
+#
+<name "Participating Citizen" "!ZD0165">
+"Oh? But in that case, isn't it bad to catch
+ them?
+ You'll destroy the ecosystem."
+#
+<name "Company Maid" "!DC0516">
+"No, it's..."
+#
+<name "Participating Citizen" "!ZD0166">
+"Hm?"
+#
+<name "Company Maid" "!DC0492">
+"We released too many big fish, and we'll be
+ in trouble if they're not caught...
+ Catch and eat, please."
+#
+<name "Participating Citizen" "!ZD0167">
+"Meaning that the pond's ecosystem is in the
+ hands of us fishermen.
+ Leave it us!"
+#
+<removesprite -1 11>
+The fishing tournament was a success.
+#
+\x0A\x44\x02\x71\x84\x01
+<exit>
+:4D4D
+<music 11>
+<background "bg008a0.agf" 10>
+<name "Announcing Citizen" "!BC0193">
+"Okay, it's time for the fishing tournament.
+ I've personally been counting down the
+ days."
+#
+<name "Announcing Citizen" "!BC0194">
+"I hope we can make this a regular event." 
+#
+<name "Announcing Citizen" "!BC0195">
+"Now then, I may be the announcer, and
+ fishing myself, but my skills are lacking."
+#
+<name "Announcing Citizen" "!BC0196">
+"Yes, I'm just a demon announcer who loves to
+ fish. You may say that loving to fish but
+ being bad at it is... oh?
+ My line... My rod..."
+#
+<name "Announcing Citizen" "!BC0197">
+"Ooooh!
+ N-No way!
+ It's a bite!"
+#
+<name "Announcing Citizen" "!BC0198">
+"A bite! A bite! A biiiiite!"
+#
+<name "Announcing Citizen" "!BC0199">
+"Ooooh!
+ I-I can't believe it!
+ It's a big one!
+ A big one!"
+#
+<name "Announcing Citizen" "!BC0200">
+"I'm sure of it!"
+#
+<name "Announcing Citizen" "!BC0201">
+"This may the biggest catch in all of my
+ fishing life!"
+#
+<name "Announcing Citizen" "!BC0202">
+"I have to forget about announcing and
+ concentrate on this battle!"
+#
+<name "Announcing Citizen" "!BC0203">
+"Oooooooohhhhhhhhh!"
+#
+<name "Announcing Citizen" "!BC0204">
+"I-I-I did it!
+ I don't know aht kind of fish this is, but
+ it's 72 cm!
+ It's a whopper!"
+#
+<name "Announcing Citizen" "!BC0205">
+"I'm so moved.
+ I'm so moved I can't see what lies before
+ me!"
+#
+...
+#
+<name "Watching Citizen" "!LB0185">
+"Huh?
+ The way things are going, won't it be the
+ size of a goldfish?"
+#
+<name "Participating Citizen" "!GB0278">
+"Fishing is a drama without purpose.
+ And look at the fight now.
+ The Overlord's gotten super serious."
+#
+<name "Watching Citizen" "!LB0186">
+"Oh, so he likes fishing too?"
+#
+The fishing tournament was a success.
+#
+\x0A\x44\x02\x72\x84\x01
+<exit>
+:53C5
+<music 11>
+<background "bg008a0.agf" 10>
+<name "Announcing Citizen" "!BC0206">
+"Now, let's begin the fishing tournament!"
+#
+<name "Announcing Citizen" "!BC0207">
+"Ah, you there, young lady.
+ Don't freeze them and then grab them by
+ hand."
+#
+<name "Announcing Citizen" "!BC0208">
+"And you there, miss.
+ No boiling the pond."
+#
+<name "Announcing Citizen" "!BC0209">
+"Please also stop shocking the fish to knock
+ them out."
+#
+<name "Announcing Citizen" "!BC0210">
+"Aah, you there, young lady.
+ I see you are ready to dive, but swimming is
+ against the rules during this tournament."
+#
+<name "Announcing Citizen" "!BC0211">
+"I also see some of you ladies holding spears
+ and bows. The only tools allowed in this
+ tournament are rods, lines, hooks, and bait.
+ Please put your weapons away."
+#
+The fishing tournament was a success.
+#
+\x0A\x44\x02\x73\x84\x01
+<exit>
+:5682
+<music 11>
+<background "bg008a0.agf" 10>
+<sprite "ta34a004.agf" 4 4 11>
+<name "Company Maid" "!DC0493">
+"Thank you all for volunteering today."
+#
+<sprite "ta34a000.agf" 4 4 12>
+<name "Company Maid" "!DC0494">
+"Today's activity is cleaning up the city.
+ Picking up all the garbage."
+#
+<name "Company Maid" "!DC0495">
+"Please bring all the garbage you collect to
+ the designated area.
+ Thank you very much."
+#
+<name "Participating Citizen" "!ZD0168">
+"Got it."
+#
+<sprite "ta34a004.agf" 4 4 12>
+<name "Company Maid" "!DC0496">
+"Also, please remember that we have received
+ a party budget for afterward from the 
+ Overlord."
+#
+<name "Company Maid" "!DC0497">
+"Let us all be grateful to him."
+#
+<name "Goal-Driven Citizen" "!UA0185">
+"Thank you, Overlord."
+#
+<sprite "ta34a001.agf" 4 4 12>
+<name "Company Maid" "!DC0498">
+"The party will be at the Overlord's Retreat.
+ Okay, let's get to work!"
+#
+<name "Serious Citizen" "!ZE0250">
+"Yeah!"
+#
+<removesprite -1 11>
+...
+#
+<name "Darx">
+"Party budget?
+ I feel like I was robbed..."
+#
+<sprite "ta01a004.agf" 4 4 11>
+<name "Sofia" "!ZB0992">
+"Now, now."
+#
+<name "Darx">
+"I'm not sure we should be rewarding
+ volunteers either..."
+#
+<sprite "ta01a033.agf" 4 4 12>
+<name "Sofia" "!ZB0993">
+"Now, now."
+#
+<removesprite -1 11>
+\x2B\x0A\x44\x02\x74\x84\x01
+<exit>
+:5B6E
+<music 4>
+<background "bg009a0.agf" 10>
+<name "Eating Citizen" "!SB0258">
+"Notification of an art exhibition..."
+#
+<name "Drinking Citizen" "!ZE0251">
+"Participation is free.
+ Models are free, art supplies are free...
+ So you can just do anything?"
+#
+<name "Interested Citizen" "!MB0165">
+"Are there some kind of prizes?"
+#
+<name "Drinking Citizen" "!ZE0252">
+"If you win a top prize, you get a gift
+ certificate for the Overlord's Retreat...
+ Ooh, that's a lot of money."
+#
+<name "Eating Citizen" "!SB0259">
+"Is there just one of prize?"
+#
+<name "Drinking Citizen" "!ZE0253">
+"No, it looks like there'll be several."
+#
+<name "Interested Citizen" "!MB0166">
+"I'll have to get serious then."
+#
+<name "Eating Citizen" "!SB0260">
+"Me too."
+#
+<name "Drinking Citizen" "!ZE0254">
+"Then I guess I'll do it too."
+#
+<music 3>
+<background "bg010a0.agf" 10>
+<name "Darx">
+"It seems fun, but are you sure about this?
+ Those prizes are a lot of money."
+#
+<sprite "ta01a027.agf" 4 4 11>
+<name "Sofia" "!ZB0994">
+"Heheheh...
+ The value of art is at the whim and caprice
+ of the judge."
+#
+<name "Darx">
+"I-I don't care how you narrow it down, but
+ do it right."
+#
+<sprite "ta01a034.agf" 4 4 12>
+<name "Sofia" "!ZB0995">
+"Yes, siiir."
+#
+<removesprite -1 11>
+\x2B\x0A\x44\x02\x75\x84\x01
+<exit>
+:5FFB
+<music 11>
+<background "bg008a0.agf" 10>
+<name "Expectant Citizens" "!ZE0255">
+"They're doing a lottery."
+#
+<name "Calculating Citizen" "!JA0154">
+"Yeah. If you collect ten tickets from 
+ shopping in the city, you get one draw."
+#
+<name "Calculating Citizen" "!JA0155">
+"There's a full of of luxury prizes!
+ And if you miss, you still get a 1Ｂ gift
+ certificate you can use at the Overlord's
+ Retreat."
+#
+<name "Calculating Citizen" "!JA0156">
+"There's no reason not to play."
+#
+<name "Expectant Citizens" "!ZE0256">
+"So you get tickets just going through your
+ regular life, huh?
+ Okay, let's do this."
+#
+<name "Calculating Citizen" "!JA0157">
+"Wait!"
+#
+<name "Expectant Citizens" "!ZE0257">
+"W-What?"
+#
+<name "Calculating Citizen" "!JA0158">
+"The way the draw works is by pulling a stone
+ with a number on it from a box!"
+#
+<name "Calculating Citizen" "!JA0159">
+"Once the stone is drawn, they don't put it
+ back in the box!"
+#
+<name "Expectant Citizens" "!ZE0258">
+"Yeah, so if you don't draw soon enough,
+ it'll be over."
+#
+<name "Calculating Citizen" "!JA0161">
+"Fool!
+ If you don't let some of them be drawn,
+ you'll be stuck with the worst odds for a
+ big prize!"
+#
+<name "Expectant Citizens" "!ZE0259">
+"Really?"
+#
+<name "Calculating Citizen" "!JA0162">
+"Think about it."
+#
+<name "Calculating Citizen" "!JA0163">
+"For example, let's say the odds of a prize
+ are one in 100.
+ After one miss, it becomes one in 99!
+ After two, it's one in 98!"
+#
+<name "Calculating Citizen" "!JA0164">
+"It's better to draw after there have been
+ some misses!
+ Drawing early is the height of stupidity!"
+#
+<name "Expectant Citizens" "!ZE0260">
+"Ooh! I see!
+ You're so smart!"
+#
+<name "Calculating Citizen" "!JA0165">
+"Heheheh..."
+#
+...
+#
+<sprite "ta01a007.agf" 4 4 11>
+<name "Sofia" "!ZB0996">
+"Oh, that's the third prize.
+ Congratulations!"
+#
+<name "Drawing Citizen" "!HC0192">
+"Lucky!"
+#
+<sprite "ta01a033.agf" 4 4 12>
+<name "Sofia" "!ZB0997">
+"That's the second prize.
+ Congratulations!"
+#
+<name "Lucky Citizen" "!SB0261">
+"Yay!"
+#
+<removesprite -1 11>
+...
+#
+<name "Expectant Citizens" "!ZE0261">
+"...Hey."
+#
+<name "Calculating Citizen" "!JA0166">
+"Um..."
+#
+<name "Expectant Citizens" "!ZE0262">
+"Hey."
+#
+<name "Calculating Citizen" "!JA0167">
+"Um..."
+#
+<name "Expectant Citizens" "!ZE0263">
+"I want to draw right now!"
+#
+<name "Calculating Citizen" "!JA0168">
+"Huh? Oh! M-Me too!"
+#
+Both of them lost.
+#
+\x0A\x44\x02\x76\x84\x01
+<exit>
+:688F
+<music 11>
+<background "bg008a0.agf" 10>
+<sprite "ta34b004.agf" 4 4 11>
+<name "Host Maid" "!DC0499">
+"It's time for the first quiz tournament!"
+#
+<name "Participating Citizen" "!ZG0162">
+"Yay!"
+#
+<sprite "ta34b000.agf" 4 4 12>
+<name "Host Maid" "!DC0500">
+"Every question will be true or false!
+ A death match that will continue until only
+ one person remains!"
+#
+<sprite "ta34b004.agf" 4 4 12>
+<name "Host Maid" "!DC0501">
+"If everybody left misses a question, then
+ all the losers get another chance!"
+#
+<name "Participating Citizen" "!ZG0163">
+"Yay!"
+#
+<sprite "ta34b000.agf" 4 4 12>
+<name "Host Maid" "!DC0502">
+"Okay, then to the first question!"
+#
+<removesprite -1 11>
+<background "bg015a0.agf" 10>
+...
+#
+<background "bg008a0.agf" 10>
+<name "Darx">
+"It's been three days.
+ Is that quiz tournament still going on?"
+#
+<sprite "ta34b006.agf" 4 4 11>
+<name "Host Maid" "!DC0503">
+"It hasn't been narrowed down to just one
+ person yet...
+ Ooohhh...
+ Next, the 1,240th question!"
+#
+<removesprite -1 11>
+\x2B\x0A\x44\x02\x77\x84\x01
+<exit>
+:6C39
+<music 11>
+<background "bg008a0.agf" 10>
+<sprite "ta34b004.agf" 4 4 11>
+<name "Host Maid" "!DC0504">
+"It's time for the second quiz tournament!"
+#
+<sprite "ta34b000.agf" 4 4 12>
+<name "Host Maid" "!DC0505">
+"This time, there will be several qualifying
+ rounds before the main competition.
+ Good luck, everyone."
+#
+<removesprite -1 11>
+<name "Former Participant" "!ZE0264">
+"Ooh! I've been studying!"
+#
+<name "Nervous Citizen" "!JA0169">
+"The last one took five days to finish."
+#
+<name "Former Participant" "!ZE0265">
+"In the end, it felt like the host and the
+ contestants were all working together to
+ end it."
+#
+<name "Unaware Citizen" "!LB0187">
+"What do you mean?"
+#
+<name "Former Participant" "!ZE0266">
+"The host kept giving only questions where
+ the answer was true, and the contestants
+ sent someone one by one to the false side."
+#
+<name "Former Participant" "!ZE0267">
+"And then, the host gave a question where the
+ answer was false, and that settled it.
+ The sense of unity when it was over was
+ incredible."
+#
+<name "Unaware Citizen" "!LB0188">
+"O-Oh."
+#
+<name "Former Participant" "!ZE0268">
+"Anyway, time for the qualifying round.
+ Good luck!"
+#
+<name "Unaware Citizen" "!LB0189">
+"Y-Yeah."
+#
+<background "bg015a0.agf" 10>
+It was short, and popular.
+#
+<music 4>
+<background "bg009a0.agf" 10>
+<sprite "ta34b000.agf" 4 4 11>
+<name "Host Maid" "!DC0506">
+"W-We managed to finish in a single day."
+#
+<removesprite -1 11>
+<sprite "ta34a000.agf" 2 4 11>
+<sprite "ta34b000.agf" 6 5 11>
+<name "Company Maid" "!PC0541">
+"Good work."
+#
+<removesprite -1 11>
+\x2B\x0A\x44\x02\x78\x84\x01
+<exit>
+:71BD
+<music 4>
+<background "bg009a0.agf" 10>
+<sprite "ta34c000.agf" 4 4 11>
+<name "Spirited Maid" "!AC0293">
+"There are many kinds of bugs, but the pests
+ cause damage to homes and crops."
+#
+<name "Spirited Maid" "!AC0294">
+"We've had reports that pests are increasing,
+ so all citizens must work together to
+ exterminate them."
+#
+<sprite "ta34c004.agf" 4 4 12>
+<name "Spirited Maid" "!AC0295">
+"That's why you're all gathered here!"
+#
+<name "Participating Citizen" "!RB0173">
+"Yeah!"
+#
+<sprite "ta34c000.agf" 4 4 12>
+<name "Spirited Maid" "!AC0296">
+"You have your weapons!"
+#
+<name "Participating Citizen" "!RB0174">
+"Yeah!"
+#
+<name "Spirited Maid" "!AC0297">
+"The most likely hiding spots are written
+ here!
+ Now get to exterminating every single last
+ one of them!"
+#
+<removesprite -1 11>
+<sprite "ta34b006.agf" 4 4 11>
+<name "Restrained Maid" "!DC0507">
+"Um, it feels a little sad to be trying to
+ kill every last one."
+#
+<removesprite -1 11>
+<sprite "ta34b006.agf" 2 4 11>
+<sprite "ta34c002.agf" 6 5 11>
+<name "Spirited Maid" "!AC0298">
+"Imagine the very last one falling on your
+ forehead."
+#
+<sprite "ta34b005.agf" 2 4 12>
+<name "Restrained Maid" "!DC0508">
+"I'll kill it!"
+#
+<sprite "ta34c000.agf" 6 5 12>
+<name "Spirited Maid" "!AC0299">
+"Good!
+ Let's get to work!"
+#
+<removesprite -1 11>
+The citizens work hard to exterminate the
+pests.
+#
+The sight of them at work is bone-chilling,
+and if I make the mistake of feeling sorry
+for the pests, I feel like I might be
+exterminated too.
+#
+Terrifying.
+#
+<sprite "ta34c001.agf" 4 4 11>
+<name "Spirited Maid" "!AC0300">
+"Overlord, are you slacking off?"
+#
+<name "Darx">
+"N-No..."
+#
+<sprite "ta34c004.agf" 4 4 12>
+<name "Spirited Maid" "!AC0301">
+"Then hurry up. 
+ Find your target, and then destroy.
+ Work hard."
+#
+<name "Darx">
+"R-Roger that."
+#
+<removesprite -1 11>
+\x2B\x0A\x44\x02\x79\x84\x01
+<exit>
+:792F
+<music 4>
+<background "bg009a0.agf" 10>
+<sprite "ta34c005.agf" 4 4 11>
+<name "Spirited Maid" "!AC0302">
+"The pests are back!"
+#
+<name "Spirited Maid" "!AC0303">
+"If we allow this, the world  we know will
+ come to an end!"
+#
+<name "Spirited Maid" "!AC0304">
+"We are already at war!"
+#
+<name "Spirited Maid" "!AC0305">
+"Take up your arms!
+ And fight!"
+#
+<removesprite -1 11>
+<name "Participating Citizen" "!UA0186">
+"Yeeeaaaah!"
+#
+...
+#
+<name "Darx">
+"D-Don't go overboard."
+#
+<sprite "ta34b006.agf" 4 4 11>
+<name "Upset Maid" "!PC0542">
+"Overlord, that kind of comment is dangerous!
+ You will be seen as a dark pest apologist!"
+#
+<name "Darx">
+"I-I just misspoke.
+ I'll be more careful."
+#
+<removesprite -1 11>
+\x2B\x0A\x44\x02\x7A\x84\x01
+<exit>
+:7BF9
+<music 13>
+<background "ev004a00.agf" 10>
+<name "Interested Citizen" "!KB0288">
+"A gambling tournament?
+ What's that?"
+#
+<name "Company Maid" "!PC0543">
+"Literally, a tournament of gambling."
+#
+<name "Interested Citizen" "!KB0289">
+"I still don't get it."
+#
+<name "Company Maid" "!PC0545">
+"Every participant is a player who gambles
+ in contests determined by the tournament
+ over a period of time.
+ Whoever wins the most money is the winner."
+#
+<name "Interested Citizen" "!KB0290">
+"I see."
+#
+<name "Company Maid" "!PC0546">
+"There's no entry fee, but you need to put up
+ your own money to gamble.
+ So you also get to keep whatever you win."
+#
+<name "Interested Citizen" "!KB0291">
+"Oh?"
+#
+<name "Company Maid" "!PC0547">
+"There's one catch.
+ You're judged on how much money you win
+ through gambling."
+#
+<name "Interested Citizen" "!KB0292">
+"Meaning..."
+#
+<name "Company Maid" "!PC0548">
+"It doesn't matter if you start with a
+ million Ｂ.
+ If you don't earn a single Ｂ through 
+ gambling, you can't win."
+#
+<name "Interested Citizen" "!KB0293">
+"I get it.
+ Still though, doesn't starting with a ton of
+ money give you a big advantange?"
+#
+<name "Company Maid" "!PC0549">
+"But you also risk losing it all in a bad
+ bet."
+#
+<name "Interested Citizen" "!KB0294">
+"I see."
+#
+<name "Company Maid" "!PC0550">
+"Participating is free, so please join if you
+ have a chance."
+#
+<name "Interested Citizen" "!KB0295">
+"I'll think about it."
+#
+<name "Company Maid" "!PC0551">
+"Thank you very much."
+#
+...
+#
+<name "Darx">
+"Well, it seems like people had a good time."
+#
+<name "Company Maid" "!PC0552">
+"The problem was the last day got a little
+ too heated up."
+#
+<name "Darx">
+"You fanned the flames too much.
+ You don't need to make a profit off of
+ running everything.
+ Think about that carefully."
+#
+<name "Company Maid" "!PC0553">
+"Y-Yes, sir.
+ Next time will be milder."
+#
+\x0A\x44\x02\x7B\x84\x01
+<exit>
+:827A
+<music 13>
+<background "ev004a00.agf" 10>
+<name "Host Maid" "!PC0554">
+"It's the second gambling tournament!"
+#
+<name "Happy Citizen" "!ZD0169">
+"Yay!"
+#
+<name "Wealthy Citizen" "!UA0187">
+"I've been waiting for this!"
+#
+<name "Spirited Citizen" "!HC0193">
+"This time, I'm betting all the money I've
+ got!"
+#
+<name "Host Maid" "!PC0555">
+"U-Um...
+ Don't gamble so much it ruins your life.
+ Please just play for fun."
+#
+<name "Host Maid" "!PC0556">
+"You want to be able to laugh about it, even
+ if you don't make any money.
+ D-Don't bet too much."
+#
+<name "Host Maid" "!PC0557">
+"Betting your wife and kids is also 
+ off-limits, okay? Okay?
+ That's a promise between all of us."
+#
+<name "Helping Maid" "!DC0509">
+"They're being very careful this time."
+#
+<name "Dealer Maid" "!AC0306">
+"Because last time, someone lost the farm."
+#
+\x0A\x44\x02\x7C\x84\x01
+<exit>
+:8585
+<music 13>
+<background "ev004a00.agf" 10>
+<name "Host Maid" "!PC0558">
+"Welcome to the third gambling tournament!"
+#
+<name "Participating Citizen" "!ZD0170">
+"They've really lowered the scale."
+#
+<name "Listening Citizen" "!UA0188">
+"The amounts have been reduced too..."
+#
+<name "Unhappy Citizen" "!HC0194">
+"It's like at a kid's game's level."
+#
+<name "Host Maid" "!PC0559">
+"Awww...
+ I had to do it because of the complaints 
+ from everywhere."
+#
+<name "Participating Citizen" "!ZD0171">
+"But don't worry, it'll still be fun!"
+#
+<name "Listening Citizen" "!UA0189">
+"That's right!"
+#
+<name "Host Maid" "!PC0560">
+"Thank you!"
+#
+The gambling tournament has attracted a
+dedicated cadre of fans.
+#
+<name "Host Maid" "!PC0561">
+"But only gamble responsibly, all right?"
+#
+\x0A\x44\x02\x7D\x84\x01
+<exit>
+:883E
+<music 4>
+<background "ev001a00.agf" 10>
+<name "Eating Citizen" "!JA0170">
+"The first cooking tournament?"
+#
+<name "Drinking Citizen" "!ZH0135">
+"What's that?"
+#
+<name "Sweet Tooth Citizen" "!SB0262">
+"A cooking competition, obviously."
+#
+<name "Eating Citizen" "!JA0171">
+"I see.
+ Then I'll wow them with my special stew!"
+#
+<name "Drinking Citizen" "!ZH0136">
+"No way. My clam chowder will be the winner!"
+#
+<name "Sweet Tooth Citizen" "!SB0263">
+"Hahahahaha!
+ You think you can defeat my roasted chicken?"
+#
+<name "Eating Citizen" "!JA0172">
+"This will be fun."
+#
+...
+#
+<name "Planning Maid" "!DC0510">
+"B-But I was going to ask them to cook with
+ a certain theme ingredient..."
+#
+Everyone brought their best recipe and
+competed over that.
+#
+\x0A\x44\x02\x7E\x84\x01
+<exit>
+:8B26
+<music 11>
+<background "bg008a0.agf" 10>
+<name "Announcer Maid" "!PC0437" "ka34d000.agf">
+"It's the first ever tournament for Dragon
+ Slayer, the sport of hitting a ball with
+ sticks."
+#
+<name "Announcer Maid" "!PC0438" "ka34d000.agf">
+"The first match is Diamond Punch versus
+ The Overlords."
+#
+<name "Announcer Maid" "!PC0439" "ka34d000.agf">
+"Diamond Punch's top four batters are master
+ class. We can expect high scoring from them."
+#
+<name "Commenting Maid" "!DC0318" "ka34e000.agf">
+"On the other side, The Overlords are a team
+ based around the Overlord.
+ Most of its members are dirty players.
+ The only wild card is the Overlord himself."
+#
+<name "Commenting Maid" "!DC0319" "ka34e000.agf">
+"I hear that he's developed a new trick
+ pitch."
+#
+<name "Commenting Maid" "!DC0320" "ka34e000.agf">
+"Will that trick pitch be able to hold back
+ Diamond Punch?
+ Look forward to the big game."
+#
+<background "bg015a0.agf" 10>
+...
+#
+<background "bg008a0.agf" 10>
+<name "Announcer Maid" "!PC0440" "ka34d000.agf">
+"The Overlord couldn't do it.
+ I didn't expect him to be pulled in the
+ second inning."
+#
+<name "Announcer Maid" "!PC0441" "ka34d000.agf">
+"After that, Tojo held off Diamond Punch with
+ an impressive pitching performance, but the
+ deficit the Overlord left was too much to
+ overcome."
+#
+<name "Commenting Maid" "!DC0321" "ka34e000.agf">
+"Yes. The final results were 18-12 for
+ Diamond Punch.
+ Well played, both teams."
+#
+<name "Announcer Maid" "!PC0442" "ka34d000.agf">
+"Now, on to the next game."
+#
+\x0A\x44\x02\x7F\x84\x01
+<exit>
+:9100
+<music 3>
+<background "bg010a0.agf" 10>
+<sprite "ta01a033.agf" 4 4 11>
+<name "Sofia" "!ZB5015">
+"Okay, it's event time!"
+#
+<name "Darx">
+"Yeah!
+ ...Is what I'd say, but you haven't told me
+ what you're doing."
+#
+<sprite "ta01a027.agf" 4 4 12>
+<name "Sofia" "!ZB5016">
+"Don't worry about the little details!"
+#
+<name "Darx">
+"Hold on."
+#
+<name "Sofia" "!ZB5017">
+"Don't worry about it!"
+#
+<name "Darx">
+"I haven't okayed anything!"
+#
+<name "Sofia" "!ZB5018">
+"Don't worry..."
+#
+<name "Darx">
+"I'll tell Rakia on you."
+#
+<sprite "ta01a037.agf" 4 4 12>
+<name "Sofia" "!ZB5019">
+"I'm sorry.
+ Please forgive me.
+ I'll quickly summarize for you."
+#
+<removesprite -1 11>
+\x2B\x0A\x44\x02\x80\x84\x01
+<exit>
+:93D5
+<music 3>
+<background "bg010a0.agf" 10>
+<name "Demon Citizen" "!KB5000">
+"A trial of strength?
+ What's that?"
+#
+<name "Ordinary Citizen" "!ZD5006">
+"What? Isn't it what it sounds like?
+ It's the next event they're holding."
+#
+<name "Demon Citizen" "!KB5002">
+"I understand that much.
+ This is what I don't get.
+ Read the part of the announcement here."
+#
+<name "Ordinary Citizen" "!ZD5007">
+"No race restrictions."
+#
+<name "Demon Citizen" "!KB5003">
+"What do you think?"
+#
+<name "Ordinary Citizen" "!ZD5008">
+"What the hell?"
+#
+<name "Demon Citizen" "!KB5004">
+"Right?"
+#
+<name "Ordinary Citizen" "!ZD5009">
+"Yeah.
+ What's going on?
+ How do you compare the strength of something
+ like a giant and a fairy without a handicap?"
+#
+<name "Demon Citizen" "!KB5005">
+"I mean, in that kind of matchup, I'm not sure
+ any handicap would matter..."
+#
+<name "Ordinary Citizen" "!ZD5011">
+"I don't want to participate, but I'm
+ curious."
+#
+<name "Demon Citizen" "!KB5006">
+"Y-Yeah."
+#
+<music 11>
+<background "bg015a0.agf" 10>
+...
+#
+<music 3>
+<background "bg010a0.agf" 10>
+<sprite "ta01a033.agf" 4 4 11>
+<name "Sofia" "!ZB5020">
+"Our strategy to attract an audience has been
+ a success."
+#
+<name "Darx">
+"I understand that, but I'm being forced to
+ participate."
+#
+<sprite "ta01a027.agf" 4 4 12>
+<name "Sofia" "!ZB5022">
+"I'm sorry.
+ We were able to attract an audience, but
+ fewer participants than we hoped for."
+#
+<name "Darx">
+"The only ones are the big races?
+ They're the only ones who thinks it's okay
+ to do this without limiting by race."
+#
+<sprite "ta01a033.agf" 4 4 12>
+<name "Sofia" "!ZB5023">
+"Good luck.
+ I'm rooting for you."
+#
+<removesprite -1 11>
+At least the healing magic was incredible.
+#
+\x0A\x44\x02\x81\x84\x01
+<exit>
+:9A1F
+<music 4>
+<background "ev001a00.agf" 10>
+By generating excitement in the city, the
+number of citizens should increase.
+#
+<exit>
+\x78

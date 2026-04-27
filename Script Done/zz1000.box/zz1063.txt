@@ -1,0 +1,18 @@
+﻿<music 8>
+<background "ev047b00.agf" 10>
+<name "Darx">
+"Logius, couldn't you have a little more faith
+ in me?"
+#
+<name "Logius" "!PA0073">
+"What a funny joke."
+#
+She looks at me in naked disbelief.
+#
+<name "Darx">
+"I am her boss, right?"
+#
+<name "Sofia" "!ZB0787">
+"P-Probably."
+#
+\x78\x78

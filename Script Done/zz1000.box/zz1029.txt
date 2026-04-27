@@ -1,0 +1,56 @@
+﻿<music 4>
+<background "bg009a0.agf" 10>
+<name "Gossipping Girl" "!HC0082">
+"I had heard the rumors about the Overlord,
+ but..."
+#
+<name "Agreeing Girl" "!SB0161">
+"They were all true."
+#
+<name "Remembering Girl" "!RB0145">
+"Yeah."
+#
+<music 17>
+<background "ev059a01.agf" 10>
+<name "Multiple Orgasms Girl" "!LB0110">
+"He was incredible."
+#
+<name "Enraptured Girl" "!GB0109">
+"So intense."
+#
+<name "Loud Girl" "!QB0159">
+"He knew all kinds of techniques."
+#
+<name "Writhing Girl" "!WB0150">
+"I passed out."
+#
+<name "Gossipping Girl" "!HC0083">
+"No wonder the Celestials fell."
+#
+<name "Agreeing Girl" "!SB0162">
+"Yeah."
+#
+<name "Remembering Girl" "!RB0146">
+"But I heard that Forzelotte and Meryl can
+ handle him by themselves."
+#
+<name "Multiple Orgasms Girl" "!LB0111">
+"Huh?
+ They can?"
+#
+<name "Enraptured Girl" "!GB0110">
+"No way..."
+#
+<name "Loud Girl" "!QB0160">
+"A-Amazing..."
+#
+<name "Writhing Girl" "!WB0151">
+"Admirable."
+#
+<name "Gossipping Girl" "!HC0084">
+"Yeah."
+#
+Forzelotte and Meryl's reputation improved,
+though they had no idea why.
+#
+\x78\x78

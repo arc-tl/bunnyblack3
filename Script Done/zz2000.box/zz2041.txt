@@ -1,0 +1,79 @@
+﻿<music 3>
+<background "bg010a0.agf" 10>
+<name "Demon Citizen" "!KB5000">
+"A trial of strength?
+ What's that?"
+#
+<name "Ordinary Citizen" "!ZD5006">
+"What? Isn't it what it sounds like?
+ It's the next event they're holding."
+#
+<name "Demon Citizen" "!KB5002">
+"I understand that much.
+ This is what I don't get.
+ Read the part of the announcement here."
+#
+<name "Ordinary Citizen" "!ZD5007">
+"No race restrictions."
+#
+<name "Demon Citizen" "!KB5003">
+"What do you think?"
+#
+<name "Ordinary Citizen" "!ZD5008">
+"What the hell?"
+#
+<name "Demon Citizen" "!KB5004">
+"Right?"
+#
+<name "Ordinary Citizen" "!ZD5009">
+"Yeah.
+ What's going on?
+ How do you compare the strength of something
+ like a giant and a fairy without a handicap?"
+#
+<name "Demon Citizen" "!KB5005">
+"I mean, in that kind of matchup, I'm not sure
+ any handicap would matter..."
+#
+<name "Ordinary Citizen" "!ZD5011">
+"I don't want to participate, but I'm
+ curious."
+#
+<name "Demon Citizen" "!KB5006">
+"Y-Yeah."
+#
+<music 11>
+<background "bg015a0.agf" 10>
+...
+#
+<music 3>
+<background "bg010a0.agf" 10>
+<sprite "ta01a033.agf" 4 4 11>
+<name "Sofia" "!ZB5020">
+"Our strategy to attract an audience has been
+ a success."
+#
+<name "Darx">
+"I understand that, but I'm being forced to
+ participate."
+#
+<sprite "ta01a027.agf" 4 4 12>
+<name "Sofia" "!ZB5022">
+"I'm sorry.
+ We were able to attract an audience, but
+ fewer participants than we hoped for."
+#
+<name "Darx">
+"The only ones are the big races?
+ They're the only ones who thinks it's okay
+ to do this without limiting by race."
+#
+<sprite "ta01a033.agf" 4 4 12>
+<name "Sofia" "!ZB5023">
+"Good luck.
+ I'm rooting for you."
+#
+<removesprite -1 11>
+At least the healing magic was incredible.
+#
+\x78\x78

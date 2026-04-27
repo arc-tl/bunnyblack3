@@ -1,0 +1,113 @@
+﻿<music 11>
+<background "bg008a0.agf" 10>
+<name "Expectant Citizens" "!ZE0255">
+"They're doing a lottery."
+#
+<name "Calculating Citizen" "!JA0154">
+"Yeah. If you collect ten tickets from 
+ shopping in the city, you get one draw."
+#
+<name "Calculating Citizen" "!JA0155">
+"There's a full of of luxury prizes!
+ And if you miss, you still get a 1Ｂ gift
+ certificate you can use at the Overlord's
+ Retreat."
+#
+<name "Calculating Citizen" "!JA0156">
+"There's no reason not to play."
+#
+<name "Expectant Citizens" "!ZE0256">
+"So you get tickets just going through your
+ regular life, huh?
+ Okay, let's do this."
+#
+<name "Calculating Citizen" "!JA0157">
+"Wait!"
+#
+<name "Expectant Citizens" "!ZE0257">
+"W-What?"
+#
+<name "Calculating Citizen" "!JA0158">
+"The way the draw works is by pulling a stone
+ with a number on it from a box!"
+#
+<name "Calculating Citizen" "!JA0159">
+"Once the stone is drawn, they don't put it
+ back in the box!"
+#
+<name "Expectant Citizens" "!ZE0258">
+"Yeah, so if you don't draw soon enough,
+ it'll be over."
+#
+<name "Calculating Citizen" "!JA0161">
+"Fool!
+ If you don't let some of them be drawn,
+ you'll be stuck with the worst odds for a
+ big prize!"
+#
+<name "Expectant Citizens" "!ZE0259">
+"Really?"
+#
+<name "Calculating Citizen" "!JA0162">
+"Think about it."
+#
+<name "Calculating Citizen" "!JA0163">
+"For example, let's say the odds of a prize
+ are one in 100.
+ After one miss, it becomes one in 99!
+ After two, it's one in 98!"
+#
+<name "Calculating Citizen" "!JA0164">
+"It's better to draw after there have been
+ some misses!
+ Drawing early is the height of stupidity!"
+#
+<name "Expectant Citizens" "!ZE0260">
+"Ooh! I see!
+ You're so smart!"
+#
+<name "Calculating Citizen" "!JA0165">
+"Heheheh..."
+#
+...
+#
+<sprite "ta01a007.agf" 4 4 11>
+<name "Sofia" "!ZB0996">
+"Oh, that's the third prize.
+ Congratulations!"
+#
+<name "Drawing Citizen" "!HC0192">
+"Lucky!"
+#
+<sprite "ta01a033.agf" 4 4 12>
+<name "Sofia" "!ZB0997">
+"That's the second prize.
+ Congratulations!"
+#
+<name "Lucky Citizen" "!SB0261">
+"Yay!"
+#
+<removesprite -1 11>
+...
+#
+<name "Expectant Citizens" "!ZE0261">
+"...Hey."
+#
+<name "Calculating Citizen" "!JA0166">
+"Um..."
+#
+<name "Expectant Citizens" "!ZE0262">
+"Hey."
+#
+<name "Calculating Citizen" "!JA0167">
+"Um..."
+#
+<name "Expectant Citizens" "!ZE0263">
+"I want to draw right now!"
+#
+<name "Calculating Citizen" "!JA0168">
+"Huh? Oh! M-Me too!"
+#
+Both of them lost.
+#
+\x78\x78

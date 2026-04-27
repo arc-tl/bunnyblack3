@@ -1,0 +1,139 @@
+﻿<music 8>
+<background "ev047b00.agf" 10>
+<name "Happy Student" "!HC0054">
+"Aaah!
+ It's cold!"
+#
+<name "Smiling Student" "!SB0135">
+"It feels nice."
+#
+<name "Exercising Student" "!RB0110">
+"Yeah."
+#
+<name "Happy Student" "!HC0055">
+"You don't get this kind of openness in the
+ dungeon."
+#
+<name "Supervising Teacher" "!TC0142">
+"Quit messing around and start stretching.
+ When you're finished, whoever can't swim head
+ to the first lane. If you can swim, you're
+ free to swim outside that area."
+#
+<name "Happy Student" "!HC0056">
+"Yes, ma'am."
+#
+<name "Kozelotte" "!NA0043">
+"Hm?"
+#
+<name "Exercising Student" "!RB0111">
+"Is something the matter, president?"
+#
+<name "Kozelotte" "!NA0044">
+"No...
+ Ah."
+#
+<name "Darx">
+"Hey."
+#
+<name "Kozelotte" "!NA0045">
+"D-Dad."
+#
+<name "Darx">
+"Ah, well, I came to visit because I heard
+ the students would be using the pool."
+#
+<name "Darx">
+"You look pretty good."
+#
+<name "Kozelotte" "!NA0046">
+"Thank you very much, but it's the girls' time
+ right now.
+ You, a man, should not be here..."
+#
+<name "Darx">
+"Don't sweat it.
+ I'm the Overlord."
+#
+<name "Kozelotte" "!NA0047">
+"Dad, that attitude just makes me angry.
+ Please show some dignity."
+#
+<name "Logius" "!PA0059">
+"Yes. Honestly.
+ You're exactly right."
+#
+<name "Darx">
+"Hey, Logius.
+ You're looking pretty good too."
+#
+<name "Logius" "!PA0060">
+"Thank you very much."
+#
+<name "Logius" "!PA0061">
+"But... 
+ So you came after all."
+#
+<name "Logius" "!PA0062">
+"I took a lot of precautions.
+ Increased patrols, set traps, and enlisted
+ the help of the bodyguards..."
+#
+<name "Logius" "!PA0063">
+"But you made it through all of them.
+ You indeed are the Overlord."
+#
+<name "Darx">
+"Hahaha.
+ No need for such praise."
+#
+<name "Logius" "!PA0064">
+"Hahahahahaha.
+ Well then, goodbye."
+#
+<name "Darx">
+"Huh?"
+#
+<name "Logius" "!PA0065">
+"Die!"
+#
+<name "Darx">
+"Aah!"
+#
+<name "Logius" "!PA0066">
+"If you won't stop, then I'll stop you
+ myself!"
+#
+<name "Darx">
+"W-W-What the... Ah!
+ Aaahh!"
+#
+<name "Logius" "!PA0067">
+"I will protect my students!"
+#
+<name "Logius" "!PA0068">
+"Student president, which side are you on!?"
+#
+<name "Kozelotte" "!NA0048">
+"In this case, my dad's wrong.
+ Ms. Logius, I'll support you."
+#
+<name "Logius" "!PA0069">
+"Okay! The rest of you, back to class.
+ Teacher, do not take your eyes off them!
+ If any students drown, I will cut off your
+ head myself!"
+#
+<name "Supervising Teacher" "!TC0143">
+"Y-Yes, ma'am!"
+#
+<name "Logius" "!PA0070">
+"Now, face us, Overlord!"
+#
+I was forced to beat a hasty retreat while
+dodging the attacks of Logius and Kozelotte.
+#
+Well, I got to see those two in their
+swimsuits, so we can call that a success.
+#
+\x78\x78

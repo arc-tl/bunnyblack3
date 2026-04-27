@@ -1,0 +1,101 @@
+﻿\x15 :6: 
+:6
+\x78
+<music 4>
+<background "bg009a0.agf" 10>
+<sprite "ta01a004.agf" 4 4 11>
+<name "Sofia" "!ZB0980">
+"Okay, what would you like to sell?"
+#
+<sprite "ta01a005.agf" 4 4 12>
+<name "Sofia" "!ZB0982">
+"We'll buy anything."
+#
+<name "Darx">
+"Thanks."
+#
+<sprite "ta01a033.agf" 4 4 12>
+<name "Sofia" "!ZB0983">
+"Yep."
+#
+<removesprite -1 11>
+<exit>
+<music 4>
+<background "bg009a0.agf" 10>
+<sprite "ta01a004.agf" 4 4 11>
+<name "Sofia" "!ZB0980">
+"Okay, what would you like to sell?"
+#
+<sprite "ta01a033.agf" 4 4 12>
+<name "Sofia" "!ZB0981">
+"We'll buy anything, and as much of it as you
+ want."
+#
+<name "Darx">
+"I want you to buy anything, but I'm not sure
+ you should buy all of it."
+#
+<removesprite -1 11>
+<exit>
+<music 11>
+<background "bg008a0.agf" 10>
+<name "Darx">
+"It really is lonely with so few citizens."
+#
+<sprite "ta34a000.agf" 4 4 11>
+<name "Company Maid" "!AC0281">
+"Yes, it is.
+ But just for now, we have extra time."
+#
+<name "Darx">
+"Really?"
+#
+<name "Company Maid" "!AC0282">
+"You're going to be gathering a lot of
+ residents soon enough, right?"
+#
+<name "Darx">
+"...Don't pressure me."
+#
+<name "Company Maid" "!AC0283">
+"I'm sorry."
+#
+<name "Darx">
+"Well, I won't let you down."
+#
+<sprite "ta34a004.agf" 4 4 12>
+<name "Company Maid" "!AC0284">
+"Okay.
+ Good luck."
+#
+<removesprite -1 11>
+<exit>
+<music 11>
+<background "bg008a0.agf" 10>
+<name "Darx">
+"It's bustling."
+#
+<sprite "ta34a000.agf" 4 4 11>
+<name "Company Maid" "!AC0285">
+"Yes.
+ We've asked Rakia for replacements.
+ We don't want anything to get in the way of
+ business."
+#
+<name "Darx">
+"I'll leave all that to you."
+#
+<sprite "ta34a001.agf" 4 4 12>
+<name "Company Maid" "!AC0286">
+"Oh?"
+#
+<name "Darx">
+"I'm counting on you."
+#
+<sprite "ta34a000.agf" 4 4 12>
+<name "Company Maid" "!AC0287">
+"Leave it to us."
+#
+<removesprite -1 11>
+<exit>
+\x78

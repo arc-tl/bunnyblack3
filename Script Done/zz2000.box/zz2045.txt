@@ -1,0 +1,64 @@
+﻿<music 5>
+<background "bg011a0.agf" 10>
+<name "Yahnu" "!NB0031" "ka24a114.agf">
+"Mm...mm...aah..."
+#
+<name "Darx">
+"Yahnu."
+#
+<name "Yahnu" "!NB0032" "ka24a114.agf">
+"What is it?"
+#
+<name "Darx">
+"Can I have a drink?"
+#
+<name "Yahnu" "!NB0033" "ka24a115.agf">
+"Y-Yes, go ahead."
+#
+I suck on her offered nipple.
+#
+<name "Yahnu" "!NB0034" "ka24a114.agf">
+"Mm..."
+#
+<name "Darx">
+"Just from the aphrodisiac in this, my dick
+ already feels like it's going to burst."
+#
+<name "Yahnu" "!NB0035" "ka24a103.agf">
+"Go ahead. My body belongs to nobody but you.
+ You may use it however you desire."
+#
+<name "Darx">
+"Got it."
+#
+I enjoy myself with her.
+#
+<music 4>
+<background "bg009a0.agf" 10>
+<sprite "ta34b001.agf" 4 4 11>
+<name "Company Maid" "!PC0139">
+"Why did you leave for lunch, and then not
+ come back until the next morning?"
+#
+<name "Yahnu" "!NB0036" "ka24a014.agf">
+"I-I'm sorry.
+ The Overlord asked for breast milk..."
+#
+<name "Darx">
+"Ah, hey, don't put all the blame on me.
+ You showed off your breasts yourself.
+ You gave me a look saying you wanted me to
+ squeeze them."
+#
+<name "Company Maid" "!PC0140">
+"Overlord.
+ It's bad to make excuses."
+#
+<name "Darx">
+"Eeeh?"
+#
+<removesprite -1 11>
+I got scolded about the importance of daily
+chores.
+#
+\x78\x78

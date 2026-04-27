@@ -1,0 +1,404 @@
+﻿<music 3>
+<background "bg010a0.agf" 10>
+I couldn't believe my ears when I heard the
+report.
+#
+<name "Darx">
+"This... isn't a joke, is it?"
+#
+<sprite "ta34a002.agf" 4 4 11>
+<name "Company Maid" "!AC0222">
+"N-No...
+ It's pretty reliable information."
+#
+<name "Darx">
+"I had... better check for myself."
+#
+<name "Company Maid" "!AC0223">
+"If you can."
+#
+<removesprite -1 11>
+I head to the location.
+#
+It's the Temple of Darx.
+#
+The deepest part of my personal dungeon.
+#
+In other words, the closest place to the
+Overlord's Retreat.
+#
+<music 12>
+<background "ev049a00.agf" 10>
+<name "Ekate" "!TA0020">
+"Hahahahaha!"
+#
+<name "Ekate" "!TA0022">
+"You've come this far!"
+#
+<name "Ekate" "!TA0023">
+"But this is as far as you go!"
+#
+<name "Ekate" "!TA0024">
+"The Overlord's wife will not let you take a
+ single step further!"
+#
+<name "Ekate" "!TA0025">
+"I will say it again."
+#
+<name "Ekate" "!TA0026">
+"The Overlord's wife will not let you take a
+ single step further!"
+#
+<name "Warrior Adventurer" "!MB0043">
+"H-Hey, is this for real?
+ Isn't that Ekate?"
+#
+<name "Monk Adventurer" "!CB0056">
+"Yeah, she's the monster at the end of the
+ dungeon."
+#
+<name "Warrior Adventurer" "!MB0044">
+"I heard it's best to run away as quick as you
+ can if you ever run into her."
+#
+<name "Monk Adventurer" "!CB0057">
+"I can't do it.
+ I can't even stand anymore."
+#
+<name "Warrior Adventurer" "!MB0045">
+"It can't be.
+ What would Ekate be doing in such a crappy
+ dungeon?"
+#
+<name "Monk Adventurer" "!CB0058">
+"It's too much!
+ It's too horrible!"
+#
+<name "Ekate" "!TA0027">
+"Heheheheheheh.
+ Don't worry.
+ You won't die so easily."
+#
+<name "Ekate" "!TA0028">
+"On the contrary, if you do me a favor, I'll
+ let you live.
+ Oh, but you still can't go past here."
+#
+<name "Warrior Adventurer" "!MB0046">
+"Huh?"
+#
+<name "Monk Adventurer" "!CB0059">
+"Really?"
+#
+<name "Warrior Adventurer" "!MB0047">
+"T-Tell us.
+ We'll do whatever you want.
+ Just let us go."
+#
+<name "Ekate" "!TA0029">
+"Very well.
+ Then first, memorize what I'm about to say."
+#
+<name "Ekate" "!TA0030">
+"The wife of the Overlord, Ekate."
+#
+<name "Ekate" "!TA0031">
+"Can you remember that?"
+#
+<name "Warrior Adventurer" "!MB0048">
+"I-I can."
+#
+<name "Ekate" "!TA0032">
+"Then let's hear it."
+#
+<name "Warrior Adventurer" "!MB0049">
+"T-The wife of the Overlord, Ekate."
+#
+<name "Ekate" "!TA0033">
+"You there."
+#
+<name "Monk Adventurer" "!CB0060">
+"The wife of the Overlord, Ekate."
+#
+<name "Ekate" "!TA0034">
+"Very well done."
+#
+<name "Warrior Adventurer" "!MB0050">
+"O-Okay!"
+#
+<name "Monk Adventurer" "!CB0061">
+"We did it!"
+#
+<name "Ekate" "!TA0035">
+"Now, when you return to the surface, tell 
+ that to at least ten people."
+#
+<name "Ekate" "!TA0036">
+"Understand?"
+#
+<name "Warrior Adventurer" "!MB0051">
+"O-Okay.
+ I understand."
+#
+<name "Monk Adventurer" "!CB0062">
+"I swear I'll tell it to at least ten people."
+#
+<name "Ekate" "!TA0037">
+"Then leave!"
+#
+<name "Warrior Adventurer" "!MB0052">
+"Y-Yes, ma'am!"
+#
+...
+#
+<music 11>
+<name "Ekate" "!TA0038">
+"Whew.
+ Job complete."
+#
+<name "Darx">
+"Um, a word."
+#
+<name "Ekate" "!TA0039">
+"Overlord!♪"
+#
+This is the report I got.
+#
+That Ekate was tormenting humans deep inside
+the Temple of Darx.
+#
+I couldn't believe it, but it was true.
+#
+<music 18>
+<background "ev050a00.agf" 10>
+<name "Ekate" "!TA0040">
+"Aah! My Lord!♪"
+#
+I brought her to my room in the Overlord's
+Retreat and immediately threw her on the bed.
+#
+Well, I'm not going to say no to her, so I'm
+more than happy enough to have plenty of fun
+with her.
+#
+<name "Ekate" "!TA0041">
+"Heheheh..."
+#
+<name "Darx">
+"You're being unusually clingy."
+#
+<name "Ekate" "!TA0042">
+"Am I?"
+#
+She hugs me tight from behind, pressing her
+breasts against my back.
+#
+<name "Ekate" "!TA0043">
+"I think I always cling to you."
+#
+<name "Darx">
+"That's true."
+#
+<name "Ekate" "!TA0044">
+"...It's cause I missed you."
+#
+<name "Darx">
+"Sorry."
+#
+<name "Darx">
+"But if you were guarding the Hall of Doors,
+ wouldn't you still be able to see me?"
+#
+<name "Ekate" "!TA0045">
+"That's what I thought, but you never came 
+ even once!"
+#
+<name "Darx">
+"Well, things were busy."
+#
+I had a lot of land work to do, and didn't use
+the Doors much.
+#
+<name "Ekate" "!TA0046">
+"Grr.
+ Again."
+#
+<name "Darx">
+"Yeah, yeah."
+#
+I gently embrace her.
+#
+<name "Darx">
+"Speaking of which, why were you doing that in
+ there?"
+#
+<name "Ekate" "!TA0047">
+"I-I wanted to be nearby, but...
+ I thought I shouldn't bother you."
+#
+<name "Darx">
+"So you went there."
+#
+<name "Ekate" "!TA0048">
+"Yep."
+#
+<name "Darx">
+"...I'm sorry I made you feel lonely."
+#
+<name "Ekate" "!TA0049">
+"Yep."
+#
+<name "Darx">
+"You can dote on me however much you want
+ today."
+#
+<name "Ekate" "!TA0050">
+"Really?"
+#
+<name "Darx">
+"Yeah, as an apology for making you lonely."
+#
+<name "Ekate" "!TA0051">
+"T-Then..."
+#
+I satisfy each and every one of her demands
+until morning.
+#
+<music 3>
+<background "bg010a0.agf" 10>
+<sprite "ta13a006.agf" 4 4 11>
+<name "Ekate" "!TA0052">
+"I'm quitting there and coming to work here."
+#
+<removesprite -1 11>
+<name "Darx">
+"She insisted..."
+#
+<sprite "ta08a019.agf" 4 4 11>
+<name "Rakia" "!ZC0458">
+"There are a lot of problems with approving
+ that..."
+#
+<name "Darx">
+"We'll figure things out."
+#
+<sprite "ta08a014.agf" 4 4 12>
+<name "Rakia" "!ZC0459">
+"If you could possibly just come back..."
+#
+<removesprite -1 11>
+<sprite "ta13a005.agf" 4 4 11>
+<name "Ekate" "!TA0053">
+"Nope."
+#
+<removesprite -1 11>
+<sprite "ta08a013.agf" 4 4 11>
+<name "Rakia" "!ZC0460">
+"T-Then... I can expand the definition of the
+ guard area from around the Hall of Doors to
+ the elevator connecting the dungeon to the
+ city. How does that sound?"
+#
+<name "Darx">
+"Are you sure?"
+#
+<removesprite -1 11>
+It's a big concession.
+#
+Maybe she figures that even if she convinced
+Ekate to come back, she'd just be upset and
+more trouble than it's worth.
+#
+<removesprite -1 11>
+<sprite "ta08a011.agf" 4 4 11>
+<name "Rakia" "!ZC0461">
+"However, you'd work for Forzelotte's Shrine.
+ You would have to do your job for both sides.
+ And as much as possible, you'd have to be
+ stationed in Forzelotte's Shrine."
+#
+<name "Darx">
+"How about that, Ekate?"
+#
+<removesprite -1 11>
+<sprite "ta13a017.agf" 4 4 11>
+<name "Ekate" "!TA0054">
+"Mrrrrr..."
+#
+<removesprite -1 11>
+<sprite "ta08a015.agf" 4 4 11>
+<name "Rakia" "!ZC0462">
+"I'll say it again, the place you'd be 
+ guarding would be the elevator connecting the
+ Temple of Darx to the city, and the area
+ around it."
+#
+<sprite "ta08a016.agf" 4 4 12>
+<name "Rakia" "!ZC0463">
+"Please don't stretch the definition of that
+ either. Fighting outside of eyeshot of the
+ elevator would be seen as assisting Darx in
+ his evaluation."
+#
+<name "Darx">
+"What happens if she does?"
+#
+<sprite "ta08a023.agf" 4 4 12>
+<name "Rakia" "!ZC0464">
+"That depends on Macdo's mood."
+#
+<name "Darx">
+"...I see.
+ Does that work for you, Ekate?"
+#
+<removesprite -1 11>
+<sprite "ta13a005.agf" 4 4 11>
+<name "Ekate" "!TA0055">
+"Yep."
+#
+<removesprite -1 11>
+<sprite "ta08a016.agf" 2 5 11>
+<sprite "ta13a005.agf" 6 4 11>
+<name "Rakia" "!ZC0465">
+"And while you're here, please try to stay in
+ the Temple of Darx as much as you can."
+#
+<sprite "ta13a006.agf" 6 4 12>
+<name "Ekate" "!TA0056">
+"I'll try."
+#
+<removesprite -1 11>
+<music 4>
+<background "bg009a0.agf" 10>
+<sprite "ta08a016.agf" 4 4 11>
+<name "Rakia" "!ZC0466">
+"Sigh..."
+#
+<name "Darx">
+"Sorry for the headache."
+#
+<sprite "ta08a014.agf" 4 4 12>
+<name "Rakia" "!ZC0467">
+"Honestly."
+#
+<name "Darx">
+"Hahaha..."
+#
+<sprite "ta08a012.agf" 4 4 12>
+<name "Rakia" "!ZC0468">
+"By the way, have you made her even more of a
+ little girl?"
+#
+<name "Darx">
+"Aah, that was from last night.
+ She was a little spoiled."
+#
+<name "Darx">
+"She should be back to normal in a few days."
+#
+<sprite "ta08a023.agf" 4 4 12>
+<name "Rakia" "!ZC0469">
+"I certainly hope so."
+#
+<removesprite -1 11>
+\x2B\x78\x78

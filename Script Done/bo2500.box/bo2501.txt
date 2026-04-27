@@ -1,0 +1,1712 @@
+﻿\x1A\x01\x0D\x43\x00\x31\x00\x35\x00\x30\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x39\x00\x39\x00\x39\x00\x30\x00\x09\x00 :6B: \x1A\x01\x0D\x43\x00\x31\x00\x35\x00\x30\x00\x20\x00\x3C\x00\x3D\x00\x20\x00\x39\x00\x39\x00\x39\x00\x33\x00\x09\x00 :6B: \x0A\x04\x00\x78\x84\x01\x0A\x04\x00\x7D\x84\x01\x3C "The enemy was an illusion." \xA9\x02\x00\x98\x15 :8E7: 
+:6B
+\x1A\x01\x0D\x43\x00\x31\x00\x35\x00\x30\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x39\x00\x38\x00\x30\x00\x30\x00\x09\x00 :9F: \x0A\x04\x00\x78\x84\x01\x16 :8E8: \x15 :8E7: 
+:9F
+\x1A\x01\x0D\x43\x00\x31\x00\x35\x00\x30\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x39\x00\x38\x00\x30\x00\x31\x00\x09\x00 :D3: \x0A\x04\x00\x78\x84\x01\x16 :9BE: \x15 :8E7: 
+:D3
+\x1A\x01\x0D\x43\x00\x31\x00\x35\x00\x30\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x39\x00\x38\x00\x30\x00\x34\x00\x09\x00 :107: \x0A\x04\x00\x78\x84\x01\x16 :AD8: \x15 :8E7: 
+:107
+\x1A\x01\x0D\x43\x00\x31\x00\x35\x00\x30\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x39\x00\x38\x00\x30\x00\x35\x00\x09\x00 :13B: \x0A\x04\x00\x78\x84\x01\x16 :E76: \x15 :8E7: 
+:13B
+\x1A\x01\x0D\x43\x00\x31\x00\x35\x00\x30\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x39\x00\x38\x00\x30\x00\x37\x00\x09\x00 :16F: \x0A\x04\x00\x78\x84\x01\x16 :1052: \x15 :8E7: 
+:16F
+\x1A\x01\x0D\x43\x00\x31\x00\x35\x00\x30\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x39\x00\x38\x00\x30\x00\x38\x00\x09\x00 :1A3: \x0A\x04\x00\x78\x84\x01\x16 :12B5: \x15 :8E7: 
+:1A3
+\x1A\x01\x0D\x43\x00\x31\x00\x35\x00\x30\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x39\x00\x38\x00\x31\x00\x35\x00\x09\x00 :1D7: \x0A\x04\x00\x78\x84\x01\x16 :15D2: \x15 :8E7: 
+:1D7
+\x1A\x01\x0D\x43\x00\x31\x00\x35\x00\x30\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x39\x00\x38\x00\x31\x00\x36\x00\x09\x00 :20B: \x0A\x04\x00\x78\x84\x01\x16 :16AD: \x15 :8E7: 
+:20B
+\x1A\x01\x0D\x43\x00\x31\x00\x35\x00\x30\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x39\x00\x38\x00\x31\x00\x37\x00\x09\x00 :23F: \x0A\x04\x00\x78\x84\x01\x16 :180E: \x15 :8E7: 
+:23F
+\x1A\x01\x0D\x43\x00\x31\x00\x35\x00\x30\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x39\x00\x38\x00\x32\x00\x32\x00\x09\x00 :273: \x0A\x04\x00\x78\x84\x01\x16 :1E0B: \x15 :8E7: 
+:273
+\x1A\x01\x0D\x43\x00\x31\x00\x35\x00\x30\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x39\x00\x38\x00\x32\x00\x36\x00\x09\x00 :2A7: \x0A\x04\x00\x78\x84\x01\x16 :1F2E: \x15 :8E7: 
+:2A7
+\x1A\x01\x0D\x43\x00\x31\x00\x35\x00\x30\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x39\x00\x38\x00\x32\x00\x38\x00\x09\x00 :2DB: \x0A\x04\x00\x78\x84\x01\x16 :2121: \x15 :8E7: 
+:2DB
+\x1A\x01\x0D\x43\x00\x31\x00\x35\x00\x30\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x39\x00\x38\x00\x32\x00\x39\x00\x09\x00 :30F: \x0A\x04\x00\x78\x84\x01\x16 :232A: \x15 :8E7: 
+:30F
+\x1A\x01\x0D\x43\x00\x31\x00\x35\x00\x30\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x39\x00\x38\x00\x33\x00\x33\x00\x09\x00 :343: \x0A\x04\x00\x78\x84\x01\x16 :2959: \x15 :8E7: 
+:343
+\x1A\x01\x0D\x43\x00\x31\x00\x35\x00\x30\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x39\x00\x38\x00\x33\x00\x34\x00\x09\x00 :377: \x0A\x04\x00\x78\x84\x01\x16 :2B25: \x15 :8E7: 
+:377
+\x1A\x01\x0D\x43\x00\x31\x00\x35\x00\x30\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x39\x00\x38\x00\x35\x00\x31\x00\x09\x00 :3AB: \x0A\x04\x00\x78\x84\x01\x16 :2C72: \x15 :8E7: 
+:3AB
+\x1A\x01\x0D\x43\x00\x31\x00\x35\x00\x30\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x39\x00\x38\x00\x35\x00\x34\x00\x09\x00 :3DF: \x0A\x04\x00\x78\x84\x01\x16 :2EAA: \x15 :8E7: 
+:3DF
+\x1A\x01\x0D\x43\x00\x31\x00\x35\x00\x30\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x39\x00\x38\x00\x35\x00\x30\x00\x09\x00 :413: \x0A\x04\x00\x78\x84\x01\x16 :301B: \x15 :8E7: 
+:413
+\x1A\x01\x0D\x43\x00\x31\x00\x35\x00\x30\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x39\x00\x38\x00\x36\x00\x30\x00\x09\x00 :447: \x0A\x04\x00\x78\x84\x01\x16 :347B: \x15 :8E7: 
+:447
+\x1A\x01\x0D\x43\x00\x31\x00\x35\x00\x30\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x39\x00\x38\x00\x37\x00\x30\x00\x09\x00 :47B: \x0A\x04\x00\x78\x84\x01\x16 :36A8: \x15 :8E7: 
+:47B
+\x1A\x01\x0D\x43\x00\x31\x00\x35\x00\x30\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x39\x00\x38\x00\x38\x00\x31\x00\x09\x00 :4AF: \x0A\x04\x00\x78\x84\x01\x16 :3ED8: \x15 :8E7: 
+:4AF
+\x1A\x01\x0D\x43\x00\x31\x00\x35\x00\x30\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x39\x00\x38\x00\x38\x00\x32\x00\x09\x00 :4E3: \x0A\x04\x00\x78\x84\x01\x16 :41C1: \x15 :8E7: 
+:4E3
+\x1A\x01\x0D\x43\x00\x31\x00\x35\x00\x30\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x39\x00\x38\x00\x38\x00\x33\x00\x09\x00 :517: \x0A\x04\x00\x78\x84\x01\x16 :452D: \x15 :8E7: 
+:517
+\x1A\x01\x0D\x43\x00\x31\x00\x35\x00\x30\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x39\x00\x38\x00\x38\x00\x34\x00\x09\x00 :54B: \x0A\x04\x00\x78\x84\x01\x16 :48AF: \x15 :8E7: 
+:54B
+\x1A\x01\x0D\x43\x00\x31\x00\x35\x00\x30\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x39\x00\x38\x00\x38\x00\x35\x00\x09\x00 :57F: \x0A\x04\x00\x78\x84\x01\x16 :4D41: \x15 :8E7: 
+:57F
+\x1A\x01\x0D\x43\x00\x31\x00\x35\x00\x30\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x39\x00\x38\x00\x38\x00\x30\x00\x09\x00 :5B3: \x0A\x04\x00\x78\x84\x01\x16 :5217: \x15 :8E7: 
+:5B3
+\x1A\x01\x0D\x43\x00\x31\x00\x35\x00\x30\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x39\x00\x38\x00\x39\x00\x30\x00\x09\x00 :5E7: \x0A\x04\x00\x78\x84\x01\x16 :5CEA: \x15 :8E7: 
+:5E7
+\x1A\x01\x0D\x43\x00\x31\x00\x35\x00\x30\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x39\x00\x39\x00\x30\x00\x31\x00\x09\x00 :61B: \x0A\x04\x00\x78\x84\x01\x16 :6B6E: \x15 :8E7: 
+:61B
+\x1A\x01\x0D\x43\x00\x31\x00\x35\x00\x30\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x39\x00\x39\x00\x30\x00\x32\x00\x09\x00 :64F: \x0A\x04\x00\x78\x84\x01\x16 :6D35: \x15 :8E7: 
+:64F
+\x1A\x01\x0D\x43\x00\x31\x00\x35\x00\x30\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x39\x00\x39\x00\x30\x00\x33\x00\x09\x00 :683: \x0A\x04\x00\x78\x84\x01\x16 :6E52: \x15 :8E7: 
+:683
+\x1A\x01\x0D\x43\x00\x31\x00\x35\x00\x30\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x39\x00\x39\x00\x30\x00\x34\x00\x09\x00 :6B7: \x0A\x04\x00\x78\x84\x01\x16 :7310: \x15 :8E7: 
+:6B7
+\x1A\x01\x0D\x43\x00\x31\x00\x35\x00\x30\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x39\x00\x39\x00\x30\x00\x35\x00\x09\x00 :6EB: \x0A\x04\x00\x78\x84\x01\x16 :73B0: \x15 :8E7: 
+:6EB
+\x1A\x01\x0D\x43\x00\x31\x00\x35\x00\x30\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x39\x00\x39\x00\x30\x00\x36\x00\x09\x00 :71F: \x0A\x04\x00\x78\x84\x01\x16 :7415: \x15 :8E7: 
+:71F
+\x1A\x01\x0D\x43\x00\x31\x00\x35\x00\x30\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x39\x00\x39\x00\x30\x00\x30\x00\x09\x00 :753: \x0A\x04\x00\x78\x84\x01\x16 :747A: \x15 :8E7: 
+:753
+\x1A\x01\x0D\x43\x00\x31\x00\x35\x00\x30\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x39\x00\x39\x00\x35\x00\x30\x00\x09\x00 :7A9: \x1A\x01\x0A\x46\x00\x34\x00\x32\x00\x30\x00\x31\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :7A9: \x0A\x04\x10\x69\x84\x01\x0A\x04\x00\x78\x84\x01\x16 :7653: \x15 :8E7: 
+:7A9
+\x1A\x01\x0D\x43\x00\x31\x00\x35\x00\x30\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x39\x00\x39\x00\x35\x00\x31\x00\x09\x00 :7DD: \x0A\x04\x00\x78\x84\x01\x16 :77BA: \x15 :8E7: 
+:7DD
+\x1A\x01\x0D\x43\x00\x31\x00\x35\x00\x30\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x39\x00\x39\x00\x35\x00\x32\x00\x09\x00 :811: \x0A\x04\x00\x78\x84\x01\x16 :7971: \x15 :8E7: 
+:811
+\x1A\x01\x0D\x43\x00\x31\x00\x35\x00\x30\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x39\x00\x39\x00\x35\x00\x33\x00\x09\x00 :845: \x0A\x04\x00\x78\x84\x01\x16 :7A47: \x15 :8E7: 
+:845
+\x1A\x01\x0D\x43\x00\x31\x00\x35\x00\x30\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x39\x00\x39\x00\x35\x00\x34\x00\x09\x00 :879: \x0A\x04\x00\x78\x84\x01\x16 :7B28: \x15 :8E7: 
+:879
+\x1A\x01\x0D\x43\x00\x31\x00\x35\x00\x30\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x39\x00\x39\x00\x35\x00\x35\x00\x09\x00 :8AD: \x0A\x04\x00\x78\x84\x01\x16 :7BD2: \x15 :8E7: 
+:8AD
+\x1A\x01\x0D\x43\x00\x31\x00\x35\x00\x30\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x39\x00\x39\x00\x35\x00\x36\x00\x09\x00 :8E1: \x0A\x04\x00\x78\x84\x01\x16 :7E7D: \x15 :8E7: 
+:8E1
+\x15 :8E7: 
+:8E7
+\x78
+:8E8
+\x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 \x2B
+<name "Yahnu's Subordinate" "!GB0059">
+"How could he be here?"
+#
+<name "Yahnu's Subordinate" "!GB0060">
+"H-He must've broken through somehow...
+ We've got to call for reinforcements!"
+#
+<exit>
+:9BE
+\x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 \x2B
+<name "Darx">
+"Oh, aren't you Yahnu the angolamay?"
+#
+<name "Yahnu" "!NB0013" "ka24a007.agf">
+"Enough talking!
+ Your life is mine!"
+#
+Her eyes are burning in anger.
+#
+<name "Darx">
+"Fine.
+ Back at you."
+#
+<exit>
+:AD8
+\x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 
+<sprite "ta21a006.agf" 4 4 11>
+<name "Ish" "!AB0013">
+"So you're the enemy who's been taking out all
+ my comrades."
+#
+<name "Darx">
+"..."
+#
+<sprite "ta21a007.agf" 4 4 12>
+<name "Ish" "!AB0014">
+"Seems like you've let it go to your head,
+ so it's time to teach you a painful lesson."
+#
+<name "Darx">
+"Ish the samakyu?"
+#
+<sprite "ta21a010.agf" 4 4 12>
+<name "Ish" "!AB0015">
+"Hm?
+ That's right.
+ So you know me."
+#
+<name "Darx">
+"I've been looking for you."
+#
+<sprite "ta21a011.agf" 4 4 12>
+<name "Ish" "!AB0016">
+"Hm?
+ Some reason?"
+#
+<name "Darx">
+"Yeah, revenge for burning that city.
+ I'll be taking vengeance."
+#
+<sprite "ta21a009.agf" 4 4 12>
+<name "Ish" "!AB0017">
+"Hahahahaha!"
+#
+<sprite "ta21a007.agf" 4 4 12>
+<name "Ish" "!AB0018">
+"Go ahead, if you think you can."
+#
+<removesprite -1 11>
+<exit>
+:E76
+\x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 
+<sprite "ta22a009.agf" 4 4 11>
+<name "Nein" "!QA0047">
+"I-I can't get away..."
+#
+<sprite "ta22a007.agf" 4 4 12>
+<name "Nein" "!QA0048">
+"Then I-I'll have to fight."
+#
+<name "Nein's Subordinate" "!RB0047">
+"Nein, we're here with you."
+#
+<sprite "ta22a006.agf" 4 4 12>
+<name "Nein" "!QA0049">
+"Good."
+#
+<name "Darx">
+"Are you ready?
+ Here I come."
+#
+<removesprite -1 11>
+<exit>
+:1052
+\x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 \x2B
+<name "Darx">
+"...Hm?"
+#
+<name "Hibi" "!DB0007" "ka23a001.agf">
+"I'm Hibi."
+#
+<name "Darx">
+"Yeah, with the alliance, right?"
+#
+<name "Hibi" "!DB0008" "ka23a000.agf">
+"Yeah."
+#
+<name "Darx">
+"Surrender."
+#
+<name "Hibi" "!DB0009" "ka23a007.agf">
+"If I surrender to you, I'll have to move to
+ your city.
+ That's not an option."
+#
+<name "Hibi" "!DB0010" "ka23a005.agf">
+"This is our home."
+#
+<name "Darx">
+"I see."
+#
+<name "Darx">
+"Then I'll do it by force."
+#
+<name "Hibi" "!DB0011" "ka23a006.agf">
+"Whatever.
+ I'm going to win."
+#
+<exit>
+:12B5
+\x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 \x2B
+<name "Raffino's Subordinate" "!HC0025">
+"Raffino, the enemy's almost here."
+#
+<sprite "ta20a017.agf" 4 4 11>
+<name "Raffino" "!EB0014">
+"Everyone's been defeated?"
+#
+<name "Raffino's Subordinate" "!HC0026">
+"We've lost contact with them, so maybe..."
+#
+<name "Raffino's Subordinate" "!HC0027">
+"Raffino, we'll take care of things here.
+ Please run away."
+#
+<sprite "ta20a006.agf" 4 4 12>
+<name "Raffino" "!EB0015">
+"Thank you for saying that, but it looks like
+ it's too late."
+#
+<name "Darx">
+"...I found you."
+#
+<name "Raffino's Subordinate" "!HC0028">
+"Eep!"
+#
+<sprite "ta20a009.agf" 4 4 12>
+<name "Raffino" "!EB0016">
+"The fate of our forces is in this battle!
+ Hold fast!"
+#
+<removesprite -1 11>
+<exit>
+:15D2
+\x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 \x2B
+<name "Dark Lady" "!HC0034" "ka37a000.agf">
+"Heheheh..."
+#
+<name "Dark Lady" "!HC0035" "ka37a000.agf">
+"Underestimating me will bring you all kinds
+ of trouble."
+#
+<exit>
+:16AD
+\x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 \x2B
+<name "Lassan" "!ZE0020" "ka38a000.agf">
+"I want to surrender!
+ I want to surrender with all my heart!"
+#
+<name "Lassan" "!ZE0021" "ka38a000.agf">
+"But I was born with great strength.
+ Surrender is not an option!"
+#
+<name "Lassan" "!ZE0022" "ka38a000.agf">
+"I don't think I can go easy on you!"
+#
+<exit>
+:180E
+\x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 \x2B
+<name "Darx">
+"Negotiate?"
+#
+<name "Neymal" "!UA0015" "ka39a000.agf">
+"Mmhmm.
+ My name is Neymal. 
+ I'm the leader of the forces here.
+ We are the gristletaur."
+#
+<name "Neymal" "!UA0016" "ka39a000.agf">
+"Violence solves nothing.
+ So why don't we discuss the matter?"
+#
+<name "Darx">
+"Are you part of the alliance?"
+#
+<name "Neymal" "!UA0017" "ka39a000.agf">
+"We are, but that is the only path for the
+ small and weak to survive.
+ If we had not joined them, we would not be
+ alive now."
+#
+<name "Darx">
+"So you attacked my city to stay alive?"
+#
+<name "Darx">
+"Then you won't have any complaints if I were
+ to wipe you out to ensure our survival."
+#
+<name "Neymal" "!UA0018" "ka39a000.agf">
+"Y-You do have a point..."
+#
+<name "Darx">
+"That means this isn't a discussion.
+ It's negotiating terms of your surrender."
+#
+<name "Darx">
+"There are two conditions.
+ First, you obey me.
+ Second, move to my city."
+#
+<name "Darx">
+"If you don't surrender, I'll kill you and
+ find someone else who will."
+#
+<name "Neymal" "!UA0019" "ka39a000.agf">
+"...I know that you're strong.
+ I'm well aware of that, but I cannot simply
+ surrender."
+#
+<name "Neymal" "!UA0020" "ka39a000.agf">
+"It wouldn't matter if I did."
+#
+<name "Neymal" "!UA0021" "ka39a000.agf">
+"The ones who disagree would not accept it."
+#
+<name "Darx">
+"Then..."
+#
+<name "Neymal" "!UA0022" "ka39a000.agf">
+"Good grief...
+ I'd rather avoid hardship, but it seems I
+ have no choice."
+#
+<exit>
+:1E0B
+\x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 \x2B
+<name "Darx">
+"Oh? You're not like the others."
+#
+<sprite "ta17a005.agf" 4 4 11>
+<name "Tamaga" "!PB0033">
+"Tamaga of the tifurs."
+#
+<sprite "ta17a006.agf" 4 4 12>
+<name "Tamaga" "!PB0032">
+"Let's do this."
+#
+<removesprite -1 11>
+<exit>
+:1F2E
+\x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 
+<sprite "ta19a000.agf" 4 4 11>
+<name "Ao" "!WA0044">
+"You've been busy."
+#
+<name "Darx">
+"Who're you?"
+#
+<sprite "ta19a004.agf" 4 4 12>
+<name "Ao" "!WA0045">
+"Ao, the brau.
+ I'm responsible for the forces here."
+#
+<name "Darx">
+"I see.
+ Then I owe you for attacking the city.
+ Time for some payback."
+#
+<sprite "ta19a006.agf" 4 4 12>
+<name "Ao" "!WA0046">
+"Try it, if you can."
+#
+<removesprite -1 11>
+<exit>
+:2121
+\x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 
+<sprite "ta18a008.agf" 4 4 11>
+<name "Lotta" "!HB0024">
+"Umm..."
+#
+<name "Darx">
+"You're Lotta?"
+#
+<sprite "ta18a003.agf" 4 4 12>
+<name "Lotta" "!HB0025">
+"Yep."
+#
+<name "Darx">
+"I have to ask, but you're not going to
+ surrender?"
+#
+<sprite "ta18a015.agf" 4 4 12>
+<name "Lotta" "!HB0026">
+"I can't. Not while everyone else is 
+ fighting."
+#
+<name "Darx">
+"Well, I guess.
+ Then I won't hold back."
+#
+<removesprite -1 11>
+<exit>
+:232A
+\x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 
+<sprite "ta16a000.agf" 4 4 11>
+<name "Farren" "!FB0069">
+"...I'm Farren.
+ You're Darx?"
+#
+<name "Darx">
+"That's right."
+#
+<sprite "ta16a001.agf" 4 4 12>
+<name "Farren" "!FB0070">
+"I see."
+#
+<sprite "ta16a000.agf" 4 4 12>
+<name "Farren" "!FB0071">
+"I have a lot to say to you, but..."
+#
+<sprite "ta16a001.agf" 4 4 12>
+<name "Farren" "!FB0072">
+"Promise me one thing."
+#
+<name "Darx">
+"What?"
+#
+<sprite "ta16a000.agf" 4 4 12>
+<name "Farren" "!FB0073">
+"Don't harm the ones who don't fight you."
+#
+<name "Darx">
+"Is there any point making that promise?"
+#
+<sprite "ta16a001.agf" 4 4 12>
+<name "Farren" "!FB0074">
+"What do you mean?"
+#
+<name "Darx">
+"You wouldn't believe me even if I said it."
+#
+<sprite "ta16a015.agf" 4 4 12>
+<name "Farren" "!FB0078">
+"...You're right.
+ It was stupid to ask."
+#
+<name "Darx">
+"Seriously."
+#
+<name "Darx">
+"But I'll answer anyway."
+#
+<name "Darx">
+"I won't lay a finger on anybody who doesn't
+ fight. They'll be forced to move to the city,
+ but they'll be treated well."
+#
+<name "Darx">
+"The ones who I will punish are the ones who
+ fight, especially those who attacked the
+ city."
+#
+<name "Darx">
+"Oh, and what about you?
+ Did you attack my city?"
+#
+<sprite "ta16a000.agf" 4 4 12>
+<name "Farren" "!FB0076">
+"I did."
+#
+<name "Darx">
+"I see.
+ Then you better fight like your life depends
+ on it."
+#
+<sprite "ta16a006.agf" 4 4 12>
+<name "Farren" "!FB0077">
+"I never thought otherwise!"
+#
+<removesprite -1 11>
+<exit>
+:2959
+\x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 
+<sprite "ta04a002.agf" 4 4 11>
+<name "Rualtei" "!RA0049">
+"...You're from the city?"
+#
+<name "Darx">
+"Hm?
+ Who are you?"
+#
+<removesprite -1 11>
+<music 46>
+<background "ev024a00.agf" 10>
+<name "Rualtei" "!RA0050">
+"In that case... Heheheh...
+ I am Rualtei!
+ I have nothing against you, but this is where
+ you die!"
+#
+<name "Darx">
+"H-Hey.
+ Hold on..."
+#
+<name "Rualtei" "!RA0051">
+"No arguing!"
+#
+<exit>
+:2B25
+<music 46>
+<background "ev024a00.agf" 10>
+<name "Rualtei" "!RA0067">
+"You're here!?"
+#
+<name "Darx">
+"That's my line.
+ Seems like you've forgotten that Kyuriha
+ saved your ass last time."
+#
+<name "Rualtei" "!RA0068">
+"Shut up!
+ It was just some kind of fluke!"
+#
+<name "Darx">
+"Looks like there's no point in talking."
+#
+<name "Darx">
+"You'll regret this."
+#
+<exit>
+:2C72
+\x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 \x2B
+<name "Darx">
+"There's some strange machine here."
+#
+<name "Company Maid" "!DC0015" "ka34c000.agf">
+"Maybe it's what's attacking the city."
+#
+<name "Darx">
+"Destroy it!"
+#
+<name "Company Maid" "!DC0016" "ka34c000.agf">
+"Yes, sir...
+ Ah!"
+#
+<name "Angel Captain" "!GB0010">
+"Intruders found!
+ Stop them!"
+#
+<name "Darx">
+"Tch.
+ Guess it won't be that easy!"
+#
+<name "Darx">
+"I'll deal with them.
+ Can you break that damn thing?"
+#
+<name "Company Maid" "!DC0017" "ka34c000.agf">
+"Yes, sir.
+ I'll do my best."
+#
+<exit>
+:2EAA
+\x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 \x2B
+<name "Company Maid" "!DC0024" "ka34c000.agf">
+"There it is."
+#
+<name "Darx">
+"Yeah."
+#
+There's three more of them, but they're not
+set up yet.
+#
+<name "Darx">
+"Destroy them."
+#
+<name "Company Maid" "!DC0025" "ka34c000.agf">
+"Understood.
+ Please repel the enemies."
+#
+<name "Darx">
+"On it."
+#
+Here they come.
+#
+<exit>
+:301B
+<music 9>
+\x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 
+<sprite "ta03a004.agf" 4 4 11>
+<name "Miartei" "!SA0048">
+"I bid you welcome."
+#
+<name "Darx">
+"You're Miartei?"
+#
+<sprite "ta03a005.agf" 4 4 12>
+<name "Miartei" "!SA0049">
+"That's correct.
+ And you are?"
+#
+<name "Darx">
+"Darx, the Overlord of that city."
+#
+<sprite "ta03a004.agf" 4 4 12>
+<name "Miartei" "!SA0050">
+"So you're who I've been hearing about..."
+#
+<sprite "ta03a007.agf" 4 4 12>
+<name "Miartei" "!SA0051">
+"Then you're the one who destroyed my
+ machine?"
+#
+<name "Darx">
+"Yeah."
+#
+<sprite "ta03a008.agf" 4 4 12>
+<name "Miartei" "!SA0052">
+"And who defeated my adorable sister?"
+#
+<name "Darx">
+"That's right."
+#
+<removesprite -1 11>
+<music 16>
+<background "ev019a00.agf" 10>
+<name "Miartei" "!SA0053">
+"Heheh.
+ I'm so glad you're here."
+#
+<name "Miartei" "!SA0054">
+"Thank you for coming all the way to see me."
+#
+<name "Miartei" "!SA0055">
+"Truly."
+#
+<name "Miartei" "!SA0056">
+"Yes, I am truly glad."
+#
+<name "Miartei" "!SA0057">
+"With my own two hands..."
+#
+<background "ev019b00.agf" 12>
+<name "Miartei" "!SA0058">
+"I can eradicate you myself."
+#
+<exit>
+:347B
+<music 14>
+<background "ev030a00.agf" 10>
+<name "Kyuriha" "!FA0248">
+"I expected no less of you."
+#
+<name "Darx">
+"It was quite the welcome."
+#
+<name "Kyuriha" "!FA0249">
+"I would not be so boastful."
+#
+<name "Kyuriha" "!FA0250">
+"Besides, the real party is yet to come."
+#
+<name "Darx">
+"Yeah, that's right."
+#
+<name "Kyuriha" "!FA0251">
+"Then..."
+#
+<background "ev030b00.agf" 10>
+<name "Kyuriha" "!FA0252">
+"Then let the dance begin."
+#
+<name "Darx">
+"Grr..."
+#
+<background "ev030b01.agf" 10>
+<name "Kyuriha" "!FA0253">
+"May I have this dance?"
+#
+<exit>
+:36A8
+\x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 
+<sprite "ta02a000.agf" 4 4 11>
+<name "Darx">
+"Macdo?
+ What are you doing here?"
+#
+<sprite "ta02a001.agf" 4 4 12>
+<name "Macdo" "!ZA0169">
+"I...
+ I have to settle things with you."
+#
+<name "Darx">
+"This is out of nowhere."
+#
+<sprite "ta02a019.agf" 4 4 12>
+<name "Macdo" "!ZA0170">
+"I apologize for that.
+ But you have this coming."
+#
+<name "Darx">
+"Well, fine...
+ It's okay if my party backs me up?"
+#
+<sprite "ta02a028.agf" 4 4 12>
+<name "Macdo" "!ZA0171">
+"That is also part of your strength."
+#
+<name "Darx">
+"I see.
+ Oh, one more thing."
+#
+<name "Darx">
+"I thought you company people weren't allowed
+ to fight."
+#
+<sprite "ta02a032.agf" 4 4 12>
+<name "Macdo" "!ZA0172">
+"That's right."
+#
+<sprite "ta02a020.agf" 4 4 12>
+<name "Macdo" "!ZA0173">
+"But this is just playing around.
+ Not a fight."
+#
+<name "Darx">
+"If Rakia knew, she'd have a conniption."
+#
+<sprite "ta02a019.agf" 4 4 12>
+<name "Macdo" "!ZA0174">
+"Hmph."
+#
+<name "Darx">
+"One more thing."
+#
+<name "Darx">
+"If I defeat you, that doesn't mean I'm 
+ starting a fight with the company or the
+ Netherworld, right?"
+#
+<sprite "ta02a032.agf" 4 4 12>
+<name "Macdo" "!ZA0175">
+"I told you already.
+ This is just playing around.
+ There's nothing to worry about."
+#
+<removesprite -1 11>
+<music 16>
+<background "ev013a00.agf" 10>
+<name "Macdo" "!ZA0176">
+"What you should be concerned about is how 
+ you're going to survive this little game."
+#
+<name "Darx">
+"A game with your life on the line, huh?"
+#
+<name "Macdo" "!ZA0177">
+"Do not hold back.
+ Try to kill me, if you can."
+#
+<name "Darx">
+"Oh, I won't kill you.
+ That'd be a waste.
+ When I win, I'll enjoy your body however I
+ want."
+#
+<name "Macdo" "!ZA0178">
+"Hmph!
+ Scum."
+#
+<name "Darx">
+"I knew I should've just saved myself the
+ headache and dealt with you from the start."
+#
+<name "Macdo" "!ZA0179">
+"We are in agreement there."
+#
+<name "Darx">
+"Well, it was a learning experience."
+#
+<background "ev013a01.agf" 12>
+<name "Macdo" "!ZA0180">
+"Yes, so time to die."
+#
+<name "Darx">
+"Not happening!"
+#
+<exit>
+:3ED8
+\x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 
+<sprite "ta34c000.agf" 4 4 11>
+<name "Smiling Maid" "!PC0064">
+"Overlord, you're not allowed past here."
+#
+<name "Smiling Maid" "!PC0065">
+"Please turn back."
+#
+<removesprite -1 11>
+<name "Darx">
+"I see."
+#
+<name "Company Maid" "!AC0065" "ka34d000.agf">
+"Overlord!
+ Wait a moment!"
+#
+<name "Darx">
+"Hm?"
+#
+<name "Company Maid" "!AC0066" "ka34d000.agf">
+"They're the enemy!"
+#
+<name "Company Maid" "!AC0067" "ka34d000.agf">
+"They're not with the company!"
+#
+<name "Darx">
+"...!"
+#
+<music 9>
+<sprite "ta34c000.agf" 4 4 11>
+<name "Smiling Maid" "!PC0066">
+"If you won't leave, it will be the last thing
+ you do."
+#
+<removesprite -1 11>
+<exit>
+:41C1
+\x1A\x01\x08\x46\x00\x32\x00\x33\x00\x35\x00\x20\x00\x6F\x00\x6E\x00\x09\x00 :4373: \xAD\x22\x00\x02 0  "味方ティーグレ"  0 \x1A\x01\x0A\x43\x00\x4C\x00\x30\x00\x30\x00\x32\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x31\x00 :4373: 
+<music 9>
+\x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 
+<sprite "ta17a000.agf" 4 4 11>
+<name "Tamaga" "!PB0005">
+"Let us fight."
+#
+<name "Darx">
+"...Tamaga?"
+#
+<removesprite -1 11>
+<name "Tamaga" "!PB0006" "ka17a000.agf">
+"I'm over here."
+#
+<name "Darx">
+"So, a fake?"
+#
+<name "Tamaga" "!PB0007" "ka17a007.agf">
+"Die."
+#
+\x15 :452C: 
+:4373
+\x1A\x01\x08\x46\x00\x32\x00\x33\x00\x35\x00\x20\x00\x6F\x00\x6E\x00\x09\x00 :44C4: 
+<music 9>
+\x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 
+<sprite "ta17a000.agf" 4 4 11>
+<name "Tamaga" "!PB0008">
+"Are you ready?"
+#
+<name "Darx">
+"Tamaga?"
+#
+<removesprite -1 11>
+No, it's not.
+#
+<name "Darx">
+"A fake!"
+#
+<sprite "ta17a006.agf" 4 4 11>
+<name "Tamaga" "!PB0009">
+"Fight!"
+#
+<removesprite -1 11>
+\x2B\x15 :452C: 
+:44C4
+\x1A\x01\x09\x46\x00\x32\x00\x33\x00\x35\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :452C: 
+<music 9>
+\x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 \x2B
+<name "Darx">
+"Tch!
+ Out of my way!"
+#
+\x15 :452C: 
+:452C
+<exit>
+:452D
+\x1A\x01\x08\x46\x00\x32\x00\x33\x00\x36\x00\x20\x00\x6F\x00\x6E\x00\x09\x00 :46B9: \xAD\x22\x00\x02 0  "味方タートルランナー"  0 \x1A\x01\x0A\x43\x00\x4C\x00\x30\x00\x30\x00\x32\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x31\x00 :46B9: 
+<music 9>
+\x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 
+<sprite "ta18a001.agf" 4 4 11>
+<name "Lotta" "!HB0003">
+"Huh?"
+#
+<removesprite -1 11>
+<name "Lotta" "!HB0004" "ka18a001.agf">
+"Huh? Huh?"
+#
+<name "Lotta" "!HB0005" "ka18a001.agf">
+"Ummm..."
+#
+<name "Darx">
+"It's a fake!
+ Get them!"
+#
+\x15 :48AE: 
+:46B9
+\x1A\x01\x08\x46\x00\x32\x00\x33\x00\x36\x00\x20\x00\x6F\x00\x6E\x00\x09\x00 :47D6: 
+<music 9>
+\x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 
+<sprite "ta18a004.agf" 4 4 11>
+<name "Lotta" "!HB0006">
+"Enemy fooound!"
+#
+<name "Darx">
+"Lotta?"
+#
+<removesprite -1 11>
+No, something's wrong.
+#
+She can't be here.
+#
+<name "Darx">
+"She's a fake!
+ Attack her!"
+#
+\x15 :48AE: 
+:47D6
+\x1A\x01\x09\x46\x00\x32\x00\x33\x00\x36\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :48AE: 
+<music 9>
+\x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 
+<sprite "ta18a003.agf" 4 4 11>
+<name "Lotta" "!HB0007">
+"Come on!
+ Let's do it!"
+#
+<name "Darx">
+"Hmph.
+ Another fake..."
+#
+<removesprite -1 11>
+\x2B\x15 :48AE: 
+:48AE
+<exit>
+:48AF
+\x1A\x01\x08\x46\x00\x32\x00\x33\x00\x37\x00\x20\x00\x6F\x00\x6E\x00\x09\x00 :4AC3: \xAD\x22\x00\x02 0  "味方ブラウ"  0 \x1A\x01\x0A\x43\x00\x4C\x00\x30\x00\x30\x00\x32\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x31\x00 :4AC3: 
+<music 9>
+\x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 
+<sprite "ta19a001.agf" 4 4 11>
+<name "Ao" "!WA0008">
+"Okay, now it's my turn."
+#
+<removesprite -1 11>
+<name "Ao" "!WA0009" "ka19a010.agf">
+"A fake...
+ I think I'm a little cuter though."
+#
+<name "Darx">
+"She looks just like you."
+#
+<name "Company Maid" "!PC0068" "ka34d000.agf">
+"There's no difference."
+#
+<name "Ao" "!WA0010" "ka19a010.agf">
+"...Grrr.
+ Anyway, kill her!"
+#
+<removesprite -1 11>
+\x2B\x15 :4D40: 
+:4AC3
+\x1A\x01\x08\x46\x00\x32\x00\x33\x00\x37\x00\x20\x00\x6F\x00\x6E\x00\x09\x00 :4C77: 
+<music 9>
+\x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 
+<sprite "ta19a000.agf" 4 4 11>
+<name "Ao" "!WA0011">
+"Overlord."
+#
+<name "Darx">
+"Ao...
+ No, it's not."
+#
+<sprite "ta19a016.agf" 4 4 12>
+<name "Ao" "!WA0012">
+"I knew it.
+ I knew you wouldn't be tricked that easily."
+#
+<sprite "ta19a005.agf" 4 4 12>
+<name "Ao" "!WA0013">
+"Then time to brawl it up, right?"
+#
+<removesprite -1 11>
+\x2B\x15 :4D40: 
+:4C77
+\x1A\x01\x09\x46\x00\x32\x00\x33\x00\x37\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :4D40: 
+<music 9>
+\x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 
+<sprite "ta19a003.agf" 4 4 11>
+<name "Ao" "!WA0014">
+"This is as far as you go."
+#
+<name "Darx">
+"Out of my way."
+#
+<removesprite -1 11>
+\x2B\x15 :4D40: 
+:4D40
+<exit>
+:4D41
+\x1A\x01\x08\x46\x00\x32\x00\x33\x00\x38\x00\x20\x00\x6F\x00\x6E\x00\x09\x00 :506B: \xAD\x22\x00\x02 0  "味方レッドバード"  0 \x1A\x01\x0A\x43\x00\x4C\x00\x30\x00\x30\x00\x32\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x31\x00 :506B: 
+<music 9>
+\x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 
+<sprite "ta16a000.agf" 4 4 11>
+<name "Farren" "!FB0005">
+"Looks like it's up to me."
+#
+<removesprite -1 11>
+<name "Darx">
+"Ah, I knew it'd be you."
+#
+<name "Farren" "!FB0006" "ka16a000.agf">
+"Overlord, Overlord."
+#
+<name "Darx">
+"Hm?"
+#
+<name "Farren" "!FB0007" "ka16a001.agf">
+"Something's different.
+ Over here."
+#
+<name "Farren" "!FB0008" "ka16a008.agf">
+"Is there anybody as beautiful as Farren?"
+#
+<name "Farren" "!FB0009" "ka16a019.agf">
+"That's what you should be saying."
+#
+<name "Darx">
+"...You fakes sure aren't taking this
+ seriously."
+#
+<name "Farren" "!FB0010" "ka16a003.agf">
+"He's not going to be defeated by impostors."
+#
+<name "Darx">
+"Well, no."
+#
+\x15 :5216: 
+:506B
+\x1A\x01\x08\x46\x00\x32\x00\x33\x00\x38\x00\x20\x00\x6F\x00\x6E\x00\x09\x00 :514D: 
+<music 9>
+\x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 
+<sprite "ta16a006.agf" 4 4 11>
+<name "Farren" "!FB0011">
+"It's time.
+ I've been waiting for revenge."
+#
+<name "Darx">
+"I've heard enough from you fakes."
+#
+<removesprite -1 11>
+\x2B\x15 :5216: 
+:514D
+\x1A\x01\x09\x46\x00\x32\x00\x33\x00\x38\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :5216: 
+<music 9>
+\x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 
+<sprite "ta16a006.agf" 4 4 11>
+<name "Farren" "!FB0012">
+"This is as far as you go."
+#
+<name "Darx">
+"You're certainly in my way."
+#
+<removesprite -1 11>
+\x2B\x15 :5216: 
+:5216
+<exit>
+:5217
+<music 7>
+\x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 
+<sprite "ta06a003.agf" 4 4 11>
+<name "Suisen" "!YA0149">
+"I thought so.
+ Not dead?"
+#
+<name "Darx">
+"Well, yeah.
+ I don't get what was going on, but I assume
+ those were some kind of tricks or yours?"
+#
+<sprite "ta06a010.agf" 4 4 12>
+<name "Suisen" "!YA0150">
+"You don't understand something?"
+#
+<name "Darx">
+"Those people who kept disappearing."
+#
+<sprite "ta06a004.agf" 4 4 12>
+<name "Suisen" "!YA0151">
+"Oh, right, right."
+#
+<sprite "ta06a005.agf" 4 4 12>
+<name "Suisen" "!YA0152">
+"You think I'll just tell you?"
+#
+<name "Darx">
+"..."
+#
+<sprite "ta06a003.agf" 4 4 12>
+<name "Suisen" "!YA0153">
+"Hahaha.
+ Just kidding."
+#
+<sprite "ta06a004.agf" 4 4 12>
+<name "Suisen" "!YA0154">
+"They're illusions I created."
+#
+<sprite "ta06a005.agf" 4 4 12>
+<name "Suisen" "!YA0155">
+"They're fakes."
+#
+<sprite "ta06a003.agf" 4 4 12>
+<name "Suisen" "!YA0156">
+"Put simply, they're the same as the little
+ Forzelotte."
+#
+<sprite "ta06a004.agf" 4 4 12>
+<name "Suisen" "!YA0157">
+"Forzelotte actually puts her mind into the
+ body. 
+ I just gave them thought and direction."
+#
+<sprite "ta06a005.agf" 4 4 12>
+<name "Suisen" "!YA0158">
+"Pretty amusing, wasn't it?"
+#
+<sprite "ta06a019.agf" 4 4 12>
+<name "Suisen" "!YA0159">
+"It was quite fun stirring up all you demons
+ with them."
+#
+<name "Darx">
+"I see."
+#
+<name "Darx">
+"So you were manipulating the demons outside
+ the city?"
+#
+<sprite "ta06a003.agf" 4 4 12>
+<name "Suisen" "!YA0160">
+"Yes. Honestly, seeing you all get so worked
+ up was so hilarious that I almost hurt 
+ myself laughing so hard."
+#
+\x1A\x01\x08\x46\x00\x32\x00\x33\x00\x36\x00\x20\x00\x6F\x00\x6E\x00\x09\x00 :5A10: 
+<name "Darx">
+"And that illusion of Lotta..."
+#
+<sprite "ta06a004.agf" 4 4 12>
+<name "Suisen" "!YA0161">
+"Yes, that was me."
+#
+<sprite "ta06a003.agf" 4 4 12>
+<name "Suisen" "!YA0162">
+"You're a tough one.
+ Normally, a man's mind would have been
+ broken or collapsed from that..."
+#
+:5A10
+<sprite "ta06a020.agf" 4 4 12>
+<name "Suisen" "!YA0163">
+"Well, that's enough talk."
+#
+<sprite "ta06a003.agf" 4 4 12>
+<name "Suisen" "!YA0164">
+"You think so too, don't you?
+ You can barely even control your anger."
+#
+<name "Darx">
+"I'm done holding back...
+ The one who tried to kill my daughter is
+ right in front of me.
+ Who would be any different?"
+#
+<sprite "ta06a005.agf" 4 4 12>
+<name "Suisen" "!YA0165">
+"Heheh."
+#
+<removesprite -1 11>
+<music 9>
+<background "ev037a00.agf" 10>
+<name "Suisen" "!YA0166">
+"Then shall we get started?"
+#
+<name "Darx">
+"Yeah..."
+#
+<background "ev037a01.agf" 10>
+<name "Suisen" "!YA0167">
+"Sue."
+#
+A massive swarm of snakes bare their fangs.
+#
+<exit>
+:5CEA
+<music 7>
+\x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 
+<sprite "ta07a003.agf" 4 4 11>
+<name "Mysterious Voice" "!MA0015">
+"Hmm.
+ So you're Darx.
+ You did well to make it here."
+#
+<name "Darx">
+"Who are you?"
+#
+<sprite "ta07a004.agf" 4 4 12>
+<name "Mysterious Voice" "!MA0016">
+"My name is Wadatsumi."
+#
+<sprite "ta07a003.agf" 4 4 12>
+<name "Wadatsumi" "!MA0017">
+"I am your enemy."
+#
+<name "Darx">
+"So you're the one giving orders to Suisen?"
+#
+<sprite "ta07a004.agf" 4 4 12>
+<name "Wadatsumi" "!MA0018">
+"That is correct."
+#
+<sprite "ta07a003.agf" 4 4 12>
+<name "Wadatsumi" "!MA0019">
+"Apparently she told you my name, but her
+ devotion to me is still admirable."
+#
+<sprite "ta07a004.agf" 4 4 12>
+<name "Wadatsumi" "!MA0020">
+"She has bought me considerable time.
+ I must be grateful.
+ Mmhmm."
+#
+<name "Darx">
+"You seem confident standing here before me."
+#
+<sprite "ta07a003.agf" 4 4 12>
+<name "Wadatsumi" "!MA0021">
+"Confident?
+ You mean my attitude?"
+#
+<sprite "ta07a004.agf" 4 4 12>
+<name "Wadatsumi" "!MA0022">
+"I had to sacrifice a considerable amount of
+ strength to come to the human world, and
+ you see this as confidence?"
+#
+<name "Darx">
+"It doesn't seem like you're up against the
+ wall."
+#
+<sprite "ta07a003.agf" 4 4 12>
+<name "Wadatsumi" "!MA0023">
+"That is the wisdom that comes with age."
+#
+<sprite "ta07a004.agf" 4 4 12>
+<name "Wadatsumi" "!MA0024">
+"If you live long enough, you will learn many
+ things."
+#
+<sprite "ta07a003.agf" 4 4 12>
+<name "Wadatsumi" "!MA0025">
+"And in all cases, you must have a plan, and
+ you must stick to it."
+#
+<sprite "ta07a004.agf" 4 4 12>
+<name "Wadatsumi" "!MA0026">
+"Now is no exception."
+#
+<sprite "ta07a003.agf" 4 4 12>
+<name "Wadatsumi" "!MA0027">
+"Celestials joining with demons, living in a
+ city together."
+#
+<sprite "ta07a004.agf" 4 4 12>
+<name "Wadatsumi" "!MA0028">
+"It is outrageous."
+#
+<sprite "ta07a005.agf" 4 4 12>
+<name "Wadatsumi" "!MA0029">
+"It is absurd."
+#
+<sprite "ta07a006.agf" 4 4 12>
+<name "Wadatsumi" "!MA0030">
+"No, it is unacceptable."
+#
+<sprite "ta07a005.agf" 4 4 12>
+<name "Wadatsumi" "!MA0031">
+"You know your neighbors are savages.
+ How can you live in peace?"
+#
+<sprite "ta07a000.agf" 4 4 12>
+<name "Wadatsumi" "!MA0032">
+"You cannot."
+#
+<sprite "ta07a001.agf" 4 4 12>
+<name "Wadatsumi" "!MA0033">
+"And yet, creating such a city tricks the
+ innocents of Celestia."
+#
+<sprite "ta07a002.agf" 4 4 12>
+<name "Wadatsumi" "!MA0034">
+"Perhaps our neighbors are actually fine
+ people."
+#
+<sprite "ta07a006.agf" 4 4 12>
+<name "Wadatsumi" "!MA0035">
+"How foolish."
+#
+<sprite "ta07a003.agf" 4 4 12>
+<name "Wadatsumi" "!MA0036">
+"For the foolish Celestials that I cherish,
+ that city... must be erased."
+#
+<name "Darx">
+"And me too?"
+#
+<sprite "ta07a004.agf" 4 4 12>
+<name "Wadatsumi" "!MA0037">
+"Yes, you as well."
+#
+<removesprite -1 11>
+<music 9>
+<background "ev075c00.agf" 10>
+I can see my other body behind him.
+#
+And in the middle of it is Forzelotte.
+#
+<name "Wadatsumi" "!MA0038">
+"This separate body is quite impressive."
+#
+<name "Wadatsumi" "!MA0039">
+"If it was my son, I would pat its head and
+ tell it that it had done well..."
+#
+<name "Wadatsumi" "!MA0040">
+"But it's not a human."
+#
+<name "Wadatsumi" "!MA0041">
+"A human having this much mana is something
+ that cannot be allowed to exist."
+#
+<name "Darx">
+"I see.
+ So after all this talk, there's nothing I
+ can say?"
+#
+<name "Wadatsumi" "!MA0042">
+"Mmm.
+ I suppose I cannot ask you to just lay down
+ and die."
+#
+<name "Darx">
+"I suppose."
+#
+<name "Wadatsumi" "!MA0043">
+"Then I'm not asking.
+ Die."
+#
+\x0A\x44\x02\x1D\x84\x01
+<exit>
+:6B6E
+\x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 \x2B
+<name "Darx">
+"Hm?
+ What?"
+#
+<name "Darx">
+"An illusion?"
+#
+<name "Company Maid" "!PC0084" "ka34c000.agf">
+"No, it's the real thing."
+#
+<name "Darx">
+"Then it's... a copy body?
+ A copy from a copy?"
+#
+<name "Darx">
+"It looks just like her."
+#
+<name "Company Maid" "!PC0085" "ka34c000.agf">
+"What are you going to do?"
+#
+<name "Darx">
+"Like we have a choice!
+ Let's go!"
+#
+<exit>
+:6D35
+\x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 \x2B
+<name "Company Maid" "!DC0093" "ka34c000.agf">
+"All the copies that it's creating are
+ women."
+#
+<name "Darx">
+"Yeah. Is there some reason for that?"
+#
+<name "Company Maid" "!DC0094" "ka34c000.agf">
+"I'll try to think about it."
+#
+<exit>
+:6E52
+\x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 \x2B
+<name "Company Maid" "!DC0095" "ka34c000.agf">
+"Darx, I think I know why your body is only
+ copying women."
+#
+<name "Darx">
+"You figured it out?"
+#
+<name "Company Maid" "!DC0096" "ka34c000.agf">
+"There's one thing in common."
+#
+<name "Darx">
+"What is it?"
+#
+<name "Company Maid" "!DC0097" "ka34c000.agf">
+"They've all been with you."
+#
+<name "Darx">
+"..."
+#
+<name "Company Maid" "!DC0098" "ka34c000.agf">
+"I think your body is reproducing them from
+ the mana imprint left when they were with
+ you."
+#
+<name "Darx">
+"I see."
+#
+<name "Darx">
+"Meaning..."
+#
+<sprite "ta13a000.agf" 4 4 11>
+<name "Ekate" "!TA0002">
+"Oh, an enemy?"
+#
+<removesprite -1 11>
+<sprite "ta14a008.agf" 4 4 11>
+<name "Paniverna" "!DA0054">
+"How brazen."
+#
+<removesprite -1 11>
+<name "Izana" "!AA0019" "ka28a000.agf">
+"You will be rust on my blade."
+#
+<name "Ultinia" "!EA0021" "ka29a000.agf">
+"Let's end this quickly."
+#
+<name "Darx">
+"...That this would happen."
+#
+<name "Company Maid" "!DC0099" "ka34c000.agf">
+"Yes.
+ Please be careful."
+#
+<name "Darx">
+"I'll do what I can."
+#
+<removesprite -1 11>
+<exit>
+:7310
+\x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 
+<sprite "ta10a025.agf" 4 4 11>
+<name "Darx">
+"Well, I knew I'd run into you."
+#
+<removesprite -1 11>
+<exit>
+:73B0
+\x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 \x2B
+<name "Darx">
+"Next is... Kasha?"
+#
+<removesprite -1 11>
+<exit>
+:7415
+\x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 \x2B
+<name "Darx">
+"I'm starting to get used to this."
+#
+<removesprite -1 11>
+<exit>
+:747A
+\x2B\x6E 1  "bo1000.box" 
+<background "ev078a00.agf" 10>
+<name "Darx">
+"Here?"
+#
+It's bigger than I expected.
+#
+It's a mass...
+No, a mountain of tentacles.
+#
+<name "Company Maid" "!PC0088">
+"What now?"
+#
+<name "Darx">
+"It's not like we can talk to it."
+#
+<name "Company Maid" "!PC0089">
+"That's true."
+#
+<name "Darx">
+"The snake...
+ Oh, it's okay."
+#
+<name "Company Maid" "!PC0090">
+"Huh?"
+#
+<name "Darx">
+"Don't worry about the snake. 
+ That's Sue.
+ Take out the rest, full power!"
+#
+<exit>
+:7653
+\x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 \x2B
+<name "Dragon" "!ZF0002">
+"Foolish human.
+ This is my sacred land.
+ Leave at once."
+#
+<name "Darx">
+"..."
+#
+<name "Dragon" "!ZF0003">
+"...What will you do?"
+#
+<name "Darx">
+"I have a lot of questions, but...
+ First, I want to fight you."
+#
+<name "Dragon" "!ZF0004">
+"You will regret this, human."
+#
+<exit>
+:77BA
+\x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 \x2B
+<name "Darx">
+"Nothing to lose by asking."
+#
+<name "Darx">
+"The city of Darx is looking for citizens.
+ Homes and jobs are available for any who
+ wish."
+#
+<name "Darx">
+"We also have a lot of services to help you
+ move and adjust..."
+#
+<name "Angry Angel" "!LB0053">
+"Kill him!"
+#
+<name "Enraged Angel" "!GB0045">
+"Rrraggh!"
+#
+<name "Darx">
+"Couldn't you at least listen for a moment?"
+#
+<exit>
+:7971
+\x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 \x2B
+<name "Darx">
+"I'm here to invi..."
+#
+<name "Armed Angel" "!LB0054">
+"It doesn't matter what you say!"
+#
+<name "Angry Angel" "!GB0046">
+"Anybody who is with the enemy demons must
+ die!"
+#
+<exit>
+:7A47
+\x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 \x2B
+<name "Darx">
+"Um, if I could talk..."
+#
+<name "Serious Angel" "!LB0055">
+"You think we'll listen?"
+#
+<name "Darx">
+"I-I guess not."
+#
+<name "Serious Angel" "!LB0056">
+"Right?"
+#
+<exit>
+:7B28
+\x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 \x2B
+<name "Darx">
+"Fighting is unsightly!
+ Don't you agree!"
+#
+<name "Armed Angel" "!LB0057">
+"I disagree!
+ Die!"
+#
+<exit>
+:7BD2
+<music 7>
+\x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 \x2B
+<name "Angie" "!TC0013">
+"Sister, please don't go."
+#
+<name "Sister" "!WB0032">
+"Silence, Angie.
+ If I must go, I must go."
+#
+<name "Angie" "!TC0014">
+"Sister..."
+#
+<name "Sister" "!WB0033">
+"Don't worry.
+ I won't lose."
+#
+<name "Angie" "!TC0015">
+"Sister, I know.
+ I won't stop you."
+#
+<name "Angie" "!TC0016">
+"Good luck."
+#
+<name "Sister" "!WB0034">
+"Leave it to me."
+#
+<name "Commander Angel" "!QB0050">
+"Okay, that's enough.
+ Playtime's over.
+ The enemy's here.
+ Please take this seriously."
+#
+<name "Sister" "!WB0035">
+"Yes, ma'aaam."
+#
+<name "Angie" "!TC0017">
+"I'll try."
+#
+<exit>
+:7E7D
+\x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 \x2B
+<name "Male Angel" "!ZD0006">
+"Whoa there.
+ That's far enough."
+#
+<name "Male Angel" "!ZD0007">
+"I can't just let you go through here."
+#
+<name "Darx">
+"Oh?"
+#
+<name "Male Angel" "!ZD0008">
+"Oh? You want to do this?
+ Fine. I'll fight you."
+#
+<name "Darx">
+"Okay."
+#
+<name "Male Angel" "!ZD0009">
+"Huh?
+ Hold on.
+ You're serious?"
+#
+<name "Darx">
+"Of course."
+#
+<name "Male Angel" "!ZD0010">
+"Y-You won't reconsider?"
+#
+<name "Darx">
+"..."
+#
+<name "Male Angel" "!ZD0011">
+"T-There's no need for anybody to get hurt.
+ You can just turn around and go home.
+ I won't chase after you.
+ I promise."
+#
+<name "Darx">
+"Move.
+ I'm going through."
+#
+<name "Male Angel" "!ZD0012">
+".........No matter what?"
+#
+<name "Darx">
+"No matter what!"
+#
+<name "Male Angel" "!ZD0013">
+"I-If you insist.
+ If you really insist, the rest is up to you!"
+#
+<name "Soldier Angel" "!SB0072">
+"Let's go!"
+#
+<name "Armed Angel" "!RB0060">
+"Yeah!"
+#
+<exit>
+\x78

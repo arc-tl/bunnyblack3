@@ -1,0 +1,2135 @@
+﻿\xF3 0  0  0 \x22\x00\x00 0  0 \x1A\x01\x0C\x43\x00\x4C\x00\x30\x00\x30\x00\x30\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x31\x00\x09\x00\x09\x00 :2047: \x1A\x01\x09\x46\x00\x39\x00\x30\x00\x35\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :A3: \xF3 "Housing"  0  0 \x22\x00\x01 0  0 \x1A\x01\x0A\x43\x00\x4C\x00\x30\x00\x30\x00\x31\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x31\x00 :A3: \x0A\x04\x03\x89\x84\x01\x16 :2775: \x15 :204D: 
+:A3
+\x1A\x01\x09\x46\x00\x39\x00\x31\x00\x30\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :10D: \xF3 "L Housing"  0  0 \x22\x00\x01 0  0 \x1A\x01\x0A\x43\x00\x4C\x00\x30\x00\x30\x00\x31\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x31\x00 :10D: \x0A\x04\x03\x8E\x84\x01\x16 :2DCF: \x15 :204D: 
+:10D
+\x1A\x01\x09\x46\x00\x39\x00\x31\x00\x34\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :177: \xF3 "Manor"  0  0 \x22\x00\x01 0  0 \x1A\x01\x0A\x43\x00\x4C\x00\x30\x00\x30\x00\x31\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x31\x00 :177: \x0A\x04\x03\x92\x84\x01\x16 :33A1: \x15 :204D: 
+:177
+\x1A\x01\x09\x46\x00\x39\x00\x31\x00\x37\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :1E1: \xF3 "G Housing"  0  0 \x22\x00\x01 0  0 \x1A\x01\x0A\x43\x00\x4C\x00\x30\x00\x30\x00\x31\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x31\x00 :1E1: \x0A\x04\x03\x95\x84\x01\x16 :39C3: \x15 :204D: 
+:1E1
+\x1A\x01\x09\x46\x00\x39\x00\x32\x00\x30\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :24D: \xF3 "Odd Housing"  0  0 \x22\x00\x01 0  0 \x1A\x01\x0A\x43\x00\x4C\x00\x30\x00\x30\x00\x31\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x31\x00 :24D: \x0A\x04\x03\x98\x84\x01\x16 :4003: \x15 :204D: 
+:24D
+\x1A\x01\x09\x46\x00\x39\x00\x30\x00\x31\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :2B5: \xF3 "Garrison"  0  0 \x22\x00\x01 0  0 \x1A\x01\x0A\x43\x00\x4C\x00\x30\x00\x30\x00\x31\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x31\x00 :2B5: \x0A\x04\x03\x85\x84\x01\x16 :204E: \x15 :204D: 
+:2B5
+\x1A\x01\x09\x46\x00\x39\x00\x30\x00\x32\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :31D: \xF3 "Clinic"  0  0 \x22\x00\x01 0  0 \x1A\x01\x0A\x43\x00\x4C\x00\x30\x00\x30\x00\x31\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x31\x00 :31D: \x0A\x04\x03\x86\x84\x01\x16 :228E: \x15 :204D: 
+:31D
+\x1A\x01\x09\x46\x00\x39\x00\x32\x00\x34\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :381: \xF3 "Field"  0  0 \x22\x00\x01 0  0 \x1A\x01\x0A\x43\x00\x4C\x00\x30\x00\x30\x00\x31\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x31\x00 :381: \x0A\x04\x03\x9C\x84\x01\x16 :478C: \x15 :204D: 
+:381
+\x1A\x01\x09\x46\x00\x39\x00\x33\x00\x30\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :3E7: \xF3 "Ranch"  0  0 \x22\x00\x01 0  0 \x1A\x01\x0A\x43\x00\x4C\x00\x30\x00\x30\x00\x31\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x31\x00 :3E7: \x0A\x04\x03\xA2\x84\x01\x16 :55CD: \x15 :204D: 
+:3E7
+\x1A\x01\x09\x46\x00\x39\x00\x33\x00\x33\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :44F: \xF3 "Orchard"  0  0 \x22\x00\x01 0  0 \x1A\x01\x0A\x43\x00\x4C\x00\x30\x00\x30\x00\x31\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x31\x00 :44F: \x0A\x04\x03\xA5\x84\x01\x16 :5A43: \x15 :204D: 
+:44F
+\x1A\x01\x09\x46\x00\x39\x00\x33\x00\x36\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :4B7: \xF3 "Mine"  0  0 \x22\x00\x01 0  0 \x1A\x01\x0A\x43\x00\x4C\x00\x30\x00\x30\x00\x31\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x31\x00 :4B7: \x0A\x04\x03\xA8\x84\x01\x16 :5FDA: \x15 :204D: 
+:4B7
+\x1A\x01\x09\x46\x00\x39\x00\x33\x00\x38\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :51F: \xF3 "Depot"  0  0 \x22\x00\x01 0  0 \x1A\x01\x0A\x43\x00\x4C\x00\x30\x00\x30\x00\x31\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x31\x00 :51F: \x0A\x04\x03\xAA\x84\x01\x16 :61F0: \x15 :204D: 
+:51F
+\x1A\x01\x09\x46\x00\x39\x00\x34\x00\x30\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :585: \xF3 "Workshop"  0  0 \x22\x00\x01 0  0 \x1A\x01\x0A\x43\x00\x4C\x00\x30\x00\x30\x00\x31\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x31\x00 :585: \x0A\x04\x03\xAC\x84\x01\x16 :6431: \x15 :204D: 
+:585
+\x1A\x01\x09\x46\x00\x39\x00\x34\x00\x32\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :5ED: \xF3 "Research Lab"  0  0 \x22\x00\x01 0  0 \x1A\x01\x0A\x43\x00\x4C\x00\x30\x00\x30\x00\x31\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x31\x00 :5ED: \x0A\x04\x03\xAE\x84\x01\x16 :66DA: \x15 :204D: 
+:5ED
+\x1A\x01\x09\x46\x00\x39\x00\x34\x00\x34\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :653: \xF3 "Store"  0  0 \x22\x00\x01 0  0 \x1A\x01\x0A\x43\x00\x4C\x00\x30\x00\x30\x00\x31\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x31\x00 :653: \x0A\x04\x03\xB0\x84\x01\x16 :69C4: \x15 :204D: 
+:653
+\x1A\x01\x09\x46\x00\x39\x00\x34\x00\x37\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :6BB: \xF3 "E Center"  0  0 \x22\x00\x01 0  0 \x1A\x01\x0A\x43\x00\x4C\x00\x30\x00\x30\x00\x31\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x31\x00 :6BB: \x0A\x04\x03\xB3\x84\x01\x16 :6DB9: \x15 :204D: 
+:6BB
+\x1A\x01\x09\x46\x00\x39\x00\x34\x00\x39\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :727: \xF3 "RL District"  0  0 \x22\x00\x01 0  0 \x1A\x01\x0A\x43\x00\x4C\x00\x30\x00\x30\x00\x31\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x31\x00 :727: \x0A\x04\x03\xB5\x84\x01\x16 :704F: \x15 :204D: 
+:727
+\x1A\x01\x09\x46\x00\x39\x00\x35\x00\x33\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :793: \xF3 "Stadium"  0  0 \x22\x00\x01 0  0 \x1A\x01\x0A\x43\x00\x4C\x00\x30\x00\x30\x00\x31\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x31\x00 :793: \x0A\x04\x03\xB9\x84\x01\x16 :764D: \x15 :204D: 
+:793
+\x1A\x01\x09\x46\x00\x39\x00\x35\x00\x35\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :7FB: \xF3 "Pool"  0  0 \x22\x00\x01 0  0 \x1A\x01\x0A\x43\x00\x4C\x00\x30\x00\x30\x00\x31\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x31\x00 :7FB: \x0A\x04\x03\xBB\x84\x01\x16 :7B10: \x15 :204D: 
+:7FB
+\x1A\x01\x09\x46\x00\x39\x00\x35\x00\x37\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :863: \xF3 "Brewery"  0  0 \x22\x00\x01 0  0 \x1A\x01\x0A\x43\x00\x4C\x00\x30\x00\x30\x00\x31\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x31\x00 :863: \x0A\x04\x03\xBD\x84\x01\x16 :7F97: \x15 :204D: 
+:863
+\x1A\x01\x09\x46\x00\x39\x00\x35\x00\x38\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :8CD: \xF3 "Bathhouse"  0  0 \x22\x00\x01 0  0 \x1A\x01\x0A\x43\x00\x4C\x00\x30\x00\x30\x00\x31\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x31\x00 :8CD: \x0A\x04\x03\xBE\x84\x01\x16 :810B: \x15 :204D: 
+:8CD
+\x1A\x01\x09\x46\x00\x39\x00\x36\x00\x30\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :933: \xF3 "Hot Spring"  0  0 \x22\x00\x01 0  0 \x1A\x01\x0A\x43\x00\x4C\x00\x30\x00\x30\x00\x31\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x31\x00 :933: \x0A\x04\x03\xC0\x84\x01\x16 :861B: \x15 :204D: 
+:933
+\x1A\x01\x09\x46\x00\x39\x00\x36\x00\x32\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :999: \xF3 "Park"  0  0 \x22\x00\x01 0  0 \x1A\x01\x0A\x43\x00\x4C\x00\x30\x00\x30\x00\x31\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x31\x00 :999: \x0A\x04\x03\xC2\x84\x01\x16 :8D78: \x15 :204D: 
+:999
+\x1A\x01\x09\x46\x00\x39\x00\x36\x00\x34\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :A01: \xF3 "Dormitory"  0  0 \x22\x00\x01 0  0 \x1A\x01\x0A\x43\x00\x4C\x00\x30\x00\x30\x00\x31\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x31\x00 :A01: \x0A\x04\x03\xC4\x84\x01\x16 :909E: \x15 :204D: 
+:A01
+\x1A\x01\x09\x46\x00\x39\x00\x36\x00\x38\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :A65: \xF3 "Forest"  0  0 \x22\x00\x01 0  0 \x1A\x01\x0A\x43\x00\x4C\x00\x30\x00\x30\x00\x31\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x31\x00 :A65: \x0A\x04\x03\xC8\x84\x01\x16 :95AB: \x15 :204D: 
+:A65
+\x1A\x01\x09\x46\x00\x39\x00\x37\x00\x31\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :AC9: \xF3 "Pond"  0  0 \x22\x00\x01 0  0 \x1A\x01\x0A\x43\x00\x4C\x00\x30\x00\x30\x00\x31\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x31\x00 :AC9: \x0A\x04\x03\xCB\x84\x01\x16 :998D: \x15 :204D: 
+:AC9
+\x1A\x01\x09\x46\x00\x39\x00\x37\x00\x33\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :B31: \xF3 "Cleared Land"  0  0 \x22\x00\x01 0  0 \x1A\x01\x0A\x43\x00\x4C\x00\x30\x00\x30\x00\x31\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x31\x00 :B31: \x0A\x04\x03\xCD\x84\x01\x16 :9BCF: \x15 :204D: 
+:B31
+\x1A\x01\x09\x46\x00\x39\x00\x30\x00\x36\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :B97: \xF3 "Housing"  0  0 \x22\x00\x01 0  0 \x1A\x01\x0A\x43\x00\x4C\x00\x30\x00\x30\x00\x31\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x31\x00 :B97: \x0A\x04\x03\x8A\x84\x01\x16 :28FB: \x15 :204D: 
+:B97
+\x1A\x01\x09\x46\x00\x39\x00\x31\x00\x31\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :C01: \xF3 "L Housing"  0  0 \x22\x00\x01 0  0 \x1A\x01\x0A\x43\x00\x4C\x00\x30\x00\x30\x00\x31\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x31\x00 :C01: \x0A\x04\x03\x8F\x84\x01\x16 :2ECF: \x15 :204D: 
+:C01
+\x1A\x01\x09\x46\x00\x39\x00\x31\x00\x35\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :C6B: \xF3 "Manor"  0  0 \x22\x00\x01 0  0 \x1A\x01\x0A\x43\x00\x4C\x00\x30\x00\x30\x00\x31\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x31\x00 :C6B: \x0A\x04\x03\x93\x84\x01\x16 :361F: \x15 :204D: 
+:C6B
+\x1A\x01\x09\x46\x00\x39\x00\x31\x00\x38\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :CD5: \xF3 "G Housing"  0  0 \x22\x00\x01 0  0 \x1A\x01\x0A\x43\x00\x4C\x00\x30\x00\x30\x00\x31\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x31\x00 :CD5: \x0A\x04\x03\x96\x84\x01\x16 :3CA9: \x15 :204D: 
+:CD5
+\x1A\x01\x09\x46\x00\x39\x00\x32\x00\x31\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :D41: \xF3 "Odd Housing"  0  0 \x22\x00\x01 0  0 \x1A\x01\x0A\x43\x00\x4C\x00\x30\x00\x30\x00\x31\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x31\x00 :D41: \x0A\x04\x03\x99\x84\x01\x16 :41C2: \x15 :204D: 
+:D41
+\x1A\x01\x09\x46\x00\x39\x00\x30\x00\x33\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :DA9: \xF3 "Clinic"  0  0 \x22\x00\x01 0  0 \x1A\x01\x0A\x43\x00\x4C\x00\x30\x00\x30\x00\x31\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x31\x00 :DA9: \x0A\x04\x03\x87\x84\x01\x16 :2388: \x15 :204D: 
+:DA9
+\x1A\x01\x09\x46\x00\x39\x00\x32\x00\x35\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :E0D: \xF3 "Field"  0  0 \x22\x00\x01 0  0 \x1A\x01\x0A\x43\x00\x4C\x00\x30\x00\x30\x00\x31\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x31\x00 :E0D: \x0A\x04\x03\x9D\x84\x01\x16 :493B: \x15 :204D: 
+:E0D
+\x1A\x01\x09\x46\x00\x39\x00\x33\x00\x31\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :E73: \xF3 "Ranch"  0  0 \x22\x00\x01 0  0 \x1A\x01\x0A\x43\x00\x4C\x00\x30\x00\x30\x00\x31\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x31\x00 :E73: \x0A\x04\x03\xA3\x84\x01\x16 :56CA: \x15 :204D: 
+:E73
+\x1A\x01\x09\x46\x00\x39\x00\x33\x00\x34\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :EDB: \xF3 "Orchard"  0  0 \x22\x00\x01 0  0 \x1A\x01\x0A\x43\x00\x4C\x00\x30\x00\x30\x00\x31\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x31\x00 :EDB: \x0A\x04\x03\xA6\x84\x01\x16 :5BE9: \x15 :204D: 
+:EDB
+\x1A\x01\x09\x46\x00\x39\x00\x33\x00\x37\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :F43: \xF3 "Mine"  0  0 \x22\x00\x01 0  0 \x1A\x01\x0A\x43\x00\x4C\x00\x30\x00\x30\x00\x31\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x31\x00 :F43: \x0A\x04\x03\xA9\x84\x01\x16 :60D7: \x15 :204D: 
+:F43
+\x1A\x01\x09\x46\x00\x39\x00\x33\x00\x39\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :FAB: \xF3 "Depot"  0  0 \x22\x00\x01 0  0 \x1A\x01\x0A\x43\x00\x4C\x00\x30\x00\x30\x00\x31\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x31\x00 :FAB: \x0A\x04\x03\xAB\x84\x01\x16 :634B: \x15 :204D: 
+:FAB
+\x1A\x01\x09\x46\x00\x39\x00\x34\x00\x31\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :1011: \xF3 "Workshop"  0  0 \x22\x00\x01 0  0 \x1A\x01\x0A\x43\x00\x4C\x00\x30\x00\x30\x00\x31\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x31\x00 :1011: \x0A\x04\x03\xAD\x84\x01\x16 :659A: \x15 :204D: 
+:1011
+\x1A\x01\x09\x46\x00\x39\x00\x34\x00\x33\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :1079: \xF3 "Research Lab"  0  0 \x22\x00\x01 0  0 \x1A\x01\x0A\x43\x00\x4C\x00\x30\x00\x30\x00\x31\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x31\x00 :1079: \x0A\x04\x03\xAF\x84\x01\x16 :68D6: \x15 :204D: 
+:1079
+\x1A\x01\x09\x46\x00\x39\x00\x34\x00\x35\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :10DF: \xF3 "Store"  0  0 \x22\x00\x01 0  0 \x1A\x01\x0A\x43\x00\x4C\x00\x30\x00\x30\x00\x31\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x31\x00 :10DF: \x0A\x04\x03\xB1\x84\x01\x16 :6AA2: \x15 :204D: 
+:10DF
+\x1A\x01\x09\x46\x00\x39\x00\x34\x00\x38\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :1147: \xF3 "E Center"  0  0 \x22\x00\x01 0  0 \x1A\x01\x0A\x43\x00\x4C\x00\x30\x00\x30\x00\x31\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x31\x00 :1147: \x0A\x04\x03\xB4\x84\x01\x16 :6F3A: \x15 :204D: 
+:1147
+\x1A\x01\x09\x46\x00\x39\x00\x35\x00\x30\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :11B3: \xF3 "RL District"  0  0 \x22\x00\x01 0  0 \x1A\x01\x0A\x43\x00\x4C\x00\x30\x00\x30\x00\x31\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x31\x00 :11B3: \x0A\x04\x03\xB6\x84\x01\x16 :71A7: \x15 :204D: 
+:11B3
+\x1A\x01\x09\x46\x00\x39\x00\x35\x00\x34\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :125F: \xF3 "Stadium"  0  0 \x22\x00\x01 0  0 \x1A\x01\x0A\x43\x00\x4C\x00\x30\x00\x30\x00\x31\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x31\x00 :125F: \xF3 "Stadium" \x22\x00\x01 0  0  0  0 \x1A\x01\x0A\x43\x00\x4C\x00\x30\x00\x30\x00\x31\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x33\x00 :125F: \x0A\x04\x03\xBA\x84\x01\x16 :7922: \x15 :204D: 
+:125F
+\x1A\x01\x09\x46\x00\x39\x00\x35\x00\x36\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :12C7: \xF3 "Pool"  0  0 \x22\x00\x01 0  0 \x1A\x01\x0A\x43\x00\x4C\x00\x30\x00\x30\x00\x31\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x31\x00 :12C7: \x0A\x04\x03\xBC\x84\x01\x16 :7DF9: \x15 :204D: 
+:12C7
+\x1A\x01\x09\x46\x00\x39\x00\x35\x00\x39\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :1331: \xF3 "Bathhouse"  0  0 \x22\x00\x01 0  0 \x1A\x01\x0A\x43\x00\x4C\x00\x30\x00\x30\x00\x31\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x31\x00 :1331: \x0A\x04\x03\xBF\x84\x01\x16 :82D3: \x15 :204D: 
+:1331
+\x1A\x01\x09\x46\x00\x39\x00\x36\x00\x31\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :1397: \xF3 "Hot Spring"  0  0 \x22\x00\x01 0  0 \x1A\x01\x0A\x43\x00\x4C\x00\x30\x00\x30\x00\x31\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x31\x00 :1397: \x0A\x04\x03\xC1\x84\x01\x16 :8C5F: \x15 :204D: 
+:1397
+\x1A\x01\x09\x46\x00\x39\x00\x36\x00\x33\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :13FD: \xF3 "Park"  0  0 \x22\x00\x01 0  0 \x1A\x01\x0A\x43\x00\x4C\x00\x30\x00\x30\x00\x31\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x31\x00 :13FD: \x0A\x04\x03\xC3\x84\x01\x16 :8F34: \x15 :204D: 
+:13FD
+\x1A\x01\x09\x46\x00\x39\x00\x36\x00\x35\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :1465: \xF3 "Dormitory"  0  0 \x22\x00\x01 0  0 \x1A\x01\x0A\x43\x00\x4C\x00\x30\x00\x30\x00\x31\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x31\x00 :1465: \x0A\x04\x03\xC5\x84\x01\x16 :9219: \x15 :204D: 
+:1465
+\x1A\x01\x09\x46\x00\x39\x00\x36\x00\x39\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :14C9: \xF3 "Forest"  0  0 \x22\x00\x01 0  0 \x1A\x01\x0A\x43\x00\x4C\x00\x30\x00\x30\x00\x31\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x31\x00 :14C9: \x0A\x04\x03\xC9\x84\x01\x16 :9799: \x15 :204D: 
+:14C9
+\x1A\x01\x09\x46\x00\x39\x00\x37\x00\x32\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :152D: \xF3 "Pond"  0  0 \x22\x00\x01 0  0 \x1A\x01\x0A\x43\x00\x4C\x00\x30\x00\x30\x00\x31\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x31\x00 :152D: \x0A\x04\x03\xCC\x84\x01\x16 :9AF4: \x15 :204D: 
+:152D
+\x1A\x01\x09\x46\x00\x39\x00\x37\x00\x34\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :1595: \xF3 "Cleared Land"  0  0 \x22\x00\x01 0  0 \x1A\x01\x0A\x43\x00\x4C\x00\x30\x00\x30\x00\x31\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x31\x00 :1595: \x0A\x04\x03\xCE\x84\x01\x16 :9CBA: \x15 :204D: 
+:1595
+\x1A\x01\x09\x46\x00\x39\x00\x30\x00\x34\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :15FD: \xF3 "Clinic"  0  0 \x22\x00\x01 0  0 \x1A\x01\x0A\x43\x00\x4C\x00\x30\x00\x30\x00\x31\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x31\x00 :15FD: \x0A\x04\x03\x88\x84\x01\x16 :2534: \x15 :204D: 
+:15FD
+\x1A\x01\x09\x46\x00\x39\x00\x30\x00\x37\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :1663: \xF3 "Housing"  0  0 \x22\x00\x01 0  0 \x1A\x01\x0A\x43\x00\x4C\x00\x30\x00\x30\x00\x31\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x31\x00 :1663: \x0A\x04\x03\x8B\x84\x01\x16 :2993: \x15 :204D: 
+:1663
+\x1A\x01\x09\x46\x00\x39\x00\x31\x00\x32\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :16CD: \xF3 "L Housing"  0  0 \x22\x00\x01 0  0 \x1A\x01\x0A\x43\x00\x4C\x00\x30\x00\x30\x00\x31\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x31\x00 :16CD: \x0A\x04\x03\x90\x84\x01\x16 :3056: \x15 :204D: 
+:16CD
+\x1A\x01\x09\x46\x00\x39\x00\x31\x00\x36\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :1737: \xF3 "Manor"  0  0 \x22\x00\x01 0  0 \x1A\x01\x0A\x43\x00\x4C\x00\x30\x00\x30\x00\x31\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x31\x00 :1737: \x0A\x04\x03\x94\x84\x01\x16 :375C: \x15 :204D: 
+:1737
+\x1A\x01\x09\x46\x00\x39\x00\x31\x00\x39\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :17A1: \xF3 "G Housing"  0  0 \x22\x00\x01 0  0 \x1A\x01\x0A\x43\x00\x4C\x00\x30\x00\x30\x00\x31\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x31\x00 :17A1: \x0A\x04\x03\x97\x84\x01\x16 :3EBF: \x15 :204D: 
+:17A1
+\x1A\x01\x09\x46\x00\x39\x00\x32\x00\x32\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :180D: \xF3 "Odd Housing"  0  0 \x22\x00\x01 0  0 \x1A\x01\x0A\x43\x00\x4C\x00\x30\x00\x30\x00\x31\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x31\x00 :180D: \x0A\x04\x03\x9A\x84\x01\x16 :4363: \x15 :204D: 
+:180D
+\x1A\x01\x09\x46\x00\x39\x00\x32\x00\x36\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :1871: \xF3 "Field"  0  0 \x22\x00\x01 0  0 \x1A\x01\x0A\x43\x00\x4C\x00\x30\x00\x30\x00\x31\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x31\x00 :1871: \x0A\x04\x03\x9E\x84\x01\x16 :4EB0: \x15 :204D: 
+:1871
+\x1A\x01\x09\x46\x00\x39\x00\x33\x00\x32\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :18D7: \xF3 "Ranch"  0  0 \x22\x00\x01 0  0 \x1A\x01\x0A\x43\x00\x4C\x00\x30\x00\x30\x00\x31\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x31\x00 :18D7: \x0A\x04\x03\xA4\x84\x01\x16 :5890: \x15 :204D: 
+:18D7
+\x1A\x01\x09\x46\x00\x39\x00\x33\x00\x35\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :193F: \xF3 "Orchard"  0  0 \x22\x00\x01 0  0 \x1A\x01\x0A\x43\x00\x4C\x00\x30\x00\x30\x00\x31\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x31\x00 :193F: \x0A\x04\x03\xA7\x84\x01\x16 :5D08: \x15 :204D: 
+:193F
+\x1A\x01\x09\x46\x00\x39\x00\x34\x00\x36\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :19A5: \xF3 "Store"  0  0 \x22\x00\x01 0  0 \x1A\x01\x0A\x43\x00\x4C\x00\x30\x00\x30\x00\x31\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x31\x00 :19A5: \x0A\x04\x03\xB2\x84\x01\x16 :6B51: \x15 :204D: 
+:19A5
+\x1A\x01\x09\x46\x00\x39\x00\x35\x00\x31\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :1A11: \xF3 "RL District"  0  0 \x22\x00\x01 0  0 \x1A\x01\x0A\x43\x00\x4C\x00\x30\x00\x30\x00\x31\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x31\x00 :1A11: \x0A\x04\x03\xB7\x84\x01\x16 :7299: \x15 :204D: 
+:1A11
+\x1A\x01\x09\x46\x00\x39\x00\x36\x00\x36\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :1A79: \xF3 "Dormitory"  0  0 \x22\x00\x01 0  0 \x1A\x01\x0A\x43\x00\x4C\x00\x30\x00\x30\x00\x31\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x31\x00 :1A79: \x0A\x04\x03\xC6\x84\x01\x16 :93CB: \x15 :204D: 
+:1A79
+\x1A\x01\x09\x46\x00\x39\x00\x37\x00\x30\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :1ADD: \xF3 "Forest"  0  0 \x22\x00\x01 0  0 \x1A\x01\x0A\x43\x00\x4C\x00\x30\x00\x30\x00\x31\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x31\x00 :1ADD: \x0A\x04\x03\xCA\x84\x01\x16 :98A3: \x15 :204D: 
+:1ADD
+\x1A\x01\x09\x46\x00\x39\x00\x37\x00\x35\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :1B45: \xF3 "Cleared Land"  0  0 \x22\x00\x01 0  0 \x1A\x01\x0A\x43\x00\x4C\x00\x30\x00\x30\x00\x31\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x31\x00 :1B45: \x0A\x04\x03\xCF\x84\x01\x16 :9DC1: \x15 :204D: 
+:1B45
+\x1A\x01\x09\x46\x00\x39\x00\x30\x00\x38\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :1BAB: \xF3 "Housing"  0  0 \x22\x00\x01 0  0 \x1A\x01\x0A\x43\x00\x4C\x00\x30\x00\x30\x00\x31\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x31\x00 :1BAB: \x0A\x04\x03\x8C\x84\x01\x16 :2B2A: \x15 :204D: 
+:1BAB
+\x1A\x01\x09\x46\x00\x39\x00\x31\x00\x33\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :1C15: \xF3 "L Housing"  0  0 \x22\x00\x01 0  0 \x1A\x01\x0A\x43\x00\x4C\x00\x30\x00\x30\x00\x31\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x31\x00 :1C15: \x0A\x04\x03\x91\x84\x01\x16 :31B3: \x15 :204D: 
+:1C15
+\x1A\x01\x09\x46\x00\x39\x00\x32\x00\x33\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :1C81: \xF3 "Odd Housing"  0  0 \x22\x00\x01 0  0 \x1A\x01\x0A\x43\x00\x4C\x00\x30\x00\x30\x00\x31\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x31\x00 :1C81: \x0A\x04\x03\x9B\x84\x01\x16 :4568: \x15 :204D: 
+:1C81
+\x1A\x01\x09\x46\x00\x39\x00\x32\x00\x37\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :1CE5: \xF3 "Field"  0  0 \x22\x00\x01 0  0 \x1A\x01\x0A\x43\x00\x4C\x00\x30\x00\x30\x00\x31\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x31\x00 :1CE5: \x0A\x04\x03\x9F\x84\x01\x16 :52D9: \x15 :204D: 
+:1CE5
+\x1A\x01\x09\x46\x00\x39\x00\x35\x00\x32\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :1D51: \xF3 "RL District"  0  0 \x22\x00\x01 0  0 \x1A\x01\x0A\x43\x00\x4C\x00\x30\x00\x30\x00\x31\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x31\x00 :1D51: \x0A\x04\x03\xB8\x84\x01\x16 :748D: \x15 :204D: 
+:1D51
+\x1A\x01\x09\x46\x00\x39\x00\x36\x00\x37\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :1DB9: \xF3 "Dormitory"  0  0 \x22\x00\x01 0  0 \x1A\x01\x0A\x43\x00\x4C\x00\x30\x00\x30\x00\x31\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x31\x00 :1DB9: \x0A\x04\x03\xC7\x84\x01\x16 :94B3: \x15 :204D: 
+:1DB9
+\x1A\x01\x09\x46\x00\x39\x00\x30\x00\x39\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :1E1F: \xF3 "Housing"  0  0 \x22\x00\x01 0  0 \x1A\x01\x0A\x43\x00\x4C\x00\x30\x00\x30\x00\x31\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x31\x00 :1E1F: \x0A\x04\x03\x8D\x84\x01\x16 :2CE0: \x15 :204D: 
+:1E1F
+\x1A\x01\x09\x46\x00\x39\x00\x32\x00\x38\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :1E83: \xF3 "Field"  0  0 \x22\x00\x01 0  0 \x1A\x01\x0A\x43\x00\x4C\x00\x30\x00\x30\x00\x31\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x31\x00 :1E83: \x0A\x04\x03\xA0\x84\x01\x16 :5455: \x15 :204D: 
+:1E83
+\x1A\x01\x09\x46\x00\x39\x00\x32\x00\x39\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :1EE7: \xF3 "Field"  0  0 \x22\x00\x01 0  0 \x1A\x01\x0A\x43\x00\x4C\x00\x30\x00\x30\x00\x31\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x31\x00 :1EE7: \x0A\x04\x03\xA1\x84\x01\x16 :550E: \x15 :204D: 
+:1EE7
+\x1A\x01\x09\x46\x00\x39\x00\x37\x00\x36\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :1F13: \x0A\x04\x03\xD0\x84\x01\x16 :9E9B: \x15 :204D: 
+:1F13
+\x1A\x01\x09\x46\x00\x39\x00\x37\x00\x37\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :1F3F: \x0A\x04\x03\xD1\x84\x01\x16 :A1B6: \x15 :204D: 
+:1F3F
+\x1A\x01\x09\x46\x00\x39\x00\x37\x00\x38\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :1F6B: \x0A\x04\x03\xD2\x84\x01\x16 :A3F2: \x15 :204D: 
+:1F6B
+\x1A\x01\x09\x46\x00\x39\x00\x37\x00\x39\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :1F97: \x0A\x04\x03\xD3\x84\x01\x16 :A4BA: \x15 :204D: 
+:1F97
+\x1A\x01\x09\x46\x00\x39\x00\x38\x00\x30\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :1FC3: \x0A\x04\x03\xD4\x84\x01\x16 :A747: \x15 :204D: 
+:1FC3
+\x1A\x01\x09\x46\x00\x39\x00\x38\x00\x31\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :1FEF: \x0A\x04\x03\xD5\x84\x01\x16 :A7FB: \x15 :204D: 
+:1FEF
+\x1A\x01\x09\x46\x00\x39\x00\x38\x00\x32\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :201B: \x0A\x04\x03\xD6\x84\x01\x16 :A88F: \x15 :204D: 
+:201B
+\x1A\x01\x09\x46\x00\x39\x00\x38\x00\x33\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :2047: \x0A\x04\x03\xD7\x84\x01\x16 :AD23: \x15 :204D: 
+:2047
+\x15 :204D: 
+:204D
+\x78
+:204E
+<music 11>
+<background "bg013a0.agf" 10>
+<name "Serious Guard" "!KB0137">
+"The garrison."
+#
+<name "Serious Guard" "!KB0138">
+"So this is where I'll work."
+#
+<name "Serious Guard" "!KB0139">
+"Heheheh.
+ Let's do it!"
+#
+<name "Relaxed Guard" "!CB0063">
+"Sorry to throw cold water on you, but it's
+ a lot more peaceful if we're not busy."
+#
+<name "Serious Guard" "!KB0140">
+"I-I know that, but..."
+#
+<name "Relaxed Guard" "!CB0064">
+"Well, don't lose your spirit during the down
+ times."
+#
+<name "Serious Guard" "!KB0141">
+"Right?"
+#
+<name "Serious Guard" "!KB0142">
+"Okay! Let's do it!"
+#
+<exit>
+:228E
+<music 10>
+<background "ev002a00.agf" 10>
+<name "Chief Carpenter" "!ZG0039">
+"A clinic!
+ I'm fired up to build one!"
+#
+<name "Carpenter" "!ZE0081">
+"Yes!
+ And they might end up taking care of us!"
+#
+<name "Chief Carpenter" "!ZG0040">
+"Exactly."
+#
+<exit>
+:2388
+<music 4>
+<background "bg009a0.agf" 10>
+<sprite "ta01a001.agf" 4 4 11>
+<name "Sofia" "!ZB0865">
+"We should choose the doctors at the clinic
+ very carefully."
+#
+<sprite "ta01a000.agf" 4 4 12>
+<name "Sofia" "!ZB0866">
+"It could lead to all kinds of trouble."
+#
+<removesprite -1 11>
+<sprite "ta01a000.agf" 2 5 11>
+<sprite "ta34a000.agf" 6 4 11>
+<name "Company Maid" "!PC0318">
+"Understood."
+#
+<removesprite -1 11>
+<exit>
+:2534
+<music 4>
+<background "bg009a0.agf" 10>
+<sprite "ta34a001.agf" 4 4 11>
+<name "Company Maid" "!PC0319">
+"Even if we do build a clinic, as for
+ doctors..."
+#
+<name "Company Maid" "!PC0320">
+"Is it okay to rely on Forzelotte's Shrine for
+ that?"
+#
+<removesprite -1 11>
+<sprite "ta08a004.agf" 4 4 11>
+<name "Rakia" "!ZC0471">
+"We're not so foolish as to restrict you like
+ that.
+ You can impose on us however much you need
+ to."
+#
+<removesprite -1 11>
+<sprite "ta08a004.agf" 2 5 11>
+<sprite "ta34a000.agf" 6 4 11>
+<name "Company Maid" "!PC0321">
+"T-Thank you very much."
+#
+<removesprite -1 11>
+<exit>
+:2775
+<music 10>
+<background "ev002a00.agf" 10>
+<name "Chief Carpenter" "!ZG0041">
+"Let's build some houses!"
+#
+<name "Carpenter" "!ZE0082">
+"Yeah!"
+#
+<name "Chief Carpenter" "!ZG0042">
+"Build them with care!
+ As if you're building your own house!"
+#
+<name "Carpenter" "!ZE0083">
+"Yeah!"
+#
+<name "Chief Carpenter" "!ZG0043">
+"Which is why no creating your very own space!"
+#
+<name "Carpenter" "!ZE0084">
+"Y-Yeah!"
+#
+<exit>
+:28FB
+<music 10>
+<background "ev002a00.agf" 10>
+<name "Chief Carpenter" "!ZG0044">
+"Building houses is fun."
+#
+<name "Carpenter" "!ZE0085">
+"Yes!"
+#
+<exit>
+:2993
+<music 10>
+<background "ev002a00.agf" 10>
+<name "Chief Carpenter" "!ZG0045">
+"I've built a lot of things, but nothing's more
+ fun than building houses."
+#
+<name "Carpenter" "!ZE0086">
+"Really?"
+#
+<name "Chief Carpenter" "!ZG0046">
+"Yeah. I've built all kinds of things, and came
+ to the conclusion that houses are the best."
+#
+<name "Carpenter" "!ZE0087">
+"So... you're retiring?"
+#
+<name "Chief Carpenter" "!ZG0047">
+"No way!
+ I've still got work to do!"
+#
+<exit>
+:2B2A
+<music 10>
+<background "ev002a00.agf" 10>
+<name "Chief Carpenter" "!ZG0048">
+"Hey, hey.
+ Hey, hey."
+#
+<name "Carpenter" "!ZE0088">
+"Heeey.
+ Hey, hey."
+#
+<name "Sofia" "!ZB0867">
+"What are you doing?"
+#
+<name "Chief Carpenter" "!ZG0049">
+"As you can see, we're building a fence."
+#
+<name "Sofia" "!ZB0868">
+"No, I can see that...
+ Forget it."
+#
+<name "Visiting Citizen" "!HC0114">
+"Ah! She just gave up!"
+#
+<exit>
+:2CE0
+<music 10>
+<background "ev002a00.agf" 10>
+<name "Chief Carpenter" "!ZG0050">
+"Build that house!"
+#
+<name "Chief Carpenter" "!ZG0051">
+"Who knows whose house it'll be, but make it
+ right and proper!"
+#
+<name "Carpenter" "!ZE0089">
+"Roger!"
+#
+<exit>
+:2DCF
+<music 10>
+<background "ev002a00.agf" 10>
+<name "Chief Carpenter" "!ZG0052">
+"This'll be a slightly nicer house than usual."
+#
+<name "Carpenter" "!ZE0090">
+"The design is perfect."
+#
+<name "Chief Carpenter" "!ZG0053">
+"Let's do it!"
+#
+<name "Carpenter" "!ZE0091">
+"Yeah!"
+#
+<exit>
+:2ECF
+<music 10>
+<background "ev002a00.agf" 10>
+<name "Carpenter" "!ZE0092">
+"Yeah, luxury houses have a lot of space."
+#
+<name "Chief Carpenter" "!ZG0054">
+"Yeah."
+#
+<name "Carpenter" "!ZE0093">
+"I wish I could have a house like this."
+#
+<name "Chief Carpenter" "!ZG0055">
+"There's still plenty of even nicer houses."
+#
+<name "Carpenter" "!ZE0094">
+"Hahaha.
+ This is about where my reality can reach."
+#
+<exit>
+:3056
+<music 3>
+<background "bg010a0.agf" 10>
+<sprite "ta34a000.agf" 4 4 11>
+<name "Company Maid" "!PC0335">
+"The construction of the luxury homes is going
+ well."
+#
+<name "Darx">
+"It is, but Sofia's helping.
+ You know you guys don't need to, right?"
+#
+<name "Company Maid" "!PC0336">
+"They say the right person in the right place."
+#
+<name "Darx">
+"Hmm."
+#
+<removesprite -1 11>
+<exit>
+:31B3
+<music 3>
+<background "bg010a0.agf" 10>
+<sprite "ta34a000.agf" 4 4 11>
+<name "Company Maid" "!PC0337">
+"As soon as we started building luxury homes,
+ people began applying to move in."
+#
+<name "Darx">
+"Oh? So they're popular.
+ Do we charge rent for them?"
+#
+<name "Company Maid" "!PC0338">
+"Being able to pay rent is kind of a bragging
+ right to show how much work they're doing."
+#
+<name "Darx">
+"Don't put too much pressure on them."
+#
+<name "Company Maid" "!PC0339">
+"Understood."
+#
+<removesprite -1 11>
+<exit>
+:33A1
+<music 10>
+<background "ev002a00.agf" 10>
+<name "Carpenter" "!ZE0095">
+"A manor?"
+#
+<name "Chief Carpenter" "!ZG0056">
+"Yeah, a manor."
+#
+<name "Carpenter" "!ZE0096">
+"Chief, what's the trick to building a manor?"
+#
+<name "Chief Carpenter" "!ZG0057">
+"That's simple."
+#
+<name "Chief Carpenter" "!ZG0060">
+"Don't worry about the budget.
+ Just think about it like a house for your wife
+ to live in, and make it."
+#
+<name "Carpenter" "!ZE0097">
+"I-I see."
+#
+<name "Chief Carpenter" "!ZG0061">
+"Spend all the money!"
+#
+<name "Carpenter" "!ZE0098">
+"Yeah!"
+#
+<name "Company Maid" "!PC0343">
+"Um, it'd be great if you could save on the
+ construction costs though..."
+#
+<exit>
+:361F
+<music 10>
+<background "ev002a00.agf" 10>
+<name "Chief Carpenter" "!ZG0062">
+"Heheheh...
+ All the craftsmanship I couldn't used in 
+ regular homes is here!"
+#
+<name "Carpenter" "!ZE0099">
+"Umm, Chief, your techniques aren't all that
+ popular, so maybe we should use a different
+ design."
+#
+<name "Chief Carpenter" "!ZG0063">
+"Eeeh?"
+#
+<exit>
+:375C
+<music 3>
+<background "bg010a0.agf" 10>
+<name "Darx">
+"I guess some races don't like it unless it's
+ a genuine manor."
+#
+<sprite "ta34a000.agf" 4 4 11>
+<name "Company Maid" "!PC0344">
+"Yes."
+#
+<sprite "ta34a006.agf" 4 4 12>
+<name "Company Maid" "!PC0345">
+"Perhaps you could say it's a strong sense of
+ elitism, or perhaps..."
+#
+<sprite "ta34a000.agf" 4 4 12>
+<name "Company Maid" "!PC0346">
+"Well, I'm grateful our revenue will be
+ increasing."
+#
+<name "Darx">
+"Indeed."
+#
+<sprite "ta34a004.agf" 4 4 12>
+<name "Company Maid" "!PC0347">
+"Anyway, thank you for building that manor."
+#
+<removesprite -1 11>
+<exit>
+:39C3
+<music 10>
+<background "ev002a00.agf" 10>
+<name "Carpenter" "!ZE0100">
+"Chief, we're building a house for giants?"
+#
+<name "Chief Carpenter" "!ZG0064">
+"Yeah, that's right."
+#
+<name "Carpenter" "!ZE0101">
+"So why are we making a road?"
+#
+<name "Chief Carpenter" "!ZG0068">
+"It's a road specifically for giants."
+#
+<name "Chief Carpenter" "!ZG0069">
+"Giants have to be careful about walking
+ around, right?"
+#
+<name "Chief Carpenter" "!ZG0070">
+"I want them to be able to freely walk around
+ outside their homes."
+#
+<name "Carpenter" "!ZE0102">
+"I see, but won't that cause trampling
+ accidents?"
+#
+<name "Chief Carpenter" "!ZG0071">
+"I'd be worried about that in the Netherworld,
+ but so far, it's been okay.
+ They have a good reputation.
+ It won't be a problem."
+#
+<name "Carpenter" "!ZE0103">
+"Roger."
+#
+<exit>
+:3CA9
+<music 10>
+<background "ev002a00.agf" 10>
+<name "Carpenter" "!ZE0104">
+"Chief, what's this ditch for?"
+#
+<name "Chief Carpenter" "!ZG0072">
+"This is a house for giants.
+ In other words, a place where huge people will
+ live."
+#
+<name "Carpenter" "!ZE0105">
+"Yes."
+#
+<name "Chief Carpenter" "!ZG0073">
+"This ditch is for dwarfs and other little guys
+ to take refuge in if they're about to be 
+ stepped on."
+#
+<name "Carpenter" "!ZE0106">
+"O-Oh, I see."
+#
+<name "Chief Carpenter" "!ZG0074">
+"I hope they never need to use it."
+#
+<name "Carpenter" "!ZE0107">
+"Y-Yeah."
+#
+<exit>
+:3EBF
+<music 10>
+<background "ev002a00.agf" 10>
+<name "Carpenter" "!ZE0108">
+"When you're building a big house, you feel
+ big too."
+#
+<name "Chief Carpenter" "!ZG0075">
+"I get that, but don't get the size wrong when
+ you're building regular houses."
+#
+<name "Carpenter" "!ZE0109">
+"H-Hahaha...
+ That'd be quite the disaster.
+ I'll be careful."
+#
+<exit>
+:4003
+<music 10>
+<background "ev002a00.agf" 10>
+<name "Carpenter" "!ZE0110">
+"It's hard to find a home for monsters and
+ demons who aren't humanoid."
+#
+<name "Chief Carpenter" "!ZG0076">
+"We can make anything for anyone.
+ That's our job."
+#
+<name "Carpenter" "!ZE0111">
+"Yeah, but... this is more like playing in the
+ mud than building a house."
+#
+<name "Chief Carpenter" "!ZG0077">
+"Don't worry about it.
+ It'll be a real home."
+#
+<name "Carpenter" "!ZE0112">
+"That's what worries me."
+#
+<exit>
+:41C2
+<music 11>
+<background "bg013a0.agf" 10>
+<name "Darx">
+"It must be hard if you're not human shaped."
+#
+<sprite "ta34a000.agf" 4 4 11>
+<name "Company Maid" "!PC0370">
+"Yes, because the city is based around us."
+#
+<name "Darx">
+"But even if they're not humanoids, they're
+ still citizens."
+#
+<name "Company Maid" "!PC0371">
+"I understand.
+ I'll make sure they're satisfied with their
+ homes."
+#
+<name "Darx">
+"Please."
+#
+<removesprite -1 11>
+<exit>
+:4363
+<music 11>
+<background "bg013a0.agf" 10>
+<name "Slimer Citizen" "!RB0156">
+"*lick lick lick lick*
+#
+<name "Slime Citizen" "!SB0215">
+"*slime slime slime*
+#
+<sprite "ta34a006.agf" 4 4 11>
+<name "Company Maid" "!PC0372">
+"Y-Your requests are too complicated to
+ accept."
+#
+<sprite "ta34a005.agf" 4 4 12>
+<name "Company Maid" "!PC0373">
+"B-But we're not giving up!"
+#
+<sprite "ta34a004.agf" 4 4 12>
+<name "Company Maid" "!PC0374">
+"We'll build you great houses!"
+#
+<removesprite -1 11>
+<exit>
+:4568
+<music 11>
+<background "bg013a0.agf" 10>
+<sprite "ta34c006.agf" 4 4 11>
+<name "Honest Maid" "!DC0277">
+"Is this a junkyard?"
+#
+<removesprite -1 11>
+<sprite "ta34a000.agf" 2 4 11>
+<sprite "ta34c006.agf" 6 5 11>
+<name "Guiding Maid" "!PC0375">
+"No, it's a bedroom."
+#
+<name "Honest Maid" "!DC0278">
+"Umm..."
+#
+<name "Guiding Maid" "!PC0376">
+"A bedroom."
+#
+<name "Honest Maid" "!DC0279">
+"I'm not going to ask the details."
+#
+<name "Guiding Maid" "!PC0377">
+"That's for the best."
+#
+<removesprite -1 11>
+<exit>
+:478C
+<music 10>
+<background "bg012a0.agf" 10>
+<name "Chief Carpenter" "!ZG0079">
+"It's not a carpenter's job to build a field."
+#
+<name "Carpenter" "!ZE0113">
+"Mm, yeah."
+#
+<sprite "ta34a000.agf" 4 4 11>
+<name "Company Maid" "!AC0246">
+"Kind of like ordering the wrong thing?"
+#
+<removesprite -1 11>
+<sprite "ta01a000.agf" 2 5 11>
+<sprite "ta34a000.agf" 6 4 11>
+<name "Sofia" "!ZB0875">
+"Yeah."
+#
+<removesprite -1 11>
+<exit>
+:493B
+<music 11>
+<background "ev072b00.agf" 10>
+<name "Dark Shadow" "!BC0091">
+"Leave making the fields to me."
+#
+<name "Hoeing Citizen" "!GB0168">
+"Who're you?"
+#
+<name "Knowing Citizen" "!JA0058">
+"I-It's the Dark Shadow of the golden field!
+ He's an incredible farming advisor who's said
+ to turn any land he runs into a bountiful
+ harvest!"
+#
+<name "Dark Shadow" "!BC0092">
+"Heheheh.
+ When it comes to farming, nobody can surpass
+ me!"
+#
+<name "Hansble Beagle" "!UA0084">
+"Is that really the case?"
+#
+<name "Dark Shadow" "!BC0093">
+"Y-You!
+ Hashed Beef of the double reaping"!
+#
+<name "Hansble Beagle" "!UA0085">
+"Not quite the right name.
+ It's Hansble Beagle."
+#
+<name "Dark Shadow" "!BC0094">
+"Sorry.
+ I'm good at remembering breeds, but not good
+ at people's names."
+#
+<name "Hansble Beagle" "!UA0086">
+"Don't worry about it.
+ I'm the same way.
+ And back to the matter, Dark... Shadow?
+ Is that the right name?"
+#
+<name "Dark Shadow" "!BC0095">
+"It's fine."
+#
+<name "Hansble Beagle" "!UA0087">
+"Whew.
+ If you want to boast about having no farming
+ match, you must first defeat me!"
+#
+<name "Dark Shadow" "!BC0096">
+"Nnnrgh!"
+#
+<name "Knowing Citizen" "!JA0059">
+"A-A fight... A fight's about to start!
+ This is going to be incredible!"
+#
+<name "Hoeing Citizen" "!GB0169">
+"W-What's going to happen!?"
+#
+<name "Company Maid" "!PC0380" "ka34d000.agf">
+"It doesn't matter.
+ Come on, quit playing around.
+ Get to work."
+#
+<exit>
+:4EB0
+<music 11>
+<background "ev072b00.agf" 10>
+<name "Dark Shadow" "!BC0097">
+"If you're making a field, let us help."
+#
+<name "Knowing Citizen" "!JA0060">
+"Ooh!
+ It's him!"
+#
+<name "Hoeing Citizen" "!GB0170">
+"Dark Shadow of the golden field."
+#
+<name "Hansble Beagle" "!UA0088">
+"It is my duty to love all fields."
+#
+<name "Knowing Citizen" "!JA0061">
+"And him too!"
+#
+<name "Hoeing Citizen" "!GB0171">
+"Hansble Beagle of the double reaping."
+#
+<name "Knowing Citizen" "!JA0062">
+"The two have met!
+ Now what's going to happen!?"
+#
+<name "Company Maid" "!PC0381" "ka34d000.agf">
+"We're going to make a field."
+#
+<name "Knowing Citizen" "!JA0063">
+"O-Oh, yeah."
+#
+<name "Company Maid" "!PC0382" "ka34d000.agf">
+"If you want to help, we have work clothes you
+ can borrow.
+ They're over there."
+#
+<name "Dark Shadow" "!BC0098">
+"Ah, I have my own work clothes."
+#
+<name "Hansble Beagle" "!UA0089">
+"Me too."
+#
+<name "Company Maid" "!PC0383" "ka34d000.agf">
+"Then I'll assign jobs.
+ Please work hard."
+#
+<name "Dark Shadow" "!BC0099">
+"Yeeep."
+#
+<exit>
+:52D9
+<music 11>
+<background "ev072b00.agf" 10>
+<name "Dark Shadow" "!BC0100">
+"I heard they were making a field, so I came."
+#
+<name "Hansble Beagle" "!UA0090">
+"Dark... Shadow?
+ I knew you'd be here!"
+#
+<name "Company Maid" "!DC0280" "ka34d000.agf">
+"Who're they?"
+#
+<name "Knowing Maid" "!PC0384" "ka34e000.agf">
+"Volunteers specializing in farm work."
+#
+<exit>
+:5455
+<music 11>
+<background "ev072b00.agf" 10>
+<name "Dark Shadow" "!BC0101">
+"I'm gonna make a field!"
+#
+<name "Company Maid" "!PC0385" "ka34d000.agf">
+"Okay, good luck."
+#
+<exit>
+:550E
+<music 11>
+<background "ev072b00.agf" 10>
+<name "Hansble Beagle" "!UA0091">
+"The field is calling to me!"
+#
+<name "Company Maid" "!PC0386" "ka34d000.agf">
+"Okay.
+ Please and thank you."
+#
+<exit>
+:55CD
+<music 11>
+<background "bg013a0.agf" 10>
+<name "Carpenter" "!ZE0114">
+"For building a ranch, isn't that just putting
+ down fences?"
+#
+<name "Chief Carpenter" "!ZG0080">
+"There's also a barn and other things.
+ It's not an easy job."
+#
+<name "Carpenter" "!ZE0115">
+"Okaaay."
+#
+<exit>
+:56CA
+<music 11>
+<background "bg013a0.agf" 10>
+<name "Carpenter" "!ZE0116">
+"The barn's finished.
+ What about the livestock?"
+#
+<name "Chief Carpenter" "!ZG0081">
+"Do you think carpenters make cows and sheep?"
+#
+<name "Carpenter" "!ZE0117">
+"Hahaha.
+ You buy them, right?"
+#
+<name "Chief Carpenter" "!ZG0082">
+"That's not our job, so don't worry about it.
+ Instead, we should check the fences one more
+ time.
+ Make sure the animals won't get hurt."
+#
+<name "Carpenter" "!ZE0118">
+"Roger."
+#
+<exit>
+:5890
+<music 11>
+<background "bg013a0.agf" 10>
+<name "Girl Citizen" "!SB0217">
+"Will there be a ranch here?"
+#
+<name "Father Citizen" "!ZD0078">
+"Looks like it."
+#
+<name "Girl Citizen" "!SB0218">
+"Can I see stuff like horses?"
+#
+<name "Father Citizen" "!ZD0079">
+"Hahaha...
+ I hope so."
+#
+...
+#
+<name "Rancher" "!JA0066">
+"A-Are we buying horses?
+ They're not on the list."
+#
+<name "Ranch Boss" "!ZF0077">
+"I-I'll think about it."
+#
+<exit>
+:5A43
+<music 11>
+<background "bg013a0.agf" 10>
+<name "Carpenter" "!ZE0119">
+"Saplings here, and here..."
+#
+<name "Orchard Citizen" "!BC0114">
+"Oh, a little closer together, please."
+#
+<name "Carpenter" "!ZE0120">
+"Are you sure?
+ You're not supposed to pack them too tightly,
+ right?"
+#
+<name "Orchard Citizen" "!BC0115">
+"In my experience, when this kind is a little
+ closer together, they grow more fruit."
+#
+<name "Carpenter" "!ZE0121">
+"Oh?"
+#
+<exit>
+:5BE9
+<music 11>
+<background "bg013a0.agf" 10>
+<name "Excited Citizen" "!BC0116">
+"I'm gonna make this into a splendid orchard!"
+#
+<name "Orchard Citizen" "!KB0197">
+"I like the enthusiasm, but this is my land.
+ The land you bought is over there."
+#
+<name "Excited Citizen" "!BC0117">
+"E-Excuse me."
+#
+<exit>
+:5D08
+<music 4>
+<background "bg009a0.agf" 10>
+<sprite "ta34a000.agf" 4 4 11>
+<name "Company Maid" "!PC0389">
+"You're interested in running an orchard?
+ Let me explain some things."
+#
+<name "Interested Citizen" "!JA0068">
+"If I can ask right off, do I have to sell
+ the products myself?"
+#
+<name "Company Maid" "!PC0390">
+"Don't worry, we buy from unions and the city.
+ Of course, you can also sell personally."
+#
+<name "Interested Citizen" "!JA0069">
+"I see.
+ And if there's a bad harvest..."
+#
+<name "Company Maid" "!PC0391">
+"Yes, we have plans, such as lending, in the
+ case of bad harvests."
+#
+<removesprite -1 11>
+<music 3>
+<background "bg010a0.agf" 10>
+<name "Darx">
+"Making an orchard isn't enough.
+ You also need to find people to run it."
+#
+<exit>
+:5FDA
+<music 10>
+<background "ev002a00.agf" 10>
+<name "Carpenter" "!ZE0122">
+"Is a mine something that a carpenter builds?"
+#
+<name "Chief Carpenter" "!ZG0083">
+"There's assorted things to do, such as 
+ installing machines.
+ Come on, get moving."
+#
+<name "Carpenter" "!ZE0123">
+"Yeeeah."
+#
+<exit>
+:60D7
+<music 10>
+<background "ev002a00.agf" 10>
+<name "Sofia" "!ZB0886">
+"Let me help!"
+#
+<name "Carpenter" "!ZE0124">
+"You're excited."
+#
+<name "Chief Carpenter" "!ZG0084">
+"Quit admiring and get moving.
+ Don't let her outperform you."
+#
+<name "Carpenter" "!ZE0125">
+"Y-Yeah."
+#
+<exit>
+:61F0
+<music 10>
+<background "ev002a00.agf" 10>
+<name "Carpenter" "!ZE0126">
+"A depot is... just storage, right?"
+#
+<name "Chief Carpenter" "!ZG0085">
+"That's right."
+#
+<name "Carpenter" "!ZE0127">
+"It's not a very interesting building, is it?"
+#
+<name "Chief Carpenter" "!ZG0086">
+"It's job.
+ Let's make it quickly."
+#
+<name "Carpenter" "!ZE0128">
+"Yeeep."
+#
+<exit>
+:634B
+<music 11>
+<background "bg013a0.agf" 10>
+<sprite "ta34a000.agf" 4 4 11>
+<name "Company Maid" "!AC0248">
+"So this is a depot?
+ It doesn't seem so bad."
+#
+<name "Darx">
+"It's good to hear that."
+#
+<removesprite -1 11>
+<exit>
+:6431
+<music 10>
+<background "ev002a00.agf" 10>
+<name "Carpenter" "!ZE0129">
+"Build a workshop!"
+#
+<name "Carpenter" "!ZE0130">
+"Uh, a workshop?
+ How do we make that?"
+#
+<name "Chief Carpenter" "!ZG0087">
+"It's a place for making things.
+ So first, make a box.
+ And then customize it depending on what the
+ people who'll be using it say."
+#
+<name "Carpenter" "!ZE0131">
+"Roger that."
+#
+<exit>
+:659A
+<music 10>
+<background "ev002a00.agf" 10>
+<name "Strolling Citizen" "!GB0172">
+"So they're building a workshop here."
+#
+<name "Delivering Citizen" "!CB0104">
+"Yeah.
+ Furniture, ironware, pottery, clothing...
+ All kinds of things are planned."
+#
+<name "Strolling Citizen" "!GB0173">
+"I'm looking forward to it."
+#
+<name "Delivering Citizen" "!CB0105">
+"Yeah."
+#
+<exit>
+:66DA
+<music 10>
+<background "ev002a00.agf" 10>
+<name "Carpenter" "!ZE0132">
+"A research tower...
+ Why a tower?"
+#
+<name "Chief Carpenter" "!ZG0091">
+"There are some who say research has to be
+ done in a tower."
+#
+<name "Carpenter" "!ZE0133">
+"There are?"
+#
+<name "Chief Carpenter" "!ZG0092">
+"Yeah.
+ I don't understand it, but it's a job, so put
+ it behind you."
+#
+<name "Carpenter" "!ZE0134">
+"You really are mature."
+#
+<name "Chief Carpenter" "!ZG0093">
+"Hahaha.
+ Come on, let's build it!"
+#
+<name "Carpenter" "!ZE0135">
+"Yeah!"
+#
+<exit>
+:68D6
+<music 10>
+<background "ev002a00.agf" 10>
+<name "Carpenter" "!ZE0136">
+"It's bad if the tower is too tall?"
+#
+<name "Chief Carpenter" "!ZG0094">
+"It can't overshadow the Overlord's Retreat."
+#
+<name "Carpenter" "!ZE0137">
+"Ah, I see."
+#
+<exit>
+:69C4
+<music 10>
+<background "ev002a00.agf" 10>
+<name "Expectant Citizen" "!KB0200">
+"A store?
+ I'm looking forward to that."
+#
+<name "Pleased Citizen" "!RB0164">
+"I'm happy because it'll make going shopping
+ easier."
+#
+<name "Expectant Citizen" "!KB0201">
+"Yeah."
+#
+<exit>
+:6AA2
+<music 10>
+<background "ev002a00.agf" 10>
+<name "Expectant Citizen" "!LB0159">
+"A store...
+ It's going to be busy."
+#
+<name "Pleased Citizen" "!CB0106">
+"Yeah.
+ I'm looking forward to when it opens."
+#
+<exit>
+:6B51
+<music 4>
+<background "bg009a0.agf" 10>
+<sprite "ta34a000.agf" 4 4 11>
+<name "Company Maid" "!AC0345">
+"Let this and this go to the new shop.
+ The Overlord's Retreat won't stock them 
+ anymore."
+#
+<removesprite -1 11>
+<sprite "ta01a004.agf" 2 5 11>
+<sprite "ta34a000.agf" 6 4 11>
+<name "Sofia" "!ZB0894">
+"Okay.
+ I'll tell the store.
+ Oh, but pull the supply back gradually."
+#
+<sprite "ta01a027.agf" 2 5 12>
+<name "Sofia" "!ZB0895">
+"If the other store goes under, that way the
+ damage to the city will be minimalized."
+#
+<name "Company Maid" "!AC0318">
+"Understood."
+#
+<removesprite -1 11>
+<exit>
+:6DB9
+<music 10>
+<background "ev002a00.agf" 10>
+<name "Carpenter" "!ZE0146">
+"Chief, what exactly is an entertainment
+ center?"
+#
+<name "Chief Carpenter" "!ZG0095">
+"Uhh, a place where you can pass the time in
+ various ways.
+ I guess the usual is... a casino?"
+#
+<name "Carpenter" "!ZE0147">
+"Oooh!
+ That sounds fun."
+#
+<name "Chief Carpenter" "!ZG0096">
+"Yeah.
+ Okay, let's go all out!"
+#
+<name "Carpenter" "!ZE0148">
+"Yeah!"
+#
+<exit>
+:6F3A
+<music 10>
+<background "ev002a00.agf" 10>
+<name "Expectant Citizen" "!UA0120">
+"An entertainment center..."
+#
+<name "Expectant Citizen" "!UA0121">
+"A casino, theater, playground... 
+ Sounds fun."
+#
+<name "Carpenter" "!ZE0149">
+"I understand you're excited, but please don't
+ hang around here.
+ You're getting in the way."
+#
+<exit>
+:704F
+<music 10>
+<background "ev002a00.agf" 10>
+<name "Carpenter" "!ZE0150">
+"A red light district?"
+#
+<name "Carpenter" "!ZE0151">
+"I'll do my very best, Chief!"
+#
+<name "Chief Carpenter" "!ZG0098">
+"I appreciate the enthusiasm, but I want you
+ to do your best no matter what we're
+ building."
+#
+<name "Carpenter" "!ZE0152">
+"Hahahahaha!
+ This just makes the motivation gush forth!"
+#
+<exit>
+:71A7
+<music 10>
+<background "ev002a00.agf" 10>
+<name "Darx">
+"You're not embarrassed at all about building
+ a red light district?"
+#
+<name "Sofia" "!ZB0903">
+"You're bringing this up now?
+ Thanks to being around you, I've built up my
+ tolerance."
+#
+<name "Darx">
+"I see."
+#
+<exit>
+:7299
+<music 10>
+<background "ev002a00.agf" 10>
+<name "Scouting Citizen" "!ZF0115">
+"This is..."
+#
+<name "Investigating Citizen" "!ZD0111">
+"Yeah."
+#
+<name "Investigating Citizen" "!ZD0112">
+"The information is..."
+#
+<name "Scouting Citizen" "!ZF0116">
+"Got it.
+ I'll pass it to my comrades."
+#
+<name "Investigating Citizen" "!ZD0113">
+"Good.
+ I'm counting on you."
+#
+...
+#
+<name "Visiting Citizen" "!GB0192">
+"What was that?
+ Who were they?"
+#
+<name "Knowing Citizen" "!UA0128">
+"They're fans of sex stores.
+ Don't look at me like that."
+#
+<exit>
+:748D
+<music 4>
+<background "bg009a0.agf" 10>
+<name "Darx">
+"Thanks for giving me the information about
+ that sex shop, but I'm the one who ordered
+ it built."
+#
+<name "Friendly Citizen" "!ZF0117">
+"I-I see!
+ I never realized!"
+#
+<name "Darx">
+"By the way, here's a coupon to celebrate the
+ opening."
+#
+<name "Friendly Citizen" "!ZF0118">
+"You have my eternal loyalty."
+#
+<name "Darx">
+"Better remember that loyalty if there are
+ any women among our enemies."
+#
+<name "Friendly Citizen" "!ZF0119">
+"Hahaha..."
+#
+<exit>
+:764D
+<music 4>
+<background "bg009a0.agf" 10>
+<sprite "ta01a004.agf" 4 4 11>
+<name "Sofia" "!ZB0904">
+"Building a stadium makes it possible to 
+ provide entertainment.
+ And when you think about the profit we can
+ make from competitions and events there..."
+#
+<sprite "ta01a025.agf" 4 4 12>
+<name "Sofia" "!ZB0905">
+"Ka-ching?"
+#
+<removesprite -1 11>
+<sprite "ta01a025.agf" 2 5 11>
+<sprite "ta34a002.agf" 6 4 11>
+<name "Company Maid" "!AC0348">
+"Yeah."
+#
+<sprite "ta01a033.agf" 2 5 12>
+<name "Sofia" "!ZB0906">
+"If it's ka-ching, then go!
+ Build it without delay!"
+#
+<sprite "ta34a000.agf" 6 4 12>
+<name "Company Maid" "!AC0349">
+"Yes, ma'am."
+#
+<removesprite -1 11>
+<exit>
+:7922
+<music 4>
+<background "bg009a0.agf" 10>
+<sprite "ta34b006.agf" 4 4 11>
+<name "Doubtful Maid" "!DC0315">
+"What are they going to do after building so
+ many stadiums?"
+#
+<removesprite -1 11>
+<sprite "ta34a000.agf" 2 4 11>
+<sprite "ta34b006.agf" 6 5 11>
+<name "Company Maid" "!AC0350">
+"This is the Overlord's idea.
+ We shouldn't question it."
+#
+<sprite "ta34b001.agf" 6 5 12>
+<name "Doubtful Maid" "!DC0316">
+"O-Okay."
+#
+<removesprite -1 11>
+<exit>
+:7B10
+<music 10>
+<background "ev002a00.agf" 10>
+<name "Chief Carpenter" "!ZG0101">
+"Let's make a pool."
+#
+<name "Carpenter" "!ZE0153">
+"A pool?"
+#
+<name "Chief Carpenter" "!ZG0102">
+"A pool."
+#
+<name "Carpenter" "!ZE0154">
+"Okay."
+#
+<name "Chief Carpenter" "!ZG0103">
+"Oh?
+ I thought there'd be some weird mood...
+ This time it's totally straight."
+#
+<name "Carpenter" "!ZE0155">
+"I can't be a kid forever."
+#
+<name "Carpenter" "!ZE0156">
+"Let's make the pool the best we can."
+#
+<name "Chief Carpenter" "!ZG0104">
+"Y-Yeah."
+#
+<name "Carpenter" "!ZE0157">
+"So, can I make a room for me in the women's
+ changing room?"
+#
+<name "Chief Carpenter" "!ZG0105">
+"Do you think I'd be okay with that?"
+#
+The pool was constructed.
+#
+<exit>
+:7DF9
+<music 10>
+<background "ev002a00.agf" 10>
+<name "Visiting Citizen" "!MB0089">
+"What are you making, Mr. Carpenter?"
+#
+<name "Carpenter" "!ZE0158">
+"A pool."
+#
+<name "Visiting Citizen" "!MB0090">
+"A pool?
+ Somewhere to swim?"
+#
+<name "Carpenter" "!ZE0159">
+"Yeah. It should be done soon.
+ Look forward to it."
+#
+<name "Visiting Citizen" "!MB0091">
+"O-Okay.
+ Good luck."
+#
+<exit>
+:7F97
+<music 10>
+<background "ev002a00.agf" 10>
+<name "Carpenter" "!ZE0160">
+"What's going to be built here?"
+#
+<name "Chief Carpenter" "!ZG0106">
+"A place to make liquor."
+#
+<name "Carpenter" "!ZE0161">
+"Oh?"
+#
+<name "Chief Carpenter" "!ZG0107">
+"I'm getting all kinds of detailed instructions
+ from the people who are going to work here.
+ We better not cut any corners."
+#
+<name "Carpenter" "!ZE0162">
+"I won't."
+#
+<exit>
+:810B
+<music 10>
+<background "ev002a00.agf" 10>
+<name "Carpenter" "!ZH0098">
+"A public bath."
+#
+<name "Interior Worker" "!MB0113">
+"That sounds nice."
+#
+<name "Carpenter" "!ZH0099">
+"Yeah.
+ Something overflowing with romance."
+#
+<name "Placid Worker" "!LB0160">
+"That's a nice smile, but make sure you 
+ separate the men and women's sides.
+ It's not mixed bathing."
+#
+<name "Thinking Worker" "!GB0196">
+"Couldn't you have waited until it was finished
+ before saying that?
+ Look how crestfallen he is now."
+#
+<exit>
+:82D3
+<music 10>
+<background "ev002a00.agf" 10>
+<name "Carpenter" "!ZE0165">
+"A bath.♪
+ A bath.♪"
+#
+<name "Serious Worker" "!LB0161">
+"You look hard at work."
+#
+<name "Carpenter" "!ZE0166">
+"Yo."
+#
+<name "Serious Worker" "!LB0162">
+"Keep it up just like that."
+#
+<name "Carpenter" "!ZE0167">
+"Leave it to me."
+#
+<name "Serious Worker" "!LB0163">
+"You sound confident, but...
+ There's a hole in that wall you just built.
+ Make sure it's closed up right.
+ You can thank me later."
+#
+<name "Carpenter" "!ZE0168">
+"Huh?"
+#
+<name "Serious Worker" "!LB0164">
+"It does seem to be a perfectly round hole,
+ but I'm sure it certainly wasn't a peephole,
+ was it?"
+#
+<name "Carpenter" "!ZE0169">
+"Huh? Oh, y-yeah.
+ Of course not."
+#
+<name "Serious Worker" "!LB0165">
+"So I expect your thanks." 
+#
+<name "Carpenter" "!ZE0170">
+"...I-I understand."
+#
+<exit>
+:861B
+<music 10>
+<background "ev002a00.agf" 10>
+<name "Sofia" "!ZB0907">
+"Can you build a hot spring?"
+#
+<name "Carpenter" "!JA0120">
+"I wish I could dig up hot water, but that's
+ not possible around here.
+ The underground is all dungeons.
+ Hot water has to be magically transported."
+#
+<name "Carpenter" "!JA0122">
+"What we can build are the facilities around
+ it like changing rooms."
+#
+<name "Sofia" "!ZB0908">
+"I see."
+#
+<name "Carpenter" "!JA0123">
+"Tell me if you notice anything from a woman's
+ perspective."
+#
+<name "Sofia" "!ZB0909">
+"Okay, but..."
+#
+<name "Carpenter" "!JA0124">
+"Is something the matter?"
+#
+<name "Sofia" "!ZB0910">
+"Isn't that building huge for a changing
+ room?"
+#
+<name "Carpenter" "!JA0125">
+"That's for lodging."
+#
+<name "Sofia" "!ZB0911">
+"Uh..."
+#
+<name "Carpenter" "!JA0126">
+"Yeah, you don't need to tell me.
+ Who would want to stay somewhere that's
+ already within walking distance?"
+#
+<name "Carpenter" "!JA0127">
+"Anyway, don't worry about it."
+#
+<name "Sofia" "!ZB0912">
+"Why not?"
+#
+<name "Carpenter" "!JA0128">
+"It's orders from the Gunguskar main branch."
+#
+<name "Sofia" "!ZB0913">
+"Because of harassment?"
+#
+<name "Carpenter" "!JA0129">
+"I don't think the company is dumb enough to
+ let people spend money for that.
+ If they wanted to do that, they'd come up
+ with a much more subtle scheme."
+#
+<name "Sofia" "!ZB0914">
+"T-That's true."
+#
+<name "Carpenter" "!JA0130">
+"Don't worry.
+ I'm sure there's some reason we can't even
+ think of."
+#
+<name "Sofia" "!ZB0915">
+"Yeah."
+#
+<name "Carpenter" "!JA0131">
+"Well, maybe they just want somewhere to stay
+ when they come visit."
+#
+<name "Sofia" "!ZB0916">
+"Hahaha...
+ Maybe."
+#
+<exit>
+:8C5F
+<music 10>
+<background "ev002a00.agf" 10>
+<name "Chief Carpenter" "!ZG0111">
+"Let's build a hot springs!"
+#
+<name "Carpenter" "!ZE0173">
+"Yeah!"
+#
+<name "Chief Carpenter" "!ZG0112">
+"We can be the first ones in once it's
+ finished!
+ Let's work hard!"
+#
+<name "Carpenter" "!ZE0174">
+"Yeah!"
+#
+<exit>
+:8D78
+<music 10>
+<background "ev002a00.agf" 10>
+<name "Carpenter" "!ZE0175">
+"A park?
+ Isn't that just taking an open space and
+ putting up some playground equipment?"
+#
+<name "Chief Carpenter" "!ZG0113">
+"Well, there are parks like that, but since
+ we're making it, let's make it a real park."
+#
+<name "Chief Carpenter" "!ZG0114">
+"Consider traffic flow of the people who will
+ come here and design around that."
+#
+<name "Chief Carpenter" "!ZG0115">
+"That sounds like a lot of work."
+#
+<name "Carpenter" "!ZE0176">
+"L-Let's do our best."
+#
+<exit>
+:8F34
+<music 10>
+<background "ev002a00.agf" 10>
+<name "Company Maid" "!DC0330">
+"The order was for a park, right?"
+#
+<name "Chief Carpenter" "!ZG0116">
+"Yeah."
+#
+<name "Company Maid" "!DC0331">
+"So what's that big castle?"
+#
+<name "Chief Carpenter" "!ZG0117">
+"My hands did it on their own..."
+#
+<name "Company Maid" "!DC0332">
+"Please demolish it."
+#
+<name "Chief Carpenter" "!ZG0118">
+"U-Understood."
+#
+<exit>
+:909E
+<music 10>
+<background "ev002a00.agf" 10>
+<name "Pondering Citizen" "!ZF0132">
+"School dorms?
+ So a place to live for the students going to
+ school?"
+#
+<name "Delivering Citizen" "!ZH0112">
+"I guess that's what it would normally be."
+#
+<name "Pondering Citizen" "!ZF0133">
+"I couldn't live there though?"
+#
+<name "Delivering Citizen" "!ZH0113">
+"Only if you go to school."
+#
+<name "Pondering Citizen" "!ZF0134">
+"Aww.
+ I don't want to study."
+#
+<exit>
+:9219
+<music 10>
+<background "ev002a00.agf" 10>
+<name "Carpenter" "!ZE0206">
+"Instead of making a really nice dorm, why not
+ do the minimum and let everybody else finish
+ things up?"
+#
+<name "Chief Carpenter" "!ZG0123">
+"Are you suggesting cutting corners?"
+#
+<name "Carpenter" "!ZE0207">
+"I would absolutely never say that."
+#
+<name "Carpenter" "!ZE0208">
+"Let's make a dorm that people will want to
+ live in for their entire lives."
+#
+<name "Chief Carpenter" "!ZG0124">
+"Yeah."
+#
+<exit>
+:93CB
+<music 10>
+<background "ev002a00.agf" 10>
+<name "Carpenter" "!CB0159">
+"More dorms means more students."
+#
+<name "Interior Worker" "!KB0207">
+"The more students, the livelier the city
+ gets."
+#
+<name "Carpenter" "!CB0160">
+"How nice."
+#
+<exit>
+:94B3
+<music 10>
+<background "ev002a00.agf" 10>
+<name "Interior Worker" "!KB0208">
+"Isn't this too many dorms?"
+#
+<name "Carpenter" "!CB0161">
+"It's like a school city."
+#
+<name "Interior Worker" "!KB0209">
+"What's the Overlord thinking?"
+#
+<exit>
+:95AB
+<music 11>
+<background "bg013a0.agf" 10>
+<name "Chief Carpenter" "!ZG0125">
+"There's nothing we can't make!"
+#
+<name "Carpenter" "!ZE0209">
+"That's right!"
+#
+<name "Chief Carpenter" "!ZG0126">
+"But... telling us to make a forest..."
+#
+<name "Carpenter" "!ZE0210">
+"That's too ridiculous."
+#
+<name "Chief Carpenter" "!ZG0127">
+"But there's nothing we can't make!"
+#
+<name "Carpenter" "!ZE0211">
+"That's right!"
+#
+<name "Chief Carpenter" "!ZG0128">
+"Anyway, let's think about what to do."
+#
+<name "Carpenter" "!ZE0212">
+"Yeeep."
+#
+<exit>
+:9799
+<music 10>
+<background "bg012a0.agf" 10>
+<name "Carpenter" "!CB0162">
+"I'm getting used to building forests."
+#
+<name "Focused Worker" "!KB0213">
+"Yeah. Heheheh... 
+ You're making it feel like you were never
+ here at all.
+ It's beautiful."
+#
+<name "Carpenter" "!CB0163">
+"...In moderation."
+#
+<exit>
+:98A3
+<music 10>
+<background "bg012a0.agf" 10>
+<name "Carpenter" "!CB0164">
+"What are we going to do with all these forests
+ we're making?"
+#
+<name "Uncaring Worker" "!KB0214">
+"The Overlord has deep thoughts known only to
+ him.
+ Definitely.
+ Probably."
+#
+<exit>
+:998D
+<music 11>
+<background "bg013a0.agf" 10>
+<name "Chief Carpenter" "!ZG0129">
+"A pond?"
+#
+<name "Carpenter" "!ZE0213">
+"Just dig a hole and put water in it...
+ Or does that not work?"
+#
+<name "Chief Carpenter" "!ZG0130">
+"I feel like we could do that, but..."
+#
+<name "Carpenter" "!ZE0214">
+"Let's try some different things as we go."
+#
+<name "Chief Carpenter" "!ZG0131">
+"Yeah."
+#
+<exit>
+:9AF4
+<music 11>
+<background "bg013a0.agf" 10>
+<name "Excited Citizen" "!ZD0129">
+"They're building a pond?
+ That'll be nice."
+#
+<name "Expectant Citizen" "!UA0143">
+"I don't think you'll be allowed to swim in
+ it."
+#
+<name "Excited Citizen" "!ZD0130">
+"Eeh?"
+#
+<exit>
+:9BCF
+<music 11>
+<background "bg013a0.agf" 10>
+<name "Carpenter" "!ZE0215">
+"It's depressing not building anything."
+#
+<name "Chief Carpenter" "!ZG0132">
+"We can get ready to build something.
+ There's always work to do."
+#
+<name "Carpenter" "!ZE0216">
+"Yeah."
+#
+<exit>
+:9CBA
+<music 11>
+<background "bg013a0.agf" 10>
+<name "Chief Carpenter" "!ZG0133">
+"I also love landscaping!"
+#
+<name "Carpenter" "!ZE0217">
+"W-Wow!
+ It's natural ground, so being flat is what's
+ unnatural!"
+#
+<name "Chief Carpenter" "!ZG0134">
+"When things are too well laid out, it feels
+ weird!"
+#
+<exit>
+:9DC1
+<music 11>
+<background "bg013a0.agf" 10>
+<name "Carpenter" "!ZE0218">
+"I love landscaping!"
+#
+<name "Carpenter" "!ZE0219">
+"There's a lot of roughness around here..."
+#
+<name "Chief Carpenter" "!ZG0135">
+"Don't do anything you don't need to!"
+#
+<exit>
+:9E9B
+<music 10>
+<background "ev002a00.agf" 10>
+<name "Chief Carpenter" "!ZG0136">
+"Come on! Hurry up!
+ Don't slack off!"
+#
+<name "Carpenter" "!ZE0224">
+"Yeah!"
+#
+<name "Thinking Worker" "!JA0139">
+"By the way, Chief!"
+#
+<name "Chief Carpenter" "!ZG0137">
+"What is it?"
+#
+<name "Thinking Worker" "!JA0140">
+"Why are we making this?"
+#
+<name "Chief Carpenter" "!ZG0138">
+"...If you're still not awake, go splash some
+ water on your face!"
+#
+<name "Thinking Worker" "!JA0141">
+"No, um, Chief.
+ This, this, and this...
+ See, they're all different buildings."
+#
+<name "Chief Carpenter" "!ZG0139">
+"...Huh?"
+#
+<name "Thinking Worker" "!JA0142">
+"Right?"
+#
+<name "Chief Carpenter" "!ZG0140">
+"Stop working!
+ Everyone, wake up!"
+#
+<name "Chief Carpenter" "!ZG0141">
+"And then we're starting over!"
+#
+<name "Thinking Worker" "!JA0143">
+"Y-Yeah!"
+#
+<exit>
+:A1B6
+<music 10>
+<background "ev002a00.agf" 10>
+<name "Chief Carpenter" "!ZG0142">
+"Hey, missy.
+ You're working hard."
+#
+<name "Carpenter" "!ZE0225">
+"But are you sure about this?
+ Don't you have a hard job dealing with 
+ politics and stuff?"
+#
+<name "Sofia" "!ZB0930">
+"Work here is important too.
+ Oh, if I'm getting in the way, please be
+ sure to tell me."
+#
+<name "Chief Carpenter" "!ZG0143">
+"Hahaha!
+ If you get in the way, I'll kick you out
+ without a second thought."
+#
+<name "Carpenter" "!ZE0226">
+"It's a menial job, so the help's welcome.
+ But don't overdo it."
+#
+<name "Sofia" "!ZB0931">
+"Yeeep."
+#
+<exit>
+:A3F2
+<music 10>
+<background "ev002a00.agf" 10>
+<name "Sofia" "!ZB0932">
+"Let's build this!"
+#
+<name "Carpenter" "!ZE0227">
+"Yeah!"
+#
+<name "Chief Carpenter" "!ZG0144">
+"But I'm the Chief here."
+#
+<exit>
+:A4BA
+<music 10>
+<background "ev002a00.agf" 10>
+<name "Carpenter" "!ZE0228">
+"Chief, where's the blueprints for this place?"
+#
+<name "Chief Carpenter" "!ZG0145">
+"There aren't any.
+ It's in my head."
+#
+<name "Carpenter" "!ZE0229">
+"Eeh?"
+#
+<name "Chief Carpenter" "!ZG0146">
+"Don't worry.
+ Look, most of the others are working fine."
+#
+<name "Carpenter" "!ZE0230">
+"Whoa. You're right..."
+#
+<name "Chief Carpenter" "!ZG0147">
+"Now that you get it, get moving."
+#
+<name "Carpenter" "!ZE0231">
+"B-But, I..."
+#
+<name "Chief Carpenter" "!ZG0148">
+"Don't worry.
+ It's inside you.
+ Remember your training."
+#
+<name "Carpenter" "!ZE0232">
+"I-I'll do my best."
+#
+<exit>
+:A747
+<music 10>
+<background "ev002a00.agf" 10>
+<name "Chief Carpenter" "!ZG0149">
+"Okay, what are we building this time?"
+#
+<name "Carpenter" "!ZE0233">
+"We'll build it, no matter what it is."
+#
+<exit>
+:A7FB
+<music 10>
+<background "ev002a00.agf" 10>
+<name "Chief Carpenter" "!ZG0150">
+"It's sturdier than it looks!"
+#
+<name "Carpenter" "!ZE0234">
+"Yeah!"
+#
+<exit>
+:A88F
+<music 10>
+<background "ev002a00.agf" 10>
+<name "Chief Carpenter" "!ZG0151">
+"Hey, kid.
+ Looking around?"
+#
+<name "Visiting Citizen" "!UA0147">
+"Yeah."
+#
+<name "Chief Carpenter" "!ZG0152">
+"You can look all you want, but there's not
+ much fun here."
+#
+<name "Visiting Citizen" "!UA0148">
+"That's not true.
+ It's fun watching a building get built."
+#
+<name "Chief Carpenter" "!ZG0153">
+"I see, I see.
+ It's great you understand that."
+#
+<name "Visiting Citizen" "!UA0149">
+"Hahaha..."
+#
+<name "Chief Carpenter" "!ZG0154">
+"But it's more fun to do it yourself than to
+ just watch..."
+#
+<name "Visiting Citizen" "!UA0150">
+"Maybe, but..."
+#
+<name "Chief Carpenter" "!ZG0155">
+"Heheheh.
+ Wanna try?
+ Oh, I won't let you handle these tools since
+ that would be dangerous."
+#
+<name "Visiting Citizen" "!UA0151">
+"I'll help out."
+#
+<name "Chief Carpenter" "!ZG0156">
+"I see, I see.
+ Okay, come this way."
+#
+...
+#
+<name "Sofia" "!ZB0933">
+"He's a good boss."
+#
+<name "Carpenter" "!ZE0235">
+"Yeah, I'll admit that."
+#
+<name "Sofia" "!ZB0934">
+"It sounds like there might be a problem?"
+#
+<name "Carpenter" "!ZE0236">
+"That's also how I got dragged into the life of
+ a carpenter."
+#
+<name "Sofia" "!ZB0935">
+"Hahaha..."
+#
+<exit>
+:AD23
+<music 10>
+<background "ev002a00.agf" 10>
+<name "Darx">
+"How are things going?"
+#
+<name "Carpenter" "!ZE0237">
+"Ah, Overlord."
+#
+<name "Chief Carpenter" "!ZG0157">
+"Everything's going well."
+#
+<name "Sofia" "!ZB0936">
+"Are you going to help too?"
+#
+<name "Darx">
+"Okay, just a little.
+ Tell me if I'm getting in the way."
+#
+<name "Chief Carpenter" "!ZG0158">
+"Hahaha.
+ Don't worry.
+ There's a lot of different things that need
+ to be done. You won't be in the way."
+#
+<name "Darx">
+"G-Go easy on me."
+#
+It takes a surprising amount of focus to get
+gravel just right.
+#
+<exit>
+\x78

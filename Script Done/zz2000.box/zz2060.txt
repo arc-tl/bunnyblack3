@@ -1,0 +1,54 @@
+﻿<music 3>
+<background "bg010a0.agf" 10>
+<name "Darx">
+"Hibi? Are you doing okay?"
+#
+<name "Hibi" "!DB0028" "ka23a000.agf">
+"I guess... more or less..."
+#
+<name "Darx">
+"Are you getting used to living in the city?"
+#
+<name "Hibi" "!DB0029" "ka23a001.agf">
+"Yes..."
+#
+The people who were following her also moved
+to the city thanks to her.
+#
+She was apparently very convincing, and nobody
+resisted.
+#
+<name "Darx">
+"I see.
+ Well, if there are any problems, let me know."
+#
+<name "Hibi" "!DB0030" "ka23a000.agf">
+"Then..."
+#
+<name "Darx">
+"Hm?"
+#
+<name "Hibi" "!DB0031" "ka23a001.agf">
+"Um..."
+#
+I can guess what she's after.
+#
+<name "Darx">
+"Front or back?"
+#
+<name "Hibi" "!DB0032" "ka23a100.agf">
+"...B-Back."
+#
+<name "Darx">
+"Got it.
+ Both."
+#
+<name "Hibi" "!DB0033" "ka23a111.agf">
+"Huh? Ah...
+ T-That's not..."
+#
+I enjoy her body.
+#
+Hibi is one of us now.
+#
+\x78\x78

@@ -1,0 +1,146 @@
+﻿<music 17>
+<background "ev027a00.agf" 10>
+<name "Rualtei" "!RA0127">
+"Mmm...mmm...aahhh..."
+#
+I'm having sex with Rualtei in my room.
+#
+<name "Darx">
+"Hm? What's up?
+ You're not resisting much."
+#
+<name "Rualtei" "!RA0128">
+"...I-I lost... mmm... so the winner...
+ mmm... so what else can... aahh... I-I do..."
+#
+<name "Darx">
+"I see."
+#
+<name "Rualtei" "!RA0129">
+"Mm..."
+#
+<name "Darx">
+"How about we talk a little?"
+#
+<background "ev027a01.agf" 10>
+<name "Rualtei" "!RA0130">
+"Aah...ah... I-I don't want to.
+ J-Just...mmm... f-finish."
+#
+<name "Darx">
+"Don't be like that."
+#
+I move my hips in a rhythm, stirring her
+insides.
+#
+<name "Rualtei" "!RA0131">
+"Mmm...aah...ah...aah!"
+#
+<name "Darx">
+"How's living here been?"
+#
+<name "Rualtei" "!RA0132">
+"Aah...ah...ahh...mmmm...
+ I-It's whatever...
+ Mmm..."
+#
+<name "Darx">
+"If anything's bothering you, let me know."
+#
+<name "Rualtei" "!RA0133">
+"Aah...mmm... W-What bothers me is h-having
+ to... ah... d-do this...
+ Ah...aah...ahhh!"
+#
+<name "Darx">
+"You prefer more often?"
+#
+I move faster as I ask.
+#
+<name "Rualtei" "!RA0134">
+"L-Like hell...
+ Ahh! Ah! Aahh! Ah! Aah! Ah!"
+#
+<name "Darx">
+"I see.
+ So you want more."
+#
+<name "Rualtei" "!RA0135">
+"Aah! I-I didn't... ah...aah... s-say that!
+ Aaahh! Ah!"
+#
+<name "Darx">
+"But more isn't easy for me."
+#
+<name "Rualtei" "!RA0136">
+"I-I never... aah...aaah...ah...
+ T-That's not what I said!
+ Aah! Ah! Aaaah!
+ J-Just stop!"
+#
+<name "Darx">
+"If you want more, you'll have to show me how
+ cute you can be."
+#
+<name "Rualtei" "!RA0137">
+"Aah...aaah...mm...aaah..."
+#
+<name "Darx">
+"So, how cute are you?"
+#
+<name "Rualtei" "!RA0138">
+"Ah! Aah! Ah! Mmm! Mmm! Aaaaahhh!"
+#
+She looks up at me for a moment like she's
+begging. I can't help but kiss her.
+#
+<name "Rualtei" "!RA0139">
+"Mmm! Mmm! Mmmmmmmmm!"
+#
+Surprisingly, she reaches out with her tongue.
+#
+Our tongues embrace.
+#
+When I accept her gesture, she suddenly 
+trembles from head to toe as she climaxes.
+#
+<background "ev027a03.agf" 10>
+<name "Rualtei" "!RA0140">
+"Aaaahhhhhhhhh!!!!!"
+#
+I think she gushed too.
+Where we're connected is suddenly sticky.
+#
+She must've been close to coming for a while.
+#
+<name "Rualtei" "!RA0141">
+"Ah...aaah..."
+#
+I slowly start to come as she comes down from
+her orgasm.
+#
+<background "ev027a04.agf" 10>
+<name "Rualtei" "!RA0142">
+"Ah...aaah...ahhh..."
+#
+That was pretty fun.
+#
+Since I enjoyed myself so much, I kept her
+all night.
+#
+<background "bg017a0.agf" 10>
+<music 4>
+<background "bg009b0.agf" 10>
+<sprite "ta34a000.agf" 4 4 11>
+<name "Company Maid" "!PC0028">
+"Um?
+ Where's Rualtei?"
+#
+<name "Darx">
+"She's passed out in my bed."
+#
+<name "Company Maid" "!PC0029">
+"W-Well done."
+#
+<removesprite -1 11>
+\x2B\x78\x78

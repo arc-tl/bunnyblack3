@@ -1,0 +1,1705 @@
+﻿\x1A\x01\x0A\x46\x00\x31\x00\x36\x00\x30\x00\x31\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :2E: \x0A\x04\x06\x41\x84\x01\x16 :983: \x15 :982: 
+:2E
+\x1A\x01\x0A\x46\x00\x31\x00\x36\x00\x32\x00\x30\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :9A: \xF3 "L Housing"  0  0  0 \x22\x00\x00 0 \x1A\x01\x0A\x43\x00\x4C\x00\x30\x00\x30\x00\x30\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x31\x00 :9A: \x0A\x04\x06\x54\x84\x01\x16 :5B5D: \x15 :982: 
+:9A
+\x1A\x01\x0A\x46\x00\x31\x00\x36\x00\x32\x00\x31\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :106: \xF3 "L Housing"  0  0  0 \x22\x00\x00 0 \x1A\x01\x0A\x43\x00\x4C\x00\x30\x00\x30\x00\x30\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x33\x00 :106: \x0A\x04\x06\x55\x84\x01\x16 :5D3C: \x15 :982: 
+:106
+\x1A\x01\x0A\x46\x00\x31\x00\x36\x00\x32\x00\x32\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :172: \xF3 "L Housing"  0  0  0 \x22\x00\x00 0 \x1A\x01\x0A\x43\x00\x4C\x00\x30\x00\x30\x00\x30\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x35\x00 :172: \x0A\x04\x06\x56\x84\x01\x16 :5ED7: \x15 :982: 
+:172
+\x1A\x01\x0A\x46\x00\x31\x00\x36\x00\x32\x00\x33\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :1DE: \xF3 "L Housing"  0  0  0 \x22\x00\x00 0 \x1A\x01\x0A\x43\x00\x4C\x00\x30\x00\x30\x00\x30\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x37\x00 :1DE: \x0A\x04\x06\x57\x84\x01\x16 :6078: \x15 :982: 
+:1DE
+\x1A\x01\x0A\x46\x00\x31\x00\x36\x00\x32\x00\x34\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :24A: \xF3 "L Housing"  0  0  0 \x22\x00\x00 0 \x1A\x01\x0A\x43\x00\x4C\x00\x30\x00\x30\x00\x30\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x39\x00 :24A: \x0A\x04\x06\x58\x84\x01\x16 :7CAD: \x15 :982: 
+:24A
+\x1A\x01\x0A\x46\x00\x31\x00\x36\x00\x32\x00\x35\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :2B8: \xF3 "L Housing"  0  0  0 \x22\x00\x00 0 \x1A\x01\x0B\x43\x00\x4C\x00\x30\x00\x30\x00\x30\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x31\x00\x32\x00 :2B8: \x0A\x04\x06\x59\x84\x01\x16 :7E00: \x15 :982: 
+:2B8
+\x1A\x01\x0A\x46\x00\x31\x00\x36\x00\x30\x00\x37\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :322: \xF3 "Pool" \x22\x00\x00 0  0  0  0 \x1A\x01\x0A\x43\x00\x4C\x00\x30\x00\x30\x00\x30\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x31\x00 :322: \x0A\x04\x06\x47\x84\x01\x16 :2392: \x15 :982: 
+:322
+\x1A\x01\x0A\x46\x00\x31\x00\x36\x00\x31\x00\x38\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :368: \x1A\x01\x08\x46\x00\x33\x00\x37\x00\x39\x00\x20\x00\x6F\x00\x6E\x00\x09\x00 :368: \x0A\x04\x06\x52\x84\x01\x16 :4FE2: \x15 :982: 
+:368
+\x1A\x01\x0A\x46\x00\x31\x00\x36\x00\x31\x00\x39\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :3AE: \x1A\x01\x08\x46\x00\x33\x00\x37\x00\x39\x00\x20\x00\x6F\x00\x6E\x00\x09\x00 :3AE: \x0A\x04\x06\x53\x84\x01\x16 :550E: \x15 :982: 
+:3AE
+\x1A\x01\x0A\x46\x00\x31\x00\x36\x00\x31\x00\x35\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :418: \xF3 "Dormitory"  0  0  0 \x22\x00\x00 0 \x1A\x01\x0A\x43\x00\x4C\x00\x30\x00\x30\x00\x30\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x31\x00 :418: \x0A\x04\x06\x4F\x84\x01\x16 :43B1: \x15 :982: 
+:418
+\x1A\x01\x0A\x46\x00\x31\x00\x36\x00\x31\x00\x36\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :482: \xF3 "Dormitory"  0  0  0 \x22\x00\x00 0 \x1A\x01\x0A\x43\x00\x4C\x00\x30\x00\x30\x00\x30\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x33\x00 :482: \x0A\x04\x06\x50\x84\x01\x16 :46E2: \x15 :982: 
+:482
+\x1A\x01\x0A\x46\x00\x31\x00\x36\x00\x31\x00\x37\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :4EC: \xF3 "Dormitory"  0  0  0 \x22\x00\x00 0 \x1A\x01\x0A\x43\x00\x4C\x00\x30\x00\x30\x00\x30\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x35\x00 :4EC: \x0A\x04\x06\x51\x84\x01\x16 :4BB2: \x15 :982: 
+:4EC
+\x1A\x01\x0A\x46\x00\x31\x00\x36\x00\x30\x00\x38\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :556: \xF3 "Pool" \x22\x00\x00 0  0  0  0 \x1A\x01\x0A\x43\x00\x4C\x00\x30\x00\x30\x00\x30\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x31\x00 :556: \x0A\x04\x06\x48\x84\x01\x16 :2DB9: \x15 :982: 
+:556
+\x1A\x01\x0A\x46\x00\x31\x00\x36\x00\x31\x00\x31\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :5BE: \xF3 "Store"  0  0  0 \x22\x00\x00 0 \x1A\x01\x0A\x43\x00\x4C\x00\x30\x00\x30\x00\x30\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x31\x00 :5BE: \x0A\x04\x06\x4B\x84\x01\x16 :35EF: \x15 :982: 
+:5BE
+\x1A\x01\x0A\x46\x00\x31\x00\x36\x00\x31\x00\x32\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :628: \xF3 "Pool"  0  0  0 \x22\x00\x00 0 \x1A\x01\x0A\x43\x00\x4C\x00\x30\x00\x30\x00\x30\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x31\x00 :628: \x0A\x04\x06\x4C\x84\x01\x16 :3A03: \x15 :982: 
+:628
+\x1A\x01\x0A\x46\x00\x31\x00\x36\x00\x30\x00\x32\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :65C: \x0A\x04\x00\xCE\x84\x01\x0A\x04\x06\x42\x84\x01\x16 :CFF: \x15 :982: 
+:65C
+\x1A\x01\x0A\x46\x00\x31\x00\x36\x00\x30\x00\x33\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :68A: \x0A\x04\x06\x43\x84\x01\x16 :FCE: \x15 :982: 
+:68A
+\x1A\x01\x0A\x46\x00\x31\x00\x36\x00\x30\x00\x34\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :6F4: \xF3 "Dormitory"  0  0  0 \x22\x00\x00 0 \x1A\x01\x0A\x43\x00\x4C\x00\x30\x00\x30\x00\x30\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x32\x00 :6F4: \x0A\x04\x06\x44\x84\x01\x16 :1629: \x15 :982: 
+:6F4
+\x1A\x01\x0A\x46\x00\x31\x00\x36\x00\x30\x00\x35\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :75E: \xF3 "Dormitory"  0  0  0 \x22\x00\x00 0 \x1A\x01\x0A\x43\x00\x4C\x00\x30\x00\x30\x00\x30\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x34\x00 :75E: \x0A\x04\x06\x45\x84\x01\x16 :1C43: \x15 :982: 
+:75E
+\x1A\x01\x0A\x46\x00\x31\x00\x36\x00\x30\x00\x36\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :7C8: \xF3 "Dormitory"  0  0  0 \x22\x00\x00 0 \x1A\x01\x0A\x43\x00\x4C\x00\x30\x00\x30\x00\x30\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x36\x00 :7C8: \x0A\x04\x06\x46\x84\x01\x16 :2213: \x15 :982: 
+:7C8
+\x1A\x01\x0A\x46\x00\x31\x00\x36\x00\x31\x00\x33\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :836: \xF3 "RL District"  0  0  0 \x22\x00\x00 0 \x1A\x01\x0A\x43\x00\x4C\x00\x30\x00\x30\x00\x30\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x32\x00 :836: \x0A\x04\x06\x4D\x84\x01\x16 :3DB7: \x15 :982: 
+:836
+\x1A\x01\x0A\x46\x00\x31\x00\x36\x00\x31\x00\x34\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :8A4: \xF3 "RL District"  0  0  0 \x22\x00\x00 0 \x1A\x01\x0A\x43\x00\x4C\x00\x30\x00\x30\x00\x30\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x32\x00 :8A4: \x0A\x04\x06\x4E\x84\x01\x16 :4029: \x15 :982: 
+:8A4
+\x1A\x01\x0A\x46\x00\x31\x00\x36\x00\x31\x00\x30\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :8D2: \x0A\x04\x06\x4A\x84\x01\x16 :319B: \x15 :982: 
+:8D2
+\x1A\x01\x0A\x46\x00\x31\x00\x36\x00\x30\x00\x39\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :93C: \xF3 "Pool" \x22\x00\x00 0  0  0  0 \x1A\x01\x0A\x43\x00\x4C\x00\x30\x00\x30\x00\x30\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x31\x00 :93C: \x0A\x04\x06\x49\x84\x01\x16 :3072: \x15 :982: 
+:93C
+\x1A\x01\x0A\x46\x00\x31\x00\x36\x00\x32\x00\x36\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :970: \x0A\x04\x00\xCE\x84\x01\x0A\x04\x06\x5A\x84\x01\x16 :858F: \x15 :982: 
+:970
+\x16 :89C1: \x15 :982: \x15 :982: 
+:982
+\x78
+:983
+<music 3>
+<background "bg010a0.agf" 10>
+<name "Darx">
+"I'm going to visit the school."
+#
+<sprite "ta34b000.agf" 4 4 11>
+<name "Company Maid" "!DC0466">
+"Please try to stay out of trouble there."
+#
+<name "Darx">
+"My kids go there.
+ I'm not going to cause problems."
+#
+<sprite "ta34b001.agf" 4 4 12>
+<name "Company Maid" "!DC0467">
+"Very well.
+ Let me put it a different way."
+#
+<sprite "ta34b000.agf" 4 4 12>
+<name "Company Maid" "!DC0468">
+"Please keep your hands off of all of the 
+ girls at the school."
+#
+<name "Darx">
+"..."
+#
+<name "Company Maid" "!DC0469">
+"Your answer?"
+#
+<name "Darx">
+"Um..."
+#
+<sprite "ta34b001.agf" 4 4 12>
+<name "Company Maid" "!DC0470">
+"Contact the school.
+ Someone dangerous is coming."
+#
+<name "Darx">
+"I won't!
+ I promise I won't!"
+#
+<removesprite -1 11>
+Am I really the Overlord?
+#
+That was all I could think about as I visited
+the school.
+#
+<exit>
+:CFF
+<music 8>
+<background "ev054a00.agf" 10>
+<name "Izana" "!AA0035">
+"Enough chattering."
+#
+The school has a bunch of students and a small
+collection of teachers.
+#
+Both here and Forzelotte's Shrine are short on
+staff, and a lack of teachers especially is a
+big problem.
+#
+Which is why Logius and Izana both work
+regularly as teachers.
+#
+Izana took to it particularly well.
+#
+Her talent for teaching has flourished.
+#
+She used to be one of the lords of Castle
+Baldaquin.
+#
+She's an angel, but her being here now means
+she's one of my wives.
+#
+<name "Izana" "!AA0036">
+"Today we will be conducting an experiment.
+ An experiment...
+ I like the sound of that."
+#
+<name "Izana" "!AA0037">
+"Yes, an experiment!
+ In other words, an explosion!
+ An explosion with all our might!"
+#
+That's my wife...
+#
+The school is bustling.
+#
+<exit>
+:FCE
+<music 8>
+<background "ev054a00.agf" 10>
+<name "Izana" "!AA0038">
+"For my class today we will be studying
+ magic."
+#
+The school's classes can be broadly divided 
+into two levels.
+#
+First are the basics.
+#
+Classes to learn the basics to learn, like
+reading and writing.
+#
+All students take these classes for a year.
+#
+Once you pass the basics, the next level is
+electives.
+#
+If you fail, you have to take the basic 
+classes for another year.
+#
+Everyone is free to choose whichever electives
+they want, and which teachers or classes 
+they'll be participating in.
+#
+It has been suggested to make everybody take
+the same curriculum, but that was rejected due
+to the issue of all the different races.
+#
+Humans are mostly all the same, but there are
+so many different races of demon, and many of
+them naturally excel or struggle with certain
+things.
+#
+It makes sense when you hear the specifics.
+#
+The most popular elective is Izana's class.
+#
+Its theme is synthesis.
+#
+Which is to say, basically everything.
+#
+<name "Izana" "!AA0039">
+"And if we're talking about magic, that means
+ actual combat."
+#
+<name "Izana" "!AA0040">
+"You can't learn magic from a book."
+#
+<name "Izana" "!AA0041">
+"Learn by doing."
+#
+<name "Izana" "!AA0042">
+"Books come later.
+ Read them as other people's knowledge while
+ developing your own."
+#
+<name "Izana" "!AA0043">
+"By the way, most of the books I read are
+ stories of failure."
+#
+<name "Izana" "!AA0044">
+"Am I a bad person?
+ Should I read success stories instead?"
+#
+<name "Izana" "!AA0045">
+"What are you talking about? It's obnoxious to
+ hear other people singing their own praises. 
+ Especially the ones bragging about nothing.
+ I want to burn them."
+#
+<name "Izana" "!AA0046">
+"Learn from the mistakes of others to give
+ yourself confidence."
+#
+<name "Izana" "!AA0047">
+"Ah, this is supposed to be a magic class.
+ For now, let's start with simple fire and 
+ water spells.
+ You've all done your prep work, right?"
+#
+The school is especially lively today.
+#
+<exit>
+:1629
+<music 8>
+<background "ev054a00.agf" 10>
+<name "Izana" "!AA0048">
+"In this case, the issue was his strength."
+#
+<name "Izana" "!AA0049">
+"Others laughed at the false bravado he 
+ bragged so much of, while those around him
+ believed the lie to be true."
+#
+<name "Izana" "!AA0050">
+"He was pathetic, but he believed he was
+ strong."
+#
+<name "Izana" "!AA0051">
+"If it was just one man, it would have been a
+ funny story, but because he had some measure
+ of influence, it became a tragedy."
+#
+<name "Izana" "!AA0052">
+"From this, learn that only a fool believes
+ their own lies."
+#
+...
+#
+<name "Darx">
+"That's a pretty good class from her.
+ I was expecting something more
+ incomprehensible."
+#
+<name "Logius" "!PA0051">
+"She's a fine teacher."
+#
+<name "Darx">
+"I see.
+ So, well..."
+#
+<name "Logius" "!PA0052">
+"What is it?"
+#
+<name "Darx">
+"I'm here to check out the school, right?"
+#
+<name "Logius" "!PA0053">
+"Yes."
+#
+<name "Darx">
+"I'm the Overlord, right?"
+#
+<name "Logius" "!PA0054">
+"Yes."
+#
+<name "Darx">
+"So the Overlord's here to check out the
+ school?"
+#
+<name "Logius" "!PA0055">
+"Yes, that's right."
+#
+<name "Darx">
+"Then... why am I tied up in chains?"
+#
+<name "Logius" "!PA0056">
+"To keep you from touching any of the girls in
+ school, of course. You should know, this
+ procedure has been approved by the principal
+ and the student council president."
+#
+<name "Darx">
+"Grr..."
+#
+<name "Darx">
+"Is that also why there are so many boys in
+ that class?"
+#
+<name "Logius" "!PA0057">
+"Of course. Now, to the next classroom...
+ Oh, please note that if you deviate from the
+ marked path, I will begin to attack without
+ mercy."
+#
+Was this really a visit at all?
+#
+<exit>
+:1C43
+<music 8>
+<background "ev054a00.agf" 10>
+<name "Talking Student" "!ZD0028">
+"I love Ms. Izana's classes because they're
+ easy to understand."
+#
+<name "Regular Student" "!JA0025">
+"Yeah."
+#
+<name "Talking Student" "!ZD0029">
+"But sometimes she talks about painful stuff."
+#
+<name "Regular Student" "!JA0026">
+"Painful stuff?"
+#
+<name "Talking Student" "!ZD0030">
+"Like torture instruments, or execution
+ methods."
+#
+<name "Regular Student" "!JA0027">
+"Ah, that kind of painful.
+ Why does she do that again?"
+#
+<name "Talking Student" "!ZD0031">
+"Whenever heroes come up, it always ends up
+ there."
+#
+<name "Regular Student" "!JA0028">
+"She hates talking about heroes?"
+#
+<name "Talking Student" "!ZD0032">
+"The opposite.
+ She loves it."
+#
+<name "Talking Student" "!ZD0033">
+"She loves it so much, I almost feel bad for
+ her..."
+#
+<name "Regular Student" "!JA0029">
+"Aah, I see."
+#
+<name "Izana" "!AA0053">
+"Hey, you there!
+ No pointless gossipping!"
+#
+<name "Regular Student" "!JA0030">
+"O-Oh crap."
+#
+<name "Talking Student" "!ZD0034">
+"Don't worry."
+#
+<name "Talking Student" "!ZD0035">
+"Excuse us!
+ We were just talking about heroes!"
+#
+<name "Izana" "!AA0054">
+".........New subject for today."
+#
+<name "Knowing Student" "!ZF0025">
+"Ah, come on!
+ Don't bring up heroes!"
+#
+<name "Experienced Student" "!ZG0012">
+"It's just going to end up bloody."
+#
+<name "Smiling Student" "!ZH0028">
+"I'm interested, so it's okay with me."
+#
+Another busy school day.
+#
+<name "Logius" "!PA0058">
+"Why don't you just give up and teach about
+ heroes?"
+#
+<name "Izana" "!AA0055">
+"Pani and Ul got fed up with it and made me
+ stop."
+#
+<exit>
+:2213
+<music 8>
+<background "ev054a00.agf" 10>
+<name "Izana" "!AA0056">
+"Today's class will be the history of
+ weapons."
+#
+<name "Izana" "!AA0057">
+"Many different kinds of weapons exist."
+#
+<name "Izana" "!AA0058">
+"Let's study the history of how this
+ particular weapon came about."
+#
+<name "Anticipating Student" "!ZH0029">
+"Um, ma'am. I can only imagine this ends in
+ blood. Can we please study something else?"
+#
+<exit>
+:2392
+<music 8>
+<background "ev047b00.agf" 10>
+<name "Happy Student" "!HC0054">
+"Aaah!
+ It's cold!"
+#
+<name "Smiling Student" "!SB0135">
+"It feels nice."
+#
+<name "Exercising Student" "!RB0110">
+"Yeah."
+#
+<name "Happy Student" "!HC0055">
+"You don't get this kind of openness in the
+ dungeon."
+#
+<name "Supervising Teacher" "!TC0142">
+"Quit messing around and start stretching.
+ When you're finished, whoever can't swim head
+ to the first lane. If you can swim, you're
+ free to swim outside that area."
+#
+<name "Happy Student" "!HC0056">
+"Yes, ma'am."
+#
+<name "Kozelotte" "!NA0043">
+"Hm?"
+#
+<name "Exercising Student" "!RB0111">
+"Is something the matter, president?"
+#
+<name "Kozelotte" "!NA0044">
+"No...
+ Ah."
+#
+<name "Darx">
+"Hey."
+#
+<name "Kozelotte" "!NA0045">
+"D-Dad."
+#
+<name "Darx">
+"Ah, well, I came to visit because I heard
+ the students would be using the pool."
+#
+<name "Darx">
+"You look pretty good."
+#
+<name "Kozelotte" "!NA0046">
+"Thank you very much, but it's the girls' time
+ right now.
+ You, a man, should not be here..."
+#
+<name "Darx">
+"Don't sweat it.
+ I'm the Overlord."
+#
+<name "Kozelotte" "!NA0047">
+"Dad, that attitude just makes me angry.
+ Please show some dignity."
+#
+<name "Logius" "!PA0059">
+"Yes. Honestly.
+ You're exactly right."
+#
+<name "Darx">
+"Hey, Logius.
+ You're looking pretty good too."
+#
+<name "Logius" "!PA0060">
+"Thank you very much."
+#
+<name "Logius" "!PA0061">
+"But... 
+ So you came after all."
+#
+<name "Logius" "!PA0062">
+"I took a lot of precautions.
+ Increased patrols, set traps, and enlisted
+ the help of the bodyguards..."
+#
+<name "Logius" "!PA0063">
+"But you made it through all of them.
+ You indeed are the Overlord."
+#
+<name "Darx">
+"Hahaha.
+ No need for such praise."
+#
+<name "Logius" "!PA0064">
+"Hahahahahaha.
+ Well then, goodbye."
+#
+<name "Darx">
+"Huh?"
+#
+<name "Logius" "!PA0065">
+"Die!"
+#
+<name "Darx">
+"Aah!"
+#
+<name "Logius" "!PA0066">
+"If you won't stop, then I'll stop you
+ myself!"
+#
+<name "Darx">
+"W-W-What the... Ah!
+ Aaahh!"
+#
+<name "Logius" "!PA0067">
+"I will protect my students!"
+#
+<name "Logius" "!PA0068">
+"Student president, which side are you on!?"
+#
+<name "Kozelotte" "!NA0048">
+"In this case, my dad's wrong.
+ Ms. Logius, I'll support you."
+#
+<name "Logius" "!PA0069">
+"Okay! The rest of you, back to class.
+ Teacher, do not take your eyes off them!
+ If any students drown, I will cut off your
+ head myself!"
+#
+<name "Supervising Teacher" "!TC0143">
+"Y-Yes, ma'am!"
+#
+<name "Logius" "!PA0070">
+"Now, face us, Overlord!"
+#
+I was forced to beat a hasty retreat while
+dodging the attacks of Logius and Kozelotte.
+#
+Well, I got to see those two in their
+swimsuits, so we can call that a success.
+#
+\x0A\x44\x01\xE3\x84\x01\x0A\x44\x02\x31\x84\x01
+<exit>
+:2DB9
+<music 8>
+<background "ev047b00.agf" 10>
+<name "Concerned Student" "!RB0112">
+"Ms. Logius seems unusually on guard."
+#
+<name "Regular Student" "!LB0096">
+"Is she worried about boys peeping?"
+#
+<name "Concerned Student" "!RB0113">
+"It doesn't seem like she's embarrassed.
+ If anything, more like murderous...
+ Ah, she cast a spell."
+#
+<name "Guarding Student" "!GB0089">
+"Peeping tom captured!"
+#
+<name "Logius" "!PA0071">
+"The Overlord!?"
+#
+<name "Guarding Student" "!GB0090">
+"No."
+#
+<name "Logius" "!PA0072">
+"Tch."
+#
+<name "Concerned Student" "!RB0114">
+"She seems really annoyed by that."
+#
+<name "Regular Student" "!LB0097">
+"Hahaha...
+ Let's pretend we didn't see anything."
+#
+\x0A\x44\x02\x32\x84\x01
+<exit>
+:3072
+<music 8>
+<background "ev047b00.agf" 10>
+<name "Darx">
+"Logius, couldn't you have a little more faith
+ in me?"
+#
+<name "Logius" "!PA0073">
+"What a funny joke."
+#
+She looks at me in naked disbelief.
+#
+<name "Darx">
+"I am her boss, right?"
+#
+<name "Sofia" "!ZB0787">
+"P-Probably."
+#
+\x0A\x44\x02\x33\x84\x01
+<exit>
+:319B
+<music 11>
+<background "bg013a0.agf" 10>
+<name "Horned Student" "!HC0057">
+"Kozelotte, may I have lunch with you?"
+#
+<sprite "ta11a004.agf" 4 4 11>
+<name "Kozelotte" "!NA0049">
+"Yes, I don't mind."
+#
+<name "Horned Student" "!HC0058">
+"Thank you very much."
+#
+<removesprite -1 11>
+<name "Koze's Classmate" "!SB0136">
+"As popular as ever."
+#
+<sprite "ta11a002.agf" 4 4 11>
+<name "Kozelotte" "!NA0050">
+"It's not like that."
+#
+<name "Koze's Classmate" "!SB0137">
+"Eh? But you heard how she talked to you.
+ Normally it's much more respectful."
+#
+<sprite "ta11a001.agf" 4 4 12>
+<name "Kozelotte" "!NA0051">
+"She is my little sister, so what did you
+ expect?"
+#
+<name "Koze's Classmate" "!SB0138">
+"...Oh."
+#
+<sprite "ta11a002.agf" 4 4 12>
+<name "Kozelotte" "!NA0052">
+"More than half the students at this school
+ are my little sisters and brothers."
+#
+<name "Koze's Classmate" "!SB0139">
+"It's rough being a big sister."
+#
+<sprite "ta11a016.agf" 4 4 12>
+<name "Kozelotte" "!NA0053">
+"Better than than just being popular."
+#
+<removesprite -1 11>
+<exit>
+:35EF
+<music 11>
+<background "bg013a0.agf" 10>
+<name "Gourmand Student" "!JA0031">
+"The gluttony club has arrived!"
+#
+<name "Restaurant Owner" "!ZF0026">
+"Welcome."
+#
+<name "Gourmand Student" "!JA0032">
+"The food is ready?"
+#
+<name "Restaurant Owner" "!ZF0027">
+"Of course."
+#
+<name "Gourmand Student" "!JA0033">
+"Then repeat the rules we discussed."
+#
+<name "Restaurant Owner" "!ZF0028">
+"Right! If you can finish the entire full
+ course meal within 30 minutes, it's free.
+ But if you can't, it will cost you 100Ｂ."
+#
+<name "Restaurant Owner" "!ZF0029">
+"Let's see your 100Ｂ if you're ready!"
+#
+<name "Gourmand Student" "!JA0034">
+"It's right here, but I won't be handing it
+ over to you!"
+#
+<name "Restaurant Owner" "!ZF0030">
+"The match is on!"
+#
+<name "Gourmand Student" "!JA0035">
+"Yes!"
+#
+...
+#
+<name "Darx">
+"It's busy."
+#
+<sprite "ta01a004.agf" 4 4 11>
+<name "Sofia" "!ZB0788">
+"There's a school club activity."
+#
+<sprite "ta01a033.agf" 4 4 12>
+<name "Sofia" "!ZB0789">
+"Thanks to that, business is booming."
+#
+<removesprite -1 11>
+<exit>
+:3A03
+<music 11>
+<background "bg013a0.agf" 10>
+<name "Regular Student" "!ZF0031">
+"M.M.M.?
+ What's that?"
+#
+<name "Knowing Student" "!ZH0030">
+"An unofficial school club."
+#
+<name "Regular Student" "!ZF0032">
+"What's it do?"
+#
+<name "Knowing Student" "!ZH0031">
+"In short, a club that adores the Overlord."
+#
+<name "Regular Student" "!ZF0033">
+"...That seems fine.
+ Why is it unofficial?"
+#
+<name "Knowing Student" "!ZH0032">
+"More specifically, a club that wants to be
+ popular like the Overlord."
+#
+<name "Regular Student" "!ZF0034">
+"Sorry.
+ Unofficial is best."
+#
+<name "Knowing Student" "!ZH0033">
+"By the way, there was also an unofficial club
+ of girls who want to have sex with the 
+ Overlord, but Ms. Logius aggressively stamped
+ it out."
+#
+<name "Regular Student" "!ZF0035">
+"I'm on her side."
+#
+<name "Knowing Student" "!ZH0034">
+"There's also a club for supporting Ms.
+ Logius.
+ It looks like that one may be official
+ soon."
+#
+<exit>
+:3DB7
+<music 8>
+<background "ev054a00.agf" 10>
+<name "Serious Student" "!LB0098">
+"We have to do our physicals after this
+ class."
+#
+<name "Smiling Student" "!GB0091">
+"Yeah.
+ Huh? Really?
+ I-I had no idea."
+#
+<name "Serious Student" "!LB0099">
+"Your stomach's been growling for a while."
+#
+<name "Smiling Student" "!GB0092">
+"Huh?
+ Oh, yeah. I was so busy this morning that I
+ didn't get a chance to eat."
+#
+<name "Serious Student" "!LB0100">
+"Want to get an early lunch?"
+#
+<name "Smiling Student" "!GB0093">
+"No. I couldn't possibly eat during class."
+#
+...
+#
+<name "Izana" "!AA0059">
+"Your stomach is making so much noise that I
+ can't teach."
+#
+<exit>
+:4029
+<music 8>
+<background "ev054a00.agf" 10>
+<name "Easygoing Student" "!KB0111">
+"I think physicals are after this class."
+#
+<name "Understanding Student" "!MB0027">
+"Yeah, seems like it.
+ The girls are all excited about it."
+#
+<name "Easygoing Student" "!KB0112">
+"I don't know why they have to get so worked
+ up over it."
+#
+<name "Understanding Student" "!MB0028">
+"Hahaha.
+ Girls are weirdly obsessed with measuring
+ their weight and bust sizes."
+#
+<name "Easygoing Student" "!KB0113">
+"Setting aside the bust size, I don't think
+ most guys care about specific weights..."
+#
+<name "Understanding Student" "!MB0029">
+"It's not the guys they're worried about.
+ They're worried about how they measure up to
+ the other girls. It may look like friendly
+ chatting, but it's a storm of deception."
+#
+<name "Easygoing Student" "!KB0114">
+"Girls... are scary."
+#
+<name "Izana" "!AA0060">
+"True, and yet, you're not scared to be
+ ignoring my lecture?"
+#
+<name "Easygoing Student" "!KB0115">
+"Ah, s-sorry."
+#
+<exit>
+:43B1
+<music 11>
+<background "bg013a0.agf" 10>
+<name "Dorm Student" "!BC0060">
+"Thanks to the school dorm, I can finally live
+ on my own like I dreamed of."
+#
+<name "Dorm Student" "!BC0061">
+"I've wanted this forever!"
+#
+<name "Dorm Student" "!BC0062">
+"Okay!
+ Now to live my life to the fullest!"
+#
+...
+#
+<name "Dorm Student" "!BC0063">
+"That's what I thought a few days ago."
+#
+<name "Dorm Student" "!BC0064">
+"I'm being crushed by my own helplessness."
+#
+<name "Dorm Student" "!BC0065">
+"Mom, you made food for me every day.
+ I'm sorry for all the trouble I caused."
+#
+<name "Dorm Student" "!BC0066">
+"Dad, you worked every day.
+ I have newfound respect for you."
+#
+<music 3>
+<background "bg010a0.agf" 10>
+<sprite "ta01a004.agf" 4 4 11>
+<name "Sofia" "!ZB0790">
+"The dorms are apparently very popular with
+ the parents."
+#
+<name "Darx">
+"...Not the students?"
+#
+<removesprite -1 11>
+<exit>
+:46E2
+<music 11>
+<background "bg013a0.agf" 10>
+<name "Commuting Student" "!KB0116">
+"You live in the dorm?"
+#
+<name "Dorm Student" "!ZG0013">
+"Yeah."
+#
+<name "Commuting Student" "!KB0117">
+"How nice.
+ You must have a lot of freedom."
+#
+<name "Dorm Student" "!ZG0014">
+"You're free, but it's hard."
+#
+<name "Dorm Student" "!ZG0015">
+"Especially food.
+ The students have to cook, and we rotate who
+ does it."
+#
+<name "Commuting Student" "!KB0118">
+"...Is the food you guys make actually
+ edible?"
+#
+<name "Dorm Student" "!ZG0016">
+"There's people who oversee things.
+ They don't do any actual work though."
+#
+<name "Commuting Student" "!KB0119">
+"Sounds rough."
+#
+<name "Dorm Student" "!ZG0017">
+"Yeah, because of that, in the dorms, instead 
+ of the smart people being on top of the heap,
+ it's whoever can cook the best."
+#
+<name "Dorm Student" "!ZG0018">
+"Cooking is the most popular club too."
+#
+<name "Commuting Student" "!KB0120">
+"...I think I'm glad I live at home."
+#
+<name "Dorm Student" "!ZG0019">
+"Eh, I don't know about that."
+#
+<name "Commuting Student" "!KB0121">
+"Huh?"
+#
+<name "Dorm Student" "!ZG0020">
+"A guy who can cook is pretty popular.
+ By the way, that's how I got a girlfriend."
+#
+<name "Commuting Student" "!KB0122">
+"...I'll try to convince my parents to let me
+ live in the dorms too."
+#
+<name "Dorm Student" "!ZG0021">
+"Good luck."
+#
+<exit>
+:4BB2
+<music 11>
+<background "bg013a0.agf" 10>
+<name "Logius" "!PA0074" "ka26a000.agf">
+"No girls allowed in the boys dorm.
+ No boys allowed in the girls dorm."
+#
+<name "Logius" "!PA0075" "ka26a000.agf">
+"Do you know why this rule exists?"
+#
+<name "Questioned Student" "!ZH0035">
+"I believe it's to discourage relationships
+ between boys and girls."
+#
+<name "Logius" "!PA0076" "ka26a000.agf">
+"That's right."
+#
+<name "Logius" "!PA0077" "ka26a000.agf">
+"And do you know why we want to discourage
+ relations between boys and girls?"
+#
+<name "Questioned Student" "!ZH0036">
+"I-I'm sorry.
+ I don't."
+#
+<name "Logius" "!PA0079" "ka26a000.agf">
+"I'll tell you."
+#
+<name "Logius" "!PA0080" "ka26a000.agf">
+"Because it's still too soon!"
+#
+<name "Logius" "!PA0081" "ka26a000.agf">
+"Such a simple reason!
+ You understand!?"
+#
+<name "Questioned Student" "!ZH0037">
+"Y-Yes, ma'am."
+#
+...
+#
+<name "Watching Student" "!MB0030">
+"Ms Logius is a good teacher, but she's 
+ unusually strict about boys and girls."
+#
+<name "Questioned Student" "!ZH0038">
+"Yeah."
+#
+<exit>
+:4FE2
+<music 11>
+<background "bg013a0.agf" 10>
+<name "Sporty Student" "!RB0115">
+"Kozelotte, have you heard about that sport
+ where you hit a ball with sticks, dragon
+ slayer?"
+#
+<sprite "ta11a002.agf" 4 4 11>
+<name "Kozelotte" "!NA0054">
+"A little bit.
+ What about it?"
+#
+<name "Sporty Student" "!RB0116">
+"Would you like to join our team?"
+#
+<sprite "ta11a016.agf" 4 4 12>
+<name "Kozelotte" "!NA0055">
+"That seems like a lot of work.
+ No thank you."
+#
+<name "Sporty Student" "!RB0119">
+"I see.
+ That's too bad."
+#
+<name "Sporty Student" "!RB0120">
+"The Overlord is making a team called The
+ Overlords.
+ I thought you might want to play against
+ them."
+#
+<sprite "ta11a015.agf" 4 4 12>
+<name "Kozelotte" "!NA0056">
+"I changed my mind.
+ Gather your team!
+ And prepare for the tournament!"
+#
+<name "Sporty Student" "!RB0121">
+"Huh? Oh, yes!"
+#
+<removesprite -1 11>
+<background "bg015a0.agf" 10>
+...
+#
+<background "bg013a0.agf" 10>
+<name "Sporty Student" "!RB0122">
+"We did it!
+ We won!"
+#
+<sprite "ta11a001.agf" 4 4 11>
+<name "Kozelotte" "!NA0057">
+"Yes, but we didn't play against my dad's
+ team."
+#
+<name "Sporty Student" "!RB0123">
+"Huh?
+ Oh, his team lost in the first round."
+#
+<sprite "ta11a011.agf" 4 4 12>
+<name "Kozelotte" "!NA0058">
+"..."
+#
+<removesprite -1 11>
+<exit>
+:550E
+<music 11>
+<background "bg013a0.agf" 10>
+<name "Darx">
+"Kozeee."
+#
+<sprite "ta11a004.agf" 4 4 11>
+<name "Kozelotte" "!NA0059">
+"Dad."
+#
+<name "Darx">
+"I heard you won that sport where you hit a
+ ball with sticks, dragon slayer."
+#
+<sprite "ta11a005.agf" 4 4 12>
+<name "Kozelotte" "!NA0060">
+"Yes, that's right."
+#
+<name "Darx">
+"You should've told me you were playing.
+ I missed out on cheering you on."
+#
+<sprite "ta11a011.agf" 4 4 12>
+<name "Kozelotte" "!NA0061">
+"I'm sorry.
+ I wanted to surprise you."
+#
+<name "Darx">
+"Ooh, we did lose in the first round."
+#
+<sprite "ta11a004.agf" 4 4 12>
+<name "Kozelotte" "!NA0062">
+"Next time, play hard so we can play against
+ each other."
+#
+<name "Darx">
+"Yeah, leave it to me!
+ I've thought up a new magic pitch."
+#
+<sprite "ta11a005.agf" 4 4 12>
+<name "Kozelotte" "!NA0063">
+"I'm looking forward to it."
+#
+<removesprite -1 11>
+<background "bg015a0.agf" 10>
+...
+#
+Later...
+#
+At the second tournament, Kozelotte's team
+faced The Overlords.
+#
+It was a great game, but I spent the entire
+thing on the bench.
+#
+<background "bg013a0.agf" 10>
+<sprite "ta11a011.agf" 4 4 11>
+<name "Kozelotte" "!NA0064">
+"D-Dad..."
+#
+<removesprite -1 11>
+<name "Darx">
+"S-Some decisions have to be made... so that
+ the team can win."
+#
+<sprite "ta34c001.agf" 4 4 11>
+<name "Company Maid" "!AC0206">
+"I-I was going to call you out at the very
+ end, but the last hitter was too good and
+ you wouldn't have had a chance.
+ ...I'm sorry."
+#
+<name "Darx">
+"Nah, it's okay.
+ I know that.
+ Hahaha!"
+#
+<removesprite -1 11>
+<name "Cheering Citizen" "!ZD0036">
+"W-What a sad look in his eyes."
+#
+<exit>
+:5B5D
+<music 11>
+<background "bg013a0.agf" 10>
+<name "Horned Student" "!RB0124">
+"Kozelotte."
+#
+<name "Winged Student" "!LB0101">
+"Koze."
+#
+<name "Long Haired Student" "!GB0094">
+"Sis."
+#
+<name "Younger Student" "!KB0123">
+"Sister."
+#
+<name "Serious Student" "!BC0067">
+"President."
+#
+...
+#
+<name "Listening Student" "!HC0059">
+"So many nicknames."
+#
+<sprite "ta11a010.agf" 4 4 11>
+<name "Kozelotte" "!NA0065">
+"I wish they'd all just use the same one."
+#
+<removesprite -1 11>
+<exit>
+:5D3C
+<music 11>
+<background "bg013a0.agf" 10>
+<name "Serious Student" "!SB0140">
+"Kozelotte."
+#
+<name "Strong Student" "!RB0125">
+"Sis."
+#
+<name "Prim Student" "!LB0102">
+"Sister."
+#
+<name "Samurai Student" "!GB0095">
+"Honored sister."
+#
+...
+#
+<name "Listening Student" "!HC0060">
+"Kiss-ups?"
+#
+<sprite "ta11a010.agf" 4 4 11>
+<name "Kozelotte" "!NA0066">
+"No, they're all my actual sisters."
+#
+<removesprite -1 11>
+<exit>
+:5ED7
+<music 11>
+<background "bg013a0.agf" 10>
+<name "Gossiping Student" "!SB0142">
+"Kozelotte is the student council president?"
+#
+<name "Nodding Student" "!ZE0051">
+"Yeah.
+ She gets top marks.
+ Nobody has any problem with it."
+#
+...
+#
+<name "Calm Student" "!JA0036">
+"That said... in a school where half the 
+ students are the Overlord's kids, making 
+ some regular person be school president
+ would be basically torture."
+#
+<name "Agreeing Student" "!ZF0036">
+"Yeah, that's for sure."
+#
+<exit>
+:6078
+<music 4>
+<background "bg009a0.agf" 10>
+<sprite "ta11a004.agf" 4 4 11>
+<name "Kozelotte" "!NA0067">
+"Dad."
+#
+<name "Darx">
+"Koze?
+ Been awhile."
+#
+<sprite "ta11a005.agf" 4 4 12>
+<name "Kozelotte" "!NA0068">
+"Yes, you haven't been coming to see me much."
+#
+<name "Darx">
+"Don't be mad.
+ You know everything that's going on with
+ me."
+#
+<sprite "ta11a004.agf" 4 4 12>
+<name "Kozelotte" "!NA0069">
+"Yes."
+#
+<name "Darx">
+"I wish I could have you help out.
+ There's so many different annoying things to
+ deal with."
+#
+<sprite "ta11a010.agf" 4 4 12>
+<name "Kozelotte" "!NA0070">
+"Seems like it.
+ I was warned not to help too."
+#
+<name "Darx">
+"...Even if you don't like it, don't 
+ antagonize her."
+#
+<sprite "ta11a016.agf" 4 4 12>
+<name "Kozelotte" "!NA0071">
+"I know that."
+#
+<name "Darx">
+"Okay."
+#
+<name "Darx">
+"You have business here today?"
+#
+<sprite "ta11a004.agf" 4 4 12>
+<name "Kozelotte" "!NA0072">
+"Yes. Shopping at Sofia's."
+#
+<name "Darx">
+"Want to get dinner?"
+#
+<sprite "ta11a010.agf" 4 4 12>
+<name "Kozelotte" "!NA0073">
+"I'd love to, but I don't have time."
+#
+<name "Darx">
+"I see.
+ That's too bad.
+ Well, keep up the hard work."
+#
+<sprite "ta11a005.agf" 4 4 12>
+<name "Kozelotte" "!NA0074">
+"Yes.
+ You too, Dad."
+#
+<name "Darx">
+"Yeah."
+#
+<removesprite -1 11>
+<music 11>
+<background "bg008a0.agf" 10>
+<name "Accompanying Student" "!RB0126">
+"You really are the Overlord's daughter."
+#
+<sprite "ta11a001.agf" 4 4 11>
+<name "Kozelotte" "!NA0075">
+"I thought everyone knew that."
+#
+<name "Accompanying Student" "!RB0127">
+"I knew, but it's still so..."
+#
+<sprite "ta11a002.agf" 4 4 12>
+<name "Kozelotte" "!NA0076">
+"I look nothing like him?"
+#
+<name "Accompanying Student" "!RB0128">
+"Yeah."
+#
+<sprite "ta11a004.agf" 4 4 12>
+<name "Kozelotte" "!NA0077">
+"Haha.
+ I guess I don't."
+#
+<name "Accompanying Student" "!RB0129">
+"Are you happy you don't resemble him?"
+#
+<sprite "ta11a005.agf" 4 4 12>
+<name "Kozelotte" "!NA0078">
+"As his daughter, it's a little disappointing.
+ Come on, we'll be late if we hang around.
+ Let's hurry up."
+#
+<name "Accompanying Student" "!RB0130">
+"R-Right."
+#
+<removesprite -1 11>
+<music 8>
+<background "bg031a0.agf" 10>
+<name "Helped Teacher" "!GB0096">
+"Good job.
+ Thanks a lot."
+#
+<sprite "ta11a005.agf" 4 4 11>
+<name "Kozelotte" "!NA0079">
+"It was nothing.
+ I have to be going now."
+#
+<name "Helped Teacher" "!GB0097">
+"Hm?
+ I can at least offer you a drink."
+#
+<sprite "ta11a004.agf" 4 4 12>
+<name "Kozelotte" "!NA0080">
+"Thank you very much, but I have other work
+ to take care of."
+#
+<name "Helped Teacher" "!GB0098">
+"I see.
+ You're very busy."
+#
+<sprite "ta11a005.agf" 4 4 12>
+<name "Kozelotte" "!NA0081">
+"I took this job myself.
+ Okay, please excuse me."
+#
+<name "Helped Teacher" "!GB0099">
+"Yes. Good luck."
+#
+<removesprite -1 11>
+...
+#
+<background "bg012a0.agf" 10>
+<sprite "ta11a016.agf" 4 4 11>
+<name "Kozelotte" "!NA0082">
+"Sigh..."
+#
+<sprite "ta11a003.agf" 4 4 12>
+<name "Kozelotte" "!NA0083">
+"There's nobody around."
+#
+<sprite "ta11a016.agf" 4 4 12>
+<name "Kozelotte" "!NA0084">
+"Sensing...
+ Definitely nobody."
+#
+<sprite "ta11a004.agf" 4 4 12>
+<name "Kozelotte" "!NA0085">
+"Then..."
+#
+<sprite "ta11a005.agf" 4 4 12>
+<name "Kozelotte" "!NA0086">
+"Dad!"
+#
+<sprite "ta11a017.agf" 4 4 12>
+<name "Kozelotte" "!NA0087">
+"Daddy♪! Daddy♪! Daddy♪!"
+#
+<sprite "ta11a018.agf" 4 4 12>
+<name "Kozelotte" "!NA0088">
+"Aaah! Daddy♪! Daddy♪! Daddy♪!"
+#
+<sprite "ta11a017.agf" 4 4 12>
+<name "Kozelotte" "!NA0089">
+"You're the best!♪"
+#
+<sprite "ta11a018.agf" 4 4 12>
+<name "Kozelotte" "!NA0090">
+"You're wonderful!♪"
+#
+<sprite "ta11a017.agf" 4 4 12>
+<name "Kozelotte" "!NA0091">
+"Ahhhhhhh..."
+#
+<sprite "ta11a018.agf" 4 4 12>
+<name "Kozelotte" "!NA0092">
+"I said it! I said it! I said it!"
+#
+<sprite "ta11a017.agf" 4 4 12>
+<name "Kozelotte" "!NA0093">
+"Aaaah!
+ He even asked me out!"
+#
+<sprite "ta11a018.agf" 4 4 12>
+<name "Kozelotte" "!NA0094">
+"But I can't believe I had to say no!"
+#
+<sprite "ta11a017.agf" 4 4 12>
+<name "Kozelotte" "!NA0095">
+"But, but, if it was just the two of us..."
+#
+<removesprite -1 11>
+<music 17>
+<background "ev048a00.agf" 10>
+<name "Kozelotte" "!NA0096">
+"It'd definitely end up like this."
+#
+<name "Kozelotte" "!NA0097">
+"Yes.
+ Because he's so kind."
+#
+<name "Kozelotte" "!NA0098">
+"Aahh..."
+#
+<name "Kozelotte" "!NA0099">
+"I want to be taken from behind."
+#
+<name "Kozelotte" "!NA0100">
+"I want to be held down and ravaged."
+#
+<name "Kozelotte" "!NA0101">
+"Aah...ahhh...ahhh...
+ Daddy..."
+#
+<name "Kozelotte" "!NA0102">
+"Daddy... Daddy... Daddy...♪"
+#
+<name "Kozelotte" "!NA0103">
+"I know it'd be like this...
+ Mmm...aahhh..."
+#
+<name "Kozelotte" "!NA0104">
+"Aah... No... 
+ Mmm... My breasts...
+ Ah..."
+#
+<background "ev048a01.agf" 10>
+<name "Kozelotte" "!NA0105">
+"Ah... So rough...
+ So intense..."
+#
+<name "Kozelotte" "!NA0106">
+"But... Y-Yes, I love it...
+ Yes, I can take it..."
+#
+<name "Kozelotte" "!NA0107">
+"Mmmm...aah...aahhh..."
+#
+<name "Kozelotte" "!NA0108">
+"Ah... T-The way you're looking at me...
+ Yes... Daddy..."
+#
+<name "Kozelotte" "!NA0109">
+"Ah...mmm...
+ K-Kiss me...
+ Y-Yes..."
+#
+<name "Kozelotte" "!NA0110">
+"Ah...aah...
+ Daddy... Daddy..."
+#
+<name "Kozelotte" "!NA0111">
+"Mm...mmm...mmm...
+ I-I can't..."
+#
+<name "Kozelotte" "!NA0112">
+"Ah..."
+#
+<name "Kozelotte" "!NA0113">
+"Ah... D-Daddy...
+ Mmm... T-That's my... but...
+ Ah...mmm...ah!"
+#
+<name "Kozelotte" "!NA0114">
+"Ah! Ah! Ah...mmmmmmmmm!"
+#
+<name "Kozelotte" "!NA0115">
+"Ah...aahhh...
+ Daddy..."
+#
+<name "Kozelotte" "!NA0116">
+"Ah...mm...aahhhh..."
+#
+<name "Kozelotte" "!NA0117">
+"Aahhh..."
+#
+<music 8>
+<background "bg012a0.agf" 10>
+<sprite "ta11a011.agf" 4 4 11>
+<name "Kozelotte" "!NA0118">
+"I did it."
+#
+<sprite "ta11a010.agf" 4 4 12>
+<name "Kozelotte" "!NA0119">
+"Oooh... 
+ I couldn't hold back until I got to my room."
+#
+<sprite "ta11a011.agf" 4 4 12>
+<name "Kozelotte" "!NA0120">
+"I need to control myself."
+#
+<sprite "ta11a017.agf" 4 4 12>
+<name "Kozelotte" "!NA0121">
+"Aah... but I don't think I could completely
+ stand it if I had dinner alone with him."
+#
+<sprite "ta11a016.agf" 4 4 12>
+<name "Kozelotte" "!NA0122">
+"I would have to bring another girl to come
+ to dinner with me..."
+#
+<sprite "ta11a010.agf" 4 4 12>
+<name "Kozelotte" "!NA0123">
+"But I don't want anybody else becoming
+ interested in him either."
+#
+<sprite "ta11a011.agf" 4 4 12>
+<name "Kozelotte" "!NA0124">
+"And there are already so many other rivals."
+#
+<sprite "ta11a016.agf" 4 4 12>
+<name "Kozelotte" "!NA0125">
+"It's awful, but it was right for me to say
+ no."
+#
+<sprite "ta11a005.agf" 4 4 12>
+<name "Kozelotte" "!NA0126">
+"I'm sure my kind father will invite me out
+ again."
+#
+<removesprite -1 11>
+\x2B\x0A\x44\x01\xE4\x84\x01\x0A\x44\x02\x34\x84\x01
+<exit>
+:7CAD
+<music 11>
+<background "bg013a0.agf" 10>
+<name "Passing Student" "!ZD0037">
+"Oh, the president's in a really good mood
+ today."
+#
+<name "Guessing Student" "!ZE0052">
+"Did something good happen?"
+#
+<name "Passing Student" "!ZD0038">
+"Maybe she'll approve that now."
+#
+<name "Guessing Student" "!ZE0053">
+"A-All right."
+#
+Obviously, it was denied.
+#
+<exit>
+:7E00
+<music 41>
+<background "bg003a0.agf" 10>
+<sprite "ta09a014.agf" 4 4 11>
+<name "Forzelotte" "!XA0256">
+"I've known for a while..."
+#
+<sprite "ta09a020.agf" 4 4 12>
+<name "Forzelotte" "!XA0257">
+"She has a bit of a father complex."
+#
+<sprite "ta09a021.agf" 4 4 12>
+<name "Forzelotte" "!XA0258">
+"I must do something about that."
+#
+<sprite "ta09a019.agf" 4 4 12>
+<name "Forzelotte" "!XA0259">
+"Yes, I must think of something."
+#
+<sprite "ta09a010.agf" 4 4 12>
+<name "Forzelotte" "!XA0262">
+"Or rather...
+ I don't think he would be able to resist
+ her temptations."
+#
+<sprite "ta09a009.agf" 4 4 12>
+<name "Forzelotte" "!XA0261">
+"No, he will reject her once or twice, but I
+ am not such a blushing virgin to expect
+ reason from below a man's belt."
+#
+<sprite "ta09a012.agf" 4 4 12>
+<name "Forzelotte" "!XA0263">
+"I must face this will all my resolve!"
+#
+<sprite "ta09a013.agf" 4 4 12>
+<name "Forzelotte" "!XA0264">
+"I will not allow it!"
+#
+<sprite "ta09a012.agf" 4 4 12>
+<name "Forzelotte" "!XA0265">
+"As a mother!
+ And as a woman!"
+#
+<sprite "ta09a011.agf" 4 4 12>
+<name "Forzelotte" "!XA0266">
+"I will not be defeated by my daughter!"
+#
+<removesprite -1 11>
+...
+#
+<name "Active Girl" "!HC0061">
+"Forze is scary..."
+#
+<name "Serious Girl" "!SB0143">
+"Does she not get along with Koze?"
+#
+<name "Relaxed Girl" "!RB0131">
+"I'm not sure."
+#
+<name "Thinking Girl" "!LB0103">
+"But if this keeps up..."
+#
+<name "Thoughtful Girl" "!GB0100">
+"S-Should we talk to daddy?"
+#
+<name "Active Girl" "!HC0062">
+"Maybe...
+ We should ask aun... 
+ We should ask Rakia."
+#
+<name "Serious Girl" "!SB0144">
+"Aah! You called her aunt!
+ She's gonna be mad!"
+#
+<name "Active Girl" "!HC0063">
+"I didn't say it!
+ I fixed myself!"
+#
+<name "Relaxed Girl" "!RB0132">
+"I-I don't think this is the time to be
+ fighting..."
+#
+\x0A\x44\x02\x35\x84\x01
+<exit>
+:858F
+<music 8>
+<background "ev054a00.agf" 10>
+<name "Proposing Student" "!HC0064">
+"It's Izana's love class!♪"
+#
+<name "Izana" "!AA0066">
+"Huh?
+ What's that?"
+#
+<name "Proposing Student" "!HC0065">
+"A love class."
+#
+<name "Izana" "!AA0067">
+"You said that already...
+ What am I supposed to do?"
+#
+<name "Proposing Student" "!HC0066">
+"Let's see.
+ Ah, I know!
+ Tell us about how you fell in love with the
+ Overlord."
+#
+<name "Izana" "!AA0068">
+"A-Ahaha..."
+#
+<name "Izana" "!AA0070">
+"Never ask the immigrants from Celestia about
+ that."
+#
+<name "Proposing Student" "!HC0067">
+"Huh?"
+#
+<name "Izana" "!AA0071">
+"I'm serious.
+ It's strictly off-limits."
+#
+<name "Kozelotte" "!NA0167">
+"Ma'am, I'll add it to the school rules."
+#
+<name "Izana" "!AA0072">
+"You absolutely should."
+#
+<name "Proposing Student" "!HC0068">
+"What does that mean?"
+#
+<name "Izana" "!AA0073">
+"You'll understand when you get older."
+#
+<name "Kozelotte" "!NA0168">
+"Ignorance is bliss."
+#
+<name "Proposing Student" "!HC0069">
+"I-I don't get it."
+#
+\x0A\x44\x02\x36\x84\x01
+<exit>
+:89C1
+<music 8>
+<background "ev054a00.agf" 10>
+The school seems to be at peace.
+#
+<exit>
+\x78

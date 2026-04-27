@@ -1,0 +1,75 @@
+﻿<music 4>
+<background "bg009a0.agf" 10>
+<name "Drinking Demon" "!BC0038">
+"Anselm Company of Celestia."
+#
+<name "Drinking Demon" "!BC0039">
+"Gunguskar Company of the Netherworld."
+#
+<name "Drinking Demon" "!BC0040">
+"I'm not just saying it as a fan of the 
+ Netherworld, but Gunguskar is just easier to
+ say."
+#
+<name "Agreeing Demon" "!KB0086">
+"Yeah."
+#
+<sprite "ta06a000.agf" 4 4 11>
+<name "Suisen" "!YA0285">
+"..."
+#
+<removesprite -1 11>
+<sprite "ta05a010.agf" 2 4 11>
+<sprite "ta06a000.agf" 6 5 11>
+<name "Kyuriha" "!FA0518">
+"What's the matter?"
+#
+<sprite "ta06a001.agf" 6 5 12>
+<name "Suisen" "!YA0286">
+"I always hated that name too."
+#
+<sprite "ta06a000.agf" 6 5 12>
+<name "Suisen" "!YA0287">
+"Anselm.
+ The L is just awkward.
+ So what then?
+ Why not just get rid of it?"
+#
+<sprite "ta06a002.agf" 6 5 12>
+<name "Suisen" "!YA0288">
+"Ansem Company.
+ See? Much easier to say!"
+#
+<sprite "ta06a007.agf" 6 5 12>
+<name "Suisen" "!YA0289">
+"But my boss didn't agree with me!"
+#
+<sprite "ta06a005.agf" 6 5 12>
+<name "Suisen" "!YA0290">
+"Anselm is Anselm.
+ Hahaha."
+#
+<sprite "ta06a006.agf" 6 5 12>
+<name "Suisen" "!YA0291">
+"Do you have any idea how hard we have it
+ because of that!?"
+#
+<sprite "ta05a014.agf" 2 4 12>
+<name "Kyuriha" "!FA0519">
+"Suisen, I understand.
+ Please calm down."
+#
+<sprite "ta06a008.agf" 6 5 12>
+<name "Suisen" "!YA0292">
+"Gunguskar is long and weird, but it's easy
+ to remember!
+ It's not fair!"
+#
+<sprite "ta05a015.agf" 2 4 12>
+<name "Kyuriha" "!FA0520">
+"Yes, yes.
+ I understand.
+ Have some tea."
+#
+<removesprite -1 11>
+\x2B\x78\x78

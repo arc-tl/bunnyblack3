@@ -1,0 +1,96 @@
+﻿<music 18>
+<background "ev055b00.agf" 10>
+<name "Meryl" "!HA0091">
+"Mm...mmmm...mmm...aah..."
+#
+<name "Marialis" "!LA0058">
+"You say this is reporting, but it's just
+ roleplaying."
+#
+<name "Rakia" "!ZC0234">
+"It is."
+#
+<name "Forzelotte" "!XA0116">
+"Meryl...
+ She used to be such a serious woman..."
+#
+<name "Meryl" "!HA0044">
+"W-Weren't you the one who gave me to him?
+ That's how I lost my virginity."
+#
+<name "Rakia" "!ZC0235">
+"But since then, you've been wholeheartedly
+ devoted to him."
+#
+<name "Meryl" "!HA0045">
+"D-Do you know how much suffering I endured
+ before I gave in?"
+#
+<name "Meryl" "!HA0046">
+"At the start, he really did just treat me 
+ like some thing."
+#
+<name "Darx">
+"Wasn't that to protect you?"
+#
+<name "Meryl" "!HA0047">
+"..."
+#
+<name "Darx">
+"And aren't you all the more lovely for what
+ you're doing now?"
+#
+<name "Meryl" "!HA0048">
+"Still..."
+#
+<name "Darx">
+"Anyway, I'm having fun with Meryl right now,
+ so can we deal with it later?"
+#
+<name "Forzelotte" "!XA0117">
+"If you insist.
+ Oh, I would like the same thing for myself
+ later."
+#
+<name "Marialis" "!LA0059">
+"Me too, please."
+#
+<name "Rakia" "!ZC0236">
+"I-I, um...
+ You can do it however you want."
+#
+<name "Forzelotte" "!XA0118">
+"Rakia, you truly know how to be hated by
+ other women."
+#
+<name "Rakia" "!ZC0237">
+"Huh?
+ R-Really?"
+#
+<name "Forzelotte" "!XA0119">
+"Do not single yourself out as the only good
+ girl. That's what they wrote in a magazine
+ Koze was reading."
+#
+<name "Marialis" "!LA0060">
+"Tell me what magazine that was.
+ I'd like to read it too."
+#
+...
+#
+<name "Meryl" "!HA0049">
+"Overlord."
+#
+<name "Darx">
+"Hm?"
+#
+<name "Meryl" "!HA0050">
+"Today I'm going to finish you off.
+ I'm going to squeeze you completely dry."
+#
+<name "Darx">
+"Yeah.
+#
+I enjoy myself with her.
+#
+\x78\x78

@@ -1,0 +1,185 @@
+﻿<music 41>
+<background "bg003a0.agf" 10>
+<name "Anderson" "!QB0210">
+"Him."
+#
+<name "Host" "!BC0213">
+"Ms. Anderson has chosen one of the ten."
+#
+<name "Host" "!BC0214">
+"Now, come on up, chosen one."
+#
+<name "Host" "!BC0215">
+"Okay, is the man Ms. Anderson chose actually
+ the murderer!?"
+#
+<name "Host" "!BC0216">
+"The correct answer in... 3... 2... 1..."
+#
+<name "Narrator" "!MB0168">
+"The correct answer will be announced in just
+ 90 seconds!"
+#
+90 seconds later...
+#
+<name "Anderson" "!QB0211">
+"Him."
+#
+<name "Host" "!BC0217">
+"Ms. Anderson has chosen one of the ten."
+#
+<name "Host" "!BC0218">
+"Now, come on up, chosen one."
+#
+<name "Host" "!BC0219">
+"Okay, is Ms. Anderson's choice really the
+ murderer we saw earlier?"
+#
+<name "Host" "!BC0220">
+"The correct answer in... 3... 2... 1..."
+#
+<name "Host" "!BC0221">
+"Too bad!
+ That was wrong!"
+#
+<name "Anderson" "!QB0212">
+"Noooo! How could this happen!?"
+#
+<name "Host" "!BC0222">
+"Actually, there's a reason she got it wrong."
+#
+<music 4>
+<background "bg009a0.agf" 10>
+<name "Boss" "!KB0297">
+"Okay, stop."
+#
+<name "Boss" "!KB0298">
+"What do you think about this?"
+#
+<name "Honest Audience" "!HC0201">
+"People are going to be mad cutting to a 
+ commerical after the countdown."
+#
+<name "Annoyed Audience" "!ZD0178">
+"It I could, I would've smashed the TV."
+#
+<name "Calm Audience" "!UA0217">
+"I'd change the channel out of anger, not stay
+ around for the right answer."
+#
+<name "Housewife Audience" "!SB0268">
+"I never have a good impression of those ads.
+ I know it's the TV station's fault though..."
+#
+<name "Confused Audience" "!RB0178">
+"I can let it pass if it happens once in a
+ while, but it happens so much."
+#
+<name "Angry Audience" "!ZE0300">
+"If they did that on a news show, I'd stop
+ watching entirely."
+#
+<name "Boss" "!KB0299">
+"Thank you for your feedback."
+#
+<name "Boss" "!KB0300">
+"This is called stringing people along.
+ Even though viewers hate it, it keeps being
+ used extensively."
+#
+<name "Calm Audience" "!UA0218">
+"It's better than it used to be though."
+#
+<name "Boss" "!KB0301">
+"Because even if they don't like it, it works!
+ A commercial that gives a bad impression is
+ a hundred times better than giving no
+ impression at all."
+#
+<name "Boss" "!KB0302">
+\x02\x88\x17\x0C\x30\x85\x51\xB9\x5B\x6B\x30\x88\x30\x63\x30\x66\x30\x6F\x30\x19\xFF\x10\xFF\xD2\x79\x0B\xFF\xB1\x03\x50\x30\x89\x30\x44\x30\x85\x5F\x63\x30\x66\x30\x57\x30\x7E\x30\x46\x30\x02\x30\x02 "　人間、好奇心には勝てません！」" 
+#
+<name "Housewife Audience" "!SB0269">
+"That's true..."
+#
+<name "Boss" "!KB0303">
+"Also, don't forget.
+ TV stations make shows to get people to watch
+ ads. The ads are more important than the
+ shows."
+#
+<name "Agreeing Audience" "!LB0192">
+"T-That's right."
+#
+<name "Boss" "!KB0304">
+"Stringing people along was invented to show
+ more commercials."
+#
+<name "Extreme Audience" "!ZF0153">
+"Rrr..."
+#
+<name "Boss" "!KB0305">
+"So what can we do about that!?"
+#
+<name "Boss" "!KB0306">
+"Heheheh...
+ I've got a plan!"
+#
+<name "Excited Audience" "!JA0174">
+"Oooh!"
+#
+<name "Extreme Audience" "!ZF0154">
+"Let's hear your idea!"
+#
+<name "Narrator" "!MB0169">
+"In 90 seconds!"
+#
+<name "Excited Audience" "!JA0175">
+"Hey!!!!"
+#
+<name "Extreme Audience" "!ZF0155">
+"Smash the screen!"
+#
+<name "Calm Audience" "!UA0219">
+"W-Wait. It's just 90 seconds.
+ Even if you rewind a little, that'd only be
+ 120 seconds.
+ Let's be patient!"
+#
+<name "Angry Audience" "!ZE0301">
+"Y-Yeah."
+#
+\x02\x88\x07\x00\x30\x19\xFF\x10\xFF\xD2\x79\x0B\xFF\xB1\x03\x8C\x5F
+#
+<name "Boss" "!KB0307">
+"Heheheh...
+ I've got a plan!"
+#
+<name "Excited Audience" "!JA0176">
+"Oooh!"
+#
+<name "Extreme Audience" "!ZF0156">
+"Let's hear your idea!"
+#
+<name "Narrator" "!MB0170">
+"Next week, I'll announce my unbelievable idea!
+ It'll amaze everyone!
+ Will our big guest be shocked too?
+ Stay tuned!"
+#
+<name "Excited Audience" "!JA0177">
+"Okay, kill him."
+#
+<name "Extreme Audience" "!ZF0157">
+"Yeah."
+#
+<name "Boss" "!KB0308">
+"Stop! Hey! I'm sorry!
+ I don't have any ideas!
+ Stop!
+ Please stop hitting me!"
+#
+I wonder if there's anything that we can do
+about this kind of ad nonsense.
+#
+\x78\x78

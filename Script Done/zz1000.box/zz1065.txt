@@ -1,0 +1,83 @@
+﻿<music 41>
+<background "bg003a0.agf" 10>
+<sprite "ta09a014.agf" 4 4 11>
+<name "Forzelotte" "!XA0256">
+"I've known for a while..."
+#
+<sprite "ta09a020.agf" 4 4 12>
+<name "Forzelotte" "!XA0257">
+"She has a bit of a father complex."
+#
+<sprite "ta09a021.agf" 4 4 12>
+<name "Forzelotte" "!XA0258">
+"I must do something about that."
+#
+<sprite "ta09a019.agf" 4 4 12>
+<name "Forzelotte" "!XA0259">
+"Yes, I must think of something."
+#
+<sprite "ta09a010.agf" 4 4 12>
+<name "Forzelotte" "!XA0262">
+"Or rather...
+ I don't think he would be able to resist
+ her temptations."
+#
+<sprite "ta09a009.agf" 4 4 12>
+<name "Forzelotte" "!XA0261">
+"No, he will reject her once or twice, but I
+ am not such a blushing virgin to expect
+ reason from below a man's belt."
+#
+<sprite "ta09a012.agf" 4 4 12>
+<name "Forzelotte" "!XA0263">
+"I must face this will all my resolve!"
+#
+<sprite "ta09a013.agf" 4 4 12>
+<name "Forzelotte" "!XA0264">
+"I will not allow it!"
+#
+<sprite "ta09a012.agf" 4 4 12>
+<name "Forzelotte" "!XA0265">
+"As a mother!
+ And as a woman!"
+#
+<sprite "ta09a011.agf" 4 4 12>
+<name "Forzelotte" "!XA0266">
+"I will not be defeated by my daughter!"
+#
+<removesprite -1 11>
+...
+#
+<name "Active Girl" "!HC0061">
+"Forze is scary..."
+#
+<name "Serious Girl" "!SB0143">
+"Does she not get along with Koze?"
+#
+<name "Relaxed Girl" "!RB0131">
+"I'm not sure."
+#
+<name "Thinking Girl" "!LB0103">
+"But if this keeps up..."
+#
+<name "Thoughtful Girl" "!GB0100">
+"S-Should we talk to daddy?"
+#
+<name "Active Girl" "!HC0062">
+"Maybe...
+ We should ask aun... 
+ We should ask Rakia."
+#
+<name "Serious Girl" "!SB0144">
+"Aah! You called her aunt!
+ She's gonna be mad!"
+#
+<name "Active Girl" "!HC0063">
+"I didn't say it!
+ I fixed myself!"
+#
+<name "Relaxed Girl" "!RB0132">
+"I-I don't think this is the time to be
+ fighting..."
+#
+\x78\x78

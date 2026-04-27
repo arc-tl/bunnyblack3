@@ -1,0 +1,106 @@
+﻿<music 12>
+<background "ev074a00.agf" 10>
+<name "Warrior Adventurer" "!ZF0052">
+"Okay, we're making good progress."
+#
+<name "Samurai Adventurer" "!ZG0024">
+"Yeah.
+ My instincts tell me we're almost to the 
+ end."
+#
+<name "Warrior Adventurer" "!ZF0053">
+"I see.
+ Okay then, I'll write my name in huge letters
+ on the wall."
+#
+<name "Samurai Adventurer" "!ZG0025">
+"Sound g... hm?"
+#
+<name "Warrior Adventurer" "!ZF0054">
+"Someone's there.
+ Be careful."
+#
+<name "Samurai Adventurer" "!ZG0026">
+"Yeah.
+ Rear guard, prepare for battle."
+#
+<name "Wizard Adventurer" "!LB0113">
+"I'm ready."
+#
+<name "Warrior Adventurer" "!ZF0055">
+"You in the back, don't get careless."
+#
+<name "Wizard Adventurer" "!LB0114">
+"Leave it to me."
+#
+<music 16>
+<background "ev049a00.agf" 10>
+<name "Ekate" "!TA0061">
+"Welcome."
+#
+<name "Samurai Adventurer" "!ZG0027">
+"...Huh?"
+#
+<name "Warrior Adventurer" "!ZF0056">
+"What's the matter!?
+ Slice her up!"
+#
+<name "Samurai Adventurer" "!ZG0028">
+"Shut up!
+ And put your weapons away!"
+#
+<name "Warrior Adventurer" "!ZF0057">
+"W-What?"
+#
+<name "Samurai Adventurer" "!ZG0029">
+"You back there, absolutely don't attack her!"
+#
+<name "Wizard Adventurer" "!LB0115">
+"Huh?"
+#
+<name "Ekate" "!TA0062">
+"Not many make it this far.
+ I was getting bored."
+#
+<name "Ekate" "!TA0063">
+"Heheheh.
+ Now, how shall I have you entertain me?"
+#
+<name "Samurai Adventurer" "!ZG0030">
+"Y-You over there.
+ Could you by chance be the beautiful wife of
+ the famous Overlord?"
+#
+<music 17>
+<name "Ekate" "!TA0064">
+".........Have a seat.
+ I'll get drinks.
+ I only have candy for snacks, do you mind?"
+#
+<name "Samurai Adventurer" "!ZG0031">
+"Thanks."
+#
+<name "Warrior Adventurer" "!ZF0058">
+"U-Um, what's going on here?"
+#
+<name "Samurai Adventurer" "!ZG0032">
+"Just do it. Don't fight it.
+ And compliment her.
+ Flatter her."
+#
+<name "Samurai Adventurer" "!ZG0033">
+"Do it if you don't want to die."
+#
+<name "Warrior Adventurer" "!ZF0059">
+"U-Um..."
+#
+<name "Samurai Adventurer" "!ZG0034">
+"It'll be okay. If you listen to her talk 
+ about her love life for about three hours,
+ she'll let us go. Think about it like a kind
+ of inescapable trap."
+#
+Ekate worked hard as the final line of 
+defense.
+#
+\x78\x78

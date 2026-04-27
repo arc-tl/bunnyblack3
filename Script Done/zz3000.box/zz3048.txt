@@ -1,0 +1,86 @@
+﻿<music 17>
+<background "ev087a01.agf" 10>
+<name "Sofia" "!ZB0455">
+"Mm...aah...ah...mmmmm..."
+#
+<name "Darx">
+"Recently... it feels like you're not even
+ pretending to wash me."
+#
+<name "Sofia" "!ZB0456">
+"Aah...ah...mmm... T-That's not...
+ Ahhh...ah...
+ That's not... ah... t-true...
+ Mmmmm..."
+#
+That's hard to believe.
+#
+<name "Sofia" "!ZB0457">
+"Ah! Aah! Ahh!
+ Ahhh...ah...aah...mmm..."
+#
+Well, I'm enjoying it, so she can do what she
+wants.
+#
+<name "Sofia" "!ZB0458">
+"Ah...ah...ah!
+ Aah...ah..."
+#
+I can tell from her movements that she's 
+close, but can't quite get there.
+#
+<name "Sofia" "!ZB0459">
+"Aaah...mmm...aah...mmm...mmmmm..."
+#
+After staying still the whole time, I suddenly
+thrust up.
+#
+<name "Sofia" "!ZB0460">
+"Aaah!"
+#
+Her body is surprised and delighted by the
+unexpected attack.
+#
+<name "Sofia" "!ZB0461">
+"Aaaaah!
+ Aah!
+ Aaaaaahhhhhhhhh!!!"
+#
+She gusts and comes.
+#
+Drawn by it, I start to come too.
+#
+<background "ev087a02.agf" 10>
+<name "Sofia" "!ZB0462">
+"Ah...aah...aah...
+ Ahhh...ahhh..."
+#
+<name "Darx">
+"Are you okay?"
+#
+<name "Sofia" "!ZB0463">
+"Ahhh... Y-Yes...
+ Y-You suddenly moved..."
+#
+<name "Darx">
+"Sorry."
+#
+<name "Sofia" "!ZB0464">
+"Aaah..."
+#
+<name "Darx">
+"When the echoes settle, please wash me."
+#
+<name "Sofia" "!ZB0465">
+"O-Okay."
+#
+That's what she said, but then she started to
+go again.
+#
+<name "Sofia" "!ZB0466">
+"Please."
+#
+I wasn't able to escape the bathroom so
+easily.
+#
+\x78\x78

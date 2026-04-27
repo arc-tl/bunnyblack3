@@ -1,0 +1,148 @@
+﻿<music 14>
+<background "ev028a00.agf" 10>
+<name "Kyuriha" "!FA0032">
+"Thank you for your invitation to be here 
+ today."
+#
+<name "Darx">
+"It's nothing. 
+ I had lots I wanted to talk to you about
+ too."
+#
+<name "Darx">
+"Also, I couldn't get everything needed for
+ this tea ceremony.
+ Sorry, but you'll have to forgive me."
+#
+<name "Kyuriha" "!FA0033">
+"I am not so particular as to be concerned
+ about proper etiquette.
+ Tea is meant to be enjoyed."
+#
+<name "Darx">
+"I see.
+ Thanks."
+#
+<name "Kyuriha" "!FA0034">
+"There is much I'd like to speak with you
+ about, but first, let me serve you."
+#
+She makes tea in the eastern style.
+#
+I accept it, and we talk at length.
+#
+She's quite the conversationalist.
+#
+She doesn't just take information from me, 
+but makes sure the conversation goes in both
+directions.
+#
+<name "Darx">
+"Speaking of which, I've heard Celestia and
+ the Netherworld were at war for a long time,
+ but who was winning?"
+#
+<name "Kyuriha" "!FA0035">
+"Let's see...
+ There are many opinions, but I believe in my
+ position, I am obligated to say that Celestia
+ was."
+#
+<name "Darx">
+"Hahahaha.
+ I guess you'd have to say that.
+ Wrong question then."
+#
+<name "Kyuriha" "!FA0036">
+"Hahaha.
+ In truth, there were battles everywhere.
+ It's quite difficult to say that either side
+ was winning."
+#
+<name "Darx">
+"Oh?"
+#
+<name "Kyuriha" "!FA0037">
+"Then the dragons joined in the middle of it,
+ and everything became even more chaotic."
+#
+<name "Darx">
+"Then you teamed up to fight them off."
+#
+<name "Kyuriha" "!FA0038">
+"Yes, but the threat of the dragons seems
+ beyond belief, and the details are not 
+ readily available to one as inexperienced as
+ I am."
+#
+<name "Darx">
+"That kind of thing, huh?"
+#
+<name "Kyuriha" "!FA0039">
+"It was a long time ago."
+#
+This was set up as an excuse for exchanging
+information, but I think it's also a way for
+her to get her measure of me.
+#
+Well, I don't really care if she likes me or
+not.
+#
+<name "Kyuriha" "!FA0040">
+"Pardon me for asking, but have you taken tea
+ like this before?"
+#
+<name "Darx">
+"Am I doing something wrong then?"
+#
+<name "Kyuriha" "!FA0041">
+"No, it would be rude to say anything was
+ wrong.
+ You seem quite comfortable with it."
+#
+<name "Darx">
+"Back when I was an adventurer, I knew a lot 
+ of people from the east."
+#
+<name "Kyuriha" "!FA0042">
+"I see."
+#
+<name "Darx">
+"Well, they were all unique too.
+ I tried to look into how to do this right.
+ Not sure I figured it all out though."
+#
+<name "Kyuriha" "!FA0043">
+"Haha.
+ Your manners are plenty sufficient already."
+#
+<name "Kyuriha" "!FA0044">
+"Besides, a tea ceremony is not meant to be an
+ excuse to drink tea in some formal manner."
+#
+<name "Kyuriha" "!FA0045">
+"This is for getting to know yourself, to 
+ learn, and to teach others about you."
+
+#
+<name "Kyuriha" "!FA0046">
+"Even if it is rude, it is important to be
+ hospitable, and nothing is more important
+ than earnestly trying."
+#
+<name "Kyuriha" "!FA0047">
+"And so, I must beg your own forgiveness of
+ my own poor manners."
+#
+<name "Kyuriha" "!FA0048">
+"Hahaha.
+ Darx, I look forward to more conversations
+ with you."
+#
+Apparently I made a good first impression.
+#
+Or maybe it's too early to think that.
+#
+Well, she's friendlier than Macdo at any rate.
+#
+\x78\x78

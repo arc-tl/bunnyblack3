@@ -1,0 +1,82 @@
+﻿<music 28>
+<background "bg027a0.agf" 10>
+<sprite "ta07a001.agf" 4 4 11>
+<name "Wadatsumi" "!MA0046">
+"Wahahaha!
+ My name is Wadatsumi.
+ Celestia's ow! Ow! Hey! Quit hitting me!
+ This is my show! My show!"
+#
+<name "Darx">
+"You'd show your face now, you small fry!?"
+#
+<removesprite -1 11>
+<sprite "ta15a008.agf" 4 4 11>
+<name "Marialis" "!LA0055">
+"You really showed up without any foreshadowing
+ at all."
+#
+<removesprite -1 11>
+<sprite "ta07a004.agf" 4 4 11>
+<name "Wadatsumi" "!MA0047">
+"There was foreshadowing.
+ A few hints."
+#
+<removesprite -1 11>
+<sprite "ta14a007.agf" 4 4 11>
+<name "Paniverna" "!DA0055">
+"Too little to actually notice."
+#
+<removesprite -1 11>
+<name "Izana" "!AA0020" "ka28a000.agf">
+"Even I had more screentime.
+ Pfft."
+#
+<sprite "ta07a006.agf" 4 4 11>
+<name "Wadatsumi" "!MA0048">
+"Ngh!
+ Unacceptable!
+ This is unacceptable!"
+#
+<removesprite -1 11>
+<name "Ultinia" "!EA0022" "ka29a000.agf">
+"Aah, yes, yes."
+#
+<sprite "ta07a008.agf" 4 4 11>
+<name "Wadatsumi" "!MA0049">
+"Damn it...
+ I'm so strong and so great..."
+#
+<removesprite -1 11>
+<sprite "ta07a008.agf" 2 4 11>
+<sprite "ta06a004.agf" 6 5 11>
+<name "Suisen" "!YA0278">
+"Y-You can do it, Wadatsumi."
+#
+<sprite "ta07a009.agf" 2 4 12>
+<name "Wadatsumi" "!MA0050">
+"You didn't even fight your best until after I
+ was defeated.
+ I thought I was the last boss!"
+#
+<sprite "ta06a011.agf" 6 5 12>
+<name "Suisen" "!YA0279">
+"I-I, um... I had the role of passing that
+ information to Darx."
+#
+<removesprite 6 11>
+<removesprite -1 11>
+<sprite "ta07a002.agf" 4 4 11>
+<name "Wadatsumi" "!MA0051">
+"Ooh...
+ I'm treated so badly just because I'm a man!"
+#
+<sprite "ta07a010.agf" 4 4 12>
+<name "Wadatsumi" "!MA0052">
+"But I won't give in!
+ I refuse to give in!"
+#
+<removesprite -1 11>
+In the end, he was nothing.
+#
+\x78\x78

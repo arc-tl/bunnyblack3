@@ -1,0 +1,108 @@
+﻿<music 10>
+<background "ev079a00.agf" 10>
+<name "Farren" "!FB0165">
+"Ao, how's the work coming?"
+#
+<name "Ao" "!WA0157">
+"It's getting there."
+#
+<name "Farren" "!FB0166">
+"What about you, Tamaga?"
+#
+<name "Tamaga" "!PB0120">
+"No problems."
+#
+<name "Farren" "!FB0167">
+"Lotta, quit playing around."
+#
+<name "Lotta" "!HB0097">
+"Hey. Why is it so obvious to you I'm playing?"
+#
+<name "Farren" "!FB0168">
+"Are you not?"
+#
+<name "Lotta" "!HB0098">
+"Maybe I am, but..."
+#
+<name "Farren" "!FB0169">
+"Don't slack off.
+ Work hard.
+ If this doesn't get finished, the Overlord
+ will be in trouble."
+#
+<name "Lotta" "!HB0099">
+"Okaaaay."
+#
+<name "Raffino" "!EB0093">
+"Miss Farren... I mean, Farren, the temporary
+ gate is finished.
+ Can you check it?"
+#
+<name "Farren" "!FB0170">
+"Yes, but since when am I in charge of that?"
+#
+<name "Raffino" "!EB0094">
+"Isn't it for security?"
+#
+<name "Farren" "!FB0171">
+"Security..."
+#
+<name "Raffino" "!EB0095">
+"I mean, if you put one of them in charge, 
+ who is it?"
+#
+<name "Ish" "!AB0087">
+"Hahahaha!"
+#
+<name "Yahnu" "!NB0062">
+"Hey! No playing around!"
+#
+<name "Ish" "!AB0088">
+"I'm not playing. 
+ See? All done!"
+#
+<name "Yahnu" "!NB0063">
+"...Finished, you say."
+#
+<name "Nein" "!QA0120">
+"I made most of it though."
+#
+<name "Hibi" "!DB0053">
+"Um..."
+#
+<name "Yahnu" "!NB0064">
+"What?"
+#
+<name "Hibi" "!DB0054">
+"You built that in the wrong place."
+#
+<name "Yahnu" "!NB0065">
+"Huh?"
+#
+<name "Ish" "!AB0089">
+"Huh?"
+#
+<name "Nein" "!QA0121">
+"You're right!
+ Ah! I was looking at the map upside down!"
+#
+<name "Farren" "!FB0172">
+".........That's a difficult question."
+#
+<name "Raffino" "!EB0096">
+"Right?"
+#
+<name "Raffino" "!EB0097">
+"Besides, it seems like you're working harder
+ than anybody."
+#
+<name "Farren" "!FB0173">
+"I-I didn't mean to..."
+#
+<name "Raffino" "!EB0098">
+"Let's all work hard for the Overlord."
+#
+<name "Farren" "!FB0174">
+"Yes."
+#
+\x78\x78

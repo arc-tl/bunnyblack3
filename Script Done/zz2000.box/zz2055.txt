@@ -1,0 +1,85 @@
+﻿<music 3>
+<background "bg010a0.agf" 10>
+<name "Darx">
+"You're always upside down."
+#
+<name "Darx">
+"If I come inside, the semen won't spill out
+ at all."
+#
+<sprite "ta22a010.agf" 4 4 11>
+<name "Nein" "!QA0084">
+"W-Why are you bringing that up?"
+#
+<name "Darx">
+"No reason.
+ Don't worry about it."
+#
+<sprite "ta22a009.agf" 4 4 12>
+<name "Nein" "!QA0085">
+"There's no way.
+ I have to worry."
+#
+<name "Darx">
+"I see.
+ Then...
+ Oh, not here."
+#
+<removesprite -1 11>
+<music 17>
+<background "ev066a00.agf" 10>
+I drag her to the dungeon and start having
+sex with her.
+#
+<name "Darx">
+"Coming in the mouth while looking at a
+ pussy."
+#
+<name "Darx">
+"Hmmm..."
+#
+<name "Nein" "!QA0086">
+"Mmgh...
+ Why is it always in this position?"
+#
+<name "Darx">
+"You're the only one who can do this position
+ standing up."
+#
+<name "Darx">
+"Or do you not like it?"
+#
+<name "Nein" "!QA0087">
+"Ooh...
+ Thank you."
+#
+<name "Darx">
+"Well said.
+ Let's do it again."
+#
+<name "Nein" "!QA0088">
+"Aah...
+ N-Next time, not in my mouth, um..."
+#
+<name "Darx">
+"I understand."
+#
+I lick the pussy in front of me.
+#
+<name "Darx">
+"Next time will be here."
+#
+<name "Nein" "!QA0089">
+"Mm...aah... 
+ Y-Yes..."
+#
+I enjoy her pussy and mouth.
+#
+<name "Company Maid" "!PC0117">
+"Um, Overlord, we would appreciate it if you
+ didn't do that in the dungeon."
+#
+<name "Darx">
+"Sorry."
+#
+\x78\x78

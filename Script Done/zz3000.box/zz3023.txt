@@ -1,0 +1,178 @@
+﻿<music 8>
+<background "ev029a00.agf" 10>
+<name "Miartei" "!SA0177">
+"Aaah!
+ It's coming this way!"
+#
+<name "Suisen" "!YA0058">
+"It is formidible."
+#
+<name "Kyuriha" "!FA0216">
+"Grrrrr!"
+#
+<name "Suisen" "!YA0059">
+"Now what?"
+#
+<name "Kyuriha" "!FA0219">
+"We don't have the weapons for this.
+ We have to run away for now."
+#
+<name "Suisen" "!YA0060">
+"I don't think we'll get away so easily."
+#
+<name "Kyuriha" "!FA0220">
+"...Which way's the Flame Lord's training
+ grounds?"
+#
+<name "Suisen" "!YA0061">
+"It's a little more east, but...
+ No way."
+#
+<name "Kyuriha" "!FA0221">
+"We'll lure it there, and then run."
+#
+<name "Suisen" "!YA0062">
+"I knew you could do it.
+ Mia, we've got a plan!
+ Just keep luring it this way."
+#
+<name "Miartei" "!SA0178">
+"D-Don't be ridiculous!"
+#
+<background "ev029b00.agf" 10>
+<music 3>
+<background "bg010a0.agf" 10>
+<sprite "ta03a005.agf" 4 4 11>
+<name "Miartei" "!SA0179">
+"That's what my childhood was like."
+#
+<name "Darx">
+"...Kyuriha tells a different story."
+#
+<sprite "ta03a019.agf" 4 4 12>
+<name "Miartei" "!SA0180">
+"Aah...
+ She's buried her childhood exploits."
+#
+<name "Darx">
+"Really?"
+#
+<sprite "ta03a020.agf" 4 4 12>
+<name "Miartei" "!SA0181">
+"Yes, ever since a certain incident that
+ happened when she was a little older."
+#
+<name "Darx">
+"...Might it have involved a dragon?"
+#
+<sprite "ta03a014.agf" 4 4 12>
+<name "Miartei" "!SA0182">
+"You know about it?"
+#
+<sprite "ta03a015.agf" 4 4 12>
+<name "Miartei" "!SA0183">
+"A dragon had attacked Celestia."
+#
+<sprite "ta03a016.agf" 4 4 12>
+<name "Miartei" "!SA0184">
+"We just happened to be in its way."
+#
+<sprite "ta03a014.agf" 4 4 12>
+<name "Miartei" "!SA0185">
+"Maybe it would've been better if she had been
+ knocked out quickly like Suisen and me, but
+ she apparently suffered some deep trauma from
+ hanging on so long."
+#
+<name "Darx">
+"And that changed her?"
+#
+<sprite "ta03a020.agf" 4 4 12>
+<name "Miartei" "!SA0186">
+"Well, I think it's one of the reasons, but
+ it's not the main one."
+#
+<name "Darx">
+"Huh?"
+#
+<sprite "ta03a002.agf" 4 4 12>
+<name "Miartei" "!SA0187">
+"She always liked challenging strong enemies
+ and difficulties."
+#
+<sprite "ta03a003.agf" 4 4 12>
+<name "Miartei" "!SA0188">
+"So even if she is now afraid of dragons, I
+ don't think that would be enough to change 
+ her."
+#
+<name "Darx">
+"I see."
+#
+<sprite "ta03a014.agf" 4 4 12>
+<name "Miartei" "!SA0189">
+"She's settled down now... Her past is buried,
+ but the memories must still fill her heart.
+ I heard it's because she ran away from
+ marriage."
+#
+<name "Darx">
+"Marriage?"
+#
+<sprite "ta03a019.agf" 4 4 12>
+<name "Miartei" "!SA0190">
+"Bloodlines are very important in Celestia,
+ so it's not uncommon for us. Well, it's just
+ a promise between families. Sometimes you
+ don't even meet until the wedding."
+#
+<name "Darx">
+"I see.
+ Then do you have a fiance too?"
+#
+<sprite "ta03a020.agf" 4 4 12>
+<name "Miartei" "!SA0191">
+"Yes, but I never met him."
+#
+<sprite "ta03a023.agf" 4 4 12>
+<name "Miartei" "!SA0192">
+"You're more important than a fiance like
+ that."
+#
+<name "Darx">
+"Thank you, but I still feel like I wronged
+ him."
+#
+<sprite "ta03a012.agf" 4 4 12>
+<name "Miartei" "!SA0193">
+"That bothers you?"
+#
+<name "Darx">
+"I guess.
+ I'd be mad if I had a fiancee who some other
+ man laid a hand on."
+#
+<sprite "ta03a019.agf" 4 4 12>
+<name "Miartei" "!SA0194">
+"Then you've made quite a few men your enemies,
+ haven't you?"
+#
+<name "Darx">
+"That's true."
+#
+<removesprite -1 11>
+No point in worrying about it now.
+#
+<name "Darx">
+"Well, if Kyuriha really has settled down
+ because she escaped that marriage..."
+#
+<name "Darx">
+"Maybe better not to bring it up."
+#
+<sprite "ta03a019.agf" 4 4 11>
+<name "Miartei" "!SA0195">
+"It worries me, so please do."
+#
+<removesprite -1 11>
+\x2B\x78\x78

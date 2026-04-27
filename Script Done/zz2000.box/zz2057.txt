@@ -1,0 +1,35 @@
+﻿<music 3>
+<background "bg010a0.agf" 10>
+<name "Darx">
+"Sorry.
+ Maybe this question is over the line."
+#
+<sprite "ta22a003.agf" 4 4 11>
+<name "Nein" "!QA0090">
+"What?"
+#
+<name "Darx">
+"How do you go to the bathroom?"
+#
+<sprite "ta22a004.agf" 4 4 12>
+<name "Nein" "!QA0091">
+"Like this...
+ I turn around and do it normally."
+#
+<name "Darx">
+"..."
+#
+<sprite "ta22a016.agf" 4 4 12>
+<name "Nein" "!QA0092">
+"I-Is that bad?"
+#
+<name "Darx">
+"I was imagining it would like, fly or
+ something!"
+#
+<sprite "ta22a108.agf" 4 4 12>
+<name "Nein" "!QA0093">
+"D-Don't imagine that!"
+#
+<removesprite -1 11>
+\x2B\x78\x78

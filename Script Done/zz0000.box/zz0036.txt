@@ -1,0 +1,28 @@
+﻿<music 11>
+<background "bg013a0.agf" 10>
+<name "Aware Citizen" "!ZD5026">
+"If you think an Andes melon comes from the
+ Andes, you'd be wrong."
+#
+<name "Demon Citizen" "!KB5016">
+"Really?"
+#
+<name "Aware Citizen" "!ZD5027">
+"They were named anshindesu melons, or worry
+ free melons, but they cut out the middle and
+ just left an-des melon."
+#
+<name "Demon Citizen" "!KB5017">
+"Oh? You know a lot."
+#
+<name "Aware Citizen" "!ZD5028">
+"I saw it on TV."
+#
+<name "Demon Citizen" "!KB5018">
+"That's from the completely wrong era."
+#
+<name "Aware Citizen" "!ZD5029">
+"Hahahaha.
+ At least as far as melon nomenclature goes."
+#
+\x78\x78

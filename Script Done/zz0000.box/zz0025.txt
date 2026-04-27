@@ -1,0 +1,269 @@
+﻿<music 41>
+<background "bg003a0.agf" 10>
+<sprite "ta11a010.agf" 4 4 11>
+<name "Kozelotte" "!NA0127">
+"Um, me.
+ Doesn't it feel like they took it too far?"
+#
+<sprite "ta11a011.agf" 4 4 12>
+<name "Kozelotte" "!NA0128">
+"Not exactly an Electra complex...
+ More like just a pervert..."
+#
+<sprite "ta11a010.agf" 4 4 12>
+<name "Kozelotte" "!NA0129">
+"A complete pervert."
+#
+<sprite "ta11a016.agf" 4 4 12>
+<name "Kozelotte" "!NA0130">
+"I think it'd be a little more... like a
+ romance."
+#
+<removesprite -1 11>
+<music 49>
+<background "ev048b00.agf" 10>
+<name "Kozelotte" "!NA0131">
+"Yes, like this.
+ From behind."
+#
+<name "Kozelotte" "!NA0132">
+"Aah..."
+#
+<background "ev048b01.agf" 10>
+<name "Kozelotte" "!NA0133">
+"My father's breath...
+ His hot thing..."
+#
+<name "Kozelotte" "!NA0134">
+"Aah!"
+#
+<name "Forzelotte" "!XA0267">
+"Enough with the delusions!"
+#
+<music 41>
+<background "bg003a0.agf" 10>
+<sprite "ta11a010.agf" 4 4 11>
+<name "Kozelotte" "!NA0135">
+"Ow!
+ W-What are you doing, Mom!?"
+#
+<removesprite -1 11>
+<sprite "ta11a010.agf" 2 5 11>
+<sprite "ta09a009.agf" 6 4 11>
+<name "Forzelotte" "!XA0268">
+"Do not give me that.
+ If someone's daughter is going to pleasure
+ herself in public, of course it is the 
+ mother's duty to put a stop to it."
+#
+<sprite "ta11a011.agf" 2 5 12>
+<name "Kozelotte" "!NA0136">
+"No way.
+ I wasn't ple... huh?"
+#
+<sprite "ta09a016.agf" 6 4 12>
+<name "Forzelotte" "!XA0269">
+"If you weren't even conscious of it... that's
+ all the more dangerous."
+#
+<sprite "ta11a010.agf" 2 5 12>
+<name "Kozelotte" "!NA0137">
+"T-That's weird."
+#
+<sprite "ta09a020.agf" 6 4 12>
+<name "Forzelotte" "!XA0270">
+"And you're so well-behaved in school too..."
+#
+<sprite "ta11a012.agf" 2 5 12>
+<name "Kozelotte" "!NA0138">
+"I can't hurt my father's reputation."
+#
+<sprite "ta09a021.agf" 6 4 12>
+<name "Forzelotte" "!XA0271">
+"I do acknowledge your spirit."
+#
+<sprite "ta09a010.agf" 6 4 12>
+<name "Forzelotte" "!XA0272">
+"In any case, do not view Darx romantically."
+#
+<sprite "ta11a007.agf" 2 5 12>
+<name "Kozelotte" "!NA0139">
+"No way."
+#
+<sprite "ta09a009.agf" 6 4 12>
+<name "Forzelotte" "!XA0273">
+".........Your gentle mother can become quite
+ angry."
+#
+<sprite "ta11a016.agf" 2 5 12>
+<name "Kozelotte" "!NA0140">
+"I don't want to hear that from someone who
+ gets busy with him every chance she gets."
+#
+<sprite "ta09a011.agf" 6 4 12>
+<name "Forzelotte" "!XA0274">
+"What is wrong with a couple getting busy!?
+ And we only do it away from prying eyes!"
+#
+<sprite "ta11a010.agf" 2 5 12>
+<name "Kozelotte" "!NA0141">
+"You're the only two who think you are."
+#
+<sprite "ta09a014.agf" 6 4 12>
+<name "Forzelotte" "!XA0275">
+"Ngh..."
+#
+<sprite "ta11a011.agf" 2 5 12>
+<name "Kozelotte" "!NA0142">
+"As your daughter, I've learned all kinds of
+ things I wish I never knew."
+#
+<sprite "ta09a016.agf" 6 4 12>
+<name "Forzelotte" "!XA0276">
+"S-Such as?"
+#
+<sprite "ta11a010.agf" 2 5 12>
+<name "Kozelotte" "!NA0143">
+"Lotion play in the bath."
+#
+<sprite "ta09a019.agf" 6 4 12>
+<name "Forzelotte" "!XA0277">
+"Ngh..."
+#
+<sprite "ta11a011.agf" 2 5 12>
+<name "Kozelotte" "!NA0144">
+"Striptease in the dressing room."
+#
+<sprite "ta09a020.agf" 6 4 12>
+<name "Forzelotte" "!XA0278">
+"Nnngggghh..."
+#
+<sprite "ta11a010.agf" 2 5 12>
+<name "Kozelotte" "!NA0145">
+"Bondage in the bathroom."
+#
+<sprite "ta09a016.agf" 6 4 12>
+<name "Forzelotte" "!XA0279">
+"Urrnnnnggh..."
+#
+<sprite "ta11a011.agf" 2 5 12>
+<name "Kozelotte" "!NA0146">
+"The storeroom.
+ That was especially hardcore, wasn't it?"
+#
+<sprite "ta09a022.agf" 6 4 12>
+<name "Forzelotte" "!XA0280">
+"T-That's..."
+#
+<sprite "ta11a010.agf" 2 5 12>
+<name "Kozelotte" "!NA0147">
+"Newlywed roleplay in the kitchen."
+#
+<sprite "ta09a019.agf" 6 4 12>
+<name "Forzelotte" "!XA0281">
+"N-Nnngh..."
+#
+<sprite "ta11a007.agf" 2 5 12>
+<name "Kozelotte" "!NA0148">
+"There's way too much way outside the bed!"
+#
+<sprite "ta09a017.agf" 6 4 12>
+<name "Forzelotte" "!XA0282">
+"T-That's because I knew that you were peeping
+ on us in bed..."
+#
+<sprite "ta11a008.agf" 2 5 12>
+<name "Kozelotte" "!NA0149">
+"You couldn't take it and you just did it all
+ over the place!"
+#
+<sprite "ta11a009.agf" 2 5 12>
+<name "Kozelotte" "!NA0150">
+"How dare you criticize what I do!?"
+#
+<sprite "ta09a014.agf" 6 4 12>
+<name "Forzelotte" "!XA0283">
+"Urgh!"
+#
+<sprite "ta11a012.agf" 2 5 12>
+<name "Kozelotte" "!NA0151">
+"Well, I'm personally happy to see all the
+ kinds of things that he enjoys, so I hope you
+ keep up all your little games all over the
+ place."
+#
+<sprite "ta09a018.agf" 6 4 12>
+<name "Forzelotte" "!XA0284">
+"I think you've said enough!"
+#
+<sprite "ta11a017.agf" 2 5 12>
+<name "Kozelotte" "!NA0152">
+"Oh, and I wonder if he'd get excited by having
+ his daughter watch."
+#
+<sprite "ta11a011.agf" 2 5 12>
+<name "Kozelotte" "!NA0153">
+".........He wouldn't."
+#
+<sprite "ta09a014.agf" 6 4 12>
+<name "Forzelotte" "!XA0285">
+"You know better."
+#
+<sprite "ta11a001.agf" 2 5 12>
+<name "Kozelotte" "!NA0154">
+"Let's both keep what was said here secret from
+ him."
+#
+<sprite "ta09a001.agf" 6 4 12>
+<name "Forzelotte" "!XA0286">
+"V-Very well."
+#
+<sprite "ta09a016.agf" 6 4 12>
+<name "Forzelotte" "!XA0287">
+"..."
+#
+<name "Forzelotte" "!XA0288">
+"In any case, please try not to view Darx as a
+ man.
+ I will be more cautious as well."
+#
+<sprite "ta11a004.agf" 2 5 12>
+<name "Kozelotte" "!NA0155">
+"I don't know if I can, but I'll try."
+#
+<sprite "ta09a005.agf" 6 4 12>
+<name "Forzelotte" "!XA0289">
+"You misbehaving honor student."
+#
+<sprite "ta11a005.agf" 2 5 12>
+<name "Kozelotte" "!NA0156">
+"I am my mother's daughter."
+#
+<removesprite -1 11>
+...
+#
+<name "Darx">
+"..."
+#
+<name "Darx">
+"In front of my actual daughter is no, but it's
+ fine if it's an illusion!"
+#
+<sprite "ta11a112.agf" 4 4 11>
+<name "Kozelotte" "!NA0157">
+"Eek! You sex monster!
+ Attack me too!"
+#
+<removesprite -1 11>
+<sprite "ta09a016.agf" 4 4 11>
+<name "Forzelotte" "!XA0290">
+"So unfortunate...
+ It really was bad for your upbringing to have
+ done that in so many places."
+#
+<sprite "ta09a020.agf" 4 4 12>
+<name "Forzelotte" "!XA0291">
+"I have regrets."
+#
+<removesprite -1 11>
+\x2B\x78\x78

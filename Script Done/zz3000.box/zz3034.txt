@@ -1,0 +1,44 @@
+﻿<music 4>
+<background "bg009a0.agf" 10>
+<sprite "ta05a018.agf" 4 4 11>
+<name "Kyuriha" "!FA0388">
+"Aah! Darx!"
+#
+<removesprite -1 11>
+<name "Impressed Angel" "!QB0043">
+"That's Kyuriha..."
+#
+<name "Surprised Angel" "!WB0028">
+"The Overlord is super incredible."
+#
+<name "Knowledgable Angel" "!TC0006">
+"Yeah.
+ Just Miartei is impressive, but Kyuriha too."
+#
+<name "Impressed Angel" "!QB0044">
+"...You have to respect it."
+#
+<name "Surprised Angel" "!WB0029">
+"Yes, truly."
+#
+<name "Knowledgable Angel" "!TC0007">
+"Yeah."
+#
+<sprite "ta05a017.agf" 4 4 11>
+<name "Kyuriha" "!FA0389">
+"I don't know what it is that you ladies are
+ exactly talking about, but...
+ You know, yes?"
+#
+<name "Impressed Angel" "!QB0045">
+"Yes, we won't say anything."
+#
+<name "Surprised Angel" "!WB0030">
+"It's gone from our memories."
+#
+<sprite "ta05a019.agf" 4 4 12>
+<name "Kyuriha" "!FA0390">
+"Good."
+#
+<removesprite -1 11>
+\x2B\x78\x78

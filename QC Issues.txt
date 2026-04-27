@@ -1,0 +1,7 @@
+skill up names are inconsistent with status screen names (magic vs magic attack, magic defense vs resistance)
+
+some untranslated text in the unit recovery dialogue: http://puu.sh/KDXOB/993747de54.jpg
+--THIS IS TECHNICAL EXE ISSUE, UNSOLVABLE WITHOUT TECHNICAL ASSISTANCE--
+
+MILLENIANA RECRUITMENT
+--This is bugged in the base game. Recruitment silently fails if resistance is already disbanded. Modifications were made to the recruitment script, and it seems to work correctly now, BUT should be tested a bit more because it's not fully understand why it failed, or why it works. Specifically, the internal non-human readable instructions for this event's triggers were different from other similar events and were changed to be identical to others.

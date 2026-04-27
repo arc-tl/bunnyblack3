@@ -1,0 +1,77 @@
+﻿<music 11>
+<background "bg008a0.agf" 10>
+<name "Announcing Citizen" "!BC0193">
+"Okay, it's time for the fishing tournament.
+ I've personally been counting down the
+ days."
+#
+<name "Announcing Citizen" "!BC0194">
+"I hope we can make this a regular event." 
+#
+<name "Announcing Citizen" "!BC0195">
+"Now then, I may be the announcer, and
+ fishing myself, but my skills are lacking."
+#
+<name "Announcing Citizen" "!BC0196">
+"Yes, I'm just a demon announcer who loves to
+ fish. You may say that loving to fish but
+ being bad at it is... oh?
+ My line... My rod..."
+#
+<name "Announcing Citizen" "!BC0197">
+"Ooooh!
+ N-No way!
+ It's a bite!"
+#
+<name "Announcing Citizen" "!BC0198">
+"A bite! A bite! A biiiiite!"
+#
+<name "Announcing Citizen" "!BC0199">
+"Ooooh!
+ I-I can't believe it!
+ It's a big one!
+ A big one!"
+#
+<name "Announcing Citizen" "!BC0200">
+"I'm sure of it!"
+#
+<name "Announcing Citizen" "!BC0201">
+"This may the biggest catch in all of my
+ fishing life!"
+#
+<name "Announcing Citizen" "!BC0202">
+"I have to forget about announcing and
+ concentrate on this battle!"
+#
+<name "Announcing Citizen" "!BC0203">
+"Oooooooohhhhhhhhh!"
+#
+<name "Announcing Citizen" "!BC0204">
+"I-I-I did it!
+ I don't know aht kind of fish this is, but
+ it's 72 cm!
+ It's a whopper!"
+#
+<name "Announcing Citizen" "!BC0205">
+"I'm so moved.
+ I'm so moved I can't see what lies before
+ me!"
+#
+...
+#
+<name "Watching Citizen" "!LB0185">
+"Huh?
+ The way things are going, won't it be the
+ size of a goldfish?"
+#
+<name "Participating Citizen" "!GB0278">
+"Fishing is a drama without purpose.
+ And look at the fight now.
+ The Overlord's gotten super serious."
+#
+<name "Watching Citizen" "!LB0186">
+"Oh, so he likes fishing too?"
+#
+The fishing tournament was a success.
+#
+\x78\x78

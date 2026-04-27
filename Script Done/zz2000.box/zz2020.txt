@@ -1,0 +1,41 @@
+﻿<music 11>
+<background "bg013a0.agf" 10>
+<name "Thinking Citizen" "!KB0278">
+"Do you have anything for the bazaar?"
+#
+<name "Participating Citizen" "!BC0182">
+"Hmm, I need to check."
+#
+<name "Thinking Citizen" "!KB0279">
+"How about this?"
+#
+<name "Participating Citizen" "!BC0183">
+"No, I'm borrowing that.
+ I can't sell it at a bazaar."
+#
+<name "Thinking Citizen" "!KB0280">
+"Then what about this?"
+#
+<name "Participating Citizen" "!BC0184">
+"No way.
+ That's part of my dark past."
+#
+<name "Thinking Citizen" "!KB0281">
+"Now I'm curious."
+#
+<name "Participating Citizen" "!BC0185">
+"If you find out, our friendship will be done
+ for. If you are that determined to tear apart
+ something that important, my demon eye will
+ not be able to remain silent."
+#
+<name "Thinking Citizen" "!KB0282">
+"You... have a demon eye?"
+#
+<name "Participating Citizen" "!BC0186">
+"That's more or less how it goes.
+ Just put it down and keep looking."
+#
+The bazaar was a success.
+#
+\x78\x78

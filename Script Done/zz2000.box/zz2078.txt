@@ -1,0 +1,31 @@
+﻿<music 11>
+<background "bg008a0.agf" 10>
+<sprite "ta03a004.agf" 4 4 11>
+<name "Miartei" "!SA0147">
+"Living here isn't that much different from
+ Celestia."
+#
+<sprite "ta03a005.agf" 4 4 12>
+<name "Miartei" "!SA0148">
+"Well... there's nothing to be done about
+ there being so many demons."
+#
+<sprite "ta03a012.agf" 4 4 12>
+<name "Miartei" "!SA0149">
+"..."
+#
+<sprite "ta03a013.agf" 4 4 12>
+<name "Miartei" "!SA0150">
+"Why did I used to hate demons so much
+ anyway?"
+#
+<sprite "ta03a014.agf" 4 4 12>
+<name "Miartei" "!SA0151">
+"..."
+#
+<sprite "ta03a004.agf" 4 4 12>
+<name "Miartei" "!SA0152">
+"I need to reflect on myself more."
+#
+<removesprite -1 11>
+\x2B\x78\x78

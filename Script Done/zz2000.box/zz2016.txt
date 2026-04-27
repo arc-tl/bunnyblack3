@@ -1,0 +1,26 @@
+﻿<music 11>
+<background "bg008a0.agf" 10>
+<name "Semi-Popular Citizen" "!KB0275">
+"Isn't a cleaning festival just everybody
+ cleaning up their houses and the city?"
+#
+<name "Childhood Friend Citizen" "!LB0183">
+"They say that because all the garbage gets
+ thrown out at the same time, it's more
+ efficient this way."
+#
+<name "Semi-Popular Citizen" "!KB0276">
+"Oh?"
+#
+<name "Semi-Popular Citizen" "!KB0277">
+"But if they do this, won't nothing get
+ cleaned the rest of the time?"
+#
+<name "Childhood Friend Citizen" "!LB0184">
+"Not everybody is as lazy as you, so we'll be
+ fine."
+#
+The city was cleaned up, and the citizens
+were motivated.
+#
+\x78\x78

@@ -1,0 +1,52 @@
+﻿<music 3>
+<background "bg010a0.agf" 10>
+<name "Izana" "!AA0027" "ka28a000.agf">
+"Ul, I heard you went to the hot springs with
+ the Overlord."
+#
+<name "Ultinia" "!EA0072" "ka29a000.agf">
+"Yes, it's true."
+#
+<name "Paniverna" "!DA0062" "ka14a000.agf">
+"No fair!
+ Cheater!"
+#
+<name "Izana" "!AA0028" "ka28a000.agf">
+"We promised we'd always be together!"
+#
+<name "Ultinia" "!EA0073" "ka29a000.agf">
+"There is no friendship between women."
+#
+<name "Ultinia" "!EA0074" "ka29a000.agf">
+"Besides, Pani, I believe I've heard you've 
+ been getting frisky with him while defending
+ the doors."
+#
+<name "Paniverna" "!DA0063" "ka14a000.agf">
+"Frisky? I just showed him around."
+#
+<name "Ultinia" "!EA0075" "ka29a000.agf">
+"So you didn't ever sneak into the shadows?"
+#
+<name "Paniverna" "!DA0064" "ka14a000.agf">
+"...M-Maybe I did."
+#
+<name "Izana" "!AA0029" "ka28a000.agf">
+"Pani, you too..."
+#
+<name "Paniverna" "!DA0065" "ka14a000.agf">
+"I heard rumors that you were doing some kind
+ of forbidden love act at the school!"
+#
+<name "Izana" "!AA0030" "ka28a000.agf">
+"It wasn't forbidden love.
+ It was just a secret class."
+#
+<sprite "ta12a006.agf" 4 4 11>
+<name "Meryl" "!HA0008">
+"Everyone knows we're all friends here, so can
+ we please stop with this little tea party 
+ already?"
+#
+<removesprite -1 11>
+\x2B\x78\x78

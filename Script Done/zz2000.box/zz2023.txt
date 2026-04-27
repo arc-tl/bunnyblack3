@@ -1,0 +1,50 @@
+﻿<music 11>
+<background "bg008a0.agf" 10>
+<name "Armed Citizen" "!BC0190">
+"Here for the evacuation drill?"
+#
+<name "Armored Citizen" "!KB0285">
+"Yeah."
+#
+<name "Armed Citizen" "!BC0191">
+"Actually, I was so excited I couldn't sleep."
+#
+<name "Armored Citizen" "!KB0286">
+"Me too."
+#
+<name "Armed Citizen" "!BC0192">
+"Heheheh.
+ All right, let's do it!"
+#
+<name "Armored Citizen" "!KB0287">
+"Yeah!
+ Nothing's as much fun as evacuation drill
+ day!"
+#
+<name "Darx">
+"..."
+#
+<name "Darx">
+"Uh, who were they?"
+#
+<sprite "ta34a000.agf" 4 4 11>
+<name "Company Maid" "!PC0537">
+"They're in charge of adventurers.
+ Because of how they ended up in the city, 
+ this is a chance for them to act however
+ they want."
+#
+<name "Darx">
+"Aah, I see.
+ ...I'll be doing that too."
+#
+<name "Company Maid" "!PC0538">
+"The Overlord's duty is to command the
+ evacuation."
+#
+<name "Darx">
+"You're right.
+ Sorry."
+#
+<removesprite -1 11>
+\x2B\x78\x78

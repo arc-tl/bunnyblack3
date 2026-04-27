@@ -1,0 +1,37 @@
+﻿<music 11>
+<background "bg008a0.agf" 10>
+<sprite "ta34c000.agf" 4 4 11>
+<name "Wondering Maid" "!DC0512">
+"The healing team..."
+#
+<name "Wondering Maid" "!DC0513">
+"Isn't it more accurate to call it the medical
+ team?"
+#
+<removesprite -1 11>
+<sprite "ta34a000.agf" 2 4 11>
+<sprite "ta34c000.agf" 6 5 11>
+<name "Healer Maid" "!PC0573">
+"We mainly heal with magic, and doctors aren't
+ common, so treatment team is fine."
+#
+<name "Wondering Maid" "!DC0514">
+"Is it important to have a doctor?"
+#
+<name "Healer Maid" "!PC0574">
+"I'd be concerned about calling someone a
+ medical doctor.
+ But a magical healing team is a little hard
+ to easily understand."
+#
+<name "Wondering Maid" "!DC0515">
+"I see.
+ Then there's no helping it."
+#
+<name "Healer Maid" "!PC0575">
+"Yep. No helping it."
+#
+<removesprite -1 11>
+So the correct answer is healing team!
+#
+\x78\x78

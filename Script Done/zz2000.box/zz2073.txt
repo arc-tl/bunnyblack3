@@ -1,0 +1,22 @@
+﻿<music 11>
+<background "bg008a0.agf" 10>
+<sprite "ta04a012.agf" 4 4 11>
+<name "Rualtei" "!RA0162">
+"Thanks to Suisen, I can get stuff from
+ Celestia too, so I can live like normal."
+#
+<sprite "ta04a013.agf" 4 4 12>
+<name "Rualtei" "!RA0163">
+"It's bad to always be in Kyuriha's debt."
+#
+<sprite "ta04a018.agf" 4 4 12>
+<name "Rualtei" "!RA0164">
+"But I still don't want to work here..."
+#
+<sprite "ta04a017.agf" 4 4 12>
+<name "Rualtei" "!RA0165">
+"Maybe I'll sell the accessories I still have
+ to deal with things for now."
+#
+<removesprite -1 11>
+\x2B\x78\x78

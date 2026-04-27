@@ -1,0 +1,30 @@
+﻿<music 24>
+<background "bg023a0.agf" 10>
+<name "Darx">
+"Aaaaaaaaaaaaggggghhhhhh!"
+#
+...
+#
+<name "Company Maid" "!AC0102" "ka34a000.agf">
+"Why is the Overlord rolling around?"
+#
+<name "Knowing Maid" "!DC0122" "ka34c000.agf">
+"Um..."
+#
+<name "Knowing Maid" "!DC0123" "ka34c000.agf">
+"He... can't touch for very long."
+#
+<name "Black Lady" "!HC0036" "ka37a000.agf">
+"Three seconds is the most for anybody."
+#
+<name "Company Maid" "!AC0103" "ka34a000.agf">
+"Aaah, I see."
+#
+<name "Black Lady" "!HC0037" "ka37a000.agf">
+"I-I think... I'm sorry?"
+#
+<name "Company Maid" "!AC0104" "ka34a000.agf">
+"It's fine. It's fine.
+ Please register as a citizen over here."
+#
+\x78\x78

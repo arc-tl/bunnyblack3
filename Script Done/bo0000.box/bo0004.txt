@@ -1,0 +1,4027 @@
+﻿\x0F\x22\x00\x00\x02\x00\x3C 2 \x1A\x01\x0C\x43\x00\x4C\x00\x30\x00\x30\x00\x30\x00\x20\x00\x21\x00\x3D\x00\x20\x00\x30\x00\x09\x00\x09\x00 :32: \x15 :1BCC: 
+:32
+\x1A\x01\x0A\x46\x00\x32\x00\x35\x00\x37\x00\x34\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :AA: \x1A\x01\x08\x46\x00\x32\x00\x30\x00\x31\x00\x20\x00\x6F\x00\x6E\x00\x09\x00 :AA: \x1A\x01\x09\x46\x00\x31\x00\x33\x00\x37\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :AA: \x1A\x01\x08\x46\x00\x31\x00\x35\x00\x30\x00\x20\x00\x6F\x00\x6E\x00\x09\x00 :AA: \x0A\x04\x0A\x0E\x84\x01\x16 :14F26: \x15 :1BCC: 
+:AA
+\x1A\x01\x0A\x46\x00\x32\x00\x35\x00\x37\x00\x35\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :13C: \x1A\x01\x09\x46\x00\x32\x00\x35\x00\x37\x00\x34\x00\x20\x00\x6F\x00\x6E\x00\x09\x00 :13C: \x1A\x01\x08\x46\x00\x32\x00\x30\x00\x31\x00\x20\x00\x6F\x00\x6E\x00\x09\x00 :13C: \x1A\x01\x09\x46\x00\x31\x00\x33\x00\x37\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :13C: \x1A\x01\x08\x46\x00\x31\x00\x35\x00\x30\x00\x20\x00\x6F\x00\x6E\x00\x09\x00 :13C: \x0A\x04\x0A\x0F\x84\x01\x16 :15614: \x15 :1BCC: 
+:13C
+\x1A\x01\x0A\x46\x00\x32\x00\x35\x00\x37\x00\x36\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :1BA: \x1A\x01\x08\x46\x00\x32\x00\x30\x00\x39\x00\x20\x00\x6F\x00\x6E\x00\x09\x00 :1BA: \x1A\x01\x08\x46\x00\x32\x00\x30\x00\x31\x00\x20\x00\x6F\x00\x6E\x00\x09\x00 :1BA: \x1A\x01\x09\x46\x00\x31\x00\x33\x00\x37\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :1BA: \x0A\x04\x0A\x10\x84\x01\x0A\x04\x00\x78\x84\x01\x16 :15C37: \x15 :1BCC: 
+:1BA
+\x1A\x01\x0A\x46\x00\x32\x00\x35\x00\x35\x00\x30\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :202: \x1A\x01\x09\x46\x00\x31\x00\x38\x00\x35\x00\x37\x00\x20\x00\x6F\x00\x6E\x00\x09\x00 :202: \x0A\x04\x09\xF6\x84\x01\x16 :A06C: \x15 :1BCC: 
+:202
+\x1A\x01\x0A\x46\x00\x32\x00\x35\x00\x34\x00\x32\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :252: \x1A\x01\x0D\x43\x00\x32\x00\x30\x00\x30\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x35\x00\x30\x00\x30\x00\x30\x00\x09\x00 :252: \x0A\x04\x09\xEE\x84\x01\x16 :7C36: \x15 :1BCC: 
+:252
+\x1A\x01\x0A\x46\x00\x32\x00\x35\x00\x34\x00\x33\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :2A4: \x1A\x01\x0E\x43\x00\x32\x00\x30\x00\x30\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x31\x00\x30\x00\x30\x00\x30\x00\x30\x00\x09\x00 :2A4: \x0A\x04\x09\xEF\x84\x01\x16 :8719: \x15 :1BCC: 
+:2A4
+\x1A\x01\x0A\x46\x00\x32\x00\x35\x00\x36\x00\x32\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :304: \x1A\x01\x08\x46\x00\x32\x00\x30\x00\x30\x00\x20\x00\x6F\x00\x6E\x00\x09\x00 :304: \x1A\x01\x09\x46\x00\x31\x00\x33\x00\x36\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :304: \x0A\x04\x0A\x02\x84\x01\x16 :F10C: \x15 :1BCC: 
+:304
+\x1A\x01\x0A\x46\x00\x32\x00\x35\x00\x36\x00\x33\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :364: \x1A\x01\x08\x46\x00\x32\x00\x30\x00\x30\x00\x20\x00\x6F\x00\x6E\x00\x09\x00 :364: \x1A\x01\x09\x46\x00\x31\x00\x33\x00\x36\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :364: \x0A\x04\x0A\x03\x84\x01\x16 :F442: \x15 :1BCC: 
+:364
+\x1A\x01\x0A\x46\x00\x32\x00\x35\x00\x36\x00\x34\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :3C4: \x1A\x01\x08\x46\x00\x32\x00\x30\x00\x30\x00\x20\x00\x6F\x00\x6E\x00\x09\x00 :3C4: \x1A\x01\x09\x46\x00\x31\x00\x33\x00\x36\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :3C4: \x0A\x04\x0A\x04\x84\x01\x16 :F7A4: \x15 :1BCC: 
+:3C4
+\x1A\x01\x0A\x46\x00\x32\x00\x35\x00\x36\x00\x35\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :424: \x1A\x01\x08\x46\x00\x32\x00\x30\x00\x30\x00\x20\x00\x6F\x00\x6E\x00\x09\x00 :424: \x1A\x01\x09\x46\x00\x31\x00\x33\x00\x36\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :424: \x0A\x04\x0A
+#
+\x84\x01\x16 :FAA6: \x15 :1BCC: 
+:424
+\x1A\x01\x0A\x46\x00\x32\x00\x35\x00\x36\x00\x36\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :484: \x1A\x01\x08\x46\x00\x32\x00\x30\x00\x30\x00\x20\x00\x6F\x00\x6E\x00\x09\x00 :484: \x1A\x01\x09\x46\x00\x31\x00\x33\x00\x36\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :484: \x0A\x04\x0A\x06\x84\x01\x16 :FFBB: \x15 :1BCC: 
+:484
+\x1A\x01\x0A\x46\x00\x32\x00\x35\x00\x36\x00\x37\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :4E4: \x1A\x01\x08\x46\x00\x32\x00\x30\x00\x30\x00\x20\x00\x6F\x00\x6E\x00\x09\x00 :4E4: \x1A\x01\x09\x46\x00\x31\x00\x33\x00\x36\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :4E4: \x0A\x04\x0A\x07\x84\x01\x16 :10D8E: \x15 :1BCC: 
+:4E4
+\x1A\x01\x0A\x46\x00\x32\x00\x35\x00\x36\x00\x38\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :544: \x1A\x01\x08\x46\x00\x32\x00\x30\x00\x30\x00\x20\x00\x6F\x00\x6E\x00\x09\x00 :544: \x1A\x01\x09\x46\x00\x31\x00\x33\x00\x36\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :544: \x0A\x04\x0A\x08\x84\x01\x16 :11759: \x15 :1BCC: 
+:544
+\x1A\x01\x0A\x46\x00\x32\x00\x35\x00\x36\x00\x39\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :5A4: \x1A\x01\x08\x46\x00\x32\x00\x30\x00\x30\x00\x20\x00\x6F\x00\x6E\x00\x09\x00 :5A4: \x1A\x01\x09\x46\x00\x31\x00\x33\x00\x36\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :5A4: \x0A\x04\x0A\x09\x84\x01\x16 :13167: \x15 :1BCC: 
+:5A4
+\x1A\x01\x0A\x46\x00\x32\x00\x35\x00\x37\x00\x30\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :636: \x1A\x01\x08\x46\x00\x32\x00\x30\x00\x30\x00\x20\x00\x6F\x00\x6E\x00\x09\x00 :636: \x1A\x01\x09\x46\x00\x31\x00\x33\x00\x36\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :636: \x1A\x01\x08\x46\x00\x32\x00\x30\x00\x31\x00\x20\x00\x6F\x00\x6E\x00\x09\x00 :636: \x1A\x01\x09\x46\x00\x31\x00\x33\x00\x37\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :636: \x0A\x04\x0A\x0A\x84\x01\x16 :136DE: \x15 :1BCC: 
+:636
+\x1A\x01\x0A\x46\x00\x32\x00\x35\x00\x37\x00\x31\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :6C8: \x1A\x01\x08\x46\x00\x32\x00\x30\x00\x30\x00\x20\x00\x6F\x00\x6E\x00\x09\x00 :6C8: \x1A\x01\x09\x46\x00\x31\x00\x33\x00\x36\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :6C8: \x1A\x01\x08\x46\x00\x32\x00\x30\x00\x31\x00\x20\x00\x6F\x00\x6E\x00\x09\x00 :6C8: \x1A\x01\x09\x46\x00\x31\x00\x33\x00\x37\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :6C8: \x0A\x04\x0A\x0B\x84\x01\x16 :13DD1: \x15 :1BCC: 
+:6C8
+\x1A\x01\x0A\x46\x00\x32\x00\x35\x00\x37\x00\x32\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :75A: \x1A\x01\x08\x46\x00\x32\x00\x30\x00\x30\x00\x20\x00\x6F\x00\x6E\x00\x09\x00 :75A: \x1A\x01\x09\x46\x00\x31\x00\x33\x00\x36\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :75A: \x1A\x01\x08\x46\x00\x32\x00\x30\x00\x31\x00\x20\x00\x6F\x00\x6E\x00\x09\x00 :75A: \x1A\x01\x09\x46\x00\x31\x00\x33\x00\x37\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :75A: \x0A\x04\x0A\x0C\x84\x01\x16 :14256: \x15 :1BCC: 
+:75A
+\x1A\x01\x0A\x46\x00\x32\x00\x35\x00\x37\x00\x33\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :7EC: \x1A\x01\x08\x46\x00\x32\x00\x30\x00\x30\x00\x20\x00\x6F\x00\x6E\x00\x09\x00 :7EC: \x1A\x01\x09\x46\x00\x31\x00\x33\x00\x36\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :7EC: \x1A\x01\x08\x46\x00\x32\x00\x30\x00\x31\x00\x20\x00\x6F\x00\x6E\x00\x09\x00 :7EC: \x1A\x01\x09\x46\x00\x31\x00\x33\x00\x37\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :7EC: \x0A\x04\x0A\x0D\x84\x01\x16 :14DE8: \x15 :1BCC: 
+:7EC
+\x1A\x01\x0A\x46\x00\x32\x00\x35\x00\x35\x00\x38\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :898: \x1A\x01\x09\x46\x00\x32\x00\x31\x00\x30\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :898: \x1A\x01\x08\x46\x00\x32\x00\x30\x00\x30\x00\x20\x00\x6F\x00\x6E\x00\x09\x00 :898: \x1A\x01\x09\x46\x00\x31\x00\x33\x00\x36\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :898: \x1A\x01\x08\x46\x00\x32\x00\x30\x00\x31\x00\x20\x00\x6F\x00\x6E\x00\x09\x00 :898: \x1A\x01\x09\x46\x00\x31\x00\x33\x00\x37\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :898: \x0A\x04\x09\xFE\x84\x01\x16 :B88E: \x15 :1BCC: 
+:898
+\x1A\x01\x0A\x46\x00\x32\x00\x35\x00\x35\x00\x35\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :8F8: \x1A\x01\x08\x46\x00\x32\x00\x30\x00\x31\x00\x20\x00\x6F\x00\x6E\x00\x09\x00 :8F8: \x1A\x01\x09\x46\x00\x31\x00\x33\x00\x37\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :8F8: \x0A\x04\x09\xFB\x84\x01\x16 :B109: \x15 :1BCC: 
+:8F8
+\x1A\x01\x0A\x46\x00\x32\x00\x35\x00\x35\x00\x36\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :958: \x1A\x01\x08\x46\x00\x32\x00\x30\x00\x31\x00\x20\x00\x6F\x00\x6E\x00\x09\x00 :958: \x1A\x01\x09\x46\x00\x31\x00\x33\x00\x37\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :958: \x0A\x04\x09\xFC\x84\x01\x16 :B247: \x15 :1BCC: 
+:958
+\x1A\x01\x0A\x46\x00\x32\x00\x35\x00\x35\x00\x37\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :9B8: \x1A\x01\x08\x46\x00\x32\x00\x30\x00\x31\x00\x20\x00\x6F\x00\x6E\x00\x09\x00 :9B8: \x1A\x01\x09\x46\x00\x31\x00\x33\x00\x37\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :9B8: \x0A\x04\x09\xFD\x84\x01\x16 :B75B: \x15 :1BCC: 
+:9B8
+\x1A\x01\x0A\x46\x00\x32\x00\x35\x00\x35\x00\x39\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :A34: \x1A\x01\x0B\x43\x00\x37\x00\x33\x00\x30\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x31\x00\x30\x00\x09\x00 :A34: \x1A\x01\x08\x46\x00\x32\x00\x30\x00\x38\x00\x20\x00\x6F\x00\x6E\x00\x09\x00 :A34: \x1A\x01\x08\x46\x00\x32\x00\x30\x00\x39\x00\x20\x00\x6F\x00\x6E\x00\x09\x00 :A34: \x0A\x04\x09\xFF\x84\x01\x16 :CD44: \x15 :1BCC: 
+:A34
+\x1A\x01\x0A\x46\x00\x32\x00\x35\x00\x36\x00\x30\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :ACA: \x1A\x01\x0B\x43\x00\x37\x00\x33\x00\x30\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x32\x00\x30\x00\x09\x00 :ACA: \x1A\x01\x09\x46\x00\x32\x00\x35\x00\x35\x00\x39\x00\x20\x00\x6F\x00\x6E\x00\x09\x00 :ACA: \x1A\x01\x08\x46\x00\x32\x00\x30\x00\x38\x00\x20\x00\x6F\x00\x6E\x00\x09\x00 :ACA: \x1A\x01\x08\x46\x00\x32\x00\x30\x00\x39\x00\x20\x00\x6F\x00\x6E\x00\x09\x00 :ACA: \x0A\x04\x0A\x00\x84\x01\x16 :D2CD: \x15 :1BCC: 
+:ACA
+\x1A\x01\x0A\x46\x00\x32\x00\x35\x00\x36\x00\x31\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :B2E: \x1A\x01\x0B\x43\x00\x37\x00\x33\x00\x30\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x31\x00\x30\x00\x09\x00 :B2E: \x1A\x01\x08\x46\x00\x32\x00\x30\x00\x39\x00\x20\x00\x6F\x00\x6E\x00\x09\x00 :B2E: \x0A\x04\x0A\x01\x84\x01\x16 :DB30: \x15 :1BCC: 
+:B2E
+\x1A\x01\x0A\x46\x00\x32\x00\x35\x00\x34\x00\x34\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :B5C: \x0A\x04\x09\xF0\x84\x01\x16 :8B21: \x15 :1BCC: 
+:B5C
+\x1A\x01\x0A\x46\x00\x32\x00\x35\x00\x30\x00\x31\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :BC3: \xF3 0 \x22\x00\x00 0  0  0  0 \x1A\x01\x0A\x43\x00\x4C\x00\x30\x00\x30\x00\x30\x00\x20\x00\x3C\x00\x3D\x00\x20\x00\x35\x00 :BC3: \x0A\x04\x09\xC5\x84\x01\x16 :1C57: \x15 :1BCC: 
+:BC3
+\x1A\x01\x0A\x46\x00\x32\x00\x35\x00\x30\x00\x32\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :C2A: \xF3 0 \x22\x00\x00 0  0  0  0 \x1A\x01\x0A\x43\x00\x4C\x00\x30\x00\x30\x00\x30\x00\x20\x00\x3C\x00\x3D\x00\x20\x00\x35\x00 :C2A: \x0A\x04\x09\xC6\x84\x01\x16 :203A: \x15 :1BCC: 
+:C2A
+\x1A\x01\x0A\x46\x00\x32\x00\x35\x00\x30\x00\x36\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :C7A: \x1A\x01\x0D\x43\x00\x32\x00\x30\x00\x30\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x31\x00\x30\x00\x30\x00\x30\x00\x09\x00 :C7A: \x0A\x04\x09\xCA\x84\x01\x16 :287C: \x15 :1BCC: 
+:C7A
+\x1A\x01\x0A\x46\x00\x32\x00\x35\x00\x30\x00\x37\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :CE4: \xF3 "E Center"  0  0  0 \x22\x00\x00 0 \x1A\x01\x0A\x43\x00\x4C\x00\x30\x00\x30\x00\x30\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x31\x00 :CE4: \x0A\x04\x09\xCB\x84\x01\x16 :2A6F: \x15 :1BCC: 
+:CE4
+\x1A\x01\x0A\x46\x00\x32\x00\x35\x00\x35\x00\x34\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :D2C: \x1A\x01\x09\x46\x00\x31\x00\x36\x00\x32\x00\x33\x00\x20\x00\x6F\x00\x6E\x00\x09\x00 :D2C: \x0A\x04\x09\xFA\x84\x01\x16 :ADD8: \x15 :1BCC: 
+:D2C
+\x1A\x01\x0A\x46\x00\x32\x00\x35\x00\x30\x00\x38\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :D7C: \x1A\x01\x0D\x43\x00\x32\x00\x30\x00\x30\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x32\x00\x30\x00\x30\x00\x30\x00\x09\x00 :D7C: \x0A\x04\x09\xCC\x84\x01\x16 :2CE4: \x15 :1BCC: 
+:D7C
+\x1A\x01\x0A\x46\x00\x32\x00\x35\x00\x30\x00\x39\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :DC4: \x1A\x01\x09\x46\x00\x32\x00\x35\x00\x30\x00\x38\x00\x20\x00\x6F\x00\x6E\x00\x09\x00 :DC4: \x0A\x04\x09\xCD\x84\x01\x16 :2F60: \x15 :1BCC: 
+:DC4
+\x1A\x01\x0A\x46\x00\x32\x00\x35\x00\x31\x00\x30\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :E0C: \x1A\x01\x09\x46\x00\x32\x00\x35\x00\x30\x00\x39\x00\x20\x00\x6F\x00\x6E\x00\x09\x00 :E0C: \x0A\x04\x09\xCE\x84\x01\x16 :3180: \x15 :1BCC: 
+:E0C
+\x1A\x01\x0A\x46\x00\x32\x00\x35\x00\x31\x00\x31\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :E5C: \x1A\x01\x0D\x43\x00\x32\x00\x30\x00\x30\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x33\x00\x30\x00\x30\x00\x30\x00\x09\x00 :E5C: \x0A\x04\x09\xCF\x84\x01\x16 :34DF: \x15 :1BCC: 
+:E5C
+\x1A\x01\x0A\x46\x00\x32\x00\x35\x00\x31\x00\x32\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :EA4: \x1A\x01\x09\x46\x00\x32\x00\x35\x00\x31\x00\x31\x00\x20\x00\x6F\x00\x6E\x00\x09\x00 :EA4: \x0A\x04\x09\xD0\x84\x01\x16 :386D: \x15 :1BCC: 
+:EA4
+\x1A\x01\x0A\x46\x00\x32\x00\x35\x00\x35\x00\x31\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :F0C: \xF3 "School"  0  0  0 \x22\x00\x00 0 \x1A\x01\x0A\x43\x00\x4C\x00\x30\x00\x30\x00\x30\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x33\x00 :F0C: \x0A\x04\x09\xF7\x84\x01\x16 :A549: \x15 :1BCC: 
+:F0C
+\x1A\x01\x0A\x46\x00\x32\x00\x35\x00\x35\x00\x32\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :F74: \xF3 "School"  0  0  0 \x22\x00\x00 0 \x1A\x01\x0A\x43\x00\x4C\x00\x30\x00\x30\x00\x30\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x35\x00 :F74: \x0A\x04\x09\xF8\x84\x01\x16 :A748: \x15 :1BCC: 
+:F74
+\x1A\x01\x0A\x46\x00\x32\x00\x35\x00\x31\x00\x36\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :FE2: \xF3 "RL District"  0  0  0 \x22\x00\x00 0 \x1A\x01\x0A\x43\x00\x4C\x00\x30\x00\x30\x00\x30\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x33\x00 :FE2: \x0A\x04\x09\xD4\x84\x01\x16 :4391: \x15 :1BCC: 
+:FE2
+\x1A\x01\x0A\x46\x00\x32\x00\x35\x00\x31\x00\x37\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :102A: \x1A\x01\x09\x46\x00\x32\x00\x35\x00\x31\x00\x36\x00\x20\x00\x6F\x00\x6E\x00\x09\x00 :102A: \x0A\x04\x09\xD5\x84\x01\x16 :4A0C: \x15 :1BCC: 
+:102A
+\x1A\x01\x0A\x46\x00\x32\x00\x35\x00\x31\x00\x38\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :1072: \x1A\x01\x09\x46\x00\x32\x00\x35\x00\x31\x00\x37\x00\x20\x00\x6F\x00\x6E\x00\x09\x00 :1072: \x0A\x04\x09\xD6\x84\x01\x16 :4DD1: \x15 :1BCC: 
+:1072
+\x1A\x01\x0A\x46\x00\x32\x00\x35\x00\x31\x00\x39\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :10E0: \xF3 "RL District"  0  0  0 \x22\x00\x00 0 \x1A\x01\x0A\x43\x00\x4C\x00\x30\x00\x30\x00\x30\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x35\x00 :10E0: \x0A\x04\x09\xD7\x84\x01\x16 :5051: \x15 :1BCC: 
+:10E0
+\x1A\x01\x0A\x46\x00\x32\x00\x35\x00\x32\x00\x30\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :1146: \xF3 "Pond"  0  0  0 \x22\x00\x00 0 \x1A\x01\x0A\x43\x00\x4C\x00\x30\x00\x30\x00\x30\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x35\x00 :1146: \x0A\x04\x09\xD8\x84\x01\x16 :52F4: \x15 :1BCC: 
+:1146
+\x1A\x01\x0A\x43\x00\x30\x00\x35\x00\x35\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x30\x00\x09\x00 :199E: \x1A\x01\x0A\x46\x00\x32\x00\x35\x00\x32\x00\x34\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :11D0: \x1A\x01\x0B\x43\x00\x30\x00\x36\x00\x30\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x31\x00\x35\x00\x09\x00 :11D0: \x1A\x01\x0D\x43\x00\x32\x00\x30\x00\x31\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x35\x00\x30\x00\x30\x00\x30\x00\x09\x00 :11D0: \x0A\x04\x09\xDC\x84\x01\x16 :59E7: \x15 :1BCC: 
+:11D0
+\x1A\x01\x0A\x46\x00\x32\x00\x35\x00\x32\x00\x35\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :1240: \x1A\x01\x0B\x43\x00\x30\x00\x36\x00\x30\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x31\x00\x35\x00\x09\x00 :1240: \x1A\x01\x0E\x43\x00\x32\x00\x30\x00\x31\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x31\x00\x30\x00\x30\x00\x30\x00\x30\x00\x09\x00 :1240: \x0A\x04\x09\xDD\x84\x01\x16 :5B52: \x15 :1BCC: 
+:1240
+\x1A\x01\x0A\x46\x00\x32\x00\x35\x00\x32\x00\x36\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :12B0: \x1A\x01\x0B\x43\x00\x30\x00\x36\x00\x30\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x31\x00\x35\x00\x09\x00 :12B0: \x1A\x01\x0E\x43\x00\x32\x00\x30\x00\x31\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x32\x00\x30\x00\x30\x00\x30\x00\x30\x00\x09\x00 :12B0: \x0A\x04\x09\xDE\x84\x01\x16 :5D08: \x15 :1BCC: 
+:12B0
+\x1A\x01\x0A\x46\x00\x32\x00\x35\x00\x32\x00\x37\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :133A: \x1A\x01\x0C\x43\x00\x32\x00\x30\x00\x31\x00\x20\x00\x3C\x00\x3D\x00\x20\x00\x31\x00\x30\x00\x30\x00\x09\x00 :133A: \x1A\x01\x0B\x43\x00\x30\x00\x36\x00\x30\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x31\x00\x35\x00\x09\x00 :133A: \x1A\x01\x0B\x43\x00\x30\x00\x36\x00\x30\x00\x20\x00\x3C\x00\x3D\x00\x20\x00\x34\x00\x30\x00\x09\x00 :133A: \x0A\x04\x09\xDF\x84\x01\x16 :67F4: \x15 :1BCC: 
+:133A
+\x1A\x01\x0A\x46\x00\x32\x00\x35\x00\x32\x00\x38\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :13C4: \x1A\x01\x0C\x43\x00\x32\x00\x30\x00\x31\x00\x20\x00\x3C\x00\x3D\x00\x20\x00\x31\x00\x30\x00\x30\x00\x09\x00 :13C4: \x1A\x01\x0B\x43\x00\x30\x00\x36\x00\x30\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x34\x00\x30\x00\x09\x00 :13C4: \x1A\x01\x0B\x43\x00\x30\x00\x36\x00\x30\x00\x20\x00\x3C\x00\x3D\x00\x20\x00\x38\x00\x30\x00\x09\x00 :13C4: \x0A\x04\x09\xE0\x84\x01\x16 :6945: \x15 :1BCC: 
+:13C4
+\x1A\x01\x0A\x46\x00\x32\x00\x35\x00\x32\x00\x39\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :1430: \x1A\x01\x0C\x43\x00\x32\x00\x30\x00\x31\x00\x20\x00\x3C\x00\x3D\x00\x20\x00\x31\x00\x30\x00\x30\x00\x09\x00 :1430: \x1A\x01\x0B\x43\x00\x30\x00\x36\x00\x30\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x38\x00\x30\x00\x09\x00 :1430: \x0A\x04\x09\xE1\x84\x01\x16 :6A33: \x15 :1BCC: 
+:1430
+\x1A\x01\x0A\x46\x00\x32\x00\x35\x00\x33\x00\x30\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :14BC: \x1A\x01\x0D\x43\x00\x32\x00\x30\x00\x33\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x35\x00\x30\x00\x30\x00\x30\x00\x09\x00 :14BC: \x1A\x01\x0B\x43\x00\x30\x00\x36\x00\x30\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x31\x00\x35\x00\x09\x00 :14BC: \x1A\x01\x0B\x43\x00\x30\x00\x36\x00\x30\x00\x20\x00\x3C\x00\x3D\x00\x20\x00\x35\x00\x30\x00\x09\x00 :14BC: \x0A\x04\x09\xE2\x84\x01\x16 :6BB8: \x15 :1BCC: 
+:14BC
+\x1A\x01\x0A\x46\x00\x32\x00\x35\x00\x33\x00\x31\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :154A: \x1A\x01\x0E\x43\x00\x32\x00\x30\x00\x33\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x31\x00\x30\x00\x30\x00\x30\x00\x30\x00\x09\x00 :154A: \x1A\x01\x0B\x43\x00\x30\x00\x36\x00\x30\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x35\x00\x30\x00\x09\x00 :154A: \x1A\x01\x0B\x43\x00\x30\x00\x36\x00\x30\x00\x20\x00\x3C\x00\x3D\x00\x20\x00\x39\x00\x30\x00\x09\x00 :154A: \x0A\x04\x09\xE3\x84\x01\x16 :6D40: \x15 :1BCC: 
+:154A
+\x1A\x01\x0A\x46\x00\x32\x00\x35\x00\x33\x00\x32\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :15DA: \x1A\x01\x0E\x43\x00\x32\x00\x30\x00\x33\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x31\x00\x35\x00\x30\x00\x30\x00\x30\x00\x09\x00 :15DA: \x1A\x01\x0B\x43\x00\x30\x00\x36\x00\x30\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x39\x00\x30\x00\x09\x00 :15DA: \x1A\x01\x0C\x43\x00\x30\x00\x36\x00\x30\x00\x20\x00\x3C\x00\x3D\x00\x20\x00\x31\x00\x32\x00\x30\x00\x09\x00 :15DA: \x0A\x04\x09\xE4\x84\x01\x16 :6E47: \x15 :1BCC: 
+:15DA
+\x1A\x01\x0A\x46\x00\x32\x00\x35\x00\x33\x00\x33\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :164C: \x1A\x01\x0E\x43\x00\x32\x00\x30\x00\x33\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x31\x00\x38\x00\x30\x00\x30\x00\x30\x00\x09\x00 :164C: \x1A\x01\x0C\x43\x00\x30\x00\x36\x00\x30\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x31\x00\x32\x00\x30\x00\x09\x00 :164C: \x0A\x04\x09\xE5\x84\x01\x16 :6FB5: \x15 :1BCC: 
+:164C
+\x1A\x01\x0A\x46\x00\x32\x00\x35\x00\x33\x00\x34\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :16D6: \x1A\x01\x0C\x43\x00\x32\x00\x30\x00\x33\x00\x20\x00\x3C\x00\x3D\x00\x20\x00\x31\x00\x30\x00\x30\x00\x09\x00 :16D6: \x1A\x01\x0B\x43\x00\x30\x00\x36\x00\x30\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x33\x00\x30\x00\x09\x00 :16D6: \x1A\x01\x0B\x43\x00\x30\x00\x36\x00\x30\x00\x20\x00\x3C\x00\x3D\x00\x20\x00\x36\x00\x30\x00\x09\x00 :16D6: \x0A\x04\x09\xE6\x84\x01\x16 :70A9: \x15 :1BCC: 
+:16D6
+\x1A\x01\x0A\x46\x00\x32\x00\x35\x00\x33\x00\x35\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :1762: \x1A\x01\x0C\x43\x00\x32\x00\x30\x00\x33\x00\x20\x00\x3C\x00\x3D\x00\x20\x00\x31\x00\x30\x00\x30\x00\x09\x00 :1762: \x1A\x01\x0B\x43\x00\x30\x00\x36\x00\x30\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x36\x00\x30\x00\x09\x00 :1762: \x1A\x01\x0C\x43\x00\x30\x00\x36\x00\x30\x00\x20\x00\x3C\x00\x3D\x00\x20\x00\x31\x00\x30\x00\x30\x00\x09\x00 :1762: \x0A\x04\x09\xE7\x84\x01\x16 :71F6: \x15 :1BCC: 
+:1762
+\x1A\x01\x0A\x46\x00\x32\x00\x35\x00\x33\x00\x36\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :17D0: \x1A\x01\x0C\x43\x00\x32\x00\x30\x00\x33\x00\x20\x00\x3C\x00\x3D\x00\x20\x00\x31\x00\x30\x00\x30\x00\x09\x00 :17D0: \x1A\x01\x0C\x43\x00\x30\x00\x36\x00\x30\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x31\x00\x30\x00\x30\x00\x09\x00 :17D0: \x0A\x04\x09\xE8\x84\x01\x16 :7400: \x15 :1BCC: 
+:17D0
+\x1A\x01\x0A\x46\x00\x32\x00\x35\x00\x33\x00\x37\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :1822: \x1A\x01\x0E\x43\x00\x32\x00\x30\x00\x32\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x31\x00\x30\x00\x30\x00\x30\x00\x30\x00\x09\x00 :1822: \x0A\x04\x09\xE9\x84\x01\x16 :7562: \x15 :1BCC: 
+:1822
+\x1A\x01\x0A\x46\x00\x32\x00\x35\x00\x33\x00\x38\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :1874: \x1A\x01\x0E\x43\x00\x32\x00\x30\x00\x32\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x32\x00\x30\x00\x30\x00\x30\x00\x30\x00\x09\x00 :1874: \x0A\x04\x09\xEA\x84\x01\x16 :76E1: \x15 :1BCC: 
+:1874
+\x1A\x01\x0A\x46\x00\x32\x00\x35\x00\x33\x00\x39\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :18C6: \x1A\x01\x0E\x43\x00\x32\x00\x30\x00\x32\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x35\x00\x30\x00\x30\x00\x30\x00\x30\x00\x09\x00 :18C6: \x0A\x04\x09\xEB\x84\x01\x16 :7844: \x15 :1BCC: 
+:18C6
+\x1A\x01\x0A\x46\x00\x32\x00\x35\x00\x34\x00\x30\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :1932: \x1A\x01\x0B\x43\x00\x30\x00\x36\x00\x30\x00\x20\x00\x3C\x00\x3D\x00\x20\x00\x35\x00\x30\x00\x09\x00 :1932: \x1A\x01\x0C\x43\x00\x32\x00\x30\x00\x32\x00\x20\x00\x3C\x00\x3D\x00\x20\x00\x39\x00\x30\x00\x30\x00\x09\x00 :1932: \x0A\x04\x09\xEC\x84\x01\x16 :7926: \x15 :1BCC: 
+:1932
+\x1A\x01\x0A\x46\x00\x32\x00\x35\x00\x34\x00\x31\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :199E: \x1A\x01\x0B\x43\x00\x30\x00\x36\x00\x30\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x35\x00\x30\x00\x09\x00 :199E: \x1A\x01\x0C\x43\x00\x32\x00\x30\x00\x32\x00\x20\x00\x3C\x00\x3D\x00\x20\x00\x39\x00\x30\x00\x30\x00\x09\x00 :199E: \x0A\x04\x09\xED\x84\x01\x16 :7AE6: \x15 :1BCC: 
+:199E
+\x1A\x01\x0A\x46\x00\x32\x00\x35\x00\x30\x00\x33\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :19CC: \x0A\x04\x09\xC7\x84\x01\x16 :216B: \x15 :1BCC: 
+:19CC
+\x1A\x01\x0A\x46\x00\x32\x00\x35\x00\x30\x00\x34\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :19FA: \x0A\x04\x09\xC8\x84\x01\x16 :250B: \x15 :1BCC: 
+:19FA
+\x1A\x01\x0A\x46\x00\x32\x00\x35\x00\x30\x00\x35\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :1A28: \x0A\x04\x09\xC9\x84\x01\x16 :2688: \x15 :1BCC: 
+:1A28
+\x1A\x01\x0A\x46\x00\x32\x00\x35\x00\x31\x00\x33\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :1A56: \x0A\x04\x09\xD1\x84\x01\x16 :3ABD: \x15 :1BCC: 
+:1A56
+\x1A\x01\x0A\x46\x00\x32\x00\x35\x00\x31\x00\x34\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :1A84: \x0A\x04\x09\xD2\x84\x01\x16 :3E8D: \x15 :1BCC: 
+:1A84
+\x1A\x01\x0A\x46\x00\x32\x00\x35\x00\x31\x00\x35\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :1AB2: \x0A\x04\x09\xD3\x84\x01\x16 :41D5: \x15 :1BCC: 
+:1AB2
+\x1A\x01\x0A\x46\x00\x32\x00\x35\x00\x32\x00\x31\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :1AE0: \x0A\x04\x09\xD9\x84\x01\x16 :55D9: \x15 :1BCC: 
+:1AE0
+\x1A\x01\x0A\x46\x00\x32\x00\x35\x00\x34\x00\x35\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :1B0E: \x0A\x04\x09\xF1\x84\x01\x16 :9187: \x15 :1BCC: 
+:1B0E
+\x1A\x01\x0A\x46\x00\x32\x00\x35\x00\x34\x00\x36\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :1B3C: \x0A\x04\x09\xF2\x84\x01\x16 :9677: \x15 :1BCC: 
+:1B3C
+\x1A\x01\x0A\x46\x00\x32\x00\x35\x00\x34\x00\x37\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :1B6A: \x0A\x04\x09\xF3\x84\x01\x16 :989F: \x15 :1BCC: 
+:1B6A
+\x1A\x01\x0A\x46\x00\x32\x00\x35\x00\x34\x00\x38\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :1B98: \x0A\x04\x09\xF4\x84\x01\x16 :9A1B: \x15 :1BCC: 
+:1B98
+\x1A\x01\x0A\x46\x00\x32\x00\x35\x00\x34\x00\x39\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :1BC6: \x0A\x04\x09\xF5\x84\x01\x16 :9B02: \x15 :1BCC: 
+:1BC6
+\x15 :1BCC: 
+:1BCC
+\x78\x1A\x01\x0A\x46\x00\x32\x00\x35\x00\x32\x00\x32\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :1BFB: \x0A\x04\x09\xDA\x84\x01\x16 :57A6: \x15 :1BCC: 
+:1BFB
+\x1A\x01\x0A\x46\x00\x32\x00\x35\x00\x32\x00\x33\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :1C29: \x0A\x04\x09\xDB\x84\x01\x16 :5898: \x15 :1BCC: 
+:1C29
+\x1A\x01\x0A\x46\x00\x32\x00\x35\x00\x35\x00\x33\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :1C57: \x0A\x04\x09\xF9\x84\x01\x16 :AA7C: \x15 :1BCC: 
+:1C57
+<music 11>
+<background "bg008a0.agf" 10>
+<name "Pondering Citizen" "!UA0041">
+"You know..."
+#
+<name "Strolling Citizen" "!ZE0054">
+"What?"
+#
+<name "Pondering Citizen" "!UA0042">
+"I'm not sure I like calling this little
+ village a city."
+#
+<name "Strolling Citizen" "!ZE0055">
+"Do you have a death wish!?"
+#
+<name "Pondering Citizen" "!UA0043">
+"Huh?
+ ...Huh?"
+#
+<name "Strolling Citizen" "!ZE0056">
+"I-If the Overlord says it's a city, it's a
+ city!
+ No other words are needed!
+ Understand!?"
+#
+<name "Pondering Citizen" "!UA0044">
+"I-I don't think he'd care..."
+#
+<name "Strolling Citizen" "!ZE0057">
+"I know that, but even if he's okay with it,
+ the people who follow him aren't."
+#
+<name "Strolling Citizen" "!ZE0058">
+"You're going to have to just take my word for
+ it and call it a city."
+#
+<name "Pondering Citizen" "!UA0045">
+"A-All right."
+#
+...
+#
+<name "Guard Maid" "!DC0233">
+"Snipers, stand down."
+#
+<name "Sniper Maid" "!PC0241">
+"Roger."
+#
+...
+#
+<name "Pondering Citizen" "!UA0046">
+"I-I feel like my life was just spared."
+#
+<exit>
+:203A
+<music 11>
+<background "bg008a0.agf" 10>
+<name "New Citizen" "!ZF0037">
+"This is a city...
+ It's the size of a village, but it's a city."
+#
+<name "New Citizen" "!ZF0038">
+"Well, the little things don't matter.
+ Hahahaha!"
+#
+...
+#
+<name "Guard Maid" "!DC0234">
+"Snipers, stand down."
+#
+<name "Sniper Maid" "!PC0242">
+"Roger."
+#
+<exit>
+:216B
+<music 11>
+<background "bg008a0.agf" 10>
+<name "New Citizen" "!UA0047">
+"The temperature in this city doesn't change
+ much."
+#
+<name "Citizen's Wife" "!HC0070">
+"It's not like that in the forest."
+#
+<name "New Citizen" "!UA0048">
+"So it's just here?"
+#
+<name "Explaining Maid" "!PC0243">
+"It's that big tree!
+ It's thanks to the rijiulain tree!"
+#
+<name "Explaining Maid" "!PC0244">
+"When it's cold, it's perfectly warm.
+ When it's hot, it's perfectly cool."
+#
+<name "Explaining Maid" "!PC0245">
+"It envelops its surroundings at a level that
+ doesn't affect the fields and orchards!"
+#
+<name "Citizen's Wife" "!HC0071">
+"Really?"
+#
+<name "New Citizen" "!UA0049">
+"Feels too convenient to me."
+#
+<name "Explaining Maid" "!PC0246">
+"T-That's what it says in the rijiulain tree
+ catalog."
+#
+...
+#
+<name "Darx">
+"Wouldn't a catalog try to oversell it
+ though?"
+#
+<name "Secretary Maid" "!AC0208">
+"In some ways, but it's not completely false."
+#
+<exit>
+:250B
+<music 11>
+<background "bg008a0.agf" 10>
+<name "Husband Demon" "!MB0031">
+"The weather doesn't seem to change much 
+ around here, huh?"
+#
+<name "Washing Demon" "!CB0054">
+"I lived all my life in a dungeon, so I
+ wouldn't know."
+#
+<name "Husband Demon" "!MB0032">
+"Yeah."
+#
+<name "Washing Demon" "!CB0055">
+"And laundry dries faster here than in the
+ dungeon."
+#
+<name "Husband Demon" "!MB0033">
+"Thankfully."
+#
+<exit>
+:2688
+<music 11>
+<background "bg008a0.agf" 10>
+<name "Blushing Citizen" "!GB0101">
+"I-I was born in Forzelotte's Shrine and
+ spent my whole life there."
+#
+<name "Listening Citizen" "!ZH0039">
+"I know, already."
+#
+<name "Blushing Citizen" "!GB0102">
+"S-S-So I've never gotten caught in the rain
+ before!
+ I was just a little surprised!"
+#
+<name "Listening Citizen" "!ZH0040">
+"I said I know.
+ I won't laugh any more.
+ Please come out of your room."
+#
+<name "Blushing Citizen" "!GB0103">
+"Oohhh..."
+#
+<exit>
+:287C
+<music 11>
+<background "bg008a0.agf" 10>
+<name "Working Citizen" "!MB0034">
+"When you think about it, there are a lot of
+ ways to get rich in this city."
+#
+<name "Resting Citizen" "!KB0124">
+"In a way, it's because it's a city built by
+ Gunguskar."
+#
+<name "Working Citizen" "!MB0035">
+"That's right.
+ So there must be many traps leading to being
+ poor."
+#
+<name "Resting Citizen" "!KB0125">
+"Yeah, don't get careless."
+#
+<name "Company Maid" "!AC0209">
+"T-That's a lie!
+ Gunguskar would never set traps like that!"
+#
+<exit>
+:2A6F
+<music 11>
+<background "bg008a0.agf" 10>
+<name "Satisfied Citizen" "!KB0126">
+"I woke up today on the right side of the
+ bed."
+#
+<name "Satisfied Citizen" "!KB0127">
+"On the way to work, I found someone's
+ wallet. I looked for whose it was, and the
+ owner showed up, who rewarded me for it."
+#
+<name "Satisfied Citizen" "!KB0128">
+"At work, I never got upset even once."
+#
+<name "Satisfied Citizen" "!KB0129">
+"My favorite lunch was on special today."
+#
+<name "Satisfied Citizen" "!KB0130">
+"..."
+#
+<name "Satisfied Citizen" "!KB0131">
+"Days like this make you feel wealthy."
+#
+<name "Serene Citizen" "!BC0068">
+"Go home already.
+ Just call it a good day and don't
+ tempt fate."
+#
+<exit>
+:2CE4
+<music 4>
+<background "bg009a0.agf" 10>
+<name "Eating Citizen" "!ZF0039">
+"A thief?"
+#
+<name "Talking Citizen" "!UA0050">
+"Yeah, apparently there's a thief."
+#
+<name "Eating Citizen" "!ZF0040">
+"A human?"
+#
+<name "Talking Citizen" "!UA0051">
+"I don't think they've made it this far."
+#
+<name "Eating Citizen" "!ZF0041">
+"Then one of us?"
+#
+<name "Talking Citizen" "!UA0052">
+"I hate to be suspicious, but it seems like
+ it."
+#
+<name "Eating Citizen" "!ZF0042">
+"That's depressing."
+#
+<name "Talking Citizen" "!UA0053">
+"Yeah."
+#
+<name "Anxious Guard" "!QB0154">
+"We need an awareness campaign to improve
+ crime prevention."
+#
+<name "Guard" "!WB0147">
+"Understood."
+#
+<exit>
+:2F60
+<music 11>
+<background "bg013a0.agf" 10>
+<sprite "ta34c001.agf" 4 4 11>
+<name "Company Maid" "!AC0210">
+"Certain races like to cause mischief."
+#
+<name "Company Maid" "!AC0211">
+"And some races do not adapt well to civilized
+ society."
+#
+<name "Fairy Citizen" "!GB0104" "ka46a000.agf">
+".........Um, what are you trying to say?"
+#
+<name "Company Maid" "!AC0212">
+"Are you a thief?"
+#
+<name "Fairy Citizen" "!GB0105" "ka46a000.agf">
+"T-That's a false accusation!"
+#
+<name "Darx">
+"Don't make accusations without evidence."
+#
+<removesprite -1 11>
+<exit>
+:3180
+<music 3>
+<background "bg010a0.agf" 10>
+<sprite "ta34c001.agf" 4 4 11>
+<name "Guard Maid" "!PC0247">
+"I arrested the thief."
+#
+<removesprite -1 11>
+<sprite "ta34a000.agf" 2 4 11>
+<sprite "ta34c001.agf" 6 5 11>
+<name "Company Maid" "!AC0213">
+"Well done.
+ Who was it?"
+#
+<name "Guard Maid" "!PC0248">
+"They weren't a registered citizen.
+ They fled during registration when they came
+ here and lived in the wilderness..."
+#
+<name "Company Maid" "!AC0214">
+"I see."
+#
+<name "Guard Maid" "!PC0249">
+"For now, let's step up the patrols to make
+ sure there's nobody else."
+#
+<name "Company Maid" "!AC0215">
+"Thank you."
+#
+<name "Guard Maid" "!PC0250">
+"Also, apologize to the people you accused."
+#
+<name "Company Maid" "!AC0216">
+"Forget them.
+ ...I wish I could say, but I probably have to
+ in such a small city to keep things running
+ smoothly."
+#
+<name "Guard Maid" "!PC0251">
+"You're not very sincere."
+#
+<removesprite -1 11>
+<exit>
+:34DF
+<music 11>
+<background "bg013a0.agf" 10>
+<name "Unruly Citizen" "!ZE0059">
+"Heheheh...
+ You look pretty tough."
+#
+<name "Passing Citizen" "!UA0054">
+"I do?"
+#
+<name "Unruly Citizen" "!ZE0060">
+"Yeah, that's right.
+ How about we have ourselves a little fun?"
+#
+...
+#
+<name "Talking Citizen" "!JA0037">
+"Lately, there's been some guy picking random
+ fights."
+#
+<name "Strolling Citizen" "!ZF0043">
+"Oh?
+ That's scary."
+#
+<name "Talking Citizen" "!JA0038">
+"No, he's a total weakling.
+ Every single person has completely kicked his
+ ass."
+#
+<name "Strolling Citizen" "!ZF0044">
+"What does he want?"
+#
+<name "Talking Citizen" "!JA0039">
+"I think he's looking for somebody he can
+ actually beat?"
+#
+<name "Strolling Citizen" "!ZF0045">
+"How annoying."
+#
+<name "Talking Citizen" "!JA0040">
+"Seriously."
+#
+...
+#
+<name "Guard" "!QB0155">
+"We can't ignore this.
+ Catch him and lock him up."
+#
+<name "Subordinate" "!WB0148">
+"Roger."
+#
+<exit>
+:386D
+<music 11>
+<background "bg013a0.agf" 10>
+<name "Unruly Citizen" "!ZE0061">
+"You look pretty tough."
+#
+<name "Darx">
+"...I do?"
+#
+<name "Unruly Citizen" "!ZE0062">
+"Huh?
+ Oh... U-Um, I'm sorry."
+#
+<name "Darx">
+"Thank goodness.
+ If you attacked me, I might've gotten hurt."
+#
+<name "Unruly Citizen" "!ZE0063">
+"Hahaha...
+ I wouldn't do that."
+#
+<name "Guard" "!QB0156">
+"Then you shouldn't be trying to do it to
+ others either."
+#
+<name "Unruly Citizen" "!ZE0064">
+"Aah!
+ When'd you get here!?"
+#
+<name "Guard" "!QB0157">
+"You're going nowhere.
+ You need some time to cool your head."
+#
+<exit>
+:3ABD
+<music 3>
+<background "bg010a0.agf" 10>
+<name "Darx">
+"An exorcism?"
+#
+<sprite "ta01a015.agf" 4 4 11>
+<name "Sofia" "!ZB0796">
+"There are some people who insist on it for
+ good fortune."
+#
+<name "Darx">
+"So just do it?"
+#
+<sprite "ta01a024.agf" 4 4 12>
+<name "Sofia" "!ZB0797">
+"There are some races who are against
+ exorcisms."
+#
+<name "Darx">
+"O-Oh, I see.
+ Like skeletons and zombies."
+#
+<sprite "ta01a025.agf" 4 4 12>
+<name "Sofia" "!ZB0798">
+"And the possessed swords and
+ mirrors..."
+#
+<sprite "ta01a024.agf" 4 4 12>
+<name "Sofia" "!ZB0799">
+"What should we do?"
+#
+<name "Darx">
+"What should we do?
+ Can't they talk it out and decide
+ themselves?"
+#
+<sprite "ta01a025.agf" 4 4 12>
+<name "Sofia" "!ZB0800">
+"Will that be okay?"
+#
+<name "Darx">
+"I don't care.
+ Tell them I said that."
+#
+<sprite "ta01a027.agf" 4 4 12>
+<name "Sofia" "!ZB0801">
+"Understood."
+#
+<removesprite -1 11>
+<exit>
+:3E8D
+<music 4>
+<background "bg009a0.agf" 10>
+<sprite "ta34b000.agf" 4 4 11>
+<name "Company Maid" "!PC0252">
+"I'm off for the delivery."
+#
+<removesprite -1 11>
+<sprite "ta01a004.agf" 2 5 11>
+<sprite "ta34b000.agf" 6 4 11>
+<name "Sofia" "!ZB0802">
+"Thank you."
+#
+<name "Company Maid" "!PC0253">
+"Yep."
+#
+<removesprite -1 11>
+...
+#
+<name "Darx">
+"You're making deliveries?"
+#
+<sprite "ta01a004.agf" 4 4 11>
+<name "Sofia" "!ZB0803">
+"Yes. We've had a lot of requests from our
+ customers."
+#
+<name "Darx">
+"Isn't that hard?"
+#
+<sprite "ta01a005.agf" 4 4 12>
+<name "Sofia" "!ZB0804">
+"Yes, very hard, but we're managing.
+ It's for our customers too."
+#
+<name "Darx">
+"...Don't overdo it."
+#
+<sprite "ta01a004.agf" 4 4 12>
+<name "Sofia" "!ZB0805">
+"Yep."
+#
+<removesprite -1 11>
+<exit>
+:41D5
+<music 11>
+<background "bg013a0.agf" 10>
+<name "Sweltering Citizen" "!ZH0041">
+"It's so hot.
+ Why aren't those idiots adjusting it?"
+#
+<name "Lazing Citizen" "!MB0036">
+"Adjusting what?"
+#
+<name "Sweltering Citizen" "!ZH0042">
+"Huh? Oh, right.
+ This is the outside.
+ It's not like the dungeon."
+#
+<name "Lazing Citizen" "!MB0037">
+"Well, you'll get used to it eventually.
+ Even this heat."
+#
+<name "Sweltering Citizen" "!ZH0043">
+"I don't want to get used to it."
+#
+<exit>
+:4391
+<music 11>
+<background "bg013a0.agf" 10>
+<name "Concerned Citizen" "!RB0137">
+"T-There's a fight!
+ Excuse me, can you please stop them!?"
+#
+<name "Resting Citizen" "!ZH0044">
+"A fight here?
+ Are they idiots?
+ What's it about?"
+#
+<name "Concerned Citizen" "!RB0138">
+"Apparently it started whether it was better
+ for the top or the bottom of a women's 
+ breasts to be seen." 
+#
+<name "Resting Citizen" "!ZH0045">
+"Are they really that stupid?
+ Hey!
+ Stop fighting!"
+#
+<name "Cleavage Citizen" "!ZD0043">
+"You!"
+#
+<name "Underboob Citizen" "!UA0059">
+"Stay out of this!"
+#
+<name "Resting Citizen" "!ZH0046">
+"I can't do that.
+ Come on. Break it up.
+ Top or bottom, it's the same breasts.
+ It's fine to enjoy them equally."
+#
+<name "Cleavage Citizen" "!ZD0044">
+"I won't stop until this bastard accepts the
+ superiority of cleavage!"
+#
+<name "Underboob Citizen" "!UA0060">
+"Underboob is sexier!
+ I won't let up until he accepts that!"
+#
+<name "Resting Citizen" "!ZH0047">
+"You're not going to stop fighting?"
+#
+<name "Cleavage Citizen" "!ZD0045">
+"Of course not!"
+#
+<name "Resting Citizen" "!ZH0048">
+"...Then you leave me no choice.
+ I have just one thing to say to you."
+#
+<name "Underboob Citizen" "!UA0061">
+"W-What?"
+#
+<name "Resting Citizen" "!ZH0049">
+"Sideboob is obviously the best!
+ Cleavage and underboob are like garbage
+ compared to sideboob! I can't believe you
+ garbage are fighting... Ha! I could laugh!"
+#
+<name "Cleavage Citizen" "!ZD0046">
+"W-Why, you!
+ You said just a second ago we should love all
+ equally!"
+#
+<name "Underboob Citizen" "!UA0062">
+"Unacceptable!"
+#
+The fight grew worse.
+#
+<name "Company Maid" "!AC0217">
+"Uhhhhh...
+ Go call someone else."
+#
+<name "Concerned Citizen" "!RB0139">
+"Y-Yes, ma'am."
+#
+<exit>
+:4A0C
+<music 4>
+<background "bg009a0.agf" 10>
+<name "Cleavage Citizen" "!ZD0047">
+"Which part of the breasts do like best,
+ Overlord?"
+#
+<name "Underboob Citizen" "!UA0063">
+"Top?
+ Bottom?
+ Or side?"
+#
+<name "Darx">
+"Hahahaha.
+ If they're the breasts of the one you love,
+ any is fine."
+#
+<name "Cleavage Citizen" "!ZD0048">
+"Oooh!"
+#
+<name "Underboob Citizen" "!UA0064">
+"Just what I'd expect of you, Overlord."
+#
+<name "Darx">
+"Besides, breasts aren't the only good thing
+ about a woman.
+ If you don't look at much more than just the
+ breasts, she'll resent you."
+#
+<name "Cleavage Citizen" "!ZD0049">
+"I-I see."
+#
+<name "Underboob Citizen" "!UA0065">
+"I know better now."
+#
+<music 3>
+<background "bg010a0.agf" 10>
+<sprite "ta34a004.agf" 4 4 11>
+<name "Secretary Maid" "!AC0218">
+"Breasts aren't the only good thing about a
+ woman.
+ If you don't look at much more than just the
+ breasts, she'll resent you."
+#
+<sprite "ta34a000.agf" 4 4 12>
+<name "Secretary Maid" "!AC0219">
+"Coming from you, it feels like there's 
+ another side to it."
+#
+<name "Darx">
+"Hahahaha...
+ What ever could you mean?"
+#
+<removesprite -1 11>
+<exit>
+:4DD1
+<music 4>
+<background "bg009a0.agf" 10>
+<name "Troubled Citizen" "!ZE0065">
+"Cleavage or underboob, huh?"
+#
+<name "Relaxing Citizen" "!JA0041">
+"Hey. What're you talking about?"
+#
+<name "Troubled Citizen" "!ZE0066">
+"Stay out of it.
+ It's got nothing to do with you."
+#
+<name "Relaxing Citizen" "!JA0042">
+"Hey, don't be a jerk."
+#
+<name "Troubled Citizen" "!ZE0067">
+"It's about boobs."
+#
+<name "Relaxing Citizen" "!JA0043">
+"...It absolutely has nothing to do with me.
+ Excuse me."
+#
+<name "Eavesdropping Citizen" "!ZF0046">
+"What was that about?"
+#
+<name "Troubled Citizen" "!ZE0068">
+"He's an ass man."
+#
+<name "Eavesdropping Citizen" "!ZF0047">
+"Right. You two are like oil and water."
+#
+<exit>
+:5051
+<music 4>
+<background "bg009a0.agf" 10>
+<name "Pondering Citizen" "!ZD0050">
+"The sex king of the town would be..."
+#
+<name "Frank Citizen" "!UA0066">
+"Obviously, it's the Overlord."
+#
+<name "Pondering Citizen" "!ZD0051">
+"He's clearly in the hall of fame.
+ Besides him."
+#
+<sprite "ta34b000.agf" 4 4 11>
+<name "Waitress Maid" "!AC0220">
+"That's what they're saying."
+#
+<name "Darx">
+"Hahahaha..."
+#
+<removesprite -1 11>
+<music 3>
+<background "bg010a0.agf" 10>
+<name "Darx">
+"But am I really that sex crazed?"
+#
+<sprite "ta34a000.agf" 4 4 11>
+<name "Secretary Maid" "!DC0235">
+"Are you seriously asking?"
+#
+<name "Darx">
+"Sorry.
+ Forget it."
+#
+<removesprite -1 11>
+<exit>
+:52F4
+<music 11>
+<background "bg013a0.agf" 10>
+<name "Hungry Citizen" "!KB0132">
+"What's that?
+ Looks tasty."
+#
+<name "Fishing Citizen" "!MB0038">
+"I just caught it.
+ We can eat it."
+#
+<name "Hungry Citizen" "!KB0133">
+"Great."
+#
+<name "Fishing Citizen" "!MB0039">
+"Okay, I'll start a fire...
+ ...Hey! Don't try to eat it raw!"
+#
+<name "Hungry Citizen" "!KB0134">
+"I can't?"
+#
+<name "Fishing Citizen" "!MB0040">
+"Yeah. River fish can have parasites.
+ Everybody knows to cook them before eating."
+#
+<name "Hungry Citizen" "!KB0135">
+"Eeh?
+ That's annoying."
+#
+<name "Fishing Citizen" "!MB0041">
+"It's better cooked."
+#
+<name "Hungry Citizen" "!KB0136">
+"Cook it already!"
+#
+<name "Fishing Citizen" "!MB0042">
+"Yeah, yeah."
+#
+<exit>
+:55D9
+<music 11>
+<background "bg013a0.agf" 10>
+<name "Troubled Citizen" "!RB0140">
+"I moved here from Forzelotte's Shrine."
+#
+<name "Experienced Citizen" "!SB0155">
+"Yeah, I know, but so what?"
+#
+<name "Troubled Citizen" "!RB0141">
+"My skin gets all flakey from living here.
+ Is it some kind of disease?"
+#
+<name "Experienced Citizen" "!SB0156">
+"Uh, that's just sunburn."
+#
+<name "Experienced Citizen" "!SB0157">
+"It's very different here from in a dungeon.
+ You need to take care of yourself."
+#
+<exit>
+:57A6
+<music 3>
+<background "bg010a0.agf" 10>
+<name "Darx">
+"Sofia, how's the city doing?"
+#
+<sprite "ta01a004.agf" 4 4 11>
+<name "Sofia" "!ZB0806">
+"Nothing's especially the matter.
+ Let's work hard to keep it that way."
+#
+<removesprite -1 11>
+<exit>
+:5898
+<music 3>
+<background "bg010a0.agf" 10>
+<sprite "ta01a033.agf" 4 4 11>
+<name "Sofia" "!ZB0807">
+"All's going well.
+ I wish it was always like this."
+#
+<name "Darx">
+"Don't get complacent.
+ You never know when something might happen."
+#
+<sprite "ta01a034.agf" 4 4 12>
+<name "Sofia" "!ZB0808">
+"Yeeep."
+#
+<removesprite -1 11>
+<exit>
+:59E7
+<music 3>
+<background "bg010a0.agf" 10>
+<sprite "ta01a005.agf" 4 4 11>
+<name "Sofia" "!ZB0818">
+"It's nice when there's a big stockpile of
+ food."
+#
+<name "Darx">
+"Yeah.
+ Healthy larder, healthy mind."
+#
+<sprite "ta01a033.agf" 4 4 12>
+<name "Sofia" "!ZB0819">
+"So next, please fill the treasury too."
+#
+<name "Darx">
+"Right."
+#
+<removesprite -1 11>
+<exit>
+:5B52
+<music 3>
+<background "bg010a0.agf" 10>
+<sprite "ta01a004.agf" 4 4 11>
+<name "Sofia" "!ZB0820">
+"The more food we have, the better off we
+ are."
+#
+<removesprite -1 11>
+<sprite "ta01a004.agf" 2 5 11>
+<sprite "ta34c004.agf" 6 4 11>
+<name "Company Maid" "!PC0254">
+"Even if we're under siege, we can fight for
+ a whole year!"
+#
+<sprite "ta01a036.agf" 2 5 12>
+<name "Sofia" "!ZB0821">
+"Is that a long time or short?"
+#
+<removesprite -1 11>
+<exit>
+:5D08
+<music 4>
+<background "bg009a0.agf" 10>
+<sprite "ta01a004.agf" 4 4 11>
+<name "Sofia" "!ZB0822">
+"Just because we have a lot of food, that
+ doesn't mean we should rest on our laurels."
+#
+<sprite "ta01a005.agf" 4 4 12>
+<name "Sofia" "!ZB0823">
+"Be especially careful not to overeat!"
+#
+<removesprite -1 11>
+<sprite "ta34b004.agf" 2 4 11>
+<sprite "ta34a004.agf" 4 6 11>
+<sprite "ta34c004.agf" 6 5 11>
+<name "Company Maid" "!PC0255">
+"Yes, ma'aaam."
+#
+<removesprite -1 11>
+<sprite "ta01a027.agf" 4 4 11>
+<name "Sofia" "!ZB0824">
+"Good answer.
+ So now look at what's on the table.
+ What do you see?
+ Lots of leftover food and drink, right?"
+#
+<removesprite -1 11>
+<sprite "ta34b000.agf" 2 4 11>
+<sprite "ta34a000.agf" 4 6 11>
+<sprite "ta34c000.agf" 6 5 11>
+<name "Company Maid" "!PC0256">
+"Hahaha..."
+#
+<removesprite -1 11>
+<sprite "ta01a010.agf" 4 4 11>
+<name "Sofia" "!ZB0826">
+"You paid for these, so it's not my concern
+ how you use them."
+#
+<sprite "ta01a011.agf" 4 4 12>
+<name "Sofia" "!ZB0827">
+"But it does not reflect well on us when we
+ are supposed to be role models for the 
+ village's residents."
+#
+<removesprite -1 11>
+<sprite "ta34b002.agf" 2 4 11>
+<sprite "ta34a002.agf" 4 6 11>
+<sprite "ta34c002.agf" 6 5 11>
+<name "Remorseful Maid" "!DC0239">
+"I'm sorry.
+ I got carried away."
+#
+<removesprite -1 11>
+<sprite "ta01a004.agf" 4 4 11>
+<name "Sofia" "!ZB0828">
+"No, it's fine."
+#
+<sprite "ta01a027.agf" 4 4 12>
+<name "Sofia" "!ZB0830">
+"You don't need to apologize.
+ I'm not mad."
+#
+<removesprite -1 11>
+<sprite "ta34b002.agf" 2 4 11>
+<sprite "ta34a002.agf" 4 6 11>
+<sprite "ta34c002.agf" 6 5 11>
+<name "Terrified Maid" "!PC0257">
+"Um... Miss Sofia?"
+#
+<removesprite -1 11>
+<sprite "ta01a027.agf" 4 4 11>
+<name "Sofia" "!ZB0831">
+"My anger has already subsided.
+ It happened when I spoke with Rakia about
+ this."
+#
+<sprite "ta01a033.agf" 4 4 11>
+<name "Sofia" "!ZB0832">
+"Don't worry. You will not be the only one who
+ suffers. I would be angry too if I couldn't
+ scold my own employees myself."
+#
+<sprite "ta01a034.agf" 4 4 11>
+<name "Sofia" "!ZB0833">
+"Come on, let's all be angry."
+#
+<removesprite -1 11>
+<sprite "ta34b008.agf" 2 4 11>
+<sprite "ta34a008.agf" 4 6 11>
+<sprite "ta34c008.agf" 6 5 11>
+<name "Remorseful Maid" "!DC0240">
+"I-I'm so sorry.
+ I promise I'll take care of it."
+#
+<name "Terrified Maid" "!PC0258">
+"Please just... not Rakia."
+#
+<removesprite -1 11>
+The real brimstone and hellfire only came
+when Rakia showed up.
+#
+<exit>
+:67F4
+<music 3>
+<background "bg010a0.agf" 10>
+<sprite "ta34a006.agf" 4 4 11>
+<name "Company Maid" "!PC0259">
+"We're low on food."
+#
+<removesprite -1 11>
+<sprite "ta01a014.agf" 2 5 11>
+<sprite "ta34a006.agf" 6 4 11>
+<name "Sofia" "!ZB0834">
+"Yeah, we are.
+ I'll report that to the Overlord."
+#
+<removesprite -1 11>
+<exit>
+:6945
+<music 3>
+<background "bg010a0.agf" 10>
+<name "Darx">
+"We're low on food, huh?"
+#
+<sprite "ta01a025.agf" 4 4 11>
+<name "Sofia" "!ZB0835">
+"Yes. We've got to gather more."
+#
+<name "Darx">
+"I'll try."
+#
+<removesprite -1 11>
+<exit>
+:6A33
+<music 3>
+<background "bg010a0.agf" 10>
+<name "Darx">
+"A food shortage?
+ That's a serious problem."
+#
+<sprite "ta34a001.agf" 4 4 11>
+<name "Company Maid" "!PC0260">
+"You're taking this surprisingly seriously."
+#
+<name "Darx">
+"Because they cut back on my portions."
+#
+<sprite "ta34a000.agf" 4 4 12>
+<name "Company Maid" "!PC0261">
+"Hahaha.
+ Good luck."
+#
+<removesprite -1 11>
+<exit>
+:6BB8
+<music 3>
+<background "bg010a0.agf" 10>
+<sprite "ta34a000.agf" 4 4 11>
+<name "Company Maid" "!PC0262">
+"We have a large stockpile of resources."
+#
+<removesprite -1 11>
+<sprite "ta01a005.agf" 2 5 11>
+<sprite "ta34a000.agf" 6 4 11>
+<name "Sofia" "!ZB0836">
+"Overlord, instead of hoarding, we should use
+ them to improve the city."
+#
+<name "Darx">
+"...I'll think about it."
+#
+<removesprite -1 11>
+<exit>
+:6D40
+<music 3>
+<background "bg010a0.agf" 10>
+<sprite "ta34a000.agf" 4 4 11>
+<name "Company Maid" "!PC0263">
+"We have a lot of resources."
+#
+<name "Company Maid" "!PC0264">
+"Which is to say, the warehouse is full."
+#
+<name "Darx">
+"I'll try to use some of it."
+#
+<removesprite -1 11>
+<exit>
+:6E47
+<music 3>
+<background "bg010a0.agf" 10>
+<sprite "ta34a000.agf" 4 4 11>
+<name "Company Maid" "!PC0265">
+"We have enough resources saved up.
+ Well done, Overlord."
+#
+<removesprite -1 11>
+<sprite "ta01a004.agf" 2 5 11>
+<sprite "ta34a000.agf" 6 4 11>
+<name "Sofia" "!ZB0837">
+"Resources are also important in case of
+ emergency.
+ There's no problem having a lot on hand."
+#
+<removesprite -1 11>
+<exit>
+:6FB5
+<music 3>
+<background "bg010a0.agf" 10>
+<sprite "ta34a002.agf" 4 4 11>
+<name "Company Maid" "!PC0266">
+"With so many resources saved up, I'm afraid
+ of what might happen if the dungeon is
+ invaded."
+#
+<name "Darx">
+"Try not to think about it."
+#
+<removesprite -1 11>
+<exit>
+:70A9
+<music 3>
+<background "bg010a0.agf" 10>
+<sprite "ta01a025.agf" 4 4 11>
+<name "Sofia" "!ZB0838">
+"Overlord, we're low on resources."
+#
+<name "Darx">
+"Seems like it."
+#
+<sprite "ta01a024.agf" 4 4 12>
+<name "Sofia" "!ZB0839">
+"Please do something about that."
+#
+<name "Darx">
+"I'll try."
+#
+<removesprite -1 11>
+<exit>
+:71F6
+<music 3>
+<background "bg010a0.agf" 10>
+<sprite "ta01a024.agf" 4 4 11>
+<name "Sofia" "!ZB0840">
+"We have very few resources stockpiled."
+#
+<name "Darx">
+"Yeah, but this is all I can get."
+#
+<sprite "ta01a001.agf" 4 4 12>
+<name "Sofia" "!ZB0841">
+"Construct more facilities.
+ Secure more from outside the city.
+ Trade for them with the company."
+#
+<name "Darx">
+"Can't you give me a better rate?"
+#
+<sprite "ta01a033.agf" 4 4 12>
+<name "Sofia" "!ZB0842">
+"Hahaha...
+ Sorry."
+#
+<removesprite -1 11>
+<exit>
+:7400
+<music 3>
+<background "bg010a0.agf" 10>
+<sprite "ta34a001.agf" 4 4 11>
+<name "Company Maid" "!PC0267">
+"I'm worried about our resource level."
+#
+<removesprite -1 11>
+<sprite "ta01a004.agf" 2 5 11>
+<sprite "ta34a001.agf" 6 4 11>
+<name "Sofia" "!ZB0843">
+"Overlord, please work harder."
+#
+<name "Darx">
+"Right."
+#
+<removesprite -1 11>
+<exit>
+:7562
+<music 3>
+<background "bg010a0.agf" 10>
+<name "Darx">
+"Lots of money means peace of mind."
+#
+<sprite "ta01a004.agf" 4 4 11>
+<name "Sofia" "!ZB0844">
+"For a person, but countries and cities have
+ to put it to use."
+#
+<sprite "ta01a005.agf" 4 4 12>
+<name "Sofia" "!ZB0845">
+"Don't overspend, but make sure you're putting
+ it to work."
+#
+<name "Darx">
+"Right."
+#
+<removesprite -1 11>
+<exit>
+:76E1
+<music 3>
+<background "bg010a0.agf" 10>
+<name "Darx">
+"When you have a full wallet, your mind is at
+ ease."
+#
+<sprite "ta01a034.agf" 4 4 11>
+<name "Sofia" "!ZB0846">
+"Gunguskar is at your side."
+#
+<name "Darx">
+"I-I'm not sure I need that... I think."
+#
+<sprite "ta01a026.agf" 4 4 12>
+<name "Sofia" "!ZB0847">
+"Eh?"
+#
+<removesprite -1 11>
+<exit>
+:7844
+<music 3>
+<background "bg010a0.agf" 10>
+<sprite "ta01a004.agf" 4 4 11>
+<name "Sofia" "!ZB0848">
+"Just because you can afford it, don't be
+ careless.
+ Don't spend too much money."
+#
+<name "Darx">
+"Right."
+#
+<removesprite -1 11>
+<exit>
+:7926
+<music 3>
+<background "bg010a0.agf" 10>
+<sprite "ta01a024.agf" 4 4 11>
+<name "Sofia" "!ZB0849">
+"We're low on money."
+#
+<sprite "ta01a025.agf" 4 4 12>
+<name "Sofia" "!ZB0850">
+"I don't mind running a deficit, but we'll be
+ in trouble if we run out of money.
+ We won't be able to do anything at all."
+#
+<name "Darx">
+"I'll think of something."
+#
+<sprite "ta01a004.agf" 4 4 12>
+<name "Sofia" "!ZB0851">
+"Please do."
+#
+<removesprite -1 11>
+<exit>
+:7AE6
+<music 3>
+<background "bg010a0.agf" 10>
+<sprite "ta01a024.agf" 4 4 11>
+<name "Sofia" "!ZB0852">
+"We're low on funds.
+ We need to think of ways to make more money."
+#
+<sprite "ta01a025.agf" 4 4 12>
+<name "Sofia" "!ZB0853">
+"Overlord, please think about this with me."
+#
+<name "Darx">
+"I-I'll try."
+#
+<removesprite -1 11>
+<exit>
+:7C36
+<music 17>
+<background "ev059a00.agf" 10>
+I go back to my room to get some rest, but
+there are a bunch of naked women waiting for
+me there.
+#
+<name "Naked Girl" "!HC0079">
+"Welcome home."
+#
+<name "Spread Legged Girl" "!SB0158">
+"Overlord.♪"
+#
+<name "Seductive Girl" "!RB0142">
+"Haha, Overlord."
+#
+<name "Underwear Girl" "!LB0108">
+"Aaah, you're late."
+#
+<name "Masturbating Girl" "!GB0107">
+"Ahhh...
+ My pussy's ready for you."
+#
+<name "Inviting Girl" "!QB0158">
+"Mine too..."
+#
+<name "Big Breasted Girl" "!WB0149">
+"Mm... Overlord.
+ Do you like my breasts?"
+#
+<name "Darx">
+"This is great, but hold on."
+#
+<name "Darx">
+"So, who's going to explain what's going on
+ here?"
+#
+<name "Company Maid" "!PC0268">
+"If you'll allow me."
+#
+There's a maid standing behind me.
+#
+Considering that she's dressed, there's a 
+clear line differentiating her from the rest
+of them.
+#
+<name "Darx">
+"Please."
+#
+<name "Company Maid" "!PC0269">
+"The city had grown, yes?"
+#
+<name "Darx">
+"Yeah."
+#
+<name "Company Maid" "!PC0270">
+"And you are fond of women, yes?"
+#
+<name "Darx">
+"Yeah."
+#
+<name "Company Maid" "!PC0271">
+"The women who are grateful for the 
+ development of the city are eager to have
+ sex with you. It seemed like it would soon
+ lead to a riot, hence this situation."
+#
+<name "Company Maid" "!PC0272">
+"I have faith that you can take over from
+ here."
+#
+<name "Company Maid" "!PC0273">
+"The end."
+#
+<name "Darx">
+"Uh, so have sex with them?"
+#
+<name "Company Maid" "!PC0274">
+"Yes. By the way, they have been frisked and
+ inspected for diseases.
+ Their background checks were clear as well."
+#
+<name "Company Maid" "!PC0275">
+"Sofia conducted the final interview, and
+ those who passed are here."
+#
+<name "Darx">
+"Meaning that these are all people of some
+ influence within the city?"
+#
+<name "Company Maid" "!PC0276">
+"Indeed."
+#
+<name "Darx">
+"Okay. Got it.
+ You can leave now."
+#
+<name "Darx">
+"Oh, and send food for everybody in about
+ three hours."
+#
+<name "Company Maid" "!PC0277">
+"As you wish."
+#
+She leaves, closing the door behind her.
+#
+<name "Darx">
+"You're not getting away, even if you don't
+ like it."
+#
+<name "Naked Girl" "!HC0080">
+"Okay.♪"
+#
+<name "Spread Legged Girl" "!SB0159">
+"I look forward to it."
+#
+<name "Seductive Girl" "!RB0143">
+"Ah, I-I..."
+#
+...
+#
+Three hours later...
+#
+<background "ev059a01.agf" 10>
+<name "Exhausted Girl" "!HC0081">
+"Ah...ah...ahh..."
+#
+<name "Fainted Girl" "!SB0160">
+"Ahhh..."
+#
+<name "Basking Girl" "!RB0144">
+"Aaahhh..."
+#
+<name "Company Maid" "!PC0278">
+"W-Well done."
+#
+<name "Darx">
+"Hm?
+ Three hours already?"
+#
+<name "Company Maid" "!PC0279">
+"Y-Yes."
+#
+<name "Darx">
+"Ah, just leave it there."
+#
+I speak to all the women I've come inside.
+#
+<name "Darx">
+"Whoever can should eat.
+ We're just getting started."
+#
+<name "Enduring Girl" "!LB0109">
+"O-Okay..."
+#
+<name "Perservering Girl" "!GB0108">
+"A-Ah...
+ M-More...?"
+#
+I enjoy the gratitude of my citizens.
+#
+\x0A\x44\x02\x10\x84\x01
+<exit>
+:8719
+<music 4>
+<background "bg009a0.agf" 10>
+<name "Gossipping Girl" "!HC0082">
+"I had heard the rumors about the Overlord,
+ but..."
+#
+<name "Agreeing Girl" "!SB0161">
+"They were all true."
+#
+<name "Remembering Girl" "!RB0145">
+"Yeah."
+#
+<music 17>
+<background "ev059a01.agf" 10>
+<name "Multiple Orgasms Girl" "!LB0110">
+"He was incredible."
+#
+<name "Enraptured Girl" "!GB0109">
+"So intense."
+#
+<name "Loud Girl" "!QB0159">
+"He knew all kinds of techniques."
+#
+<name "Writhing Girl" "!WB0150">
+"I passed out."
+#
+<name "Gossipping Girl" "!HC0083">
+"No wonder the Celestials fell."
+#
+<name "Agreeing Girl" "!SB0162">
+"Yeah."
+#
+<name "Remembering Girl" "!RB0146">
+"But I heard that Forzelotte and Meryl can
+ handle him by themselves."
+#
+<name "Multiple Orgasms Girl" "!LB0111">
+"Huh?
+ They can?"
+#
+<name "Enraptured Girl" "!GB0110">
+"No way..."
+#
+<name "Loud Girl" "!QB0160">
+"A-Amazing..."
+#
+<name "Writhing Girl" "!WB0151">
+"Admirable."
+#
+<name "Gossipping Girl" "!HC0084">
+"Yeah."
+#
+Forzelotte and Meryl's reputation improved,
+though they had no idea why.
+#
+\x0A\x44\x02\x11\x84\x01
+<exit>
+:8B21
+<music 4>
+<background "bg009a0.agf" 10>
+<sprite "ta08a000.agf" 4 4 11>
+<name "Rakia" "!ZC0342">
+"While the Overlord is gone, I hope you work
+ hard to protect the city."
+#
+<removesprite -1 11>
+<sprite "ta08a000.agf" 2 4 11>
+<sprite "ta01a024.agf" 6 5 11>
+<name "Sofia" "!ZB0636">
+"Yes, ma'am.
+ But, um..."
+#
+<sprite "ta08a001.agf" 2 4 12>
+<name "Rakia" "!ZC0343">
+"What is it?"
+#
+<sprite "ta01a025.agf" 6 5 12>
+<name "Sofia" "!ZB0638">
+"Are we going to be able to keep it safe?
+ To be honest, I don't feel like we're well
+ prepared..."
+#
+<sprite "ta08a013.agf" 2 4 12>
+<name "Rakia" "!ZC0344">
+"It is not the company who protects the city.
+ It is the citizens.
+ Do not forget that."
+#
+<sprite "ta01a026.agf" 6 5 12>
+<name "Sofia" "!ZB0639">
+"Ah..."
+#
+<sprite "ta08a015.agf" 2 4 12>
+<name "Rakia" "!ZC0345">
+"The company is only here to help."
+#
+<sprite "ta01a036.agf" 6 5 12>
+<name "Sofia" "!ZB0640">
+"Y-You're right."
+#
+<sprite "ta08a016.agf" 2 4 12>
+<name "Rakia" "!ZC0346">
+"However, this city has only just been
+ founded. There are certainly ways it is
+ unprepared."
+#
+<sprite "ta08a021.agf" 2 4 12>
+<name "Rakia" "!ZC0347">
+"Which is why sometimes we need to go above
+ and beyond our duty."
+#
+<sprite "ta01a004.agf" 6 5 12>
+<name "Sofia" "!ZB0641">
+"Hahaha..."
+#
+<sprite "ta08a004.agf" 2 4 12>
+<name "Rakia" "!ZC0348">
+"So work hard."
+#
+<sprite "ta01a033.agf" 6 5 12>
+<name "Sofia" "!ZB0642">
+"Yes, ma'am.
+ Thank you very much."
+#
+<removesprite -1 11>
+<exit>
+:9187
+<music 4>
+<background "bg009a0.agf" 10>
+<sprite "ta01a000.agf" 4 4 11>
+<name "Sofia" "!ZB0643">
+"A citizen's watch group?"
+#
+<removesprite -1 11>
+<sprite "ta01a000.agf" 2 5 11>
+<sprite "ta34a001.agf" 6 4 11>
+<name "Company Maid" "!AC0137">
+"Yes. It's a proposal specifically from the
+ citizens themselves, so I think we should
+ try to implement it."
+#
+<sprite "ta01a004.agf" 2 5 12>
+<name "Sofia" "!ZB0644">
+"That's not a bad idea.
+ I will authorize it myself."
+#
+<removesprite 6 11>
+<removesprite -1 11>
+<sprite "ta34a000.agf" 4 4 11>
+<name "Company Maid" "!AC0138">
+"Thank you very much."
+#
+<removesprite -1 11>
+<sprite "ta01a001.agf" 4 4 11>
+<name "Sofia" "!ZB0645">
+"...Wait a minute."
+#
+<removesprite -1 11>
+<sprite "ta01a001.agf" 2 5 11>
+<sprite "ta34a000.agf" 6 4 11>
+<name "Company Maid" "!AC0139">
+"Yes?"
+#
+<sprite "ta01a012.agf" 2 5 12>
+<name "Sofia" "!ZB0646">
+"I just said that I'd authorize it myself.
+ Did that sound good?"
+#
+<sprite "ta34a004.agf" 6 4 12>
+<name "Company Maid" "!AC0140">
+"Yes, very.
+ It felt perfect."
+#
+<sprite "ta01a033.agf" 2 5 12>
+<name "Sofia" "!ZB0647">
+"Hahaha..."
+#
+<removesprite -1 11>
+<exit>
+:9677
+<music 10>
+<background "ev003a00.agf" 10>
+<name "Sofia" "!ZB0648">
+"W-Why are there so many documents?"
+#
+<name "Company Maid" "!AC0141">
+"The city may be small, but all of its
+ administration ends up here.
+ But this still isn't that many."
+#
+<name "Sofia" "!ZB0649">
+"How do other cities handle all this
+ paperwork?"
+#
+<name "Company Maid" "!AC0142">
+"Sometimes there's special people who do
+ nothing but it, but normally, it's divided
+ up between a lot of people."
+#
+<name "Sofia" "!ZB0650">
+"...L-Let's work hard."
+#
+<name "Company Maid" "!AC0143">
+"Yep."
+#
+<exit>
+:989F
+<music 10>
+<background "ev003a00.agf" 10>
+<name "Sofia" "!ZB0651">
+"I figured out something recently."
+#
+<name "Company Maid" "!AC0144">
+"What is it?"
+#
+<name "Sofia" "!ZB0652">
+"We need bureaucrats."
+#
+<name "Company Maid" "!AC0145">
+"Hahaha.
+ They're just hated because of how people see
+ them."
+#
+<name "Company Maid" "!AC0146">
+"A bureaucrat who does their job well is a
+ rare treasure."
+#
+<exit>
+:9A1B
+<music 10>
+<background "ev003a00.agf" 10>
+<name "Office Maid" "!AC0147">
+"Incomplete paperwork is such a pain."
+#
+<name "Accounting Maid" "!DC0180">
+"Yes. It makes me want to kill people."
+#
+<name "Sofia" "!ZB0653">
+"I-I can tell."
+#
+<exit>
+:9B02
+<music 4>
+<background "bg009a0.agf" 10>
+<sprite "ta01a001.agf" 4 4 11>
+<name "Sofia" "!ZB0666">
+"A citizens guard?"
+#
+<name "Proposing Citizen" "!BC0054">
+"Yes. It's not that we doubt the Overlord,
+ but considering what's already happened,
+ we think it'd be better if we had something
+ like that."
+#
+<sprite "ta01a004.agf" 4 4 12>
+<name "Sofia" "!ZB0667">
+"That makes sense.
+ And the city is getting bigger."
+#
+<name "Proposing Citizen" "!BC0055">
+"We can also make them responsible for things
+ like putting out fires or exterminating
+ pests."
+#
+<name "Proposing Citizen" "!BC0056">
+"Of course, if there's a city emergency,
+ they'd be under the Overlord's command."
+#
+<removesprite -1 11>
+<name "Darx">
+"No, not under me.
+ Under the leader of the city."
+#
+<sprite "ta01a004.agf" 4 4 11>
+<name "Sofia" "!ZB0668">
+"Overlord."
+#
+<removesprite -1 11>
+<name "Darx">
+"And shouldn't you be asking them that, not
+ us?"
+#
+<name "Proposing Citizen" "!BC0057">
+"They said they can't make the decision on
+ their own and to ask you."
+#
+<name "Darx">
+"I see.
+ Excuse me then."
+#
+<name "Darx">
+"Anyway, I'll approve a citizens guard, but
+ we'll organize it.
+ We need it to act responsibly.
+ Does that work for you?"
+#
+<name "Proposing Citizen" "!BC0058">
+"Yes. That's fine with us.
+ Thank you very much."
+#
+A citizens guard has been established.
+#
+Let's leave fires, thieves, and other things
+like that to them.
+#
+<exit>
+:A06C
+<music 3>
+<background "bg010a0.agf" 10>
+<name "Darx">
+"Sofia, do you know Delerson?"
+#
+<sprite "ta01a004.agf" 4 4 11>
+<name "Sofia" "!ZB0956">
+"Mr. Delerson?
+ I know him.
+ He introduced himself to me."
+#
+<name "Darx">
+"I see."
+#
+<sprite "ta01a005.agf" 4 4 12>
+<name "Sofia" "!ZB0957">
+"He eats sometimes at the Overlord's Retreat."
+#
+<name "Darx">
+"I hadn't noticed."
+#
+<sprite "ta01a004.agf" 4 4 12>
+<name "Sofia" "!ZB0958">
+"Should I arrange for you to have dinner with
+ him later?"
+#
+<name "Darx">
+"Hahaha.
+ That is not a suggestion that benefits
+ either of us."
+#
+<sprite "ta01a025.agf" 4 4 12>
+<name "Sofia" "!ZB0959">
+"Huh? It doesn't?"
+#
+<name "Darx">
+"Well, I'll say okay if and only if all
+ agreements made while eating are null and
+ void."
+#
+<sprite "ta01a033.agf" 4 4 12>
+<name "Sofia" "!ZB0960">
+"Hahaha..."
+#
+<removesprite -1 11>
+Delerson is another person from Gunguskar. 
+#
+If you're not careful, he'll find a way into
+your wallet.
+#
+<name "Darx">
+"Well, I don't love eating with men anyway,
+ but if I run into him, I'll say hi."
+#
+<sprite "ta01a004.agf" 4 4 11>
+<name "Sofia" "!ZB0962">
+"All right.
+ Please try to get along."
+#
+<removesprite -1 11>
+<exit>
+:A549
+<music 11>
+<background "bg013a0.agf" 10>
+<name "Merchant Citizen" "!MB0024">
+"Oh, what's that group?"
+#
+<name "Guard Citizen" "!CB0051">
+"Those are students from the school."
+ It must be an outdoor class."
+#
+<name "Merchant Citizen" "!MB0025">
+"Oh?
+ There's quite a few of them."
+#
+<name "Guard Citizen" "!CB0052">
+"Don't get any funny ideas."
+#
+<name "Merchant Citizen" "!MB0026">
+"I know that.
+ I'm not going to try to make money off of
+ students."
+#
+<name "Guard Citizen" "!CB0053">
+"That's right.
+ We're investing in the future."
+#
+<exit>
+:A748
+<music 4>
+<background "bg009a0.agf" 10>
+<name "Darx">
+"How's being school teacher working?"
+#
+<name "Izana" "!AA0061" "ka28a000.agf">
+"Well, I'm enjoying myself."
+#
+<name "Darx">
+"That's good."
+#
+<name "Izana" "!AA0062" "ka28a000.agf">
+"I also want to continue my research into
+ heroes, but I can't get the budget approved.
+ Can't you do something about that as
+ Overlord?"
+#
+<name "Darx">
+"Hahaha...
+ Don't talk to me about the school budget."
+#
+<name "Izana" "!AA0063" "ka28a000.agf">
+"Grr..."
+#
+<name "Darx">
+"If you can do it at the research tower, I'm
+ sure we can fudge some numbers."
+#
+<name "Izana" "!AA0064" "ka28a000.agf">
+"I wish, but being at the tower would make it
+ hard to teach."
+#
+<name "Darx">
+"Right.
+ Well, there's nothing to lose by asking the
+ principal."
+#
+<name "Izana" "!AA0065" "ka28a000.agf">
+"Please do."
+#
+<exit>
+:AA7C
+<music 3>
+<background "bg010a0.agf" 10>
+<sprite "ta01a004.agf" 4 4 11>
+<name "Sofia" "!ZB0791">
+"Overlord, why don't you inspect the school
+ some time?"
+#
+<name "Darx">
+"Aah... I've been told to stay away."
+#
+<sprite "ta01a024.agf" 4 4 12>
+<name "Sofia" "!ZB0792">
+"You have?"
+#
+<name "Darx">
+"Yeah."
+#
+<sprite "ta01a025.agf" 4 4 12>
+<name "Sofia" "!ZB0793">
+"Why?"
+#
+<name "Darx">
+"Hahaha..."
+#
+<removesprite -1 11>
+<music 4>
+<background "bg009a0.agf" 10>
+<sprite "ta34c000.agf" 4 4 11>
+<name "Company Maid" "!AC0207">
+"That school also has the purpose of being a
+ fortress to protect girls from the Overlord."
+#
+<removesprite -1 11>
+<sprite "ta01a025.agf" 2 5 11>
+<sprite "ta34c000.agf" 6 4 11>
+<name "Sofia" "!ZB0794">
+"I-I see."
+#
+<removesprite -1 11>
+<exit>
+:ADD8
+<music 4>
+<background "bg009a0.agf" 10>
+<sprite "ta11a001.agf" 4 4 11>
+<name "Kozelotte" "!NA0169">
+"Ah."
+#
+<name "Darx">
+"Oh, it's my angel."
+#
+<sprite "ta11a013.agf" 4 4 12>
+<name "Kozelotte" "!NA0170">
+"Hmmm...
+ I am a demon, you know, so being called an
+ angel isn't a compliment."
+#
+<name "Darx">
+"Yeah, okay."
+#
+<name "Darx">
+"But calling you a demon doesn't feel much
+ like a good thing either..."
+#
+<sprite "ta11a012.agf" 4 4 12>
+<name "Kozelotte" "!NA0171">
+"Lovely goddess."
+#
+<name "Darx">
+"That's it!"
+#
+<sprite "ta11a004.agf" 4 4 12>
+<name "Kozelotte" "!NA0172">
+"So, let's start over."
+#
+<removesprite -1 11>
+<sprite "ta01a036.agf" 4 4 11>
+<name "Sofia" "!ZB0795">
+"Um, I can see that you're a very close
+ family, but please stop playing around in the
+ doorway."
+#
+<removesprite -1 11>
+<exit>
+:B109
+<music 3>
+<background "bg010a0.agf" 10>
+<name "Darx">
+"Wasn't Suisen going to set up a store?"
+#
+<sprite "ta01a001.agf" 4 4 11>
+<name "Sofia" "!ZB0187">
+"Yes, it seems so.
+ She'll be trading with my store for a while."
+#
+<name "Darx">
+"Oh?"
+#
+<removesprite -1 11>
+<exit>
+:B247
+<music 11>
+<background "bg008a0.agf" 10>
+<name "Delighted Angel" "!QB0029">
+"I can't believe you can buy these here."
+#
+<name "Smiling Angel" "!WB0025">
+"I'm so glad."
+#
+<name "Browsing Angel" "!TC0005">
+"I thought you could only get them in
+ Celestia."
+#
+<name "Delighted Angel" "!QB0030">
+"Oh, is that new?"
+#
+<name "Smiling Angel" "!WB0026">
+"Let me see that.
+ Oooh."
+#
+<sprite "ta06a001.agf" 4 4 11>
+<name "Suisen" "!YA0033">
+"How are sales?"
+#
+<removesprite -1 11>
+<sprite "ta01a000.agf" 2 5 11>
+<sprite "ta06a001.agf" 6 4 11>
+<name "Sofia" "!ZB0189">
+"Pretty good."
+#
+<sprite "ta06a004.agf" 6 4 12>
+<name "Suisen" "!YA0034">
+"You don't need to be so nervous.
+ I do have a history with Macdo, but I want
+ to get along with everybody else."
+#
+<sprite "ta01a001.agf" 2 5 12>
+<name "Sofia" "!ZB0190">
+"Really?"
+#
+<sprite "ta06a005.agf" 6 4 12>
+<name "Suisen" "!YA0035">
+"Yes.
+ Besides, if we have to be enemies, I may 
+ have to be more underhanded."
+#
+<sprite "ta01a025.agf" 2 5 12>
+<name "Sofia" "!ZB0191">
+"Ooohhh..."
+#
+<sprite "ta06a019.agf" 6 4 12>
+<name "Suisen" "!YA0036">
+"Hahahahaha.
+ It was just a joke."
+#
+<removesprite -1 11>
+<exit>
+:B75B
+<music 39>
+<background "bg002a0.agf" 10>
+<sprite "ta02a019.agf" 4 4 11>
+<name "Macdo" "!ZA0107">
+"That filthy angel company isn't opening a
+ store..."
+#
+<sprite "ta02a023.agf" 4 4 12>
+<name "Macdo" "!ZA0108">
+"Do they think there's some problem opening
+ their own store here?"
+#
+<removesprite -1 11>
+<exit>
+:B88E
+<music 11>
+<background "bg008a0.agf" 10>
+<sprite "ta05a000.agf" 4 4 11>
+<name "Kyuriha" "!FA0071">
+"You're still holding yourself back?"
+#
+<removesprite -1 11>
+<sprite "ta05a000.agf" 2 4 11>
+<sprite "ta06a000.agf" 6 5 11>
+<name "Suisen" "!YA0037">
+"With Macdo around, a legitimate fight would
+ break out if I went too far."
+#
+<sprite "ta05a001.agf" 2 4 12>
+<name "Kyuriha" "!FA0072">
+"Oh my. It's rare for you to show such 
+ self-restraint."
+#
+<sprite "ta06a003.agf" 6 5 12>
+<name "Suisen" "!YA0038">
+"If you weren't involved, I definitely would
+ go all out."
+#
+<sprite "ta05a003.agf" 2 4 12>
+<name "Kyuriha" "!FA0073">
+"My, my."
+#
+<sprite "ta06a010.agf" 6 5 12>
+<name "Suisen" "!YA0039">
+"Plus, there's the wild card."
+#
+<sprite "ta05a010.agf" 2 4 12>
+<name "Kyuriha" "!FA0074">
+"Wild card?"
+#
+<sprite "ta06a013.agf" 6 5 12>
+<name "Suisen" "!YA0041">
+"Miartei."
+#
+<sprite "ta05a009.agf" 2 4 12>
+<name "Kyuriha" "!FA0075">
+"I did inform her I was coming here before I
+ left."
+#
+<sprite "ta06a005.agf" 6 5 12>
+<name "Suisen" "!YA0042">
+"I may have stirred the pot."
+#
+<sprite "ta05a005.agf" 2 4 12>
+<name "Kyuriha" "!FA0076">
+"...Suisen."
+#
+<sprite "ta06a016.agf" 6 5 12>
+<name "Suisen" "!YA0043">
+"D-Don't be mad.
+ It just came up in conversation.
+ Like, ugh, I have to do this."
+#
+<sprite "ta06a003.agf" 6 5 12>
+<name "Suisen" "!YA0044">
+"Well, since we're here, it's not like she's
+ going to just come magically blasting in."
+#
+<sprite "ta05a006.agf" 2 4 12>
+<name "Kyuriha" "!FA0077">
+"But she may go blasting elsewhere?"
+#
+<sprite "ta06a004.agf" 6 5 12>
+<name "Suisen" "!YA0045">
+"Maybe."
+#
+<sprite "ta05a005.agf" 2 4 12>
+<name "Kyuriha" "!FA0078">
+"...Which is why you haven't opened your own
+ store.
+ I see now."
+#
+<sprite "ta06a015.agf" 6 5 12>
+<name "Suisen" "!YA0046">
+"T-That's not it.
+ I'm just taking my time and considering my
+ options..."
+#
+<sprite "ta05a006.agf" 2 4 12>
+<name "Kyuriha" "!FA0079">
+"I will tell Darx about her.
+ Don't worry about it."
+#
+<sprite "ta06a005.agf" 6 5 12>
+<name "Suisen" "!YA0047">
+"T-Thanks."
+#
+<removesprite -1 11>
+<music 3>
+<background "bg010a0.agf" 10>
+<name "Darx">
+"Miartei?"
+#
+<sprite "ta05a001.agf" 4 4 11>
+<name "Kyuriha" "!FA0080">
+"Yes.
+ She's a Celestial, and a friend of mine."
+#
+<sprite "ta05a000.agf" 4 4 12>
+<name "Kyuriha" "!FA0081">
+"She's quite traditional, and hates demons.
+ She's the kind of woman who would never
+ accept a city where angels live alongside
+ demons."
+#
+<name "Darx">
+"Sounds like most Celestials."
+#
+<sprite "ta05a014.agf" 4 4 12>
+<name "Kyuriha" "!FA0082">
+"W-Well... that is true."
+#
+<name "Darx">
+"And she might attack us?"
+#
+<sprite "ta05a016.agf" 4 4 12>
+<name "Kyuriha" "!FA0083">
+"Yes, but because Suisen and I am here, I 
+ don't expect she'll come straight in."
+#
+<sprite "ta05a014.agf" 4 4 12>
+<name "Kyuriha" "!FA0084">
+"I'm concerned for you, Darx.
+ I think you may be in danger, particularly
+ when you leave the city."
+#
+<name "Darx">
+"...I see.
+ I understand.
+ I'll be careful."
+#
+<sprite "ta05a015.agf" 4 4 12>
+<name "Kyuriha" "!FA0085">
+"Yes, and... um, this is hard to say."
+#
+<sprite "ta05a016.agf" 4 4 12>
+<name "Kyuriha" "!FA0086">
+"If by any chance she does attack, please
+ understand that she is doing so on her own
+ and it is not the will of Celestia."
+#
+<sprite "ta05a015.agf" 4 4 12>
+<name "Kyuriha" "!FA0087">
+"That's why I warned you about her before
+ anything should happen."
+#
+<name "Darx">
+"All right.
+ She's out on her own."
+#
+<sprite "ta05a017.agf" 4 4 12>
+<name "Kyuriha" "!FA0088">
+"Yes.
+ Thank you very much."
+#
+<name "Darx">
+"I do have two questions about this."
+#
+<sprite "ta05a003.agf" 4 4 12>
+<name "Kyuriha" "!FA0089">
+"What are they?"
+#
+<name "Darx">
+"Let's say she does attack the city.
+ When she does, which side are you going to
+ be on?"
+#
+<sprite "ta05a004.agf" 4 4 12>
+<name "Kyuriha" "!FA0090">
+"...If that happened, I would fight to 
+ protect the city."
+#
+<sprite "ta05a017.agf" 4 4 12>
+<name "Kyuriha" "!FA0091">
+"However, I know her, and I do not believe
+ that she has any intention of ever setting
+ foot inside this city."
+#
+<name "Darx">
+"I see.
+ Next question."
+#
+<name "Darx">
+"I am... not a forgiving man to my enemies.
+ Especially women.
+ I force them to know their position under
+ me."
+#
+<name "Darx">
+"You said she was a friend.
+ If I capture her, what would you do?"
+#
+<sprite "ta05a019.agf" 4 4 12>
+<name "Kyuriha" "!FA0092">
+"I would do nothing.
+ You may do with her as you will."
+#
+<name "Darx">
+"Are you sure?"
+#
+<sprite "ta05a003.agf" 4 4 12>
+<name "Kyuriha" "!FA0093">
+"If she attacks, then she is prepared for the
+ consequences. To the victor goes the loser's
+ life to do with as they please.
+ I see nothing wrong with that."
+#
+<name "Darx">
+"...You're scary."
+#
+<sprite "ta05a017.agf" 4 4 12>
+<name "Kyuriha" "!FA0094">
+"Heheh..."
+#
+<removesprite -1 11>
+<exit>
+:CD44
+<music 5>
+<background "bg011a0.agf" 10>
+<sprite "ta13a016.agf" 2 4 11>
+<sprite "ta10a025.agf" 6 5 11>
+<name "Forzelotte" "!XA0120">
+"Heheheh..."
+#
+<sprite "ta13a018.agf" 2 4 12>
+<name "Ekate" "!TA0012">
+"Rrrrrrrr..."
+#
+<name "Darx">
+"Why are you two staring daggers in my room?"
+#
+<removesprite -1 11>
+Or more accurately, Ekate is.
+#
+<sprite "ta13a001.agf" 2 4 11>
+<sprite "ta10a005.agf" 6 5 11>
+<name "Forzelotte" "!XA0121">
+"I just came to clean my husband's room."
+#
+<sprite "ta13a005.agf" 2 4 12>
+<name "Ekate" "!TA0013">
+"Me too."
+#
+<name "Darx">
+"Uh...
+ Then why does it look like nothing's cleaned
+ up besides the bed?"
+#
+<removesprite -1 11>
+They probably chased out the regular maid.
+#
+<sprite "ta13a001.agf" 2 4 11>
+<sprite "ta10a008.agf" 6 5 11>
+<name "Forzelotte" "!XA0122">
+"Ekate, don't you think this is best left to
+ me?"
+#
+<sprite "ta13a005.agf" 2 4 12>
+<name "Ekate" "!TA0014">
+"No, no. Let's have a fair match."
+#
+<sprite "ta10a010.agf" 6 5 12>
+<name "Forzelotte" "!XA0123">
+"Hmm...
+ How about chess?"
+#
+<sprite "ta13a006.agf" 2 4 12>
+<name "Ekate" "!TA0015">
+"Fine."
+#
+<removesprite -1 11>
+The two start playing.
+#
+<name "Darx">
+"Don't forget to clean up after you finish."
+#
+\x0A\x44\x02\x12\x84\x01
+<exit>
+:D2CD
+<music 11>
+<background "bg008a0.agf" 10>
+<sprite "ta10a001.agf" 4 4 11>
+<name "Forzelotte" "!XA0124">
+"A word, Ekate."
+#
+<removesprite -1 11>
+<sprite "ta13a000.agf" 2 4 11>
+<sprite "ta10a001.agf" 6 5 11>
+<name "Ekate" "!TA0016">
+"What is it?"
+#
+<sprite "ta10a010.agf" 6 5 12>
+<name "Forzelotte" "!XA0125">
+"I hear you have been telling humans that you
+ are the wife of the Overlord."
+#
+<name "Ekate" "!TA0017">
+"Huh? Oh, um..."
+#
+<sprite "ta10a009.agf" 6 5 12>
+<name "Forzelotte" "!XA0126">
+"Isn't lying against the rules?
+ That is a lie."
+#
+<name "Ekate" "!TA0018">
+"Y-You're right."
+#
+<sprite "ta10a008.agf" 6 5 12>
+<name "Forzelotte" "!XA0127">
+"I am magnanimous, but my patience does have
+ its limits.
+ Do not test it."
+#
+<name "Ekate" "!TA0019">
+"Yes, ma'am."
+#
+<removesprite -1 11>
+<music 3>
+<background "bg010a0.agf" 10>
+<name "Darx">
+"You've got quite the presence."
+#
+<sprite "ta10a001.agf" 4 4 11>
+<name "Forzelotte" "!XA0128">
+"Hm?"
+#
+<name "Darx">
+"You've got Ekate cowed."
+#
+<sprite "ta10a005.agf" 4 4 12>
+<name "Forzelotte" "!XA0129">
+"Ah...
+ That's because she's served me since she was
+ a little girl."
+#
+<name "Darx">
+"Really?"
+#
+<sprite "ta10a006.agf" 4 4 12>
+<name "Forzelotte" "!XA0130">
+"Mmhmm.
+ She was a delicate girl who struggled to
+ achieve the strength she has now.
+ I do admit that."
+#
+<sprite "ta10a012.agf" 4 4 12>
+<name "Forzelotte" "!XA0131">
+"But the childish side of her still remains."
+#
+<sprite "ta10a020.agf" 4 4 12>
+<name "Forzelotte" "!XA0132">
+"Even moreso since she met you."
+#
+<name "Darx">
+"Hahaha..."
+#
+<sprite "ta10a005.agf" 4 4 12>
+<name "Forzelotte" "!XA0133">
+"Well, I want her to help you when I am unable
+ to."
+#
+<name "Darx">
+"Your former subordinates have helped me a lot
+ over the years."
+#
+<sprite "ta10a024.agf" 4 4 12>
+<name "Forzelotte" "!XA0134">
+"Yes. Well, they did the work that I could not.
+ Take good care of them."
+#
+<name "Darx">
+"Yeah, I know."
+#
+<removesprite -1 11>
+\x2B\x0A\x44\x02\x13\x84\x01
+<exit>
+:DB30
+<music 40>
+<background "bg004a0.agf" 10>
+<sprite "ta10a004.agf" 4 4 11>
+<name "Forzelotte" "!XA0135">
+"Rakia, could I meet with this Macdo?"
+#
+<removesprite -1 11>
+<sprite "ta08a004.agf" 2 4 11>
+<sprite "ta10a004.agf" 6 5 11>
+<name "Rakia" "!ZC0238">
+"O-Okay.
+ Please give me a moment."
+#
+<removesprite -1 11>
+...
+#
+<sprite "ta02a000.agf" 4 4 11>
+<name "Macdo" "!ZA0334">
+"You wished to see me, former Overlord
+ Forzelotte?"
+#
+<removesprite -1 11>
+<sprite "ta02a000.agf" 2 4 11>
+<sprite "ta10a001.agf" 6 5 11>
+<name "Forzelotte" "!XA0136">
+"You are Macdo?"
+#
+<sprite "ta02a028.agf" 2 4 12>
+<name "Macdo" "!ZA0335">
+"Yes.
+ Pleased to make your acquaintance."
+#
+<sprite "ta02a000.agf" 2 4 12>
+<name "Macdo" "!ZA0336">
+"So, what business did you have with me?"
+#
+<sprite "ta10a002.agf" 6 5 12>
+<name "Forzelotte" "!XA0137">
+"I understand you doubt my husband's
+ capabilities."
+#
+<sprite "ta02a001.agf" 2 4 12>
+<name "Macdo" "!ZA0337">
+"Do you disagree with my judgment?"
+#
+<sprite "ta10a008.agf" 6 5 12>
+<name "Forzelotte" "!XA0138">
+"You think I wouldn't?
+ That was not my belief when I stepped down."
+#
+<sprite "ta02a028.agf" 2 4 12>
+<name "Macdo" "!ZA0338">
+"I'm sorry to hear that, but I have sufficient
+ reason to be skeptical.
+ This is not simply my own whim."
+#
+<sprite "ta10a001.agf" 6 5 12>
+<name "Forzelotte" "!XA0139">
+"Well, perhaps so."
+#
+<sprite "ta02a000.agf" 2 4 12>
+<name "Macdo" "!ZA0339">
+"Thank you for understanding.
+ Is that all you had to say?"
+#
+<sprite "ta10a002.agf" 6 5 12>
+<name "Forzelotte" "!XA0140">
+"No, I'm not finished."
+#
+<sprite "ta10a010.agf" 6 5 12>
+<name "Forzelotte" "!XA0141">
+"Let us say that you remain doubtful of my
+ husband and find him unworthy to be Overlord,
+ then what?"
+#
+<sprite "ta02a001.agf" 2 4 12>
+<name "Macdo" "!ZA0340">
+"I believe he would be stripped of his 
+ position."
+#
+<sprite "ta10a001.agf" 6 5 12>
+<name "Forzelotte" "!XA0142">
+"Hmm."
+#
+<sprite "ta10a002.agf" 6 5 12>
+<name "Forzelotte" "!XA0143">
+"And who would be the next Overlord?"
+#
+<sprite "ta02a014.agf" 2 4 12>
+<name "Macdo" "!ZA0341">
+"If it came to that...
+ We also don't wish to make things worse.
+ I would hope that you, the former Overlord,
+ would accept the position."
+#
+<sprite "ta10a001.agf" 6 5 12>
+<name "Forzelotte" "!XA0144">
+"That will not be happening."
+#
+<sprite "ta02a001.agf" 2 4 12>
+<name "Macdo" "!ZA0342">
+"Really?
+ Given the situation, should he fail, I 
+ believe that's a proposal that will cause
+ the least disruption."
+#
+<sprite "ta10a005.agf" 6 5 12>
+<name "Forzelotte" "!XA0145">
+"Oh, it's simple."
+#
+<sprite "ta10a006.agf" 6 5 12>
+<name "Forzelotte" "!XA0155">
+"If you have determined that he is incapable
+ of being Overlord, then it is ridiculous
+ that I, someone lesser than him, should be."
+#
+<sprite "ta10a005.agf" 6 5 12>
+<name "Forzelotte" "!XA0147">
+"I am inexperienced in politics.
+ I left the fighting to my minions.
+ I just sat on the throne and did nothing."
+#
+<sprite "ta02a016.agf" 2 4 12>
+<name "Macdo" "!ZA0343">
+"B-But..."
+#
+<sprite "ta10a006.agf" 6 5 12>
+<name "Forzelotte" "!XA0148">
+"He is prepared to go to war against the
+ Netherworld should it come to that.
+ I will try to stop him, but if his mind is
+ made up, there is nothing I can do."
+#
+<sprite "ta10a028.agf" 6 5 12>
+<name "Forzelotte" "!XA0149">
+"Well, it is not a bad fate to die at your
+ husband's side."
+#
+<sprite "ta10a025.agf" 6 5 12>
+<name "Forzelotte" "!XA0150">
+"I am sure there will be plenty we take with
+ us."
+#
+<sprite "ta02a012.agf" 2 4 12>
+<name "Macdo" "!ZA0344">
+"..."
+#
+<sprite "ta10a024.agf" 6 5 12>
+<name "Forzelotte" "!XA0151">
+"Heheheheh...
+ I suppose there's no point planning for the
+ far future. If you acknowledge his skills,
+ there's nothing more to discuss."
+#
+<sprite "ta10a005.agf" 6 5 12>
+<name "Forzelotte" "!XA0152">
+"And I believe that you will do so."
+#
+<sprite "ta10a006.agf" 6 5 12>
+<name "Forzelotte" "!XA0153">
+"I am not asking anybody from the company to
+ lie or cheat, only to be fair in your
+ assessment."
+#
+<sprite "ta02a028.agf" 2 4 12>
+<name "Macdo" "!ZA0345">
+"...F-Fine."
+#
+<sprite "ta10a005.agf" 6 5 12>
+<name "Forzelotte" "!XA0154">
+"I have taken enough of your time.
+ Excuse me."
+#
+<sprite "ta02a000.agf" 2 4 12>
+<name "Macdo" "!ZA0346">
+"N-No, it was an honor to speak with you."
+#
+<removesprite -1 11>
+...
+#
+<sprite "ta08a003.agf" 4 4 11>
+<name "Rakia" "!ZC0239">
+"Are you finished?"
+#
+<removesprite -1 11>
+<sprite "ta08a003.agf" 2 4 11>
+<sprite "ta02a000.agf" 6 5 11>
+<name "Macdo" "!ZA0347">
+"Mmhmm.
+ Basically, she told me to be fair."
+#
+<sprite "ta08a004.agf" 2 4 12>
+<name "Rakia" "!ZC0240">
+"And I believe she made the point that he is
+ superior to herself?
+ She has become quite the wife."
+#
+<sprite "ta02a016.agf" 6 5 12>
+<name "Macdo" "!ZA0348">
+"...I cannot believe someone like her would
+ marry him."
+#
+<sprite "ta08a023.agf" 2 4 12>
+<name "Rakia" "!ZC0241">
+"It was quite the turn of fate."
+#
+<sprite "ta02a017.agf" 6 5 12>
+<name "Macdo" "!ZA0349">
+"I haven't been terrified like that for a
+ very long time.
+ And that's not even her main body..."
+#
+<removesprite -1 11>
+<exit>
+:F10C
+<music 11>
+<background "bg008a0.agf" 10>
+<sprite "ta05a015.agf" 4 4 11>
+<name "Kyuriha" "!FA0425">
+"Hmmm...
+ It is indeed strange."
+#
+<sprite "ta05a016.agf" 4 4 12>
+<name "Kyuriha" "!FA0426">
+"Celestials and demons living side by side."
+#
+<sprite "ta05a015.agf" 4 4 12>
+<name "Kyuriha" "!FA0427">
+"But..."
+#
+<sprite "ta05a017.agf" 4 4 12>
+<name "Kyuriha" "!FA0428">
+"The food is delicious."
+#
+<sprite "ta05a018.agf" 4 4 12>
+<name "Kyuriha" "!FA0429">
+"Impressively delicious."
+#
+<sprite "ta05a019.agf" 4 4 12>
+<name "Kyuriha" "!FA0430">
+"..."
+#
+<sprite "ta05a017.agf" 4 4 12>
+<name "Kyuriha" "!FA0431">
+"I absolutely must bring this recipe back to
+ Celestia."
+#
+<removesprite -1 11>
+<exit>
+:F442
+<music 14>
+<background "ev028a01.agf" 10>
+<name "Darx">
+"Everything going well with you?"
+#
+<name "Kyuriha" "!FA0432">
+"Yes.
+ I am being well taken care of.
+ I have no complaints."
+#
+<name "Darx">
+"That's good to hear.
+ If you think of anything, don't hesitate to
+ speak up."
+#
+<name "Kyuriha" "!FA0433">
+"I see.
+ Then I will tell you when I'm done."
+#
+<name "Darx">
+"Hm?
+ Wouldn't it be okay to do it right away?"
+#
+<name "Kyuriha" "!FA0434">
+"My job here is to inspect this place."
+#
+<name "Kyuriha" "!FA0435">
+"If I told you and you were to address it...
+ I might never be able to leave."
+#
+<name "Darx">
+"Hahaha...
+ Well, we'll have to do our best to make sure
+ you can never go home."
+#
+<name "Kyuriha" "!FA0436">
+"If you did that, then I would be too busy to
+ be able to do anything."
+#
+<name "Darx">
+"Hahahaha..."
+#
+I chat idly with Kyuriha.
+#
+This is work too.
+#
+I'm not slacking off.
+#
+<exit>
+:F7A4
+<music 14>
+<background "ev028a00.agf" 10>
+<name "Kyuriha" "!FA0437">
+"Celestia is not all of one mind."
+#
+<name "Kyuriha" "!FA0438">
+"There are still many who bear strong hatred
+ for the Netherword."
+#
+<name "Kyuriha" "!FA0439">
+"But there are a few who have a more 
+ charitable opinion."
+#
+<name "Kyuriha" "!FA0440">
+"We were all one in the far past, after all."
+#
+<name "Darx">
+"And what do you think of the Netherworld?"
+#
+<name "Kyuriha" "!FA0441">
+"Me? Heheh...
+ If I hated you, I wouldn't have accepted an
+ assignment to inspect this place."
+#
+<name "Darx">
+"Fair point."
+#
+<name "Kyuriha" "!FA0442">
+"However, there are those whose antipathy of
+ the Netherworld is such that they resent my
+ presence here.
+ Please be careful."
+#
+<name "Darx">
+"Thanks for the warning."
+#
+<exit>
+:FAA6
+<music 11>
+<background "bg008a0.agf" 10>
+<sprite "ta05a003.agf" 4 4 11>
+<name "Kyuriha" "!FA0443">
+"You must be Marialis."
+#
+<removesprite -1 11>
+<sprite "ta05a003.agf" 2 5 11>
+<sprite "ta15a013.agf" 6 4 11>
+<name "Marialis" "!LA0061">
+"Y-Yes."
+#
+<sprite "ta05a004.agf" 2 5 12>
+<name "Kyuriha" "!FA0444">
+"Please don't be nervous.
+ I am not here to punish you in any way."
+#
+<sprite "ta05a015.agf" 2 5 12>
+<name "Kyuriha" "!FA0449">
+"Indeed, I would be lying to say that I had
+ no opinion of your actions..."
+#
+<sprite "ta05a004.agf" 2 5 12>
+<name "Kyuriha" "!FA0446">
+"But even if I ordered you to return, to be
+ honest, you would not be able to do so, and
+ there would be no place in Celestia for you
+ if you did."
+#
+<sprite "ta05a017.agf" 2 5 12>
+<name "Kyuriha" "!FA0447">
+"In which case, it is better for all of us for
+ you to be the bridge between Celestia and
+ the Netherworld."
+#
+<sprite "ta15a016.agf" 6 4 12>
+<name "Marialis" "!LA0062">
+"Kyuriha."
+#
+<sprite "ta05a003.agf" 2 5 12>
+<name "Kyuriha" "!FA0448">
+"I would like to speak with you though."
+#
+<sprite "ta15a005.agf" 6 4 12>
+<name "Marialis" "!LA0063">
+"Yes, if you'll grant me the honor."
+#
+<removesprite -1 11>
+<exit>
+:FFBB
+<music 3>
+<background "bg010a0.agf" 10>
+<sprite "ta14a006.agf" 4 4 11>
+<name "Paniverna" "!DA0066">
+"Overlord, let's go p..."
+#
+<removesprite -1 11>
+<sprite "ta05a017.agf" 2 4 11>
+<sprite "ta14a006.agf" 6 5 11>
+<name "Kyuriha" "!FA0450">
+"Oh, Paniverna."
+#
+<sprite "ta14a000.agf" 6 5 12>
+<name "Paniverna" "!DA0067">
+"...I didn't know you had a visitor.
+ Pardon me.
+ I'll come back later."
+#
+<sprite "ta05a003.agf" 2 4 12>
+<name "Kyuriha" "!FA0451">
+"There's no need to run away."
+#
+<sprite "ta14a020.agf" 6 5 12>
+<name "Paniverna" "!DA0068">
+"I'm not running.
+ Excuse me.
+ I'm not running!"
+#
+<sprite "ta05a004.agf" 2 4 12>
+<name "Kyuriha" "!FA0452">
+"Indeed.
+ You aren't running."
+#
+<sprite "ta05a003.agf" 2 4 12>
+<name "Kyuriha" "!FA0453">
+"Oh, this is perfect.
+ I would like to hear from you about living
+ here.
+ May we speak about that?"
+#
+<sprite "ta14a018.agf" 6 5 12>
+<name "Paniverna" "!DA0069">
+"...Yes.
+ Whatever you want."
+#
+<sprite "ta05a004.agf" 2 4 12>
+<name "Kyuriha" "!FA0454">
+"Heheh.
+ Not right now.
+ I'm speaking with Darx, after all."
+#
+<sprite "ta05a003.agf" 2 4 12>
+<name "Kyuriha" "!FA0455">
+"I'll be with you after we finish."
+#
+<name "Kyuriha" "!FA0456">
+"Wait for me downstairs."
+#
+<sprite "ta14a019.agf" 6 5 12>
+<name "Paniverna" "!DA0070">
+"Downstairs? 
+ The first floor?
+ That's where everybody else is."
+#
+<sprite "ta05a017.agf" 2 4 12>
+<name "Kyuriha" "!FA0457">
+"Is there anywhere else below this?"
+#
+<sprite "ta14a018.agf" 6 5 12>
+<name "Paniverna" "!DA0071">
+"No, there's not!"
+#
+<sprite "ta05a003.agf" 2 4 12>
+<name "Kyuriha" "!FA0458">
+"Then, oh, yes, I almost forgot."
+#
+<sprite "ta14a019.agf" 6 5 12>
+<name "Paniverna" "!DA0072">
+"W-What now?"
+#
+<sprite "ta05a017.agf" 2 4 12>
+<name "Kyuriha" "!FA0459">
+"I would like to see Izana and Ultinia as
+ well."
+#
+<sprite "ta14a020.agf" 6 5 12>
+<name "Paniverna" "!DA0073">
+"...Huh?"
+#
+<sprite "ta05a019.agf" 2 4 12>
+<name "Kyuriha" "!FA0460">
+"You're excused."
+#
+<removesprite -1 11>
+<sprite "ta14a016.agf" 4 4 11>
+<name "Paniverna" "!DA0074">
+"F-Fine.
+ And Overlord, please.
+ Take as much time as you can."
+#
+<removesprite -1 11>
+<name "Darx">
+"Uh..."
+#
+She races out of the room before I can say
+anything.
+#
+<name "Darx">
+"I guess it's not strange that she would know
+ about you since she used to be from
+ Celestia."
+#
+<sprite "ta05a003.agf" 4 4 11>
+<name "Kyuriha" "!FA0461">
+"There are schools there too, and we were
+ acquainted with each other in ours."
+#
+<sprite "ta05a017.agf" 4 4 12>
+<name "Kyuriha" "!FA0462">
+"Haha...
+ She was always getting into trouble."
+#
+<name "Darx">
+"I see.
+ Oh, I'd love to hear that story."
+#
+<removesprite -1 11>
+Paniverna did tell me to stall her, but I am
+genuinely curious too.
+#
+<sprite "ta05a004.agf" 4 4 11>
+<name "Kyuriha" "!FA0463">
+"Very well, but you will have to promise me
+ one thing."
+#
+<name "Darx">
+"Hm?"
+#
+<sprite "ta05a017.agf" 4 4 12>
+<name "Kyuriha" "!FA0464">
+"Do not ask her about how I was during my
+ student years."
+#
+<name "Darx">
+"Hahaha..."
+#
+<removesprite -1 11>
+...From the look of terror on Paniverna's
+face, I can imagine a few ordeals.
+#
+<exit>
+:10D8E
+<music 3>
+<background "bg010a0.agf" 10>
+<name "Ultinia" "!EA0076" "ka29a000.agf">
+"Kyuriha is our predecessor."
+#
+<name "Izana" "!AA0031" "ka28a000.agf">
+"If you were to think of us as the problem
+ children of our age..."
+#
+<name "Paniverna" "!DA0075" "ka14a000.agf">
+"Kyuriha, Suisen, and Miartei were the 
+ problem children of her age."
+#
+<name "Darx">
+"I see."
+#
+<name "Ultinia" "!EA0077" "ka29a000.agf">
+"However, as proud as we are of our own
+ exploits, we are nothing compared to them."
+#
+<name "Izana" "!AA0032" "ka28a000.agf">
+"They're of the legendary level."
+#
+<name "Paniverna" "!DA0076" "ka14a000.agf">
+"We got up to some terrible, terrible things,
+ but it's child's play compared to what they
+ pulled."
+#
+<name "Darx">
+"Oh? Like what kind of terrible things?"
+#
+<name "Ultinia" "!EA0078" "ka29a000.agf">
+"You're familiar with the Nine Lineages of
+ Celestia?"
+#
+<name "Darx">
+"Yeah, they're like the people who rule
+ Celestia."
+#
+<name "Ultinia" "!EA0079" "ka29a000.agf">
+"They snuck into the home of one of the ones
+ related to the royal family of one of them,
+ the Holy Light, and stole some treasures."
+#
+<name "Ultinia" "!EA0080" "ka29a000.agf">
+"They sold them and went on a spree.
+ The family rushed to recover the treasures 
+ and were able to recover some, but it was too
+ late, and some remain lost to this day."
+#
+<name "Darx">
+"Oh?"
+#
+<name "Ultinia" "!EA0081" "ka29a000.agf">
+"It involved the royal family and was a huge
+ disaster with countless shockwaves." 
+#
+<name "Paniverna" "!DA0077" "ka14a000.agf">
+"Miartei's father was high ranking in the
+ Holy Light, and collapsed from the stress."
+#
+<name "Darx">
+"So they were pretty mischievous kids."
+#
+She seems to have settled down a lot now
+though.
+#
+<name "Izana" "!AA0033" "ka28a000.agf">
+"By the way, one of the missing treasures was
+ the Dragon Slaying Blade."
+#
+<name "Paniverna" "!DA0078" "ka14a000.agf">
+"Oh, you mean that one they said they just
+ dropped and lost?"
+#
+<name "Ultinia" "!EA0082" "ka29a000.agf">
+"Because they said that, the Holy Light 
+ dispatched a veritable army to scour 
+ Celestia."
+#
+<name "Darx">
+"Let's put a pin in this.
+ I feel like it's getting dark."
+#
+<name "Paniverna" "!DA0079" "ka14a000.agf">
+"Y-Yeah."
+#
+<name "Izana" "!AA0034" "ka28a000.agf">
+"One more round then?"
+#
+<name "Ultinia" "!EA0083" "ka29a000.agf">
+"Please and thank you."
+#
+<name "Darx">
+"Yeah, yeah."
+#
+I go for three more rounds with the three of
+them.
+#
+<exit>
+:11759
+<music 14>
+<background "ev028a01.agf" 10>
+<name "Darx">
+"Kyuriha, I've talked with you about the 
+ dragons fighting angels and demons before, 
+ but can I ask if you know how much damage
+ they actually caused?"
+#
+<name "Kyuriha" "!FA0465">
+"How much damage?"
+#
+<name "Darx">
+"Yeah. I've fought a dragon before.
+ It was frighteningly strong."
+#
+<name "Darx">
+"But I also know how strong Celestials are.
+ To be blunt, I wouldn't think a dragon would
+ be able to do much against a real Celestial
+ or Netherworld force."
+#
+<name "Darx">
+"Wasn't the war between the two sides with
+ millions of soldiers?"
+#
+<name "Kyuriha" "!FA0466">
+"Yes, I believe there were constantly numerous
+ people fighting."
+#
+<name "Kyuriha" "!FA0514">
+"When you consider the entire history of the
+ conflict, the number of dead is horrifying."
+#
+<name "Darx">
+"But it was still going on until you had to
+ stop to deal with the dragons.
+ That's what I don't get."
+#
+<name "Kyuriha" "!FA0468">
+"Let's see..."
+#
+<name "Kyuriha" "!FA0469">
+"If you don't mind speculation, supposition,
+ and conjecture, I can share my own thoughts."
+#
+<name "Darx">
+"That's fine.
+ Please."
+#
+<name "Kyuriha" "!FA0470">
+"First, there's the number of dragons who
+ entered the conflict. Specifically, 492.
+ That's the total number of dragons in the
+ human world. 90 males, 392 females."
+#
+<name "Darx">
+"Surprisingly few."
+#
+<name "Kyuriha" "!FA0471">
+"Do you know how different a male dragon is
+ from a female?"
+#
+<name "Darx">
+"Yeah, the females are stronger."
+#
+<name "Kyuriha" "!FA0472">
+"That's correct. Currently, about two to fifty
+ time stronger, but at the time of the war,
+ they were usually approximately a hundred to
+ two hundred times stronger than a male."
+#
+<name "Darx">
+"...There was that much of a difference?"
+#
+<name "Kyuriha" "!FA0473">
+"Yes. So back then, the 90 males were about as
+ strong as a single female."
+#
+<name "Kyuriha" "!FA0474">
+"I have also heard that the males then were
+ much stronger than they are now."
+#
+<name "Darx">
+"...I-I see.
+ So the females back then compared to the
+ males now are more than a hundred to two
+ hundred times stronger."
+#
+<name "Darx">
+"That's beyond what I can comprehend."
+#
+<name "Kyuriha" "!FA0475">
+"It does seem impossible."
+#
+<name "Kyuriha" "!FA0476">
+"Oh, and there's a reason we know the numbers
+ so precisely."
+#
+<name "Kyuriha" "!FA0477">
+"Every battle with a dragon is one recorded
+ in history."
+#
+<name "Kyuriha" "!FA0478">
+"It took all the strength of the Eight
+ Lineages just to defeat one of them."
+#
+<name "Kyuriha" "!FA0479">
+"You are aware of the Eight Lineages?
+ It is a term used to describe the Nine 
+ Lineages of Celestia, besides the Holy 
+ Spirit, but also refers to Celestia's army."
+#
+<name "Kyuriha" "!FA0480">
+"The Eight Lineages were decimated in the war
+ with the dragons."
+#
+<name "Kyuriha" "!FA0481">
+"The Night, Earth, Sea, and Lightning were
+ particularly ruined, much more than the Flame
+ and Light who were fighting on the frontline
+ against the Netherworld."
+#
+<name "Kyuriha" "!FA0482">
+"The damage still remains. The Holy Night
+ consists only of its lord, and there are only
+ four people in the Holy Lightning, including
+ its lord."
+#
+<name "Kyuriha" "!FA0483">
+"The Holy Earth and Holy Sea have recovered
+ quite a bit, but they are still quite small
+ compared to the other lineages."
+#
+<name "Darx">
+"That's a lot of damage."
+#
+<name "Kyuriha" "!FA0484">
+"Yes."
+#
+<name "Kyuriha" "!FA0485">
+"The dragons also attacked the Netherworld."
+#
+<name "Kyuriha" "!FA0486">
+"From the beginning, the dragons entered the
+ war because the battleground was the human
+ world, though at the time, it was called the
+ dragon's world."
+#
+<name "Darx">
+"To drive them out?"
+#
+<name "Kyuriha" "!FA0487">
+"That's right."
+#
+<name "Kyuriha" "!FA0488">
+"In any case, Celestia took advantage of that
+ and negotiated a truce with the Netherworld.
+ Oh, officially, the Netherworld came to us.
+ If there's a test, please note that."
+#
+<name "Darx">
+"Some wire pulling that's not supposed to be
+ public knowledge?"
+#
+<name "Kyuriha" "!FA0489">
+"Don't worry about it."
+#
+<name "Kyuriha" "!FA0490">
+"Celestia and the Netherworld joined forces
+ to defeat the dragons."
+#
+<name "Kyuriha" "!FA0491">
+"To supplement their power, they taught humans
+ magic and gifted them powerful artifacts."
+#
+<name "Kyuriha" "!FA0492">
+"Along with the belief that dragons were evil,
+ rampaging through the human world."
+#
+<name "Darx">
+"...The dragons who were fighting to protect
+ the human world were then attacked by 
+ humans?"
+#
+<name "Kyuriha" "!FA0493">
+"Yes, that's what happened.
+ But while the dragons were trying to protect
+ the world, it isn't clear whether they cared
+ about protecting humans."
+#
+<name "Darx">
+"..."
+#
+<name "Kyuriha" "!FA0494">
+"I know it seems underhanded, but it was for
+ Celestia's survival.
+ The dragons were that powerful."
+#
+<name "Darx">
+"I see."
+#
+<name "Kyuriha" "!FA0495">
+"And so, Celestia, the Netherworld, and humans
+ successfully defeated the dragons."
+#
+<name "Kyuriha" "!FA0496">
+"The dragons were wiped out, leaving only 15
+ males. Limits were placed on those remaining,
+ and mixing their blood with other species
+ weakened them while preserving the race."
+#
+<name "Kyuriha" "!FA0497">
+"Celestia and the Netherworld were so
+ devastated by the war that a truce was 
+ called, which has been upheld to this day."
+#
+<name "Kyuriha" "!FA0498">
+"So, well, that's about the sum of it.
+ What do you think?"
+#
+<name "Darx">
+"I learned something new."
+#
+<name "Kyuriha" "!FA0499">
+"I see."
+#
+<name "Darx">
+"But why leave 15 males?
+ If you're going to go that far, why not wipe
+ out the whole race?"
+#
+<name "Kyuriha" "!FA0500">
+"It was a plea from the humans."
+#
+<name "Kyuriha" "!FA0515">
+"There were a few who did not succumb to the
+ lies about the dragons, and wished to help
+ them."
+#
+<name "Kyuriha" "!FA0502">
+"The God King and Great Lord Gaies were moved
+ by them and spared their lives."
+#
+<name "Kyuriha" "!FA0503">
+"Well, that's the pretense."
+#
+<name "Darx">
+"Huh?"
+#
+<name "Kyuriha" "!FA0504">
+"The truth is that during the battle with the
+ dragons, Celestia and the Netherworld were
+ taken aback by the strength of humans."
+#
+<name "Darx">
+"What do you mean?"
+#
+<name "Kyuriha" "!FA0505">
+"They may be individually fragile, but they
+ are formidable as a group, and sometimes,
+ something called a hero is born."
+#
+<name "Kyuriha" "!FA0506">
+"The many artifacts given to them by Celestia
+ and the Netherworld were also a cause for
+ concern."
+#
+<name "Kyuriha" "!FA0507">
+"At the time, both sides were completely
+ exhausted. There was no will nor capability
+ for a war with humans, if it one happened,
+ the truce would collapse."
+#
+<name "Kyuriha" "!FA0508">
+"So the thought was that the threat should
+ remain."
+#
+<name "Darx">
+"They left dragons alive to be the enemy of
+ humans, and taught them that angels and
+ demons were on their side."
+#
+<name "Kyuriha" "!FA0509">
+"That's right."
+#
+<name "Darx">
+"So why are you telling all this to me now?"
+#
+<name "Kyuriha" "!FA0510">
+"There's no problem with that.
+ It was a long time ago, and it is no
+ exaggeration to say that you are one with
+ the Netherworld now."
+#
+<name "Kyuriha" "!FA0516">
+"I'm sure that even if I hadn't told you,
+ someone from the company would have
+ eventually."
+#
+<name "Darx">
+"I see."
+#
+<name "Darx">
+"But when did I stop being a human?"
+#
+<name "Kyuriha" "!FA0512">
+"Oh? From how many children I've heard you
+ had, I thought you had given that up a long
+ time ago."
+#
+<name "Darx">
+"Mean."
+#
+<name "Kyuriha" "!FA0513">
+"Hahaha..."
+#
+<exit>
+:13167
+<music 3>
+<background "bg010a0.agf" 10>
+<name "Darx">
+"Speaking of female dragons, do you know about
+ Ryumis?"
+#
+<name "Darx">
+"I hear she's unusually strong..."
+#
+<sprite "ta05a016.agf" 4 4 11>
+<name "Kyuriha" "!FA0517">
+"N-N-N-N-Noooooo!!!!!!!"
+ Ryumis... Ryumis is coming!? Nooo! Mommy!
+ Mommy! Save me! Save me!"
+#
+<removesprite -1 11>
+<name "Darx">
+"U-Uh..."
+#
+<sprite "ta06a010.agf" 4 4 11>
+<name "Suisen" "!YA0280">
+"I'm sorry.
+ It's trauma from when she was little."
+#
+<name "Darx">
+"Trauma?"
+#
+<sprite "ta06a011.agf" 4 4 12>
+<name "Suisen" "!YA0281">
+"Did you ever hear a story about a female 
+ dragon who was on the verge of war with
+ both Celestia and the Netherworld?"
+#
+<name "Darx">
+"Oh, I think so."
+#
+<sprite "ta06a016.agf" 4 4 12>
+<name "Suisen" "!YA0282">
+"Kyuriha was there as a little girl, right
+ where it almost broke out."
+#
+<name "Suisen" "!YA0283">
+"So now this happens whenever she hears her
+ name."
+#
+<sprite "ta06a017.agf" 4 4 12>
+<name "Suisen" "!YA0284">
+"She should be in a higher position, but
+ because of this trauma..."
+#
+<name "Darx">
+"I-I'm sorry I so carelessly brought it up."
+#
+<removesprite -1 11>
+And that's how I learned second hand fear of
+Ryumis.
+#
+I can't believe Kyuriha is that terrified of
+her.
+#
+I wonder if she'd run straight home if she
+found out I picked a fight with Ryumis's
+husband.
+#
+I better not tell her.
+#
+\x0A\x44\x01\xEB\x84\x01
+<exit>
+:136DE
+<music 4>
+<background "bg009a0.agf" 10>
+<name "Drinking Demon" "!BC0038">
+"Anselm Company of Celestia."
+#
+<name "Drinking Demon" "!BC0039">
+"Gunguskar Company of the Netherworld."
+#
+<name "Drinking Demon" "!BC0040">
+"I'm not just saying it as a fan of the 
+ Netherworld, but Gunguskar is just easier to
+ say."
+#
+<name "Agreeing Demon" "!KB0086">
+"Yeah."
+#
+<sprite "ta06a000.agf" 4 4 11>
+<name "Suisen" "!YA0285">
+"..."
+#
+<removesprite -1 11>
+<sprite "ta05a010.agf" 2 4 11>
+<sprite "ta06a000.agf" 6 5 11>
+<name "Kyuriha" "!FA0518">
+"What's the matter?"
+#
+<sprite "ta06a001.agf" 6 5 12>
+<name "Suisen" "!YA0286">
+"I always hated that name too."
+#
+<sprite "ta06a000.agf" 6 5 12>
+<name "Suisen" "!YA0287">
+"Anselm.
+ The L is just awkward.
+ So what then?
+ Why not just get rid of it?"
+#
+<sprite "ta06a002.agf" 6 5 12>
+<name "Suisen" "!YA0288">
+"Ansem Company.
+ See? Much easier to say!"
+#
+<sprite "ta06a007.agf" 6 5 12>
+<name "Suisen" "!YA0289">
+"But my boss didn't agree with me!"
+#
+<sprite "ta06a005.agf" 6 5 12>
+<name "Suisen" "!YA0290">
+"Anselm is Anselm.
+ Hahaha."
+#
+<sprite "ta06a006.agf" 6 5 12>
+<name "Suisen" "!YA0291">
+"Do you have any idea how hard we have it
+ because of that!?"
+#
+<sprite "ta05a014.agf" 2 4 12>
+<name "Kyuriha" "!FA0519">
+"Suisen, I understand.
+ Please calm down."
+#
+<sprite "ta06a008.agf" 6 5 12>
+<name "Suisen" "!YA0292">
+"Gunguskar is long and weird, but it's easy
+ to remember!
+ It's not fair!"
+#
+<sprite "ta05a015.agf" 2 4 12>
+<name "Kyuriha" "!FA0520">
+"Yes, yes.
+ I understand.
+ Have some tea."
+#
+<removesprite -1 11>
+\x2B\x0A\x44\x02\x14\x84\x01
+<exit>
+:13DD1
+<music 4>
+<background "bg009a0.agf" 10>
+<name "Reception Maid" "!DC0163" "ka34g000.agf">
+"Thanks to Anselm's products, the immigrants
+ from Celestia are happy."
+#
+<name "Office Maid" "!PC0185" "ka34e000.agf">
+"In terms of quality, ours are still second
+ to none."
+#
+<name "Diplomatic Maid" "!AC0128" "ka34f000.agf">
+"It's hard to beat something you're familiar
+ with and are used to having."
+#
+<name "Reception Maid" "!DC0164" "ka34g000.agf">
+"Oohhh... You have a point.
+ There's soap that I used at my parents' home
+ that I still use here."
+#
+<name "Diplomatic Maid" "!AC0129" "ka34f000.agf">
+"That's what I mean.
+ I was actually hoping that they'd switch to
+ our products before Anselm arrived."
+#
+<name "Office Maid" "!PC0186" "ka34e000.agf">
+"The damage to the castle was too much for
+ the company."
+#
+<name "Reception Maid" "!DC0165" "ka34g000.agf">
+"Yeah."
+#
+<name "Diplomatic Maid" "!AC0130" "ka34f000.agf">
+"Well, no point crying about it now.
+ Defeat the Anselm Company!"
+#
+<name "Office Maid" "!PC0187" "ka34e000.agf">
+"Yeah!"
+#
+<name "Reception Maid" "!DC0166" "ka34g000.agf">
+"Let's do our best."
+#
+<exit>
+:14256
+<music 11>
+<background "bg008a0.agf" 10>
+<sprite "ta06a001.agf" 4 4 11>
+<name "Suisen" "!YA0297">
+"How are Anselm's sales?"
+#
+<name "Angel Soldier" "!TC0062">
+"Mostly good, but Gunguskar is still..."
+#
+<sprite "ta06a003.agf" 4 4 12>
+<name "Suisen" "!YA0298">
+"Heheh.
+ I've already got it well in hand."
+#
+<name "Angel Soldier" "!TC0063">
+"As I'd expect of you."
+#
+<name "Suisen" "!YA0299">
+"..."
+#
+<name "Angel Soldier" "!TC0064">
+"..."
+#
+<sprite "ta06a005.agf" 4 4 12>
+<name "Suisen" "!YA0300">
+"Thank you.
+ That made me feel a little better.
+ Here, your reward."
+#
+<name "Angel Soldier" "!TC0065">
+"It was nothing.
+ Call me again any time."
+#
+<removesprite -1 11>
+<sprite "ta05a014.agf" 4 4 11>
+<name "Kyuriha" "!FA0521">
+"...What was that?"
+#
+<removesprite -1 11>
+<sprite "ta05a014.agf" 2 4 11>
+<sprite "ta06a003.agf" 6 5 11>
+<name "Suisen" "!YA0301">
+"Just setting the mood because I'm lonely."
+#
+<sprite "ta05a015.agf" 2 4 12>
+<name "Kyuriha" "!FA0522">
+"...You can just ask me for help."
+#
+<sprite "ta06a004.agf" 6 5 12>
+<name "Suisen" "!YA0302">
+"Really?"
+#
+<sprite "ta05a017.agf" 2 4 12>
+<name "Kyuriha" "!FA0523">
+"Yes."
+#
+<sprite "ta06a005.agf" 6 5 12>
+<name "Suisen" "!YA0303">
+"Then here."
+#
+<sprite "ta05a010.agf" 2 4 12>
+<name "Kyuriha" "!FA0524">
+"What's this?"
+#
+<name "Suisen" "!YA0304">
+"Your script."
+#
+<sprite "ta05a009.agf" 2 4 12>
+<name "Kyuriha" "!FA0525">
+"Um..."
+#
+<removesprite -1 11>
+<sprite "ta06a004.agf" 4 4 11>
+<name "Suisen" "!YA0305">
+"I'm sorry about her.
+ Can you do a little more?"
+#
+<name "Angel Soldier" "!TC0066">
+"That's fine."
+#
+<sprite "ta06a003.agf" 4 4 12>
+<name "Suisen" "!YA0306">
+"Thank you.
+ Okay, here's your script.
+ Can you do it?"
+#
+<name "Angel Soldier" "!TC0067">
+"...What's the mood here?"
+#
+<sprite "ta06a004.agf" 4 4 12>
+<name "Suisen" "!YA0307">
+"A feeling of despair."
+#
+<name "Angel Soldier" "!TC0068">
+"All right.
+ So... just go with it."
+#
+<sprite "ta06a005.agf" 4 4 12>
+<name "Suisen" "!YA0308">
+"Yeah."
+#
+<sprite "ta06a003.agf" 4 4 12>
+<name "Suisen" "!YA0309">
+"Okay, let's begin!"
+#
+<removesprite -1 11>
+<sprite "ta05a016.agf" 4 4 11>
+<name "Kyuriha" "!FA0526">
+"Huh? Um... huh?"
+#
+<removesprite -1 11>
+<background "bg015a0.agf" 10>
+...
+#
+<music 3>
+<background "bg010a0.agf" 10>
+<name "Darx">
+"I hear you were in a play?"
+#
+<sprite "ta05a015.agf" 4 4 11>
+<name "Kyuriha" "!FA0527">
+"Yes, well..."
+#
+<removesprite -1 11>
+<sprite "ta05a015.agf" 2 4 11>
+<sprite "ta01a005.agf" 6 5 11>
+<name "Sofia" "!ZB0631">
+"People keep asking me over and over when
+ they're going to do it again."
+#
+<name "Kyuriha" "!FA0528">
+"Hahaha..."
+#
+<removesprite -1 11>
+\x2B\x0A\x44\x02\x15\x84\x01
+<exit>
+:14DE8
+<music 39>
+<background "bg002a0.agf" 10>
+<sprite "ta02a019.agf" 4 4 11>
+<name "Macdo" "!ZA0440">
+"The Anselm Company..."
+#
+<sprite "ta02a016.agf" 4 4 12>
+<name "Macdo" "!ZA0441">
+"They haven't done anything major yet."
+#
+<name "Macdo" "!ZA0442">
+"What are they up to?"
+#
+<removesprite -1 11>
+<exit>
+:14F26
+\x2B\xF5 "School"  1 
+<music 8>
+<background "bg012a0.agf" 10>
+<sprite "ta06a000.agf" 4 4 11>
+<name "Suisen" "!YA0089">
+"So this is the school...
+ There's an unusual amount of security."
+#
+<name "School Guard" "!GB0017" "ka65a000.agf">
+"Excuse me.
+ No outsiders allowed here.
+ Please leave."
+#
+<sprite "ta06a004.agf" 4 4 12>
+<name "Suisen" "!YA0090">
+"Pardon me. I'm here to sell some products.
+ Is there somewhere I can go to discuss that
+ with somebody?"
+#
+<name "School Guard" "!GB0018" "ka65a000.agf">
+"Oh, is that so? In that case, go to the
+ guardhouse next to the main gate.
+ I'm sorry. I know this is difficult."
+#
+<sprite "ta06a005.agf" 4 4 12>
+<name "Suisen" "!YA0091">
+"No, I wasn't paying attention."
+#
+<name "School Guard" "!GB0019" "ka65a000.agf">
+"I'll show you the way.
+ Follow me."
+#
+<sprite "ta06a003.agf" 4 4 12>
+<name "Suisen" "!YA0092">
+"Thank you."
+#
+<name "School Guard" "!GB0020" "ka65a000.agf">
+"...You mentioned you were selling things.
+ What were you here to sell?"
+#
+<sprite "ta06a004.agf" 4 4 12>
+<name "Suisen" "!YA0093">
+"I have a number of products that I'm sure
+ the students would enjoy.
+ Particularly candy and drinks from
+ Celestia."
+#
+<name "School Guard" "!GB0021" "ka65a000.agf">
+"Candy and drinks from Celestia?"
+#
+<sprite "ta06a003.agf" 4 4 12>
+<name "Suisen" "!YA0094">
+"Yes. Is that not allowed?"
+#
+<name "School Guard" "!GB0022" "ka65a000.agf">
+"No, as a student, I'd love it.
+ Good luck with that."
+#
+<sprite "ta06a005.agf" 4 4 12>
+<name "Suisen" "!YA0095">
+"Yeah."
+#
+<removesprite -1 11>
+<exit>
+:15614
+<music 40>
+<background "bg004a0.agf" 10>
+<sprite "ta02a012.agf" 4 4 11>
+<name "Macdo" "!ZA0304">
+"Rakia, I hear that candy and drinks from
+ Celestia are popular at the school."
+#
+<removesprite -1 11>
+<sprite "ta08a003.agf" 2 5 11>
+<sprite "ta02a012.agf" 6 4 11>
+<name "Rakia" "!ZC0205">
+"I have heard that as well.
+ We're currently selecting competing
+ products."
+#
+<sprite "ta02a020.agf" 6 4 12>
+<name "Macdo" "!ZA0305">
+"I don't need to make a profit.
+ But don't lose money either."
+#
+<sprite "ta08a004.agf" 2 5 12>
+<name "Rakia" "!ZC0206">
+"As you wish."
+#
+<removesprite -1 11>
+<music 11>
+<background "bg015a0.agf" 10>
+The candy wars.
+#
+The battle between Anselm and Gunguskar has
+just begun.
+#
+<music 8>
+<background "bg031a0.agf" 10>
+<name "Teacher" "!MB0001">
+"If I could just catch one of them eating in
+ class, I could shut down all the sales
+ immediately."
+#
+The teachers try to shut down the sales at
+every opportunity.
+#
+<name "Kozelotte" "!NA0003" "ka11a000.agf">
+"Eating and drinking outside of designated
+ times is strictly prohibited.
+ Those who violate the rules will be strictly
+ punished by the student council."
+#
+The students protect their candy with an
+iron hand.
+#
+<name "Student" "!GB0023" "ka60a000.agf">
+"Oh no, Gunguskar's making a push.
+ Support Anselm!"
+#
+Some try to play both sides and prolong the
+conflict.
+#
+<name "Strict Teacher" "!CB0001">
+"Miss Logius has betrayed us and gone over to
+ the pro-candy side!"
+#
+<name "Informed Student" "!LB0039" "ka61a000.agf">
+"They formed a diet corps?"
+#
+The battle rages on.
+#
+The city was unaffected.
+#
+<exit>
+:15C37
+<music 4>
+<background "bg009a0.agf" 10>
+<sprite "ta10a006.agf" 4 4 11>
+<name "Forzelotte" "!XA0013">
+"I would like a parfait and some drinks.
+ Bring it to my husband's room on the third
+ floor."
+#
+<removesprite -1 11>
+<sprite "ta34b000.agf" 4 4 11>
+<name "Company Maid" "!PC0063">
+"As you wish."
+#
+<removesprite -1 11>
+...
+#
+<sprite "ta06a015.agf" 4 4 11>
+<name "Suisen" "!YA0079">
+"So that's Forzelotte."
+#
+<sprite "ta06a014.agf" 4 4 12>
+<name "Suisen" "!YA0080">
+"But... not the real her."
+#
+<sprite "ta06a016.agf" 4 4 12>
+<name "Suisen" "!YA0081">
+"And yet, so much mana..."
+#
+<sprite "ta06a020.agf" 4 4 12>
+<name "Suisen" "!YA0082">
+"Incredible."
+#
+<removesprite -1 11>
+<exit>
+\x78

@@ -1,0 +1,42 @@
+﻿<music 17>
+<background "ev014a02.agf" 10>
+<name "Macdo" "!ZA0153">
+"Mm...mm...aah...ah...mmm..."
+#
+<background "ev014a03.agf" 10>
+<name "Macdo" "!ZA0154">
+"Aaaaahhhhh!"
+#
+After making sure she came, I start to come
+myself.
+#
+<background "ev014a04.agf" 10>
+<name "Macdo" "!ZA0155">
+"Ah...aah...ah..."
+#
+This relationship began to relieve her stress,
+and we've done it quite a bit since then.
+#
+<name "Macdo" "!ZA0156">
+"Ah..."
+#
+<name "Macdo" "!ZA0157">
+"D-Don't misunderstand."
+#
+<name "Macdo" "!ZA0158">
+"I'm just using you to relieve my stress."
+#
+<name "Darx">
+"Yeah, I know."
+#
+<name "Darx">
+"Like a reward for fulfilling your conditions,
+ right?"
+#
+<name "Macdo" "!ZA0159">
+"That's right."
+#
+<name "Darx">
+"Yeah, I don't mind that."
+#
+\x78\x78

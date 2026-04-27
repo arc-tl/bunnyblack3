@@ -1,0 +1,136 @@
+﻿<music 14>
+<background "ev028a01.agf" 10>
+<name "Darx">
+"That reminds me...
+ Are you friends with Suisen?
+ How long have you known each other?"
+#
+<name "Kyuriha" "!FA0203">
+"Let me see..."
+#
+<name "Kyuriha" "!FA0204">
+"We've pretty much been together since
+ childhood."
+#
+<music 8>
+<background "ev029a00.agf" 10>
+<name "Kyuriha" "!FA0205">
+"Let's go!"
+#
+<name "Suisen" "!YA0051">
+"But this is the wrong direction.
+ Are you sure?"
+#
+<name "Kyuriha" "!FA0206">
+"Don't worry about the little stuff!"
+#
+<name "Miartei" "!SA0168">
+"E-E-Eeehhh!? Kyuri! Why do I have to ride
+ this thing!?
+ Ah! I-I'm falling!"
+#
+<name "Suisen" "!YA0052">
+"Kyuriha said we're gonna go take out the
+ Black Diel."
+#
+<name "Miartei" "!SA0169">
+"T-The Black Diel? 
+ U-Um...
+ Isn't that scary as a dragon?"
+#
+<name "Kyuriha" "!FA0207">
+"Don't worry. Don't worry.
+ It'll work out."
+#
+<name "Miartei" "!SA0170">
+"How can you be so sure of that?"
+#
+<name "Suisen" "!YA0053">
+"You say that, but you're coming anyway.
+ I knew it."
+#
+<name "Miartei" "!SA0171">
+"Ah! Huh? S-Since wh...ah!
+ I'm falling! I'm falling!"
+#
+<name "Suisen" "!YA0054">
+"But what now?
+ This isn't where they said they saw...
+ There it is!"
+#
+<name "Kyuriha" "!FA0208">
+"After it!"
+#
+<name "Miartei" "!SA0172">
+"W-What are we doing?"
+#
+<name "Suisen" "!YA0055">
+"Kyuri?"
+#
+<name "Kyuriha" "!FA0209">
+"Of course, charge!"
+#
+<name "Miartei" "!SA0173">
+"Eeeehhh!?"
+#
+<name "Suisen" "!YA0056">
+"No helping it now.
+ Prepare yourself!"
+#
+<name "Miartei" "!SA0174">
+"Hey!
+ W-Why are we..."
+#
+<name "Kyuriha" "!FA0210">
+"Mia, right!
+ Sui, left!
+ I'm counting on you!"
+#
+<name "Miartei" "!SA0175">
+"O-Oooh..."
+#
+<name "Suisen" "!YA0057">
+"Just accept it, Mia.
+ Here we go."
+#
+<name "Miartei" "!SA0176">
+"Ah! Wait!
+ Waaaaaaiiitttt!"
+#
+<background "ev029b00.agf" 10>
+<music 14>
+<background "ev028a01.agf" 10>
+<name "Darx">
+"So, what was it like?"
+#
+<name "Kyuriha" "!FA0211">
+".........I was a weak child, and couldn't 
+ go out much."
+#
+<name "Darx">
+"Really?"
+#
+<name "Kyuriha" "!FA0212">
+"Yes. I was jealous of the other children who
+ were free outside."
+#
+<name "Darx">
+"Oh?
+ And you're okay now?"
+#
+<name "Kyuriha" "!FA0213">
+"Yes, that does appear to be the case.
+ So now I can go wherever I please."
+#
+<name "Darx">
+"I see."
+#
+<name "Kyuriha" "!FA0214">
+"Hahaha..."
+#
+...
+#
+<name "Kyuriha" "!FA0215">
+"I do have to protect my graceful image."
+#
+\x78\x78

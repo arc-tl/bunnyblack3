@@ -1,0 +1,173 @@
+﻿<music 40>
+<background "bg004a0.agf" 10>
+<name "Darx">
+"Why are bunny suits so sexy?"
+#
+<name "Golan" "!CA0066" "ka32a000.agf">
+"I think it's because of the image that rabbits
+ are weak."
+#
+<name "Tojo" "!KA0105" "ka33a000.agf">
+"No, no. You're naive, Golan."
+#
+<name "Tojo" "!KA0106" "ka33a000.agf">
+"It's probably the sexiness you get in a bunny
+ suit. I think it's the same kind you get with
+ a cat or tiger suit."
+#
+<name "Tojo" "!KA0107" "ka33a000.agf">
+"In other words, there's a sexy factor in 
+ common with all of them! What I care about is
+ the tights! Yes! The sexiness of a bunny suit
+ is the tights! The tights!"
+#
+<name "Golan" "!CA0067" "ka32a000.agf">
+"Nrrgh..."
+#
+<name "Darx">
+"Don't rush to conclusions, Tojo."
+#
+<name "Tojo" "!KA0108" "ka33a000.agf">
+"Then is there something else?"
+#
+<name "Darx">
+"Bunny suits aren't commonly worn."
+#
+<name "Darx">
+"Like a nurse or waitress outfit, they're a
+ job uniform!"
+#
+<name "Darx">
+"What's more, unlike a nurse or waitress, it's
+ one of many jobs that requires one to be a
+ woman!"
+#
+<name "Golan" "!CA0068" "ka32a000.agf">
+"T-That's true."
+#
+<name "Darx">
+"We derive the answer from that!
+ And it's...
+ Coercion!"
+#
+<name "Tojo" "!KA0109" "ka33a000.agf">
+"Coercion?"
+#
+<name "Example Guard" "!TC0187">
+"I really don't want to wear this, but I have
+ to because it's my job."
+#
+<name "Darx">
+"Like that!"
+#
+<name "Example Guard" "!TC0188">
+"N-No, this outfit...
+ I can't... 
+ I-I understand.
+ You'll go easy on me if I wear it, right?"
+#
+<name "Darx">
+"Like that!"
+#
+<name "Example Guard" "!TC0189">
+"Darksy, I'm going to take care of you in this
+ special outfit today, so cheer up!☆"
+#
+<name "Darx">
+"That!"
+#
+<name "Golan" "!CA0069" "ka32a000.agf">
+"So they're wearing it reluctantly."
+#
+<name "Darx">
+"Yes!
+ That's the appeal!
+ Their preference!
+ Almost no women wear bunny suits!"
+#
+<name "Darx">
+"They do it because someone told them to, or
+ for someone!"
+#
+<name "Darx">
+"That's the heart of what makes bunny suits
+ sexy!"
+#
+<name "Tojo" "!KA0110" "ka33a000.agf">
+"I-I see."
+#
+<name "Darx">
+"I can prove it, Golan."
+#
+<name "Golan" "!CA0070" "ka32a000.agf">
+"What?"
+#
+<name "Darx">
+"Take your scary wife.
+ Let's say she greets you wearing a bunny suit.
+ How about that?"
+#
+<name "Golan" "!CA0071" "ka32a000.agf">
+"S-Sexy.
+ And I could feel her love...
+ I definitely wouldn't be able to help but feel
+ like she put it on just for me."
+#
+<name "Darx">
+"Heheheh..."
+#
+<name "Darx">
+"How about that?"
+#
+<name "Golan" "!CA0072" "ka32a000.agf">
+"S-Splendid.
+ I concede."
+#
+<name "Darx">
+"Mmhmm.
+ As an aside, I totally agree with Tojo on the
+ sexiness of tights.
+ That's a good thing."
+#
+<name "Tojo" "!KA0111" "ka33a000.agf">
+"By the way, do you like to pull tights off?
+ Or are you the ripping type?
+ I like to pull them."
+#
+<name "Darx">
+"My heart is wide.
+ Both are great."
+#
+<name "Tojo" "!KA0112" "ka33a000.agf">
+"Ooh!"
+#
+<name "Golan" "!CA0073" "ka32a000.agf">
+"What an open mind."
+#
+<name "Darx">
+"So, in conclusion."
+#
+<name "Darx">
+"Bunny suits are sexy."
+#
+<name "Darx">
+"Because someone said to wear them, or they're
+ worn for someone.
+ That's the heart of it."
+#
+<name "Golan" "!CA0074" "ka32a000.agf">
+"I'll make a note of it."
+#
+<name "Darx">
+"Mmhmm."
+#
+<name "Darx">
+"Okay, next topic."
+#
+<name "Darx">
+"Why doesn't this game have any bunny suits?"
+#
+<name "Tojo" "!KA0113" "ka33a000.agf">
+"That's a big problem."
+#
+\x78\x78

@@ -1,0 +1,40 @@
+﻿<music 19>
+<background "ev044a03.agf" 10>
+"Mmm...mm..."
+#
+I finish coming with Forzelotte several times.
+#
+<name "Forzelotte" "!XA0103">
+"Ahh..."
+#
+<music 5>
+<background "bg011a0.agf" 10>
+<sprite "ta10a105.agf" 4 4 11>
+<name "Forzelotte" "!XA0104">
+"Mm.
+ That was quite the expression of love."
+#
+<name "Darx">
+"You too."
+#
+<sprite "ta10a120.agf" 4 4 12>
+<name "Forzelotte" "!XA0105">
+"Nngh..."
+#
+<name "Darx">
+"I wish I could go home and be with the real
+ you."
+#
+<sprite "ta10a124.agf" 4 4 12>
+<name "Forzelotte" "!XA0106">
+"The sentiment is enough."
+#
+<sprite "ta10a105.agf" 4 4 12>
+<name "Forzelotte" "!XA0107">
+"Work hard for me and my children."
+#
+<name "Darx">
+"Yeah, don't you worry."
+#
+<removesprite -1 11>
+\x2B\x78\x78

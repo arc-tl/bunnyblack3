@@ -1,0 +1,50 @@
+﻿<music 3>
+<background "bg010a0.agf" 10>
+<name "Nein" "!QA0001" "ka22a114.agf">
+"Aaaah!"
+#
+<name "Yahnu" "!NB0001" "ka24a115.agf">
+"Ahhhh!"
+#
+<name "Raffino" "!EB0065" "ka20a118.agf">
+"Aaaahhh!"
+#
+<sprite "ta21a003.agf" 4 4 11>
+<name "Ish" "!AB0046">
+"See?"
+#
+<removesprite -1 11>
+<name "Nein" "!QA0002" "ka22a109.agf">
+"W-Wow."
+#
+<name "Yahnu" "!NB0002" "ka24a115.agf">
+"Aah... I-I could get used to that."
+#
+<name "Raffino" "!EB0066" "ka20a118.agf">
+"I-It's not fair j-just you get it..."
+#
+<sprite "ta21a004.agf" 4 4 11>
+<name "Ish" "!AB0047">
+"Hahaha..."
+#
+<name "Darx">
+"..."
+#
+<removesprite -1 11>
+My other self achieved some level of
+notoriety.
+#
+<sprite "ta15a003.agf" 4 4 11>
+<name "Marialis" "!LA0056">
+"..."
+#
+<name "Marialis" "!LA0057">
+"........."
+#
+<name "Darx">
+"..."
+#
+<removesprite -1 11>
+I stuck the real thing in her.
+#
+\x78\x78

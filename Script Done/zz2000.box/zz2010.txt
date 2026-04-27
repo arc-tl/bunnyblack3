@@ -1,0 +1,228 @@
+﻿<music 11>
+<background "bg008a0.agf" 10>
+<name "Darx">
+"How about we put on a festival to stimulate
+ business?"
+#
+<sprite "ta34a000.agf" 4 4 11>
+<name "Company Maid" "!AC0288">
+"A festival?
+ That sounds nice.
+ How big will it be?"
+#
+<name "Darx">
+"I'd want an impressive one, but overdoing it
+ would be its own headache."
+#
+<name "Company Maid" "!AC0289">
+"Yeah."
+#
+<name "Darx">
+"Keep it in moderation, please."
+#
+<name "Company Maid" "!AC0290">
+"Leave it to me."
+#
+<removesprite -1 11>
+<music 13>
+<background "ev051a00.agf" 10>
+<name "Paniverna" "!DA0080">
+"Get excited!
+ It's time for the next song!"
+#
+<background "ev051a01.agf" 10>
+<name "Cheering Citizen" "!RB0172">
+"Yay!"
+#
+<name "Surprised Citizen" "!LB0181">
+"Oooh.
+ Amazing!"
+#
+<name "Aware Citizen" "!GB0258">
+"Oh, is that Paniverna?"
+#
+<name "Surprised Citizen" "!LB0182">
+"Looks like it.
+ Want to get a little closer?"
+#
+<name "Aware Citizen" "!GB0259">
+"Yeah, let's go!"
+#
+<name "Fan Citizen" "!MB0151">
+"I'm late!
+ I didn't expect Paniverna to be here!"
+#
+<name "Fan Citizen" "!MB0152">
+"And I can't believe she's doing a collab 
+ with Eko, Dah, and Elizabeth!"
+#
+<name "All-Out Citizen" "!CB0182">
+"Regret your lateness later!
+ You know what you have to do to make up for
+ it!"
+#
+<name "Prepared Citizen" "!KB0272">
+"Yeah!
+ Let's show them the power of our solidarity!"
+#
+<name "Commanding Citizen" "!BC0162">
+"We will protect the safety of the audience
+ and the staff with our iron wall!"
+#
+<name "Fan Citizen" "!MB0153">
+"Yeah!"
+#
+<name "Managing Maid" "!DC0454">
+"Um, more and more people are coming..."
+#
+<name "Supervising Maid" "!PC0526">
+"Call an intermission before we lose control."
+#
+<name "Managing Maid" "!DC0455">
+"Y-Yes, ma'am."
+#
+<name "Supervising Maid" "!PC0527">
+"We can't go up on stage, so we need to signal
+ whoever's going next..."
+#
+<name "Managing Maid" "!DC0456">
+"Um, I put up a sign saying to go to
+ intermission but they ignored it."
+#
+<name "Supervising Maid" "!PC0528">
+"Could they not see the sign?"
+#
+<name "Managing Maid" "!DC0457">
+"She was staring right at me with daggers in
+ her eyes, so I'm pretty sure she saw it."
+#
+<name "Supervising Maid" "!PC0529">
+".........Um..."
+#
+<name "Supervising Maid" "!PC0530">
+"Write 'Request from the Overlord' on it and
+ try again.
+ Oh, and put heart marks suggestively all
+ around it."
+#
+<name "Managing Maid" "!DC0458">
+"O-Okay."
+#
+<name "Paniverna" "!DA0081">
+"It's a little early, but next song's the last
+ for now!"
+#
+<name "Managing Maid" "!DC0459">
+"It worked perfectly."
+#
+<name "Supervising Maid" "!PC0531">
+"Good."
+#
+<name "Supervising Maid" "!PC0532">
+"We don't want things to get too heated up,
+ but we don't want the mood to die either.
+ We're just getting started."
+#
+<name "Managing Maid" "!DC0461">
+"Yes, ma'am!"
+#
+<music 11>
+<background "bg013a0.agf" 10>
+<sprite "ta34a002.agf" 4 4 11>
+<name "Company Maid" "!AC0291">
+"It was chaos."
+#
+<name "Darx">
+"Because you invited Paniverna.
+ She has a genuine fanclub when it comes to
+ singing and dancing.
+ I was surprised when I found out too."
+#
+<name "Company Maid" "!AC0292">
+"I didn't invite her."
+#
+<name "Darx">
+"Huh?"
+#
+<removesprite -1 11>
+<sprite "ta14a022.agf" 4 4 11>
+<name "Paniverna" "!DA0082">
+"I decided to participate on my own."
+#
+<name "Darx">
+"Pani."
+#
+<name "Darx">
+"Is it really okay for you to be here?"
+#
+Won't Macdo have something to say about that?
+#
+<sprite "ta14a005.agf" 4 4 12>
+<name "Paniverna" "!DA0083">
+"I was here on business for Rakia's shop, so
+ I can do what I want on my own.
+ If there's a problem, it's that I was
+ skipping out on my work."
+#
+<name "Darx">
+"I see."
+#
+<sprite "ta14a006.agf" 4 4 12>
+<name "Paniverna" "!DA0084">
+"Since I'm here on business anyway, it's 
+ better to make things exciting."
+#
+<name "Darx">
+"Yeah.
+ You got that right."
+#
+<sprite "ta14a005.agf" 4 4 12>
+<name "Paniverna" "!DA0085">
+"Yep.
+ So I expect a lot of excitement tonight for
+ me..."
+#
+<name "Darx">
+"By that logic, doesn't that mean excitement
+ for all the others who we with you on stage?"
+#
+There's quite a few names on that list I 
+recognize.
+#
+<sprite "ta14a006.agf" 4 4 12>
+<name "Paniverna" "!DA0086">
+"Don't sweat the details."
+#
+<removesprite -1 11>
+<sprite "ta34a000.agf" 4 4 11>
+<name "Managing Maid" "!PC0534">
+"Miss Paniverna, excuse me, but we need to
+ speak about going back on stage..."
+#
+<removesprite -1 11>
+<sprite "ta14a006.agf" 4 4 11>
+<name "Paniverna" "!DA0087">
+"I'll be right there."
+#
+<sprite "ta14a005.agf" 4 4 12>
+<name "Paniverna" "!DA0088">
+"Well, then, Overlord.
+ I hope you enjoy my performance."
+#
+<name "Darx">
+"Yeah."
+#
+<removesprite -1 11>
+<background "bg015a0.agf" 10>
+The festival was lively.
+#
+<music 17>
+<background "bg016a0.agf" 10>
+And my bed that night was lively as well.
+#
+<name "Paniverna" "!DA0089" "ka14a105.agf">
+"No matter what anybody says, I love my
+ Overlord who takes complete care of me."
+#
+<removesprite -1 11>
+\x2B\x78\x78

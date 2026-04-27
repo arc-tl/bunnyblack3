@@ -1,0 +1,139 @@
+﻿<music 10>
+<background "bg014a1.agf" 10>
+<name "Defending Demon" "!RB5024">
+"This puzzle is really hard."
+#
+<name "Guard Demon" "!LB5020">
+"What puzzle?"
+#
+<name "Defending Demon" "!RB5025">
+"This one.
+ If I could just solve it, I could move on..."
+#
+<name "Guard Demon" "!LB5021">
+"Hmmmm.
+ That's pretty complicated.
+ Wait, why are you doing this while you're on
+ duty?"
+#
+<name "Defending Demon" "!RB5026">
+"I'm bored.
+ No intruders ever come somewhere like this."
+#
+<name "Guard Demon" "!LB5022">
+"...Well, that's true."
+#
+<name "Defending Demon" "!RB5027">
+"So, this puzzle...
+ Do you get it?"
+#
+<name "Guard Demon" "!LB5023">
+"How should I know?
+ I mean, it's a puzzle to drive off 
+ intruders."
+#
+<name "Guard Demon" "!LB5024">
+"Or rather...
+ I think the problem here is that you've 
+ already unlocked two of the seven parts of
+ the puzzle."
+#
+<name "Defending Demon" "!RB5028">
+"I'll reset them later."
+#
+<name "Guard Demon" "!LB5025">
+"Geez..."
+#
+<name "Defending Demon" "!RB5029">
+"Still... this is tough.
+ Maybe the ball here is a hint."
+#
+<name "Guard Demon" "!LB5026">
+"If you're worried about the answer, why don't
+ you ask dungeon master?"
+#
+<name "Defending Demon" "!RB5030">
+"Hmm...
+ Is that the only way?"
+#
+<name "Adventurer" "!KB5019">
+"Hold it right there!"
+#
+<name "Defending Demon" "!RB5031">
+"W-Who's there?"
+#
+<name "Adventurer" "!KB5020">
+"I am the rival of Whitney the Baker!
+ Heiselman the Dumpling Maker!"
+#
+<name "Guard Demon" "!LB5027">
+"...I-Intruder!"
+#
+<name "Defending Demon" "!RB5032">
+"R-Ring the alarm!
+ Call reinforcements!"
+#
+<name "Heiselman" "!KB5021">
+"Wait!
+ Hold on!
+ I have no intention of attacking you!"
+#
+<name "Defending Demon" "!RB5033">
+"Huh?"
+#
+<name "Heiselman" "!KB5022">
+"If I did, I would have cut you down without
+ calling out to you."
+#
+<name "Defending Demon" "!RB5034">
+"That's true..."
+#
+<name "Heiselman" "!KB5023">
+"My adventurer style is to avoid combat as
+ much as possible and to sneakily steal the
+ treasures of a dungeon, all on my own!"
+#
+<name "Heiselman" "!KB5025">
+"I appeared before you!
+ Do you know why!?"
+#
+<name "Guard Demon" "!LB5028">
+"U-Um..."
+#
+<name "Defending Demon" "!RB5035">
+"You mean, to solve this puzzle?"
+#
+<name "Heiselman" "!KB5026">
+"Yes!"
+#
+<name "Heiselman" "!KB5027">
+"Whitney the Baker is my rival.
+ An unsolvable puzzle is a challenge to me!
+ I must face this challenge!"
+#
+<name "Defending Demon" "!RB5036">
+"T-Then, do you want to try to solve it?
+ It seems impossible for us."
+#
+<name "Heiselman" "!KB5028">
+"Let me at it!"
+#
+<name "Guard Demon" "!LB5029">
+"I-Is this okay?"
+#
+...
+#
+<music 11>
+<background "bg008a0.agf" 10>
+<sprite "ta01a010.agf" 4 4 11>
+<name "Sofia" "!ZB5025">
+"It was absolutely not okay."
+#
+<removesprite -1 11>
+<name "Guard Demon" "!LB5030">
+"I thought so."
+#
+<name "Defending Demon" "!RB5037">
+"But I feel so refreshed with it solved!"
+#
+\x78\x78
