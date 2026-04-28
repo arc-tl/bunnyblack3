@@ -21,3 +21,5 @@ ALL TARGETING MAY BE BUGGED
 TEST GUEST CHARACTER UNLOCKS (supposed to unlock with BB1/BB2 installed OR NG+)
 
 Create table with unlocks and invisible character passives?
+
+Making a change here to test something.
